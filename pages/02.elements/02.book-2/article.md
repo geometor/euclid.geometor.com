@@ -1,5 +1,5 @@
 ---
-title:  Book xi
+title:  Book 2
 subtitle: 
 author:
 routes:

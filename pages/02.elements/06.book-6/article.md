@@ -1,10 +1,10 @@
 ---
-title:  Book vii
+title:  Book 6
 subtitle: 
 author:
 routes:
   aliases:
-    - /
+    - /elem.6
 collection:
   name: elements
   showCount: true

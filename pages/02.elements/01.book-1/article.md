@@ -1,5 +1,5 @@
 ---
-title:  Book i
+title:  Book 1
 subtitle: 
 author:
 routes:
