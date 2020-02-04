@@ -1,17 +1,10 @@
 ---
 title:  18
-subtitle: 
+subtitle: Semicircle
 author:
 routes:
   aliases:
     - /elem.1.def.18
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - circles
 ---
 
-<p>A <term>semicircle</term> is the figure contained by the diameter and the circumference cut off by it. And the centre of the semicircle is the same as that of the circle.</p>
+A <term>semicircle</term> is the figure contained by the diameter and the circumference cut off by it. And the centre of the semicircle is the same as that of the circle.
 
 ===
-
-<h1>18</h1>
-<p>A <term>semicircle</term> is the figure contained by the diameter and the circumference cut off by it. And the centre of the semicircle is the same as that of the circle.</p>

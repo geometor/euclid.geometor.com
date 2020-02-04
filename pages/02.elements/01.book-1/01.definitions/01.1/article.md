@@ -1,17 +1,10 @@
 ---
 title:  1
-subtitle: 
+subtitle: Point
 author:
 routes:
   aliases:
     - /elem.1.def.1
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,10 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - points
 ---
 
-<p>A <term>point</term> is that which has no part.</p>
+A <term>point</term> is that which has no part.
 
 ===
 
-<h1>1</h1>
-<p>A <term>point</term> is that which has no part.</p>

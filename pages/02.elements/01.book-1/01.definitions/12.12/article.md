@@ -1,17 +1,10 @@
 ---
 title:  12
-subtitle: 
+subtitle: Acute Angle
 author:
 routes:
   aliases:
     - /elem.1.def.12
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - angles
 ---
 
-<p>An <term>acute angle</term> is an angle less than a right angle.</p>
+An <term>acute angle</term> is an angle less than a right angle.
 
 ===
-
-<h1>12</h1>
-<p>An <term>acute angle</term> is an angle less than a right angle.</p>

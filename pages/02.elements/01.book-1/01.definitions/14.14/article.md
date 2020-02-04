@@ -1,17 +1,10 @@
 ---
 title:  14
-subtitle: 
+subtitle: Figure
 author:
 routes:
   aliases:
     - /elem.1.def.14
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - figures
 ---
 
-<p>A <term>figure</term> is that which is contained by any boundary or boundaries.</p>
+A <term>figure</term> is that which is contained by any boundary or boundaries.
 
 ===
-
-<h1>14</h1>
-<p>A <term>figure</term> is that which is contained by any boundary or boundaries.</p>

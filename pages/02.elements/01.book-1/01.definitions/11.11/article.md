@@ -1,17 +1,10 @@
 ---
 title:  11
-subtitle: 
+subtitle: Obtuse Angle
 author:
 routes:
   aliases:
     - /elem.1.def.11
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - angles
 ---
 
-<p>An <term>obtuse angle</term> is an angle greater than a right angle.</p>
+An <term>obtuse angle</term> is an angle greater than a right angle.
 
 ===
-
-<h1>11</h1>
-<p>An <term>obtuse angle</term> is an angle greater than a right angle.</p>

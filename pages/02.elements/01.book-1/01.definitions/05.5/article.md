@@ -1,17 +1,10 @@
 ---
 title:  5
-subtitle: 
+subtitle: Surface
 author:
 routes:
   aliases:
     - /elem.1.def.5
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - planes
 ---
 
-<p>A <term>surface</term> is that which has length and breadth only.</p>
+A <term>surface</term> is that which has length and breadth only.
 
 ===
-
-<h1>5</h1>
-<p>A <term>surface</term> is that which has length and breadth only.</p>

@@ -1,17 +1,10 @@
 ---
 title:  2
-subtitle: 
+subtitle: Line
 author:
 routes:
   aliases:
     - /elem.1.def.2
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - lines
 ---
 
-<p>A <term>line</term> is breadthless length.</p>
+A <term>line</term> is breadthless length.
 
 ===
-
-<h1>2</h1>
-<p>A <term>line</term> is breadthless length.</p>

@@ -1,17 +1,10 @@
 ---
 title:  3
-subtitle: 
+subtitle: Extremities
 author:
 routes:
   aliases:
     - /elem.1.def.3
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -19,13 +12,9 @@ figure:
   caption:
 taxonomy:
   tag:
-  category:
-    - 
+  category: [ lines, points ]
 ---
 
-<p>The extremities of a line are points.</p>
+The <term>extremities of a line</term> are points.
 
 ===
-
-<h1>3</h1>
-<p>The extremities of a line are points.</p>

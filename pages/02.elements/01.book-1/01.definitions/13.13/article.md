@@ -1,17 +1,10 @@
 ---
 title:  13
-subtitle: 
+subtitle: Boundary
 author:
 routes:
   aliases:
     - /elem.1.def.13
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - boundaries
 ---
 
-<p>A <term>boundary</term> is that which is an extremity of anything.</p>
+A <term>boundary</term> is that which is an extremity of anything.
 
 ===
-
-<h1>13</h1>
-<p>A <term>boundary</term> is that which is an extremity of anything.</p>

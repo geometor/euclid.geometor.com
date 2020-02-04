@@ -1,17 +1,10 @@
 ---
 title:  4
-subtitle: 
+subtitle: Right Angles are Equal
 author:
 routes:
   aliases:
     - /elem.1.post.4
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - angles
 ---
 
-<p>That all right angles are equal to one another.</p>
+That all right angles are equal to one another.
 
 ===
-
-<h1>4</h1>
-<p>That all right angles are equal to one another.</p>

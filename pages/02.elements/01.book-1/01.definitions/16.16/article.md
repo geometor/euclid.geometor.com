@@ -1,17 +1,10 @@
 ---
 title:  16
-subtitle: 
+subtitle: Center
 author:
 routes:
   aliases:
     - /elem.1.def.16
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - circles
 ---
 
-<p>And the point is called the <term>centre</term> of the circle.</p>
+And the point is called the <term>centre</term> of the circle.
 
 ===
-
-<h1>16</h1><pb n="154"/>
-<p>And the point is called the <term>centre</term> of the circle.</p>

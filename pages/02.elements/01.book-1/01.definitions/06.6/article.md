@@ -1,17 +1,10 @@
 ---
 title:  6
-subtitle: 
+subtitle: Extremities of a Surface
 author:
 routes:
   aliases:
     - /elem.1.def.6
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - planes
 ---
 
-<p>The extremities of a surface are lines.</p>
+The <term>extremities of a surface</term> are lines.
 
 ===
-
-<h1>6</h1>
-<p>The extremities of a surface are lines.</p>

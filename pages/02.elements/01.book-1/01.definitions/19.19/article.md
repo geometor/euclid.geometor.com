@@ -1,17 +1,10 @@
 ---
 title:  19
-subtitle: 
+subtitle: Rectilineal Figures
 author:
 routes:
   aliases:
     - /elem.1.def.19
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - figures
 ---
 
-<p>Rectilineal figures are those which are contained by straight lines, trilateral figures being those contained by three, quadrilateral those contained by four, and multilateral those contained by more than four straight lines.</p>
+<term>Rectilineal figures</term> are those which are contained by straight lines, trilateral figures being those contained by three, quadrilateral those contained by four, and multilateral those contained by more than four straight lines.
 
 ===
-
-<h1>19</h1>
-<p>Rectilineal figures are those which are contained by straight lines, trilateral figures being those contained by three, quadrilateral those contained by four, and multilateral those contained by more than four straight lines.</p>

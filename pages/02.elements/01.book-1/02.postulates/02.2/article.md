@@ -1,17 +1,10 @@
 ---
 title:  2
-subtitle: 
+subtitle: Finite Straight Line
 author:
 routes:
   aliases:
     - /elem.1.post.2
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - lines
 ---
 
-<p>To produce a finite straight line continuously in a straight line.</p>
+To produce a finite straight line continuously in a straight line.
 
 ===
-
-<h1>2</h1>
-<p>To produce a finite straight line continuously in a straight line.</p>

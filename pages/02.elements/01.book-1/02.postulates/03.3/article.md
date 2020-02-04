@@ -1,17 +1,10 @@
 ---
 title:  3
-subtitle: 
+subtitle: Describe a Circle
 author:
 routes:
   aliases:
     - /elem.1.post.3
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - circles
 ---
 
-<p>To describe a circle with any centre and distance.</p>
+To describe a circle with any centre and distance.
 
 ===
-
-<h1>3</h1>
-<p>To describe a circle with any centre and distance.</p>

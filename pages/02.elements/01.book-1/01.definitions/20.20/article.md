@@ -1,17 +1,10 @@
 ---
 title:  20
-subtitle: 
+subtitle: Trilateral Figures
 author:
 routes:
   aliases:
     - /elem.1.def.20
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 figure:
   image:
   alt:
@@ -20,12 +13,9 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - figures
 ---
 
-<p>Of trilateral figures, an equilateral triangle is that which has its three sides equal, an isosceles triangle that which has two of its sides alone equal, and a scalene triangle that which has its three sides unequal.</p>
+Of <term>trilateral figures</term>, an equilateral triangle is that which has its three sides equal, an isosceles triangle that which has two of its sides alone equal, and a scalene triangle that which has its three sides unequal.
 
 ===
-
-<h1>20</h1>
-<p>Of trilateral figures, an equilateral triangle is that which has its three sides equal, an isosceles triangle that which has two of its sides alone equal, and a scalene triangle that which has its three sides unequal.</p>
