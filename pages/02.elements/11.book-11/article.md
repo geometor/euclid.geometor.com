@@ -1,29 +1,24 @@
 ---
 title:  Book 11
-subtitle: 
+subtitle: Elementary Stereometry
 author:
 routes:
   aliases:
-    - /
+    - /elem.11
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+Theory of planes, coplanar lines, and solid angles
 
 ===
 

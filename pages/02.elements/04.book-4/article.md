@@ -1,29 +1,24 @@
 ---
 title:  Book 4
-subtitle: 
+subtitle: Construction of Rectilinear Figures In and Around Circles
 author:
 routes:
   aliases:
-    - /
+    - /elem.4
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+Inscription and circumscription of triangles and of regular polygons in and about circles
 
 ===
 

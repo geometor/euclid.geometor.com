@@ -1,22 +1,17 @@
 ---
 title:  Book 12
-subtitle: 
+subtitle: Proportional Stereometry
 author:
 routes:
   aliases:
-    - /
+    - /elem.12
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
@@ -27,4 +22,5 @@ taxonomy:
 
 ===
 
-
+> The novel feature of this book is the use of the so-called method of exhaustion (see Prop. 10.1), a precursor to integration which is generally attributed to Eudoxus of Cnidus.
+> - Heiberg

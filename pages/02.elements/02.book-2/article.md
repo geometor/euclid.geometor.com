@@ -1,12 +1,12 @@
 ---
 title:  Book 2
-subtitle: 
+subtitle: Fundamentals of Geometric Algebra
 author:
 routes:
   aliases:
-    - /
+    - /elem.2
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
@@ -23,7 +23,7 @@ taxonomy:
     - 
 ---
 
-
+Theory of Rectangles
 
 ===
 

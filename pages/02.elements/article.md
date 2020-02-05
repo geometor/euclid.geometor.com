@@ -19,6 +19,10 @@ taxonomy:
   category:
 ---
 
-- Heath from Perseus project
+- Heath edition from Perseus project
 
 ===
+
+- Book Subtitles taken from Heiberg edition
+
+- Book Summary taken from Casey Edition

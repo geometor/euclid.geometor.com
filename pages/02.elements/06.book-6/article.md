@@ -1,29 +1,24 @@
 ---
 title:  Book 6
-subtitle: 
+subtitle: Similar Figures
 author:
 routes:
   aliases:
     - /elem.6
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+Application of the theory of proportion
 
 ===
 

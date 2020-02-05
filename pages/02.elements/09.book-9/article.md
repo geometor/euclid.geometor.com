@@ -1,22 +1,17 @@
 ---
 title:  Book 9
-subtitle: 
+subtitle: Applications of Number Theory
 author:
 routes:
   aliases:
-    - /
+    - /elem.9
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:

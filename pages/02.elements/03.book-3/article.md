@@ -1,29 +1,24 @@
 ---
 title:  Book 3
-subtitle: 
+subtitle: Fundamentals of Plane Geometry Involving Circles
 author:
 routes:
   aliases:
-    - /
+    - /elem.3
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+Theory of the Circle
 
 ===
 

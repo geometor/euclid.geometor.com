@@ -1,29 +1,24 @@
 ---
 title:  Book 1
-subtitle: "Theory of angles, triangles, parallel lines, and parallelograms."
+subtitle: Fundamentals of Plane Geometry Involving Straight-Lines
 author:
 routes:
   aliases:
-    - /
+    - /elem.1
 collection:
-  name: elements
+  name: sections
   showCount: true
   showMenu: true
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+Theory of angles, triangles, parallel lines, and parallelograms.
 
 ===
 
