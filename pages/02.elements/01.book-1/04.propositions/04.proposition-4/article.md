@@ -5,11 +5,6 @@ author:
 routes:
   aliases:
     - /elem.1.4
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
@@ -21,8 +16,6 @@ If two triangles have the two sides equal to two sides respectively, and have th
 
 ===
 
-<div class="Proof">
-
 <p>Let <em>ABC</em>, <em>DEF</em> be two triangles having the two sides <em>AB</em>, <em>AC</em> equal to the two sides <em>DE</em>, <em>DF</em> respectively, namely <em>AB</em> to <em>DE</em> and <em>AC</em> to <em>DF</em>, and the angle <em>BAC</em> equal to the <lb n="10"/>angle <em>EDF</em>.</p>
 
 
@@ -30,11 +23,11 @@ If two triangles have the two sides equal to two sides respectively, and have th
 
 
 <p>For, if the triangle <em>ABC</em> be applied to the triangle <em>DEF</em>, <span class="center">and if the point <em>A</em> be placed <lb n="20"/>on the point <em>D</em> and the straight line <em>AB</em> on <em>DE</em>,</span> then the point <em>B</em> will also coincide with <em>E</em>, because <em>AB</em> is equal to <em>DE</em>.
-        <pb n="248"/><lb n="25"/></p>
+<pb n="248"/><lb n="25"/></p>
 
 
 <p>Again, <em>AB</em> coinciding with <em>DE</em>, the straight line <em>AC</em> will also coincide with <em>DF</em>, because the angle <em>BAC</em> is equal to the angle <em>EDF</em>; <span class="center">hence the point <em>C</em> will also coincide with the point <em>F</em>, because <em>AC</em> is again equal to <em>DF</em>.</span>
-        <lb n="30"/></p>
+<lb n="30"/></p>
 
 
 <p>But <em>B</em> also coincided with <em>E</em>; hence the base <em>BC</em> will coincide with the base <em>EF</em>.</p>
@@ -44,7 +37,7 @@ If two triangles have the two sides equal to two sides respectively, and have th
 
 
 <p>Thus the whole triangle <em>ABC</em> will coincide with the whole triangle <em>DEF</em>, <span class="center">and will be equal to it.</span>
-        <lb n="40"/></p>
+<lb n="40"/></p>
 
 
 <p>And the remaining angles will also coincide with the remaining angles and will be equal to them, the angle <em>ABC</em> to the angle <em>DEF</em>, and the angle <em>ACB</em> to the angle <em>DFE</em>.</p>
@@ -52,7 +45,7 @@ If two triangles have the two sides equal to two sides respectively, and have th
 
 <p>Therefore etc. <lb n="45"/></p>
 
-      </div><div class="QED">
+<div class="QED">
 
 <p>(Being) what it was required to prove.</p>
 

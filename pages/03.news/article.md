@@ -7,7 +7,6 @@ content:
 child_type: article
 taxonomy:
   tag:
-    - featured
 ---
 
 - Latest news

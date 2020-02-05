@@ -5,59 +5,41 @@ author:
 routes:
   aliases:
     - /elem.1.15
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+If two straight lines cut one another, they make the vertical angles equal to one another.
 
 ===
 
-<h1>Proposition 15.</h1><div class="Enunc">
-       
-<p>If two straight lines cut one another, they make the vertical angles equal to one another.</p>
-
-      </div><div class="Proof">
-       
 <p>For let the straight lines <em>AB</em>, <em>CD</em> cut one another at the point <em>E</em>; <lb n="5"/></p>
 
-       
+
 <p>I say that the angle <em>AEC</em> is equal to the angle <em>DEB</em>, <span class="center">and the angle <em>CEB</em> to the angle <em>AED</em>.</span>
-        </p>
+</p>
 
-       
+
 <p>For, since the straight line <em>AE</em> stands <lb n="10"/>on the straight line <em>CD</em>, making the angles <em>CEA</em>, <em>AED</em>, <span class="center">the angles <em>CEA</em>, <em>AED</em> are equal to two right angles [<a href="/elem.1.13">I. 13</a>]</span>
-        <pb n="278"/></p>
+<pb n="278"/></p>
 
-       
+
 <p>Again, since the straight line <em>DE</em> stands on the straight line <em>AB</em>, making the angles <em>AED</em>, <em>DEB</em>, <span class="center">the angles <em>AED</em>, <em>DEB</em> are equal to two right angles. [<a href="/elem.1.13">I. 13</a>]</span>
-        <lb n="15"/></p>
+<lb n="15"/></p>
 
-       
+
 <p>But the angles <em>CEA</em>, <em>AED</em> were also proved equal to two right angles; <span class="center">therefore the angles <em>CEA</em>, <em>AED</em> are equal to the angles <em>AED</em>
-         <em>DEB</em>. [<a href="/elem.1.post.4">Post. 4</a> and <a href="/elem.1.c.n.1">C. N. 1</a>] Let the angle <em>AED</em> be subtracted from each; <lb n="20"/>therefore the remaining angle <em>CEA</em> is equal to the remaining angle <em>BED</em>. [<a href="/elem.1.c.n.3">C. N. 3</a>]</span></p>
+<em>DEB</em>. [<a href="/elem.1.post.4">Post. 4</a> and <a href="/elem.1.c.n.1">C. N. 1</a>] Let the angle <em>AED</em> be subtracted from each; <lb n="20"/>therefore the remaining angle <em>CEA</em> is equal to the remaining angle <em>BED</em>. [<a href="/elem.1.c.n.3">C. N. 3</a>]</span></p>
 
-       
+
 <p>Similarly it can be proved that the angles <em>CEB</em>, <em>DEA</em> are also equal.</p>
 
-       
+
 <p>Therefore etc. Q. E. D. <lb n="25"/></p>
 
-      </div><div id="elem.1.15.p.1" class="porism">
+<div id="elem.1.15.p.1" class="porism">
        <h1>Porism.</h1>
        
 <p>[From this it is manifest that, if two straight lines cut one another, they will make the angles at the point of section equal to four right angles.</p>

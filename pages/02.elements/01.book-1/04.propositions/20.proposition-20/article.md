@@ -5,57 +5,39 @@ author:
 routes:
   aliases:
     - /elem.1.20
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+<p>In any triangle two sides taken together in any manner are greater than the remaining one.</p>
 
 ===
 
-<h1>Proposition 20.</h1><div class="Enunc">
-       
-<p>In any triangle two sides taken together in any manner are greater than the remaining one.</p>
-
-      </div><div class="Proof">
-       
 <p>For let <em>ABC</em> be a triangle; I say that in the triangle <em>ABC</em> two sides taken together in any manner are greater than the remaining one, namely <span class="center"><em>BA</em>, <em>AC</em> greater than <em>BC</em>, <em>AB</em>, <em>BC</em> greater than <em>AC</em>, <em>BC</em>, <em>CA</em> greater than <em>AB</em>.</span></p>
 
-       
+
 <p>For let <em>BA</em> be drawn through to the point <em>D</em>, let <em>DA</em> be made equal to <em>CA</em>, and let <em>DC</em> be joined.</p>
 
-       
+
 <p>Then, since <em>DA</em> is equal to <em>AC</em>, the angle <em>ADC</em> is also equal to the angle <em>ACD</em>; [<a href="/elem.1.5">I. 5</a>] 
-        <span class="center">therefore the angle <em>BCD</em> is greater than the angle <em>ADC</em>. [<a href="/elem.1.c.n.5">C.N. 5</a>]</span></p>
+<span class="center">therefore the angle <em>BCD</em> is greater than the angle <em>ADC</em>. [<a href="/elem.1.c.n.5">C.N. 5</a>]</span></p>
 
-       
+
 <p>And, since <em>DCB</em> is a triangle having the angle <em>BCD</em> greater than the angle <em>BDC</em>, <span class="center">and the greater angle is subtended by the greater side, [<a href="/elem.1.19">I. 19</a>] therefore <em>DB</em> is greater than <em>BC</em>.</span>
-        <pb n="287"/></p>
+<pb n="287"/></p>
 
-       
+
 <p>But <em>DA</em> is equal to <em>AC</em>; <span class="center">therefore <em>BA</em>, <em>AC</em> are greater than <em>BC</em>.</span></p>
 
-       
+
 <p>Similarly we can prove that <em>AB</em>, <em>BC</em> are also greater than <em>CA</em>, and <em>BC</em>, <em>CA</em> than <em>AB</em>.</p>
 
-       
+
 <p>Therefore etc.</p>
 
-      </div><div class="QED">
+<div class="QED">
        
 <p>Q. E. D.</p>
 

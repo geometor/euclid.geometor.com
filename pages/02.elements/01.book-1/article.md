@@ -1,6 +1,6 @@
 ---
 title:  Book 1
-subtitle: 
+subtitle: "Theory of angles, triangles, parallel lines, and parallelograms."
 author:
 routes:
   aliases:

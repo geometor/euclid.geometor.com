@@ -5,30 +5,15 @@ author:
 routes:
   aliases:
     - /elem.1.40
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-<p><emph>Equal triangles which are on equal bases and on the same side are also in the same parallels</emph>.</p>
+Equal triangles which are on equal bases and on the same side are also in the same parallels
 
 ===
-
-<h1>Proposition 40.</h1>
-<p><em>Equal triangles which are on equal bases and on the same side are also in the same parallels</em>.</p>
 
 <p>Let <em>ABC</em>, <em>CDE</em> be equal triangles on equal bases <em>BC</em>, <em>CE</em> and on the same side.</p>
 

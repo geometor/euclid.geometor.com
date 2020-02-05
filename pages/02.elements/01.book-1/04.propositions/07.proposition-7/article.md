@@ -5,48 +5,32 @@ author:
 routes:
   aliases:
     - /elem.1.7
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
+Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in <lb n="5"/>another point and equal to the former two respectively, namely each to that which has the same extremity with it.
 
 
 ===
 
-<h1>Proposition 7.</h1><div class="Enunc">
-       
-<p>Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in <lb n="5"/>another point and equal to the former two respectively, namely each to that which has the same extremity with it.</p>
 
-      </div><div class="Proof">
-       
 <p>For, if possible, given two straight lines <em>AC</em>, <em>CB</em> constructed on the straight line <em>AB</em> and meeting at the point <em>C</em>, let two other straight lines 
-        <lb n="10"/><em>AD</em>, <em>DB</em> be constructed on the same straight line <em>AB</em>, on the same side of it, meeting in another point <em>D</em> and equal to the former two respectively, namely each to that which has the same extremity with it, so that <em>CA</em> is <lb n="15"/>equal to <em>DA</em> which has the same extremity <em>A</em> with it, and <pb n="259"/><em>CB</em> to <em>DB</em> which has the same extremity <em>B</em> with it; and let <em>CD</em> be joined.</p>
+<lb n="10"/><em>AD</em>, <em>DB</em> be constructed on the same straight line <em>AB</em>, on the same side of it, meeting in another point <em>D</em> and equal to the former two respectively, namely each to that which has the same extremity with it, so that <em>CA</em> is <lb n="15"/>equal to <em>DA</em> which has the same extremity <em>A</em> with it, and <pb n="259"/><em>CB</em> to <em>DB</em> which has the same extremity <em>B</em> with it; and let <em>CD</em> be joined.</p>
 
-       
+
 <p>Then, since <em>AC</em> is equal to <em>AD</em>, <span class="center">the angle <em>ACD</em> is also equal to the angle <em>ADC</em>; [<a href="/elem.1.5">I. 5</a>] <lb n="20"/>therefore the angle <em>ADC</em> is greater than the angle <em>DCB</em>;</span> therefore the angle <em>CDB</em> is much greater than the angle <em>DCB</em>.</p>
 
-       
-<p>Again, since <em>CB</em> is equal to <em>DB</em>, <span class="center">the angle <em>CDB</em> is also equal to the angle <em>DCB</em>.</span>
-        <lb n="25"/>But it was also proved much greater than it: <span class="center">which is impossible.</span></p>
 
-       
+<p>Again, since <em>CB</em> is equal to <em>DB</em>, <span class="center">the angle <em>CDB</em> is also equal to the angle <em>DCB</em>.</span>
+<lb n="25"/>But it was also proved much greater than it: <span class="center">which is impossible.</span></p>
+
+
 <p>Therefore etc.</p>
 
-      </div><div class="QED">
+<div class="QED">
        
 <p>Q. E. D.</p>
 

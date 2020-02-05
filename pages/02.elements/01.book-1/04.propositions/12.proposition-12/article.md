@@ -5,54 +5,36 @@ author:
 routes:
   aliases:
     - /elem.1.12
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
     - 
 ---
 
-
+To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.
 
 ===
 
-<h1>Proposition 12.</h1><div class="Enunc">
-       
-<p>To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.</p>
-
-      </div><div class="Proof">
-       
 <p>Let <em>AB</em> be the given infinite straight line, and <em>C</em> the given point which is not on it; <pb n="271"/><lb n="5"/>thus it is required to draw to the given infinite straight line <em>AB</em>, from the given point <em>C</em> which is not on it, a perpendicular straight line.</p>
 
-       
-<p>For let a point <em>D</em> be taken <lb n="10"/>at random on the other side of the straight line <em>AB</em>, and with centre <em>C</em> and distance <em>CD</em> let the circle <em>EFG</em> be described; [<a href="/elem.1.post.3">Post. 3</a>] 
-        <span class="center">let the straight line <em>EG</em>
-         <lb n="15"/>be bisected at <em>H</em>, [<a href="/elem.1.10">I. 10</a>] and let the straight lines <em>CG</em>, <em>CH</em>, <em>CE</em> be joined. [<a href="/elem.1.post.1">Post. 1</a>]</span></p>
 
-       
+<p>For let a point <em>D</em> be taken <lb n="10"/>at random on the other side of the straight line <em>AB</em>, and with centre <em>C</em> and distance <em>CD</em> let the circle <em>EFG</em> be described; [<a href="/elem.1.post.3">Post. 3</a>] 
+<span class="center">let the straight line <em>EG</em>
+<lb n="15"/>be bisected at <em>H</em>, [<a href="/elem.1.10">I. 10</a>] and let the straight lines <em>CG</em>, <em>CH</em>, <em>CE</em> be joined. [<a href="/elem.1.post.1">Post. 1</a>]</span></p>
+
+
 <p>I say that <em>CH</em> has been drawn perpendicular to the given infinite straight line <em>AB</em> from the given point <em>C</em> which is not on it. <lb n="20"/></p>
 
-       
+
 <p>For, since <em>GH</em> is equal to <em>HE</em>, and <em>HC</em> is common, <span class="center">the two sides <em>GH</em>, <em>HC</em> are equal to the two sides <em>EH</em>, <em>HC</em> respectively;</span> and the base <em>CG</em> is equal to the base <em>CE</em>; <lb n="25"/><span class="center">therefore the angle <em>CHG</em> is equal to the angle <em>EHC</em>. [<a href="/elem.1.8">I. 8</a>] And they are adjacent angles.</span></p>
 
-       
+
 <p>But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is <lb n="30"/>called a perpendicular to that on which it stands. [<a href="/elem.1.def.10">Def. 10</a>]</p>
 
-       
+
 <p>Therefore <em>CH</em> has been drawn perpendicular to the given infinite straight line <em>AB</em> from the given point <em>C</em> which is not on it.</p>
 
-      </div><div class="QED">
+<div class="QED">
        
 <p>Q. E. F.</p>
 

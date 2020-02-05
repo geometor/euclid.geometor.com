@@ -1,5 +1,5 @@
 ---
-title:  Common notions
+title:  Common Notions
 subtitle: 
 author:
 routes:

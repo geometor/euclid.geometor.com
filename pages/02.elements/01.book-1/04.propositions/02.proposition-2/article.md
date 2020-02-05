@@ -1,15 +1,10 @@
 ---
 title:  Proposition 2
-subtitle: Construct Equal Lines
+subtitle: Construct equal segments by extension
 author:
 routes:
   aliases:
     - /elem.1.2
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:

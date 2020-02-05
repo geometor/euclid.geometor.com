@@ -1,17 +1,14 @@
 ---
 title:  Proposition 3
-subtitle: Cut Equal Lines
+subtitle: Construct equal segments  by section
 author:
 routes:
   aliases:
     - /elem.1.3
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
+    - proposition 
+    - construction
   category:
     - lines
 ---

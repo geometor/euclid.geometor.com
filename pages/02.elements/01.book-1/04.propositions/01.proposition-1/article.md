@@ -5,11 +5,6 @@ author:
 routes:
   aliases:
     - /elem.1.1
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
@@ -22,35 +17,25 @@ On a given finite straight line to construct an equilateral triangle.
 
 ===
 
-<div class="Proof">
-
 <p>Let <em>AB</em> be the given finite straight line.</p>
-
 
 <p>Thus it is required to construct<lb n="5"/> an equilateral triangle on the straight line <em>AB</em>. </p>
 
-
 <p>With centre <em>A</em> and distance <em>AB</em> let the circle <em>BCD</em> be described; [<a href="/elem.1.post.3">Post. 3</a>] <lb n="10"/>again, with centre <em>B</em> and distance <em>BA</em> let the circle <em>ACE</em> be described; [<a href="/elem.1.post.3">Post. 3</a>] and from the point <em>C</em>, in which the circles cut one another, to the points <em>A</em>, <em>B</em> let the straight lines <em>CA</em>, <em>CB</em> be joined. [<a href="/elem.1.post.1">Post. 1</a>] <lb n="15"/></p>
-
 
 <p>Now, since the point <em>A</em> is the centre of the circle <em>CDB</em>, <span class="center"><em>AC</em> is equal to <em>AB</em>. [<a href="/elem.1.def.15">Def. 15</a>]</span></p>
 
-
 <p>Again, since the point <em>B</em> is the centre of the circle <em>CAE</em>, <span class="center"><em>BC</em> is equal to <em>BA</em>. [<a href="/elem.1.def.15">Def. 15</a>]</span></p>
-
 
 <p>But <em>CA</em> was also proved equal to <em>AB</em>; <lb n="20"/>therefore each of the straight lines <em>CA</em>, <em>CB</em> is equal to <em>AB</em>.</p>
 
-
 <p>And things which are equal to the same thing are also equal to one another; [<a href="/elem.1.c.n.1">C.N. 1</a>] <span class="center">therefore <em>CA</em> is also equal to <em>CB</em>.</span></p>
-
 
 <p>Therefore the three straight lines <em>CA</em>, <em>AB</em>, <em>BC</em> are <lb n="25"/>equal to one another. <pb n="242"/></p>
 
-
 <p>Therefore the triangle <em>ABC</em> is equilateral; and it has been constructed on the given finite straight line <em>AB</em>.</p>
 
-      </div><div class="QED">
+<div class="QED">
 
 <p>(Being) what it was required to do.</p>
 
