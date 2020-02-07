@@ -70,6 +70,15 @@ article {
 
 
     > .summary {
+      background: none;
+      font-size: 1.4em;
+      text-align: center;
+      font-style: italic;
+
+      &::before, &::after {
+        content: '·';
+      }
+
       > * {
         margin-bottom: var(--fitz);
       }

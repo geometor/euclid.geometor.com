@@ -18,6 +18,15 @@ article > .content {
   max-width: 36em;
   margin: 0 auto;
 }
+article > .content > .summary {
+  background: none;
+  font-size: 1.4em;
+  text-align: center;
+  font-style: italic;
+}
+article > .content > .summary::before, article > .content > .summary::after {
+  content: "·";
+}
 article > .content > .summary > * {
   margin-bottom: var(--fitz);
 }
