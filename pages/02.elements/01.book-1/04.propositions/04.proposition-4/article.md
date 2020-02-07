@@ -16,24 +16,24 @@ If two triangles have the two sides equal to two sides respectively, and have th
 
 ===
 
-Let <em>ABC</em>, <em>DEF</em> be two triangles having the two sides <em>AB</em>, <em>AC</em> equal to the two sides <em>DE</em>, <em>DF</em> respectively, namely <em>AB</em> to <em>DE</em> and <em>AC</em> to <em>DF</em>, and the angle <em>BAC</em> equal to the <lb n="10"/>angle <em>EDF</em>.
+Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the two sides `DE`, `DF` respectively, namely `AB` to `DE` and `AC` to `DF`, and the angle `BAC` equal to the <lb n="10"/>angle `EDF`.
 
-I say that the base <em>BC</em> is also equal to the base <em>EF</em>, the triangle <em>ABC</em> will be equal to the triangle <em>DEF</em>, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, that <lb n="15"/>is, the angle <em>ABC</em> to the angle <em>DEF</em>, and the angle <em>ACB</em> to the angle <em>DFE</em>.
+I say that the base `BC` is also equal to the base `EF`, the triangle `ABC` will be equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, that <lb n="15"/>is, the angle `ABC` to the angle `DEF`, and the angle `ACB` to the angle `DFE`.
 
-For, if the triangle <em>ABC</em> be applied to the triangle <em>DEF</em>, <span class="center">and if the point <em>A</em> be placed <lb n="20"/>on the point <em>D</em> and the straight line <em>AB</em> on <em>DE</em>,</span> then the point <em>B</em> will also coincide with <em>E</em>, because <em>AB</em> is equal to <em>DE</em>.
+For, if the triangle `ABC` be applied to the triangle `DEF`, <span class="center">and if the point `A` be placed <lb n="20"/>on the point `D` and the straight line `AB` on `DE`,</span> then the point `B` will also coincide with `E`, because `AB` is equal to `DE`.
 <pb n="248"/><lb n="25"/>
 
-Again, <em>AB</em> coinciding with <em>DE</em>, the straight line <em>AC</em> will also coincide with <em>DF</em>, because the angle <em>BAC</em> is equal to the angle <em>EDF</em>; <span class="center">hence the point <em>C</em> will also coincide with the point <em>F</em>, because <em>AC</em> is again equal to <em>DF</em>.</span>
+Again, `AB` coinciding with `DE`, the straight line `AC` will also coincide with `DF`, because the angle `BAC` is equal to the angle `EDF`; <span class="center">hence the point `C` will also coincide with the point `F`, because `AC` is again equal to `DF`.</span>
 <lb n="30"/>
 
-But <em>B</em> also coincided with <em>E</em>; hence the base <em>BC</em> will coincide with the base <em>EF</em>.
+But `B` also coincided with `E`; hence the base `BC` will coincide with the base `EF`.
 
-[For if, when <em>B</em> coincides with <em>E</em> and <em>C</em> with <em>F</em>, the base <em>BC</em> does not coincide with the base <em>EF</em>, two straight lines will enclose a space: which is impossible. <lb n="35"/><span class="center">Therefore the base <em>BC</em> will coincide with <em>EF</em>] and will be equal to it. [<a href="/elem.1.c.n.4">C.N. 4</a>]</span>
+[For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible. <lb n="35"/><span class="center">Therefore the base `BC` will coincide with `EF`] and will be equal to it. [<a href="/elem.1.c.n.4">C.N. 4</a>]</span>
 
-Thus the whole triangle <em>ABC</em> will coincide with the whole triangle <em>DEF</em>, <span class="center">and will be equal to it.</span>
+Thus the whole triangle `ABC` will coincide with the whole triangle `DEF`, <span class="center">and will be equal to it.</span>
 <lb n="40"/>
 
-And the remaining angles will also coincide with the remaining angles and will be equal to them, the angle <em>ABC</em> to the angle <em>DEF</em>, and the angle <em>ACB</em> to the angle <em>DFE</em>.
+And the remaining angles will also coincide with the remaining angles and will be equal to them, the angle `ABC` to the angle `DEF`, and the angle `ACB` to the angle `DFE`.
 
 
 Therefore etc. <lb n="45"/>
@@ -73,8 +73,8 @@ Therefore etc. <lb n="45"/>
       </blockquote>
 <blockquote n="9. the angle BAC." class="crit" place="unspecified" anchored="yes">
 
-> The full Greek expression would be <foreign lang="greek">ἡ ὑπὸ τῶν ΒΑ, ΑΓ περιεχομένη γωνία</foreign>, <quote>the angle contained by the (straight lines) <em>BA</em>, <em>AC</em>.</quote>
-But it was a common practice of Greek geometers, e.g. of Archimedes and Apollonius (and Euclid too in Books X.—XIII.), to use the abbreviation <foreign lang="greek">αἱ ΒΑΓ</foreign> for <foreign lang="greek">αἱ ΒΑ, ΑΓ</foreign>, <quote>the (straight lines) <em>BA</em>, <em>AC</em>.</quote>
+The full Greek expression would be <foreign lang="greek">ἡ ὑπὸ τῶν ΒΑ, ΑΓ περιεχομένη γωνία</foreign>, <quote>the angle contained by the (straight lines) `BA`, `AC`.</quote>
+But it was a common practice of Greek geometers, e.g. of Archimedes and Apollonius (and Euclid too in Books X.—XIII.), to use the abbreviation <foreign lang="greek">αἱ ΒΑΓ</foreign> for <foreign lang="greek">αἱ ΒΑ, ΑΓ</foreign>, <quote>the (straight lines) `BA`, `AC`.</quote>
 Thus, on <foreign lang="greek">περιεχομένη</foreign> being dropped, the expression would become first <foreign lang="greek">ἡ ὑπὸ τῶν ΒΑΓ γωνία</foreign>, then <foreign lang="greek">ἡ ὑπὸ ΒΑΓ γωνία</foreign>, and finally <foreign lang="greek">ἡ ὑπὸ ΒΑΓ</foreign>, without <foreign lang="greek">γωνία</foreign>, as we regularly find it in Euclid.
 
       </blockquote>
@@ -87,7 +87,7 @@ has been noticed above (blockquote on <title>Common Notion</title> 4, pp. 224-5)
       </blockquote>
 <blockquote n="32. [For if, when B coincides...36. coincide with EF]." class="crit" place="unspecified" anchored="yes">
 
-Heiberg (<title>Paralipomena su Euklid</title> in <title>Hermes</title>, XXXVIII., 1903, p. 56) has pointed out, as a conclusive reason for regarding these words as an early interpolation, that the text of an-Nairīzī (<title>Codex Leidensis</title> 399, 1, ed. Besthorn-Heiberg, p. 55) does not give the words in this place but after the conclusion Q.E.D., which shows that they constitute a <em>scholium</em> only. They were doubtless added by some commentator who thought it necessary to explain the immediate inference that, since <em>B</em> coincides with <em>E</em> and <em>C</em> with <em>F</em>, the straight line <em>BC</em> coincides with the straight line <em>EF</em>, an inference which really follows from the definition of a straight line and <a href="/elem.1.post.1">Post. 1</a>; and no doubt the Postulate that <quote>Two straight lines cannot enclose a space</quote>
+Heiberg (<title>Paralipomena su Euklid</title> in <title>Hermes</title>, XXXVIII., 1903, p. 56) has pointed out, as a conclusive reason for regarding these words as an early interpolation, that the text of an-Nairīzī (<title>Codex Leidensis</title> 399, 1, ed. Besthorn-Heiberg, p. 55) does not give the words in this place but after the conclusion Q.E.D., which shows that they constitute a <em>scholium</em> only. They were doubtless added by some commentator who thought it necessary to explain the immediate inference that, since `B` coincides with `E` and `C` with `F`, the straight line `BC` coincides with the straight line `EF`, an inference which really follows from the definition of a straight line and <a href="/elem.1.post.1">Post. 1</a>; and no doubt the Postulate that <quote>Two straight lines cannot enclose a space</quote>
 (afterwards placed among the <title>Common Notions</title>) was interpolated at the same time.
 
       </blockquote>

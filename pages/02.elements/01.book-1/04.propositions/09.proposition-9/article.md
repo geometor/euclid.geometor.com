@@ -16,25 +16,25 @@ To bisect a given rectilineal angle.
 
 ===
 
-<p>Let the angle <em>BAC</em> be the given rectilineal angle.</p>
+<p>Let the angle `BAC` be the given rectilineal angle.</p>
 
 
 <p>Thus it is required to bisect it.</p>
 
 
-<p>Let a point <em>D</em> be taken at random on <em>AB</em>; let <em>AE</em> be cut off from <em>AC</em> equal to <em>AD</em>; [<a href="/elem.1.3">I. 3</a>] let <em>DE</em> be joined, and on <em>DE</em> let the equilateral triangle <em>DEF</em> be constructed; let <em>AF</em> be joined. </p>
+<p>Let a point `D` be taken at random on `AB`; let `AE` be cut off from `AC` equal to `AD`; [<a href="/elem.1.3">I. 3</a>] let `DE` be joined, and on `DE` let the equilateral triangle `DEF` be constructed; let `AF` be joined. </p>
 
 
-<p>I say that the angle <em>BAC</em> has been bisected by the straight line <em>AF</em>.</p>
+<p>I say that the angle `BAC` has been bisected by the straight line `AF`.</p>
 
 
-<p>For, since <em>AD</em> is equal to <em>AE</em>, and <em>AF</em> is common, <span class="center">the two sides <em>DA</em>, <em>AF</em> are equal to the two sides <em>EA</em>, <em>AF</em> respectively.</span></p>
+<p>For, since `AD` is equal to `AE`, and `AF` is common, <span class="center">the two sides `DA`, `AF` are equal to the two sides `EA`, `AF` respectively.</span></p>
 
 
-<p>And the base <em>DF</em> is equal to the base <em>EF</em>; <span class="center">therefore the angle <em>DAF</em> is equal to the angle <em>EAF</em>. [<a href="/elem.1.8">I. 8</a>]</span></p>
+<p>And the base `DF` is equal to the base `EF`; <span class="center">therefore the angle `DAF` is equal to the angle `EAF`. [<a href="/elem.1.8">I. 8</a>]</span></p>
 
 
-<p>Therefore the given rectilineal angle <em>BAC</em> has been bisected by the straight line <em>AF</em>.</p>
+<p>Therefore the given rectilineal angle `BAC` has been bisected by the straight line `AF`.</p>
 
 <div class="QED">
        

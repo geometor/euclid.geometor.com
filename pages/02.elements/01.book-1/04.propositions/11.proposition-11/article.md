@@ -37,15 +37,69 @@ Q. E. F.
 </div>
 [mermaid]
 graph BT
-a[1.11] --> b[1.1]
-a --> c[1.3]
-a --> d[1.8]
+classDef default fill:#CCC,stroke:#333,stroke-width:1px,cursor:pointer;
+classDef prop fill:#FC3;
+classDef def fill:#3CF;
+classDef post fill:#C3F;
+classDef cn fill:#CF3;
 
-classDef green fill:#9f6,stroke:#333,stroke-width:2px;
-classDef orange fill:#f96,stroke:#333,stroke-width:4px;
-class a green
-class b,c,d orange
+e1_11[1.11]
+class e1_11 prop; 
+click e1_11 "/elem.1.11" "Book 1 Proposition 11";
+
+%%%% dependencies
+
+e1_1[1.1]
+class e1_1 prop; 
+click e1_1 "/elem.1.1" "Book 1 Proposition 1";
+
+e1_3[1.3]
+class e1_3 prop; 
+click e1_3 "/elem.1.3" "Book 1 Proposition 3";
+
+e1_8[1.8]
+class e1_8 def; 
+click e1_8 "/elem.1.8" "Book 1 Proposition 8";
+
+%%%% links
+
+e1_11 --> e1_1
+e1_11 --> e1_3
+e1_11 --> e1_8
+
+
+e1_3[1.3]
+class e1_3 prop;
+click e1_3 "/elem.1.3" "Book 1 Proposition 3";
+
+%%%% e1_3 dependencies
+
+e1_2[1.2]
+class e1_2 prop;
+click e1_2 "/elem.1.2" "Book 1 Proposition 2";
+
+e1_post3(1.ax.3)
+class e1_post3 post;
+click e1_post3 "/elem.1.post.3" "Book 1 Postulate 3";
+
+e1_def15(1.def.15)
+class e1_def15 def;
+click e1_def15 "/elem.1.def.15" "Book 1 Definition 15";
+
+e1_cn1(1.cn.1)
+class e1_cn1 cn;
+click e1_cn1 "/elem.1.c.n.1" "Book 1 Common Notion 1";
+
+%%%% links
+
+e1_3 --> e1_2
+e1_3 --> e1_post3
+e1_3 --> e1_def15
+e1_3 --> e1_cn1
+
+
 [/mermaid]
+
 <blockquote n="10. let CE be made equal to CD." class="crit" place="unspecified" anchored="yes">
 
 The verb is <foreign lang="greek">κείσθω</foreign> which, as well as the other parts of <foreign lang="greek">κεῖμαι</foreign>, is constantly used for the passive of <foreign lang="greek">τίθημι</foreign> <quote>to <em>place</em></quote>
