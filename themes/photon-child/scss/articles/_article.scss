@@ -32,9 +32,10 @@ article {
   > figure {
 
     background: none;
-    max-height: 40vh;
+    // max-height: 40vh;
 
     > img {
+      max-height: 16em;
       object-fit: contain;
     }
 

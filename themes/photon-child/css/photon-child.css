@@ -2,9 +2,9 @@
 /* photon ✴ Theme Components and Templates */
 article > figure {
   background: none;
-  max-height: 40vh;
 }
 article > figure > img {
+  max-height: 16em;
   object-fit: contain;
 }
 article > figure:empty {
@@ -72,6 +72,9 @@ article.excerpt .more {
   }
 }
 
+body {
+  font-size: 1.2em;
+}
 body > header {
   --color-bg: none;
   --color-fg: white;
