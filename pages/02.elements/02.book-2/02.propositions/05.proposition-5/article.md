@@ -5,53 +5,38 @@ author:
 routes:
   aliases:
     - /elem.2.5
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
-    - 
+    - theorem
 ---
 
-<p><emph>If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half</emph>.</p>
+If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half.
 
 ===
 
-<h1>Proposition 5.</h1>
-<p><em>If a straight line be cut into equal and unequal segments, the rectangle contained by the unequal segments of the whole together with the square on the straight line between the points of section is equal to the square on the half</em>.</p>
+For let a straight line `AB` be cut into equal segments at `C` and into unequal segments at `D`; I say that the rectangle contained by `AD`, `DB` together with the square on `CD` is equal to the square on `CB`. 
 
-<p>For let a straight line <em>AB</em> be cut into equal segments at <em>C</em> and into unequal segments at <em>D</em>; I say that the rectangle contained by <em>AD</em>, <em>DB</em> together with the square on <em>CD</em> is equal to the square on <em>CB</em>. </p>
+For let the square `CEFB` be described on `CB`, [<a href="/elem.1.46">I. 46</a>] and let `BE` be joined; through `D` let `DG` be drawn parallel to either `CE` or `BF`, through `H` again let `KM` be drawn parallel to either `AB` or `EF`, and again through `A` let `AK` be drawn parallel to either `CL` or `BM`. [<a href="/elem.1.31">I. 31</a>]
 
-<p>For let the square <em>CEFB</em> be described on <em>CB</em>, [<a href="/elem.1.46">I. 46</a>] and let <em>BE</em> be joined; through <em>D</em> let <em>DG</em> be drawn parallel to either <em>CE</em> or <em>BF</em>, through <em>H</em> again let <em>KM</em> be drawn parallel to either <em>AB</em> or <em>EF</em>, and again through <em>A</em> let <em>AK</em> be drawn parallel to either <em>CL</em> or <em>BM</em>. [<a href="/elem.1.31">I. 31</a>]</p>
+Then, since the complement `CH` is equal to the complement `HF`, [<a href="/elem.1.43">I. 43</a>] let `DM` be added to each; <span class="center">therefore the whole `CM` is equal to the whole `DF`.</span>
 
-<p>Then, since the complement <em>CH</em> is equal to the complement <em>HF</em>, [<a href="/elem.1.43">I. 43</a>] let <em>DM</em> be added to each; <span class="center">therefore the whole <em>CM</em> is equal to the whole <em>DF</em>.</span></p>
+But `CM` is equal to `AL`, <span class="center">since `AC` is also equal to `CB`; [<a href="/elem.1.36">I. 36</a>] therefore `AL` is also equal to `DF`.</span> Let `CH` be added to each; <span class="center">therefore the whole `AH` is equal to the gnomon `NOP`.</span>
+<pb n="383"/>
 
-<p>But <em>CM</em> is equal to <em>AL</em>, <span class="center">since <em>AC</em> is also equal to <em>CB</em>; [<a href="/elem.1.36">I. 36</a>] therefore <em>AL</em> is also equal to <em>DF</em>.</span> Let <em>CH</em> be added to each; <span class="center">therefore the whole <em>AH</em> is equal to the gnomon <em>NOP</em>.</span>
-       <pb n="383"/></p>
+But `AH` is the rectangle `AD`, `DB`, for `DH` is equal to `DB`, <span class="center">therefore the gnomon `NOP` is also equal to the rectangle `AD`, `DB`.</span>
 
-<p>But <em>AH</em> is the rectangle <em>AD</em>, <em>DB</em>, for <em>DH</em> is equal to <em>DB</em>, <span class="center">therefore the gnomon <em>NOP</em> is also equal to the rectangle <em>AD</em>, <em>DB</em>.</span></p>
+Let `LG`, which is equal to the square on `CD`, be added to each; <span class="center">therefore the gnomon `NOP` and `LG` are equal to the rectangle contained by `AD`, `DB` and the square on `CD`.</span>
 
-<p>Let <em>LG</em>, which is equal to the square on <em>CD</em>, be added to each; <span class="center">therefore the gnomon <em>NOP</em> and <em>LG</em> are equal to the rectangle contained by <em>AD</em>, <em>DB</em> and the square on <em>CD</em>.</span></p>
+But the gnomon `NOP` and `LG` are the whole square `CEFB`, which is described on `CB`; <span class="center">therefore the rectangle contained by `AD`, `DB` together with the square on `CD` is equal to the square on `CB`.</span>
 
-<p>But the gnomon <em>NOP</em> and <em>LG</em> are the whole square <em>CEFB</em>, which is described on <em>CB</em>; <span class="center">therefore the rectangle contained by <em>AD</em>, <em>DB</em> together with the square on <em>CD</em> is equal to the square on <em>CB</em>.</span></p>
-
-<p>Therefore etc. Q. E. D.
+Therefore etc. Q. E. D.
 <blockquote n="3" class="crit" place="unspecified" anchored="yes">
-        
-<p><span class="bold">between the points of section</span>, literally <quote>between the <em>sections</em>,</quote>
- the word being the same (<foreign lang="greek">τομή</foreign>) as that used of a conic <em>section</em>.</p>
 
-        
-<p>It will be observed that the gnomon is indicated in the figure by three separate letters and a dotted curve. This is no doubt a clearer way of showing what exactly the gnomon is than the method usual in our text-books. In this particular case the figure of the MSS. has <em>two</em> M's in it, the gnomon being MN<foreign lang="greek">Ξ</foreign>. I have corrected the lettering to avoid confusion.</p>
+<span class="bold">between the points of section</span>, literally <quote>between the <em>sections</em>,</quote>
+the word being the same (<foreign lang="greek">τομή</foreign>) as that used of a conic <em>section</em>.
 
-       </blockquote></p>
+
+It will be observed that the gnomon is indicated in the figure by three separate letters and a dotted curve. This is no doubt a clearer way of showing what exactly the gnomon is than the method usual in our text-books. In this particular case the figure of the MSS. has <em>two</em> M's in it, the gnomon being MN<foreign lang="greek">Ξ</foreign>. I have corrected the lettering to avoid confusion.
+
+</blockquote>

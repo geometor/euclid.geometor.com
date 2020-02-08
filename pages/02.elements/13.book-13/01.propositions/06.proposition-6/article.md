@@ -11,46 +11,39 @@ collection:
   showMenu: true
 content:
   items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
+    - featured
   category:
-    - 
+    - extreme and mean
 ---
 
-<p><hi rend="ital">If a rational straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">each of the segments is the irrational straight line called apotome.</hi>
-       <pb n="450"/></p>
+<hi rend="ital">If a rational straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">each of the segments is the irrational straight line called apotome.</hi>
+<!-- <pb n="450"/> -->
 
 ===
 
-<h1>PROPOSITION 6.</h1>
-<p><span class="ital">If a rational straight line be cut in extreme and mean ratio</span>, <span class="ital">each of the segments is the irrational straight line called apotome.</span>
-       <pb n="450"/></p>
+<span class="ital">If a rational straight line be cut in extreme and mean ratio</span>, <span class="ital">each of the segments is the irrational straight line called apotome.</span>
+<pb n="450"/>
 
-<p>Let <span class="ital">AB</span> be a rational straight line, let it be cut in extreme and mean ratio at <span class="ital">C</span>, and let <span class="ital">AC</span> be the greater segment; I say that each of the straight lines <span class="ital">AC</span>, <span class="ital">CB</span> is the irrational straight line called apotome. 
-      </p>
+Let `AB` be a rational straight line, let it be cut in extreme and mean ratio at `C`, and let `AC` be the greater segment; I say that each of the straight lines `AC`, `CB` is the irrational straight line called apotome. 
 
-<p>For let <span class="ital">BA</span> be produced, and let <span class="ital">AD</span> be made half of <span class="ital">BA</span>. </p>
+For let `BA` be produced, and let `AD` be made half of `BA`. 
 
-<p>Since then the straight line <span class="ital">AB</span> has been cut in extreme and mean ratio, and to the greater segment <span class="ital">AC</span> is added <span class="ital">AD</span> which is half of <span class="ital">AB</span>, therefore the square on <span class="ital">CD</span> is five times the square on <span class="ital">DA</span>. [<a href="/elem.13.1">XIII. 1</a>] </p>
+Since then the straight line `AB` has been cut in extreme and mean ratio, and to the greater segment `AC` is added `AD` which is half of `AB`, therefore the square on `CD` is five times the square on `DA`. [<a href="/elem.13.1">XIII. 1</a>] 
 
-<p>Therefore the square on <span class="ital">CD</span> has to the square on <span class="ital">DA</span> the ratio which a number has to a number; therefore the square on <span class="ital">CD</span> is commensurable with the square on <span class="ital">DA</span>. [<a href="/elem.10.6">X. 6</a>] </p>
+Therefore the square on `CD` has to the square on `DA` the ratio which a number has to a number; therefore the square on `CD` is commensurable with the square on `DA`. [<a href="/elem.10.6">X. 6</a>] 
 
-<p>But the square on <span class="ital">DA</span> is rational, for <span class="ital">DA</span> is rational, being half of <span class="ital">AB</span> which is rational; therefore the square on <span class="ital">CD</span> is also rational; [<a href="/elem.10.def.4">X. Def. 4</a>] therefore <span class="ital">CD</span> is also rational. </p>
+But the square on `DA` is rational, for `DA` is rational, being half of `AB` which is rational; therefore the square on `CD` is also rational; [<a href="/elem.10.def.4">X. Def. 4</a>] therefore `CD` is also rational. 
 
-<p>And, since the square on <span class="ital">CD</span> has not to the square on <span class="ital">DA</span> the ratio which a square number has to a square number, therefore <span class="ital">CD</span> is incommensurable in length with <span class="ital">DA</span>; [<a href="/elem.10.9">X. 9</a>] therefore <span class="ital">CD</span>, <span class="ital">DA</span> are rational straight lines commensurable in square only; therefore <span class="ital">AC</span> is an apotome. [<a href="/elem.10.73">X. 73</a>] </p>
+And, since the square on `CD` has not to the square on `DA` the ratio which a square number has to a square number, therefore `CD` is incommensurable in length with `DA`; [<a href="/elem.10.9">X. 9</a>] therefore `CD`, `DA` are rational straight lines commensurable in square only; therefore `AC` is an apotome. [<a href="/elem.10.73">X. 73</a>] 
 
-<p>Again, since <span class="ital">AB</span> has been cut in extreme and mean ratio, and <span class="ital">AC</span> is the greater segment, therefore the rectangle <span class="ital">AB</span>, <span class="ital">BC</span> is equal to the square on <span class="ital">AC</span>. [<a href="/elem.6.def.3">VI. Def. 3</a>, <a href="/elem.6.17">VI. 17</a>] </p>
+Again, since `AB` has been cut in extreme and mean ratio, and `AC` is the greater segment, therefore the rectangle `AB`, `BC` is equal to the square on `AC`. [<a href="/elem.6.def.3">VI. Def. 3</a>, <a href="/elem.6.17">VI. 17</a>] 
 
-<p>Therefore the square on the apotome <span class="ital">AC</span>, if applied to the rational straight line <span class="ital">AB</span>, produces <span class="ital">BC</span> as breadth. </p>
+Therefore the square on the apotome `AC`, if applied to the rational straight line `AB`, produces `BC` as breadth. 
 
-<p>But the square on an apotome, if applied to a rational straight line, produces as breadth a first apotome; [<a href="/elem.10.97">X. 97</a>] therefore <span class="ital">CB</span> is a first apotome. <pb n="451"/></p>
+But the square on an apotome, if applied to a rational straight line, produces as breadth a first apotome; [<a href="/elem.10.97">X. 97</a>] therefore `CB` is a first apotome. <pb n="451"/>
 
-<p>And <span class="ital">CA</span> was also proved to be an apotome. </p>
+And `CA` was also proved to be an apotome. 
 
-<p>Therefore etc. Q. E. D.</p>
+Therefore etc. Q. E. D.

@@ -5,59 +5,44 @@ author:
 routes:
   aliases:
     - /elem.2.8
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
-  tag:
-  category:
+tag:
+category:
     - 
 ---
 
-<p><emph>If a straight line be cut at random</emph>, <emph>four times the rectangle contained by the whole and one of the segments together with the square on the remaining segment is equal to the square described on the whole and the aforesaid segment as on one straight line</emph>.</p>
+If a straight line be cut at random, four times the rectangle contained by the whole and one of the segments together with the square on the remaining segment is equal to the square described on the whole and the aforesaid segment as on one straight line.
 
 ===
 
-<h1>Proposition 8.</h1>
-<p><em>If a straight line be cut at random</em>, <em>four times the rectangle contained by the whole and one of the segments together with the square on the remaining segment is equal to the square described on the whole and the aforesaid segment as on one straight line</em>.</p>
+For let a straight line `AB` be cut at random at the point `C`;
 
-<p>For let a straight line <em>AB</em> be cut at random at the point <em>C</em>;</p>
+I say that four times the rectangle contained by `AB`, `BC` together with the square on `AC` is equal to the square described on `AB`, `BC` as on one straight line. <pb n="390"/>
 
-<p>I say that four times the rectangle contained by <em>AB</em>, <em>BC</em> together with the square on <em>AC</em> is equal to the square described on <em>AB</em>, <em>BC</em> as on one straight line. <pb n="390"/></p>
+For let [the straight line] `BD` be produced in a straight line [with `AB`], and let `BD` be made equal to `CB`; let the square `AEFD` be described on `AD`, and let the figure be drawn double.
 
-<p>For let [the straight line] <em>BD</em> be produced in a straight line [with <em>AB</em>], and let <em>BD</em> be made equal to <em>CB</em>; let the square <em>AEFD</em> be described on <em>AD</em>, and let the figure be drawn double.</p>
+Then, since `CB` is equal to `BD`, while `CB` is equal to `GK`, and `BD` to `KN`, therefore `GK` is also equal to `KN`. 
 
-<p>Then, since <em>CB</em> is equal to <em>BD</em>, while <em>CB</em> is equal to <em>GK</em>, and <em>BD</em> to <em>KN</em>, therefore <em>GK</em> is also equal to <em>KN</em>. </p>
+For the same reason <span class="center">`QR` is also equal to `RP`.</span>
 
-<p>For the same reason <span class="center"><em>QR</em> is also equal to <em>RP</em>.</span></p>
+And, since `BC` is equal to `BD`, and `GK` to `KN`, therefore `CK` is also equal to `KD`, and `GR` to `RN`. [<a href="/elem.1.36">I. 36</a>]
 
-<p>And, since <em>BC</em> is equal to <em>BD</em>, and <em>GK</em> to <em>KN</em>, therefore <em>CK</em> is also equal to <em>KD</em>, and <em>GR</em> to <em>RN</em>. [<a href="/elem.1.36">I. 36</a>]</p>
+But `CK` is equal to `RN`, for they are complements of the parallelogram `CP`; [<a href="/elem.1.43">I. 43</a>] therefore `KD` is also equal to `GR`; therefore the four areas `DK`, `CK`, `GR`, `RN` are equal to one another. <span class="center">Therefore the four are quadruple of `CK`.</span>
 
-<p>But <em>CK</em> is equal to <em>RN</em>, for they are complements of the parallelogram <em>CP</em>; [<a href="/elem.1.43">I. 43</a>] therefore <em>KD</em> is also equal to <em>GR</em>; therefore the four areas <em>DK</em>, <em>CK</em>, <em>GR</em>, <em>RN</em> are equal to one another. <span class="center">Therefore the four are quadruple of <em>CK</em>.</span></p>
+Again, since `CB` is equal to `BD`, while `BD` is equal to `BK`, that is `CG`, and `CB` is equal to `GK`, that is `GQ`, <span class="center">therefore `CG` is also equal to `GQ`.</span>
 
-<p>Again, since <em>CB</em> is equal to <em>BD</em>, while <em>BD</em> is equal to <em>BK</em>, that is <em>CG</em>, and <em>CB</em> is equal to <em>GK</em>, that is <em>GQ</em>, <span class="center">therefore <em>CG</em> is also equal to <em>GQ</em>.</span></p>
+And, since `CG` is equal to `GQ`, and `QR` to `RP`, <span class="center">`AG` is also equal to `MQ`, and `QL` to `RF`. [<a href="/elem.1.36">I. 36</a>]</span>
 
-<p>And, since <em>CG</em> is equal to <em>GQ</em>, and <em>QR</em> to <em>RP</em>, <span class="center"><em>AG</em> is also equal to <em>MQ</em>, and <em>QL</em> to <em>RF</em>. [<a href="/elem.1.36">I. 36</a>]</span></p>
+But `MQ` is equal to `QL`, for they are complements of the parallelogram `ML`; [<a href="/elem.1.43">I. 43</a>] <span class="center">therefore `AG` is also equal to `RF`;</span> therefore the four areas `AG`, `MQ`, `QL`, `RF` are equal to one another. <span class="center">Therefore the four are quadruple of `AG`.</span> But the four areas `CK`, `KD`, `GR`, `RN` were proved to be quadruple of `CK`; <span class="center">therefore the eight areas, which contain the gnomon `STU`, are quadruple of `AK`.</span>
 
-<p>But <em>MQ</em> is equal to <em>QL</em>, for they are complements of the parallelogram <em>ML</em>; [<a href="/elem.1.43">I. 43</a>] <span class="center">therefore <em>AG</em> is also equal to <em>RF</em>;</span> therefore the four areas <em>AG</em>, <em>MQ</em>, <em>QL</em>, <em>RF</em> are equal to one another. <span class="center">Therefore the four are quadruple of <em>AG</em>.</span> But the four areas <em>CK</em>, <em>KD</em>, <em>GR</em>, <em>RN</em> were proved to be quadruple of <em>CK</em>; <span class="center">therefore the eight areas, which contain the gnomon <em>STU</em>, are quadruple of <em>AK</em>.</span></p>
+Now, since `AK` is the rectangle `AB`, `BD`, for `BK` is equal to `BD`, <pb n="391"/>therefore four times the rectangle `AB`, `BD` is quadruple of `AK`.
 
-<p>Now, since <em>AK</em> is the rectangle <em>AB</em>, <em>BD</em>, for <em>BK</em> is equal to <em>BD</em>, <pb n="391"/>therefore four times the rectangle <em>AB</em>, <em>BD</em> is quadruple of <em>AK</em>.</p>
+But the gnomon `STU` was also proved to be quadruple of `AK`; <span class="center">therefore four times the rectangle `AB`, `BD` is equal to the gnomon `STU`.</span>
 
-<p>But the gnomon <em>STU</em> was also proved to be quadruple of <em>AK</em>; <span class="center">therefore four times the rectangle <em>AB</em>, <em>BD</em> is equal to the gnomon <em>STU</em>.</span></p>
+Let `OH`, which is equal to the square on `AC`, be added to each; <span class="center">therefore four times the rectangle `AB`, `BD` together with the square on `AC` is equal to the gnomon `STU` and `OH`.</span>
 
-<p>Let <em>OH</em>, which is equal to the square on <em>AC</em>, be added to each; <span class="center">therefore four times the rectangle <em>AB</em>, <em>BD</em> together with the square on <em>AC</em> is equal to the gnomon <em>STU</em> and <em>OH</em>.</span></p>
+But the gnomon `STU` and `OH` are the whole square `AEFD`, <span class="center">which is described on `AD`.</span> therefore four times the rectangle `AB`, `BD` together with the square on `AC` is equal to the square on `AD`
 
-<p>But the gnomon <em>STU</em> and <em>OH</em> are the whole square <em>AEFD</em>, <span class="center">which is described on <em>AD</em>.</span> therefore four times the rectangle <em>AB</em>, <em>BD</em> together with the square on <em>AC</em> is equal to the square on <em>AD</em></p>
+But `BD` is equal to `BC`; therefore four times the rectangle contained by `AB`, `BC` together with the square on `AC` is equal to the square on `AD`, that is to the square described on `AB` and `BC` as on one straight line.
 
-<p>But <em>BD</em> is equal to <em>BC</em>; therefore four times the rectangle contained by <em>AB</em>, <em>BC</em> together with the square on <em>AC</em> is equal to the square on <em>AD</em>, that is to the square described on <em>AB</em> and <em>BC</em> as on one straight line.</p>
-
-<p>Therefore etc. Q. E. D.</p>
+Therefore etc. Q. E. D.

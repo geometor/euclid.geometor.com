@@ -5,13 +5,6 @@ author:
 routes:
   aliases:
     - /elem.2.11
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
 taxonomy:
   tag:
     - featured
@@ -37,7 +30,7 @@ But `EF` is equal to `EB`; <span class="center">therefore the rectangle `CF`, `F
 But the squares on `BA`, `AE` are equal to the square on `EB`, for the angle at `A` is right; [<a href="/elem.1.47">I. 47</a>] <span class="center">therefore the rectangle `CF`, `FA` together with the square on `AE` is equal to the squares on `BA`, `AE`.</span>
 
 Let the square on `AE` be subtracted from each; <span class="center">therefore the rectangle `CF`, `FA` which remains is equal to the square on `AB`.</span>
-<pb n="403"/>
+<!-- <pb n="403"/> -->
 
 Now the rectangle `CF`, `FA` is `FK`, for `AF` is equal to `FG`; and the square on `AB` is `AD`; <span class="center">therefore `FK` is equal to `AD`.</span>
 

@@ -5,65 +5,49 @@ author:
 routes:
   aliases:
     - /elem.2.9
-collection:
-  name: elements
-  showCount: true
-  showMenu: true
-content:
-  items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
-<p><emph>If a straight line be cut into equal and unequal segments</emph>, <emph>the squares on the unequal segments of the whole are double of the square on the half and of the square on the straight line between the points of section</emph>.</p>
+If a straight line be cut into equal and unequal segments, the squares on the unequal segments of the whole are double of the square on the half and of the square on the straight line between the points of section.
 
 ===
 
-<h1>Proposition 9.</h1>
-<p><em>If a straight line be cut into equal and unequal segments</em>, <em>the squares on the unequal segments of the whole are double of the square on the half and of the square on the straight line between the points of section</em>.</p>
+For let a straight line `AB` be cut into equal segments at `C`, and into unequal segments at `D`;
 
-<p>For let a straight line <em>AB</em> be cut into equal segments at <em>C</em>, and into unequal segments at <em>D</em>;</p>
+I say that the squares on `AD`, `DB` are double of the squares on `AC`, `CD`. 
 
-<p>I say that the squares on <em>AD</em>, <em>DB</em> are double of the squares on <em>AC</em>, <em>CD</em>. </p>
+For let `CE` be drawn from `C` at right angles to `AB`, and let it be made equal to either `AC` or `CB`; let `EA`, `EB` be joined, let `DF` be drawn through `D` parallel to `EC`, and `FG` through `F` parallel to `AB`, and let `AF` be joined.
 
-<p>For let <em>CE</em> be drawn from <em>C</em> at right angles to <em>AB</em>, and let it be made equal to either <em>AC</em> or <em>CB</em>; let <em>EA</em>, <em>EB</em> be joined, let <em>DF</em> be drawn through <em>D</em> parallel to <em>EC</em>, and <em>FG</em> through <em>F</em> parallel to <em>AB</em>, and let <em>AF</em> be joined.</p>
+Then, since `AC` is equal to `CE`, <span class="center">the angle `EAC` is also equal to the angle `AEC`.</span>
 
-<p>Then, since <em>AC</em> is equal to <em>CE</em>, <span class="center">the angle <em>EAC</em> is also equal to the angle <em>AEC</em>.</span></p>
+And, since the angle at `C` is right, <span class="center">the remaining angles `EAC`, `AEC` are equal to one right angle. [<a href="/elem.1.32">I. 32</a>]</span>
 
-<p>And, since the angle at <em>C</em> is right, <span class="center">the remaining angles <em>EAC</em>, <em>AEC</em> are equal to one right angle. [<a href="/elem.1.32">I. 32</a>]</span></p>
+And they are equal; <span class="center">therefore each of the angles `CEA`, `CAE` is half a right angle.</span>
 
-<p>And they are equal; <span class="center">therefore each of the angles <em>CEA</em>, <em>CAE</em> is half a right angle.</span></p>
+For the same reason <span class="center">each of the angles `CEB`, `EBC` is also half a right angle; therefore the whole angle `AEB` is right.</span>
 
-<p>For the same reason <span class="center">each of the angles <em>CEB</em>, <em>EBC</em> is also half a right angle; therefore the whole angle <em>AEB</em> is right.</span></p>
+And, since the angle `GEF` is half a right angle, <pb n="393"/>and the angle `EGF` is right, for it is equal to the interior and opposite angle `ECB`, [<a href="/elem.1.29">I. 29</a>] <span class="center">the remaining angle `EFG` is half a right angle; [<a href="/elem.1.32">I. 32</a>] therefore the angle `GEF` is equal to the angle `EFG`, so that the side `EG` is also equal to `GF`. [<a href="/elem.1.6">I. 6</a>]</span>
 
-<p>And, since the angle <em>GEF</em> is half a right angle, <pb n="393"/>and the angle <em>EGF</em> is right, for it is equal to the interior and opposite angle <em>ECB</em>, [<a href="/elem.1.29">I. 29</a>] <span class="center">the remaining angle <em>EFG</em> is half a right angle; [<a href="/elem.1.32">I. 32</a>] therefore the angle <em>GEF</em> is equal to the angle <em>EFG</em>, so that the side <em>EG</em> is also equal to <em>GF</em>. [<a href="/elem.1.6">I. 6</a>]</span></p>
+Again, since the angle at `B` is half a right angle, and the angle `FDB` is right, for it is again equal to the interior and opposite angle `ECB`, [<a href="/elem.1.29">I. 29</a>] <span class="center">the remaining angle `BFD` is half a right angle; [<a href="/elem.1.32">I. 32</a>] therefore the angle at `B` is equal to the angle `DFB`, so that the side `FD` is also equal to the side `DB`. [<a href="/elem.1.6">I. 6</a>]</span>
 
-<p>Again, since the angle at <em>B</em> is half a right angle, and the angle <em>FDB</em> is right, for it is again equal to the interior and opposite angle <em>ECB</em>, [<a href="/elem.1.29">I. 29</a>] <span class="center">the remaining angle <em>BFD</em> is half a right angle; [<a href="/elem.1.32">I. 32</a>] therefore the angle at <em>B</em> is equal to the angle <em>DFB</em>, so that the side <em>FD</em> is also equal to the side <em>DB</em>. [<a href="/elem.1.6">I. 6</a>]</span></p>
+Now, since `AC` is equal to `CE`, <span class="center">the square on `AC` is also equal to the square on `CE`; therefore the squares on `AC`, `CE` are double of the square on `AC`.</span>
 
-<p>Now, since <em>AC</em> is equal to <em>CE</em>, <span class="center">the square on <em>AC</em> is also equal to the square on <em>CE</em>; therefore the squares on <em>AC</em>, <em>CE</em> are double of the square on <em>AC</em>.</span></p>
+But the square on `EA` is equal to the squares on `AC`, `CE`, for the angle `ACE` is right; [<a href="/elem.1.47">I. 47</a>] <span class="center">therefore the square on `EA` is double of the square on `AC`.</span>
 
-<p>But the square on <em>EA</em> is equal to the squares on <em>AC</em>, <em>CE</em>, for the angle <em>ACE</em> is right; [<a href="/elem.1.47">I. 47</a>] <span class="center">therefore the square on <em>EA</em> is double of the square on <em>AC</em>.</span></p>
+Again, since `EG` is equal to `GF`, <span class="center">the square on `EG` is also equal to the square on `GF`; therefore the squares on `EG`, `GF` are double of the square on `GF`.</span>
 
-<p>Again, since <em>EG</em> is equal to <em>GF</em>, <span class="center">the square on <em>EG</em> is also equal to the square on <em>GF</em>; therefore the squares on <em>EG</em>, <em>GF</em> are double of the square on <em>GF</em>.</span></p>
+But the square on `EF` is equal to the squares on `EG`, `GF`; <span class="center">therefore the square on `EF` is double of the square on `GF`.</span>
 
-<p>But the square on <em>EF</em> is equal to the squares on <em>EG</em>, <em>GF</em>; <span class="center">therefore the square on <em>EF</em> is double of the square on <em>GF</em>.</span></p>
+But `GF` is equal to `CD`; [<a href="/elem.1.34">I. 34</a>] therefore the square on `EF` is double of the square on `CD`.
 
-<p>But <em>GF</em> is equal to <em>CD</em>; [<a href="/elem.1.34">I. 34</a>] therefore the square on <em>EF</em> is double of the square on <em>CD</em>.</p>
+But the square on `EA` is also double of the square on `AC`; <span class="center">therefore the squares on `AE`, `EF` are double of the squares on `AC`, `CD`.</span>
 
-<p>But the square on <em>EA</em> is also double of the square on <em>AC</em>; <span class="center">therefore the squares on <em>AE</em>, <em>EF</em> are double of the squares on <em>AC</em>, <em>CD</em>.</span></p>
+And the square on `AF` is equal to the squares on `AE`, `EF`, for the angle `AEF` is right; [<a href="/elem.1.47">I. 47</a>] therefore the square on `AF` is double of the squares on `AC`, `CD`.
 
-<p>And the square on <em>AF</em> is equal to the squares on <em>AE</em>, <em>EF</em>, for the angle <em>AEF</em> is right; [<a href="/elem.1.47">I. 47</a>] therefore the square on <em>AF</em> is double of the squares on <em>AC</em>, <em>CD</em>.</p>
+But the squares on `AD`, `DF` are equal to the square on `AF`, for the angle at `D` is right; [<a href="/elem.1.47">I. 47</a>] therefore the squares on `AD`, `DF` are double of the squares on `AC`, `CD`. <pb n="394"/>
 
-<p>But the squares on <em>AD</em>, <em>DF</em> are equal to the square on <em>AF</em>, for the angle at <em>D</em> is right; [<a href="/elem.1.47">I. 47</a>] therefore the squares on <em>AD</em>, <em>DF</em> are double of the squares on <em>AC</em>, <em>CD</em>. <pb n="394"/></p>
+And `DF` is equal to `DB`; therefore the squares on `AD`, `DB` are double of the squares on `AC`, `CD`.
 
-<p>And <em>DF</em> is equal to <em>DB</em>; therefore the squares on <em>AD</em>, <em>DB</em> are double of the squares on <em>AC</em>, <em>CD</em>.</p>
-
-<p>Therefore etc. Q. E. D.</p>
+Therefore etc. Q. E. D.
