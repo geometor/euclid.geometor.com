@@ -15,24 +15,23 @@ To a given infinite straight line, from a given point which is not on it, to dra
 
 ===
 
-Let `AB` be the given infinite straight line, and `C` the given point which is not on it; <pb n="271"/><lb n="5"/>thus it is required to draw to the given infinite straight line `AB`, from the given point `C` which is not on it, a perpendicular straight line.
+Let `AB` be the given infinite straight line, and `C` the given point which is not on it; thus it is required to draw to the given infinite straight line `AB`, from the given point `C` which is not on it, a perpendicular straight line.
 
-For let a point `D` be taken <lb n="10"/>at random on the other side of the straight line `AB`[^2], and with centre `C` and distance `CD` let the circle `EFG` be described; [<a href="/elem.1.post.3">Post. 3</a>]
+For let a point `D` be taken at random on the other side of the straight line `AB`[^2], and with centre `C` and distance `CD` let the circle `EFG` be described; [<a href="/elem.1.post.3">Post. 3</a>]
 
-- let the straight line `EG`
-<lb n="15"/>be bisected at `H`, [<a href="/elem.1.10">I. 10</a>] and let the straight lines `CG`, `CH`, `CE` be joined. [<a href="/elem.1.post.1">Post. 1</a>]
+- let the straight line `EG` be bisected at `H`, [<a href="/elem.1.10">I. 10</a>] and let the straight lines `CG`, `CH`, `CE` be joined. [<a href="/elem.1.post.1">Post. 1</a>]
 
-I say that `CH` has been drawn perpendicular to the given infinite straight line `AB` from the given point `C` which is not on it. <lb n="20"/>
+I say that `CH` has been drawn perpendicular to the given infinite straight line `AB` from the given point `C` which is not on it. 
 
 For, since `GH` is equal to `HE`, and `HC` is common, 
 
 - the two sides `GH`, `HC` are equal to the two sides `EH`, `HC` respectively;
 
-and the base `CG` is equal to the base `CE`; <lb n="25"/>
+and the base `CG` is equal to the base `CE`; 
 
 - therefore the angle `CHG` is equal to the angle `EHC`. [<a href="/elem.1.8">I. 8</a>] And they are adjacent angles.
 
-But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is <lb n="30"/>called a perpendicular to that on which it stands. [<a href="/elem.1.def.10">Def. 10</a>]
+But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is called a perpendicular to that on which it stands. [<a href="/elem.1.def.10">Def. 10</a>]
 
 Therefore `CH` has been drawn perpendicular to the given infinite straight line `AB` from the given point `C` which is not on it.
 

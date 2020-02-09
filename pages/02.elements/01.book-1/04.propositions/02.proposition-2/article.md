@@ -26,29 +26,29 @@ To place at a given point (as an extremity) a straight line equal to a given str
 Let `A` be the given point, and `BC` the given straight line.
 
 Thus it is required to place at the point `A` (as an extremity) a straight line equal to the given straight line `BC`. 
-<!-- <lb n="5"/> -->
 
-From the point `A` to the point `B` let the straight line `AB` be joined; [1.post.1] and on it let the equilateral triangle <lb n="10"/>`DAB` be constructed. [1.1]
+From the point `A` to the point `B` let the straight line `AB` be joined; [1.post.1] and on it let the equilateral triangle `DAB` be constructed. [1.1]
 
-Let the straight lines `AE`, `BF` be produced in a straight line with `DA`, `DB`; [1.post.2] with centre `B` and distance `BC` let the <lb n="15"/>circle `CGH` be described; [1.post.3] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [1.post.3]
+Let the straight lines `AE`, `BF` be produced in a straight line with `DA`, `DB`; [1.post.2] with centre `B` and distance `BC` let the circle `CGH` be described; [1.post.3] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [1.post.3]
 
 Then, since the point `B` is the centre of the circle `CGH`, 
+
 - `BC` is equal to `BG`.
 
-<!-- <lb n="20"/> -->
-
 Again, since the point `D` is the centre of the circle `GKL`, 
+
 - `DL` is equal to `DG`.
 
 And in these `DA` is equal to `DB`; 
+
 - therefore the remainder `AL` is equal to the remainder `BG`. [1.c.n.3]
 
-<!-- <lb n="25"/> -->
-
 But `BC` was also proved equal to `BG`; 
+
 - therefore each of the straight lines `AL`, `BC` is equal to `BG`.
 
-And things which are equal to the same thing are also equal to one another; [1.c.n.1] <lb n="30"/>
+And things which are equal to the same thing are also equal to one another; [1.c.n.1] 
+
 - therefore `AL` is also equal to `BC`.
 
 Therefore at the given point `A` the straight line `AL` is placed equal to the given straight line `BC`.

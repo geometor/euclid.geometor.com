@@ -11,19 +11,19 @@ taxonomy:
     -
 ---
 
-A straight line falling on parallel straight lines makes the alternate angles equal to one another, the exterior angle equal to the interior and opposite angle, and the interior angles on the same side equal to two right angles. <lb n="5"/>
+A straight line falling on parallel straight lines makes the alternate angles equal to one another, the exterior angle equal to the interior and opposite angle, and the interior angles on the same side equal to two right angles. 
 
 ===
 
 For let the straight line `EF` fall on the parallel straight lines `AB`, `CD`;
 
-I say that it makes the alternate angles `AGH`, `GHD` equal, the exterior angle `EGB` equal to the interior and opposite angle `GHD`, and the interior angles on the same <lb n="10"/>side, namely `BGH`, `GHD`, equal to two right angles.
+I say that it makes the alternate angles `AGH`, `GHD` equal, the exterior angle `EGB` equal to the interior and opposite angle `GHD`, and the interior angles on the same side, namely `BGH`, `GHD`, equal to two right angles.
 
 For, if the angle `AGH` is unequal to the angle `GHD`, one of them is greater.
 
-Let the angle `AGH` be greater. <lb n="15"/>
+Let the angle `AGH` be greater. 
 
-Let the angle `BGH` be added to each; therefore the angles `AGH`, `BGH` are greater than the angles `BGH`, `GHD`. <pb n="312"/><lb n="20"/>
+Let the angle `BGH` be added to each; therefore the angles `AGH`, `BGH` are greater than the angles `BGH`, `GHD`.
 
 But the angles `AGH`, `BGH` are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] 
 
@@ -37,15 +37,13 @@ Therefore the angle `AGH` is not unequal to the angle `GHD`,
 
 - and is therefore equal to it.
 
-<!-- <lb n="30"/> -->
-
 Again, the angle `AGH` is equal to the angle `EGB`; [<a href="/elem.1.15">I. 15</a>] 
 
 - therefore the angle `EGB` is also equal to the angle `GHD`. [<a href="/elem.1.c.n.1">C.N. 1</a>]
 
 Let the angle `BGH` be added to each; 
 
-- therefore the angles `EGB`, `BGH` are equal to the <lb n="35"/>angles `BGH`, `GHD`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
+- therefore the angles `EGB`, `BGH` are equal to the angles `BGH`, `GHD`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
 
 But the angles `EGB`, `BGH` are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] 
 

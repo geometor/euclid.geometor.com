@@ -15,19 +15,19 @@ In parallelogrammic areasi [^1] the opposite sides and angles are equal to one a
 
 ===
 
-Let `ACDB` be a parallelogrammic area, and `BC` its diameter; <pb n="324"/><lb n="5"/>I say that the opposite sides and angles of the parallelogram `ACDB` are equal to one another, and the diameter `BC` bisects it. 
+Let `ACDB` be a parallelogrammic area, and `BC` its diameter; I say that the opposite sides and angles of the parallelogram `ACDB` are equal to one another, and the diameter `BC` bisects it. 
 
-For, since `AB` is parallel to `CD`, and the straight line `BC` has fallen <lb n="10"/> upon them, 
+For, since `AB` is parallel to `CD`, and the straight line `BC` has fallen  upon them, 
 
 - the alternate angles `ABC`, `BCD` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
 
-Again, since `AC` is parallel to `BD`, and `BChas` fallen upon them, <lb n="15"/>
+Again, since `AC` is parallel to `BD`, and `BChas` fallen upon them, 
 
 - the alternate angles `ACB`, `CBD` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
 
-Therefore `ABC`, `DCB`[^2] are two triangles having the two angles `ABC`, `BCA` equal to the two angles `DCB`, `CBD` respectively, and one side equal to one side, namely that <lb n="20"/>adjoining the equal angles and common to both of them, `BC`; 
+Therefore `ABC`, `DCB`[^2] are two triangles having the two angles `ABC`, `BCA` equal to the two angles `DCB`, `CBD` respectively, and one side equal to one side, namely that adjoining the equal angles and common to both of them, `BC`; 
 
-- therefore they will also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle; [<a href="/elem.1.26">I. 26</a>] therefore the side `AB` is equal to `CD`, <lb n="25"/>and `AC` to `BD`,
+- therefore they will also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle; [<a href="/elem.1.26">I. 26</a>] therefore the side `AB` is equal to `CD`, and `AC` to `BD`,
 
 and further the angle `BAC` is equal to the angle `CDB`.
 
@@ -35,15 +35,15 @@ And, since the angle `ABC` is equal to the angle `BCD`,
 
 - and the angle `CBD` to the angle `ACB`, the whole angle `ABD` is equal to the whole angle `ACD`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
 
-<lb n="30"/>And the angle `BAC` was also proved equal to the angle `CDB`.
+And the angle `BAC` was also proved equal to the angle `CDB`.
 
 Therefore in parallelogrammic areas the opposite sides and angles are equal to one another.
 
 I say, next, that the diameter also bisects the areas.
 
-For, since `AB` is equal to `CD`, <lb n="35"/>and `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB` respectively; 
+For, since `AB` is equal to `CD`, and `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB` respectively; 
 
-- and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is also equal to `DB`, <lb n="40"/>and the triangle `ABC` is equal to the triangle `DCB`. [<a href="/elem.1.4">I. 4</a>]
+- and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is also equal to `DB`, and the triangle `ABC` is equal to the triangle `DCB`. [<a href="/elem.1.4">I. 4</a>]
 
 Therefore the diameter `BC` bisects the parallelogram `ACDB`.
 

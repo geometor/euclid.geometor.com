@@ -15,12 +15,12 @@ If a straight line set up on a straight line make angles, it will make either tw
 
 ===
 
-For let any straight line `AB` set up on the straight line <lb n="5"/>`CD` make the angles `CBA`, `ABD`;
+For let any straight line `AB` set up on the straight line `CD` make the angles `CBA`, `ABD`;
 
 I say that the angles `CBA`, `ABD` are either two right angles or equal to two right angles. 
 
 
-Now, if the angle `CBA` is equal to <lb n="10"/>the angle `ABD`, 
+Now, if the angle `CBA` is equal to the angle `ABD`, 
 
 - they are two right angles. [<a href="/elem.1.def.10">Def. 10</a>]
 
@@ -28,31 +28,23 @@ But, if not, let `BE` be drawn from the point `B` at right angles to `CD`; [<a h
 
 - therefore the angles `CBE`, `EBD` are two right angles.
 
-<!-- <lb n="15"/> -->
-
 Then, since the angle `CBE` is equal to the two angles `CBA`, `ABE`, 
 
 - let the angle `EBD` be added to each; [^1] therefore the angles `CBE`, `EBD` are equal to the three angles `CBA`, `ABE`, `EBD`. [<title>C. N</title>. 2]
-
-<!-- <lb n="20"/> -->
 
 Again, since the angle `DBA` is equal to the two angles `DBE`, `EBA`, 
 
 - let the angle `ABC` be added to each; therefore the angles `DBA`. `ABC` are equal to the three angles `DBE`, `EBA`, `ABC`. [<title>C. N</title>. 2]
 
-<!-- <lb n="25"/> -->
-
 But the angles `CBE`, `EBD` were also proved equal to the same three angles; 
 
-- and things which are equal to the same thing are also equal to one another; [<title>C. N</title>. 1] therefore the angles `CBE`, `EBD` are also equal to the <lb n="30"/>angles `DBA`, `ABC`.
+- and things which are equal to the same thing are also equal to one another; [<title>C. N</title>. 1] therefore the angles `CBE`, `EBD` are also equal to the angles `DBA`, `ABC`.
 
-<pb n="276"/>But the angles `CBE`, `EBD` are two right angles; 
+But the angles `CBE`, `EBD` are two right angles; 
 
 - therefore the angles `DBA`, `ABC` are also equal to two right angles.
 
 Therefore etc.
-
-
 
 - Q. E. D.
 

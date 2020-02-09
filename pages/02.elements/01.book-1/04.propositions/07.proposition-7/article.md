@@ -11,13 +11,13 @@ taxonomy:
     -
 ---
 
-Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in <lb n="5"/>another point and equal to the former two respectively, namely each to that which has the same extremity with it.
+Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each to that which has the same extremity with it.
 
 
 ===
 
 
-For, if possible, given two straight lines `AC`, `CB` constructed on the straight line `AB` and meeting at the point `C`, let two other straight lines <lb n="10"/>`AD`, `DB` be constructed on the same straight line `AB`, on the same side of it, meeting in another point `D` and equal to the former two respectively, namely each to that which has the same extremity with it, so that `CA` is <lb n="15"/>equal to `DA` which has the same extremity `A` with it, and <pb n="259"/>`CB` to `DB` which has the same extremity `B` with it; and let `CD` be joined.
+For, if possible, given two straight lines `AC`, `CB` constructed on the straight line `AB` and meeting at the point `C`, let two other straight lines `AD`, `DB` be constructed on the same straight line `AB`, on the same side of it, meeting in another point `D` and equal to the former two respectively, namely each to that which has the same extremity with it, so that `CA` is equal to `DA` which has the same extremity `A` with it, and <pb n="259"/>`CB` to `DB` which has the same extremity `B` with it; and let `CD` be joined.
 
 Then, since `AC` is equal to `AD`, 
 
@@ -29,7 +29,7 @@ Again, since `CB` is equal to `DB`,
 
 - the angle `CDB` is also equal to the angle `DCB`.
 
- <lb n="25"/>But it was also proved much greater than it: 
+But it was also proved much greater than it: 
 
 - which is impossible.
 

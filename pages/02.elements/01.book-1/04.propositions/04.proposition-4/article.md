@@ -16,30 +16,31 @@ If two triangles have the two sides equal to two sides respectively, and have th
 
 ===
 
-Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the two sides `DE`, `DF` respectively, namely `AB` to `DE` and `AC` to `DF`, and the angle `BAC` [^5]  equal to the <lb n="10"/>angle `EDF`.
+Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the two sides `DE`, `DF` respectively, namely `AB` to `DE` and `AC` to `DF`, and the angle `BAC` [^5]  equal to the angle `EDF`.
 
-I say that the base `BC` is also equal to the base `EF`, the triangle `ABC` will be equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, that <lb n="15"/>is, the angle `ABC` to the angle `DEF`, and the angle `ACB` to the angle `DFE`.
+I say that the base `BC` is also equal to the base `EF`, the triangle `ABC` will be equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, that is, the angle `ABC` to the angle `DEF`, and the angle `ACB` to the angle `DFE`.
 
 For, if the triangle `ABC` be applied to the triangle `DEF`, 
-- and if the point `A` be placed <lb n="20"/>on the point `D` and the straight line `AB` on `DE`,
+
+- and if the point `A` be placed on the point `D` and the straight line `AB` on `DE`,
+
 then the point `B` will also coincide [^6] with `E`, because `AB` is equal to `DE`.
-<!-- <pb n="248"/><lb n="25"/> -->
 
 Again, `AB` coinciding with `DE`, the straight line `AC` will also coincide with `DF`, because the angle `BAC` is equal to the angle `EDF`; 
+
 - hence the point `C` will also coincide with the point `F`, because `AC` is again equal to `DF`.
-<!-- <lb n="30"/> -->
 
 But `B` also coincided with `E`; hence the base `BC` will coincide with the base `EF`.
 
-[For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible. <lb n="35"/>
-- Therefore the base `BC` will coincide with `EF`][^7] and will be equal to it. [<a href="/elem.1.c.n.4">C.N. 4</a>]
+[For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible. 
+
+- Therefore the base `BC` will coincide with `EF`] [^7] and will be equal to it. [<a href="/elem.1.c.n.4">C.N. 4</a>]
 
 Thus the whole triangle `ABC` will coincide with the whole triangle `DEF`, 
+
 - and will be equal to it.
-<lb n="40"/>
 
 And the remaining angles will also coincide with the remaining angles and will be equal to them, the angle `ABC` to the angle `DEF`, and the angle `ACB` to the angle `DFE`.
-
 
 Therefore etc. [^8]
 

@@ -15,19 +15,19 @@ The straight lines joining equal and parallel straight lines (at the extremities
 
 ===
 
-Let `AB`, `CD` be equal and parallel, and let the straight <lb n="5"/> lines `AC`, `BD` join them (at the extremities which are) in the same directions (respectively); <pb n="323"/>I say that `AC`, `BD` are also equal and parallel.
+Let `AB`, `CD` be equal and parallel, and let the straight  lines `AC`, `BD` join them (at the extremities which are) in the same directions (respectively); I say that `AC`, `BD` are also equal and parallel.
 
 Let `BC` be joined. 
 
-Then, since `AB` is parallel to `CD`, <lb n="10"/> and `BC` has fallen upon them, 
+Then, since `AB` is parallel to `CD`, and `BC` has fallen upon them, 
 
 - the alternate angles `ABC`, `BCD` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
 
 And, since `AB` is equal to `CD`, 
 
-- and `BC` is common, <lb n="15"/>the two sides `AB`, `BC` are equal to the two sides `DC`, `CB`; [^2]  and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is equal to the base `BD`, and the triangle `ABC` is equal to the triangle `DCB`, and the remaining angles will be equal to the remaining angles <lb n="20"/>respectively, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `ACB` is equal to the angle `CBD`.
+- and `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB`; [^2]  and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is equal to the base `BD`, and the triangle `ABC` is equal to the triangle `DCB`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `ACB` is equal to the angle `CBD`.
 
-And, since the straight line `BC` falling on the two straight lines `AC`, `BD` has made the alternate angles equal to one another, <lb n="25"/>
+And, since the straight line `BC` falling on the two straight lines `AC`, `BD` has made the alternate angles equal to one another, 
 
 - `AC` is parallel to `BD`. [<a href="/elem.1.27">I. 27</a>]
 

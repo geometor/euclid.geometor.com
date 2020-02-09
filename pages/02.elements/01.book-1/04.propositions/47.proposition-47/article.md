@@ -15,34 +15,29 @@ In right-angled triangles the square on [^1] the side subtending the right angle
 
 ===
 
-Let `ABC` be a right-angled triangle having the angle <lb n="5"/>`BAC` right;
+Let `ABC` be a right-angled triangle having the angle `BAC` right;
 
 I say that the square on `BC` is equal to the squares on `BA`, `AC`.
 
-For let there be described on `BC` the square `BDEC`, <lb n="10"/>and on `BA`, `AC` the squares `GB`, `HC`; [<a href="/elem.1.46">I. 46</a>] through `A` let `AL` be drawn parallel to either `BD` or `CE`, and let `AD`, `FC` be joined.
-<!-- <lb n="15"/> -->
+For let there be described on `BC` the square `BDEC`, and on `BA`, `AC` the squares `GB`, `HC`; [<a href="/elem.1.46">I. 46</a>] through `A` let `AL` be drawn parallel to either `BD` or `CE`, and let `AD`, `FC` be joined.
 
-Then, since each of the angles `BAC`, `BAG` is right, it follows that with a straight line `BA`, and at the point `A` on it, the two straight lines <lb n="20"/>`AC`, `AG` not lying on the same side make the adjacent angles equal to two right angles; 
+Then, since each of the angles `BAC`, `BAG` is right, it follows that with a straight line `BA`, and at the point `A` on it, the two straight lines `AC`, `AG` not lying on the same side make the adjacent angles equal to two right angles; 
 
 - therefore `CA` is in a straight line with `AG`. [<a href="/elem.1.14">I. 14</a>]
-
-<!-- <lb n="25"/> -->
 
 For the same reason 
 
 - `BA` is also in a straight line with `AH`.
 
-And, since the angle `DBC` is equal to the angle `FBA`: for each is right: let the angle `ABC` be added to each; <lb n="30"/>
+And, since the angle `DBC` is equal to the angle `FBA`: for each is right: let the angle `ABC` be added to each; 
 
 - therefore the whole angle `DBA` is equal to the whole angle `FBC`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
-
-<!-- <pb n="350"/> -->
 
 And, since `DB` is equal to `BC`, and `FB` to `BA`, the two sides `AB`, `BD` are equal to the two sides `FB`, `BC` respectively, [^3]
 
 - and the angle `ABD` is equal to the angle `FBC`; therefore the base `AD` is equal to the base `FC`, and the triangle `ABD` is equal to the triangle `FBC`. [<a href="/elem.1.4">I. 4</a>]
 
-Now the parallelogram `BL` is double of the triangle `ABD`, for they have the same base `BD` and are in the same parallels <lb n="40"/>`BD`, `AL`. [<a href="/elem.1.41">I. 41</a>]
+Now the parallelogram `BL` is double of the triangle `ABD`, for they have the same base `BD` and are in the same parallels `BD`, `AL`. [<a href="/elem.1.41">I. 41</a>]
 
 And the square `GB` is double of the triangle `FBC`, for they again have the same base `FB` and are in the same parallels `FB`, `GC`. [<a href="/elem.1.41">I. 41</a>]
 
@@ -50,7 +45,7 @@ And the square `GB` is double of the triangle `FBC`, for they again have the sam
 
 - Therefore the parallelogram `BL` is also equal to the square `GB`.
 
-Similarly, if `AE`, `BK` be joined, the parallelogram `CL` can also be proved equal to the square `HC`; <lb n="50"/>
+Similarly, if `AE`, `BK` be joined, the parallelogram `CL` can also be proved equal to the square `HC`; 
 
 - therefore the whole square `BDEC` is equal to the two squares `GB`, `HC`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
 
@@ -58,7 +53,7 @@ And the square `BDEC` is described on `BC`,
 
 - and the squares `GB`, `HC` on `BA`, `AC`.
 
-Therefore the square on the side `BC` is equal to the <lb n="55"/>squares on the sides `BA`, `AC`.
+Therefore the square on the side `BC` is equal to the squares on the sides `BA`, `AC`.
 
 Therefore etc.
 

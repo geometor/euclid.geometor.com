@@ -15,29 +15,27 @@ To construct, in a given rectilineal angle, a parallelogram equal to a given rec
 
 ===
 
-Let `ABCD` be the given rectilineal figure [^1] and `E` the given rectilineal angle; <lb n="5"/>thus it is required to construct, in the given angle `E`, a parallelogram equal to the rectilineal figure `ABCD`. 
+Let `ABCD` be the given rectilineal figure [^1] and `E` the given rectilineal angle; thus it is required to construct, in the given angle `E`, a parallelogram equal to the rectilineal figure `ABCD`. 
 
-Let `DB` be joined, and let the parallelogram `FH` be constructed equal to the triangle `ABD`, in the angle `HKF` which is equal to `E`; [<a href="/elem.1.42">I. 42</a>] <lb n="10"/>let the parallelogram `GM` equal to the triangle `DBC` be applied to the straight line `GH`, in the angle `GHM` which is equal to `E`. [<a href="/elem.1.44">I. 44</a>]
+Let `DB` be joined, and let the parallelogram `FH` be constructed equal to the triangle `ABD`, in the angle `HKF` which is equal to `E`; [<a href="/elem.1.42">I. 42</a>] let the parallelogram `GM` equal to the triangle `DBC` be applied to the straight line `GH`, in the angle `GHM` which is equal to `E`. [<a href="/elem.1.44">I. 44</a>]
 
-Then, since the angle `E` is equal to each of the angles `HKF`, `GHM`, <lb n="15"/>
+Then, since the angle `E` is equal to each of the angles `HKF`, `GHM`, 
 
 - the angle `HKF` is also equal to the angle `GHM`. [<a href="/elem.1.c.n.1">C.N. 1</a>]
 
-<!-- <pb n="346"/> -->
-
 Let the angle `KHG` be added to each; therefore the angles `FKH`, `KHG` are equal to the angles `KHG`, `GHM`.
 
-But the angles `FKH`, `KHG` are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] <lb n="20"/>therefore the angles `KHG`, `GHM` are also equal to two right angles.
+But the angles `FKH`, `KHG` are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] therefore the angles `KHG`, `GHM` are also equal to two right angles.
 
-Thus, with a straight line `GH`, and at the point `H` on it, two straight lines `KH`, `HM` not lying on the same side make the adjacent angles equal to two right angles; <lb n="25"/>
+Thus, with a straight line `GH`, and at the point `H` on it, two straight lines `KH`, `HM` not lying on the same side make the adjacent angles equal to two right angles; 
 
 - therefore `KH` is in a straight line with `HM`. [<a href="/elem.1.14">I. 14</a>]
 
 And, since the straight line `HG` falls upon the parallels `KM`, `FG`, the alternate angles `MHG`, `HGF` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
 
-Let the angle `HGL` be added to each; <lb n="30"/>therefore the angles `MHG`, `HGL` are equal to the angles `HGF`, `HGL`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
+Let the angle `HGL` be added to each; therefore the angles `MHG`, `HGL` are equal to the angles `HGF`, `HGL`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
 
-But the angles `MHG`, `HGL` are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] therefore the angles `HGF`, `HGL` are also equal to two right angles. [<a href="/elem.1.c.n.1">C.N. 1</a>] <lb n="35"/>
+But the angles `MHG`, `HGL` are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] therefore the angles `HGF`, `HGL` are also equal to two right angles. [<a href="/elem.1.c.n.1">C.N. 1</a>] 
 
 - Therefore `FG` is in a straight line with `GL`. [<a href="/elem.1.14">I. 14</a>]
 
@@ -45,7 +43,7 @@ And, since `FK` is equal and parallel to `HG`, [<a href="/elem.1.34">I. 34</a>]
 
 - and `HG` to `ML` also,
 
-`KF` is also equal and parallel to `ML`; [<a href="/elem.1.c.n.1">C.N. 1</a>;<a href="/elem.1.30"> I. 30</a>] and the straight lines `KM`, `FL` join them (at their extremities); <lb n="40"/>therefore `KM`, `FL` are also equal and parallel. [<a href="/elem.1.33">I. 33</a>] 
+`KF` is also equal and parallel to `ML`; [<a href="/elem.1.c.n.1">C.N. 1</a>;<a href="/elem.1.30"> I. 30</a>] and the straight lines `KM`, `FL` join them (at their extremities); therefore `KM`, `FL` are also equal and parallel. [<a href="/elem.1.33">I. 33</a>] 
 
 - Therefore `KFLM` is a parallelogram.
 
@@ -53,7 +51,7 @@ And, since the triangle `ABD` is equal to the parallelogram `FH`,
 
 - and `DBC` to `GM`,
 
-<lb n="45"/>the whole rectilineal figure `ABCD` is equal to the whole parallelogram `KFLM`.
+the whole rectilineal figure `ABCD` is equal to the whole parallelogram `KFLM`.
 
 Therefore the parallelogram `KFLM` has been constructed equal to the given rectilineal figure `ABCD`, in the angle `FKM` which is equal to the given angle `E`.
 

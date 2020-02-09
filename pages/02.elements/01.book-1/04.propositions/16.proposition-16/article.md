@@ -15,19 +15,17 @@ In any triangle, if one of the sides be produced, the exterior angle is greater 
 
 ===
 
-Let `ABC` be a triangle, and let one side of it `BC` be produced to `D`; <lb n="5"/>
+Let `ABC` be a triangle, and let one side of it `BC` be produced to `D`; 
 
 I say that the exterior angle [^1] `ACD`is greater than either of the interior and opposite angles [^2] `CBA`, `BAC`.
 
-Let `AC` be bisected at `E` [<a href="/elem.1.10">I. 10</a>], and let `BE` be joined and produced <lb n="10"/>in a straight line to `F`;
+Let `AC` be bisected at `E` [<a href="/elem.1.10">I. 10</a>], and let `BE` be joined and produced in a straight line to `F`;
 
 let `EF` be made equal to `BE`[<a href="/elem.1.3">I. 3</a>], let `FC` be joined [<a href="/elem.1.post.1">Post. 1</a>], and let `AC` be drawn through to `G` [^3] [<a href="/elem.1.post.2">Post. 2</a>].
 
-Then, since `AE` is equal to `EC`, <lb n="15"/>and `BE` to `EF`, 
+Then, since `AE` is equal to `EC`, and `BE` to `EF`, 
 
-- the two sides `AE`, `EB` are equal to the two sides `CE`, `EF` respectively; and the angle `AEB` is equal to the angle `FEC`, for they are vertical angles. [<a href="/elem.1.15">I. 15</a>] <lb n="20"/>Therefore the base `AB` is equal to the base `FC`, and the triangle `ABE` is equal to the triangle `CFE` [^4], and the remaining angles are equal to the remaining angles respectively, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `BAE` is equal to the angle `ECF`.
-
-<!-- <pb n="280"/><lb n="25"/> -->
+- the two sides `AE`, `EB` are equal to the two sides `CE`, `EF` respectively; and the angle `AEB` is equal to the angle `FEC`, for they are vertical angles. [<a href="/elem.1.15">I. 15</a>] Therefore the base `AB` is equal to the base `FC`, and the triangle `ABE` is equal to the triangle `CFE` [^4], and the remaining angles are equal to the remaining angles respectively, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `BAE` is equal to the angle `ECF`.
 
 But the angle `ECD` is greater than the angle `ECF`; [<title>C. N</title>. 5] 
 

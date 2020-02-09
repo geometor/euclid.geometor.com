@@ -22,11 +22,11 @@ Thus it is required to draw from the point `C` a straight line at right angles t
 
 Let a point `D` be taken at random on `AC`; [^1] let `CE` be made equal to `CD`; [<a href="/elem.1.3">I. 3</a>] on `DE` let the equilateral triangle `FDE` be constructed, [<a href="/elem.1.1">I. 1</a>] and let `FC` be joined; 
 
-I say that the straight line `FC` has been drawn at right <lb n="15"/>angles to the given straight line `AB` from `C` the given point on it.
+I say that the straight line `FC` has been drawn at right angles to the given straight line `AB` from `C` the given point on it.
 
 For, since `DC` is equal to `CE`, and `CF` is common, 
 
-- the two sides `DC`, `CF` are equal to the two sides `EC`, <lb n="20"/>`CF` respectively;
+- the two sides `DC`, `CF` are equal to the two sides `EC`, `CF` respectively;
 
 and the base `DF` is equal to the base `FE`; 
 
@@ -34,11 +34,11 @@ and the base `DF` is equal to the base `FE`;
 
  and they are adjacent angles.
 
-But, when a straight line set up on a straight line makes <lb n="25"/>the adjacent angles equal to one another, each of the equal angles is right; [<a href="/elem.1.def.10">Def. 10</a>] 
+But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [<a href="/elem.1.def.10">Def. 10</a>] 
 
 - therefore each of the angles `DCF`, `FCE` is right.
 
-Therefore the straight line `CF` has been drawn at right angles to the given straight line `AB` from the given point <lb n="30"/>`C` on it.
+Therefore the straight line `CF` has been drawn at right angles to the given straight line `AB` from the given point `C` on it.
 
 - Q. E. F.
 

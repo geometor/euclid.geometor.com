@@ -15,19 +15,19 @@ Equal triangles which are on the same base and on the same side are also in the 
 
 ===
 
-Let `ABC`, `DBC` be equal triangles which are on the same base `BC` and on the same side of it; <lb n="5"/>[I say that they are also in the same parallels.] [^1]
+Let `ABC`, `DBC` be equal triangles which are on the same base `BC` and on the same side of it; [I say that they are also in the same parallels.] [^1]
 
 And [For] let `AD` be joined; I say that `AD` is parallel to `BC`.
 
-For, if not, let `AE` be drawn through the point `A` parallel to the straight line <lb n="10"/>`BC`, [<a href="/elem.1.31">I. 31</a>] and let `EC` be joined. 
+For, if not, let `AE` be drawn through the point `A` parallel to the straight line `BC`, [<a href="/elem.1.31">I. 31</a>] and let `EC` be joined. 
 
-Therefore the triangle `ABC` is equal to the triangle `EBC`; for it is on the same base `BC` with it and in the same <lb n="15"/>parallels. [<a href="/elem.1.37">I. 37</a>]
+Therefore the triangle `ABC` is equal to the triangle `EBC`; for it is on the same base `BC` with it and in the same parallels. [<a href="/elem.1.37">I. 37</a>]
 
 But `ABC` is equal to `DBC`; 
 
 - therefore `DBC` is also equal to `EBC`, [<a href="/elem.1.c.n.1">C.N. 1</a>] the greater to the less: which is impossible.
 
-Therefore `AE` is not parallel to `BC`. <lb n="20"/>
+Therefore `AE` is not parallel to `BC`. 
 
 Similarly we can prove that neither is any other straight line except `AD`; 
 

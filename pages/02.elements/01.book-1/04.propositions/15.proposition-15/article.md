@@ -15,36 +15,30 @@ If two straight lines cut one another, they make the vertical angles [^1] equal 
 
 ===
 
-For let the straight lines `AB`, `CD` cut one another at the point `E`; <lb n="5"/>
+For let the straight lines `AB`, `CD` cut one another at the point `E`; 
 
 I say that the angle `AEC` is equal to the angle `DEB`, 
 
 - and the angle `CEB` to the angle `AED`.
 
-For, since the straight line `AE` stands <lb n="10"/>on the straight line `CD`, making the angles `CEA`, `AED`, 
+For, since the straight line `AE` stands on the straight line `CD`, making the angles `CEA`, `AED`, 
 
 - the angles `CEA`, `AED` are equal to two right angles [<a href="/elem.1.13">I. 13</a>]
-
-<!-- <pb n="278"/> -->
 
 Again, since the straight line `DE` stands on the straight line `AB`, making the angles `AED`, `DEB`, 
 
 - the angles `AED`, `DEB` are equal to two right angles. [<a href="/elem.1.13">I. 13</a>]
 
-<!-- <lb n="15"/> -->
-
 But the angles `CEA`, `AED` were also proved equal to two right angles; 
 
 - therefore the angles `CEA`, `AED` are equal to the angles `AED`
-`DEB`. [<a href="/elem.1.post.4">Post. 4</a> and <a href="/elem.1.c.n.1">C. N. 1</a>] Let the angle `AED` be subtracted from each; <lb n="20"/>therefore the remaining angle `CEA` is equal to the remaining angle `BED`. [<a href="/elem.1.c.n.3">C. N. 3</a>]
+`DEB`. [<a href="/elem.1.post.4">Post. 4</a> and <a href="/elem.1.c.n.1">C. N. 1</a>] Let the angle `AED` be subtracted from each; therefore the remaining angle `CEA` is equal to the remaining angle `BED`. [<a href="/elem.1.c.n.3">C. N. 3</a>]
 
 Similarly it can be proved that the angles `CEB`, `DEA` are also equal.
 
 Therefore etc. 
 
 - Q. E. D. 
-
-<!-- <lb n="25"/> -->
 
 <div id="elem.1.15.p.1" class="porism">
        <h1>Porism.</h1>
