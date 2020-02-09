@@ -19,15 +19,24 @@ Given two straight lines constructed on a straight line (from its extremities) a
 
 For, if possible, given two straight lines `AC`, `CB` constructed on the straight line `AB` and meeting at the point `C`, let two other straight lines <lb n="10"/>`AD`, `DB` be constructed on the same straight line `AB`, on the same side of it, meeting in another point `D` and equal to the former two respectively, namely each to that which has the same extremity with it, so that `CA` is <lb n="15"/>equal to `DA` which has the same extremity `A` with it, and <pb n="259"/>`CB` to `DB` which has the same extremity `B` with it; and let `CD` be joined.
 
-Then, since `AC` is equal to `AD`, <span class="center">the angle `ACD` is also equal to the angle `ADC`; [<a href="/elem.1.5">I. 5</a>] <lb n="20"/>therefore the angle `ADC` is greater than the angle `DCB`;</span> therefore the angle `CDB` is much greater than the angle `DCB`.
+Then, since `AC` is equal to `AD`, 
 
-Again, since `CB` is equal to `DB`, <span class="center">the angle `CDB` is also equal to the angle `DCB`.</span> <lb n="25"/>But it was also proved much greater than it: <span class="center">which is impossible.</span>
+- the angle `ACD` is also equal to the angle `ADC`; [<a href="/elem.1.5">I. 5</a>] <lb n="20"/>therefore the angle `ADC` is greater than the angle `DCB`;
+
+ therefore the angle `CDB` is much greater than the angle `DCB`.
+
+Again, since `CB` is equal to `DB`, 
+
+- the angle `CDB` is also equal to the angle `DCB`.
+
+ <lb n="25"/>But it was also proved much greater than it: 
+
+- which is impossible.
 
 Therefore etc.
-<div class="QED">
 
-Q. E. D.
-</div><blockquote n="1-6" class="crit" place="unspecified" anchored="yes">
+- Q. E. D.
+<blockquote n="1-6" class="crit" place="unspecified" anchored="yes">
 
 <p>In an English translation of the enunciation of this proposition it is absolutely necessary, in order to make it intelligible, to insert some words which are not in the Greek. The reason is partly that the Greek enunciation is itself very elliptical, and partly that some words used in it conveyed more meaning than the corresponding words in English do. Particularly is this the case with <foreign lang="greek">οὐ συσταθήσονται ἐπί</foreign> <quote>there shall not be constructed upon,</quote>
  since <foreign lang="greek">συνίστασθαι</foreign> is the regular word for constructing a <em>triangle</em> in particular. Thus a Greek would easily understahd <foreign lang="greek">συσταθήσονται ἐπί</foreign> as meaning the construction of two lines <em>forming a triangle on</em> a given straight line as base; whereas to <quote>construct two straight lines on a straight line</quote>

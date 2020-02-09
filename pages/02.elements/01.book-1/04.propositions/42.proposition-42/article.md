@@ -15,25 +15,26 @@ To construct, in a given rectilineal angle, a parallelogram equal to a given tri
 
 ===
 
-<p>Let <em>ABC</em> be the given triangle, and <em>D</em> the given rectilineal angle; thus it is required to construct in the rectilineal angle <em>D</em> a parallelogram equal to the triangle <em>ABC</em>. </p>
+Let `ABC` be the given triangle, and `D` the given rectilineal angle; thus it is required to construct in the rectilineal angle `D` a parallelogram equal to the triangle `ABC`. 
 
+Let `BC` be bisected at `E`, and let `AE` be joined; on the straight line `EC`, and at the point `E` on it, let the angle `CEF` be constructed equal to the angle `D`; [<a href="/elem.1.23">I. 23</a>] through `A` let `AG` be drawn parallel to `EC`, and [<a href="/elem.1.31">I. 31</a>] through `C` let `CG` be drawn parallel to `EF`.
 
-<p>Let <em>BC</em> be bisected at <em>E</em>, and let <em>AE</em> be joined; on the straight line <em>EC</em>, and at the point <em>E</em> on it, let the angle <em>CEF</em> be constructed equal to the angle <em>D</em>; [<a href="/elem.1.23">I. 23</a>] through <em>A</em> let <em>AG</em> be drawn parallel to <em>EC</em>, and [<a href="/elem.1.31">I. 31</a>] through <em>C</em> let <em>CG</em> be drawn parallel to <em>EF</em>.</p>
+Then `FECG` is a parallelogram.
 
+And, since `BE` is equal to `EC`, 
 
-<p>Then <em>FECG</em> is a parallelogram.</p>
+- the triangle `ABE` is also equal to the triangle `AEC`, for they are on equal bases `BE`, `EC` and in the same parallels `BC`, `AG`; [<a href="/elem.1.38">I. 38</a>] therefore the triangle `ABC` is double of the triangle `AEC`.
 
+<!-- <pb n="340"/> -->
 
-<p>And, since <em>BE</em> is equal to <em>EC</em>, <span class="center">the triangle <em>ABE</em> is also equal to the triangle <em>AEC</em>, for they are on equal bases <em>BE</em>, <em>EC</em> and in the same parallels <em>BC</em>, <em>AG</em>; [<a href="/elem.1.38">I. 38</a>] therefore the triangle <em>ABC</em> is double of the triangle <em>AEC</em>.</span>
-<pb n="340"/></p>
+But the parallelogram `FECG` is also double of the triangle `AEC`, for it has the same base with it and is in the same parallels with it; [<a href="/elem.1.41">I. 41</a>] 
 
+- therefore the parallelogram `FECG` is equal to the triangle `ABC`.
 
-<p>But the parallelogram <em>FECG</em> is also double of the triangle <em>AEC</em>, for it has the same base with it and is in the same parallels with it; [<a href="/elem.1.41">I. 41</a>] <span class="center">therefore the parallelogram <em>FECG</em> is equal to the triangle <em>ABC</em>.</span></p>
+And it has the angle `CEF` equal to the given angle `D`.
 
+Therefore the parallelogram `FECG` has been constructed equal to the given triangle `ABC`, in the angle `CEF` which is equal to `D`. 
 
-<p>And it has the angle <em>CEF</em> equal to the given angle <em>D</em>.</p>
-
-
-<p>Therefore the parallelogram <em>FECG</em> has been constructed equal to the given triangle <em>ABC</em>, in the angle <em>CEF</em> which is equal to <em>D</em>. Q. E. F.</p>
+- Q. E. F.
 
 

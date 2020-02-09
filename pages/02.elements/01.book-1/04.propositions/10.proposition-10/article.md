@@ -1,6 +1,6 @@
 ---
 title:  Proposition 10
-subtitle: 
+subtitle:
 author:
 routes:
   aliases:
@@ -8,33 +8,31 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
+    -
 ---
 
 To bisect a given finite straight line.
 
 ===
 
-<p>Let <em>AB</em> be the given finite straight line.</p>
+Let `AB` be the given finite straight line.
+
+Thus it is required to bisect the finite straight line `AB`.
+
+Let the equilateral triangle `ABC` be constructed on it, [<a href="/elem.1.1">I. 1</a>] and let the angle `ACB` be bisected by the straight line `CD`; [<a href="/elem.1.9">I. 9</a>]
+
+I say that the straight line `AB` has been bisected at the point `D`.
+
+For, since `AC` is equal to `CB`, and `CD` is common,
+
+- the two sides `AC`, `CD` are equal to the two sides `BC`, `CD` respectively;
+
+and the angle `ACD` is equal to the angle `BCD`;
+
+- therefore the base `AD` is equal to the base `BD`. [<a href="/elem.1.4">I. 4</a>]
+
+Therefore the given finite straight line `AB` has been bisected at `D`.
+
+- Q. E. F.
 
 
-<p>Thus it is required to bisect the finite straight line <em>AB</em>.</p>
-
-
-<p>Let the equilateral triangle <em>ABC</em> be constructed on it, [<a href="/elem.1.1">I. 1</a>] and let the angle <em>ACB</em> be bisected by the straight line <em>CD</em>; [<a href="/elem.1.9">I. 9</a>]</p>
-
-
-<p>I say that the straight line <em>AB</em> has been bisected at the point <em>D</em>.</p>
-
-
-<p>For, since <em>AC</em> is equal to <em>CB</em>, and <em>CD</em> is common, 
-<span class="center">the two sides <em>AC</em>, <em>CD</em> are equal to the two sides <em>BC</em>, <em>CD</em> respectively;</span> and the angle <em>ACD</em> is equal to the angle <em>BCD</em>; <span class="center">therefore the base <em>AD</em> is equal to the base <em>BD</em>. [<a href="/elem.1.4">I. 4</a>]</span></p>
-
-
-<p>Therefore the given finite straight line <em>AB</em> has been bisected at <em>D</em>.</p>
-
-<div class="QED">
-       
-<p>Q. E. F.</p>
-
-      </div>

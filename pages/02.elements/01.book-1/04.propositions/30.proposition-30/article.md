@@ -15,31 +15,34 @@ Straight lines parallel to the same straight line are also parallel to one anoth
 
 ===
 
-<p>Let each of the straight lines <em>AB</em>, <em>CD</em> be parallel to <em>EF</em>; I say that <em>AB</em> is also parallel to <em>CD</em>. <lb n="5"/></p>
+Let each of the straight lines `AB`, `CD` be parallel to `EF`; I say that `AB` is also parallel to `CD`. <lb n="5"/>
 
+For let the straight line `GK` fall upon them; 
 
-<p>For let the straight line <em>GK</em> fall upon them; </p>
+Then, since the straight line `GK` has fallen on the parallel straight lines `AB`, `EF`, <lb n="10"/>
 
+- the angle `AGK` is equal to the angle `GHF`. [<a href="/elem.1.29">I. 29</a>]
 
-<p>Then, since the straight line <em>GK</em> has fallen on the parallel straight lines <em>AB</em>, <em>EF</em>, <lb n="10"/><span class="center">the angle <em>AGK</em> is equal to the angle <em>GHF</em>. [<a href="/elem.1.29">I. 29</a>]</span></p>
+Again, since the straight line `GK` has fallen on the parallel straight lines `EF`, `CD`, 
 
+- the angle `GHF` is equal to the angle `GKD`. [<a href="/elem.1.29">I. 29</a>]
 
-<p>Again, since the straight line <em>GK</em> has fallen on the parallel straight lines <em>EF</em>, <em>CD</em>, <span class="center">the angle <em>GHF</em> is equal to the angle <em>GKD</em>. [<a href="/elem.1.29">I. 29</a>]</span>
-<lb n="15"/></p>
+<!-- <lb n="15"/> -->
 
+But the angle `AGK` was also proved equal to the angle `GHF`; 
 
-<p>But the angle <em>AGK</em> was also proved equal to the angle <em>GHF</em>; <span class="center">therefore the angle <em>AGK</em> is also equal to the angle <em>GKD</em>; [<a href="/elem.1.c.n.1">C.N. 1</a>]</span> and they are alternate. <lb n="20"/></p>
+- therefore the angle `AGK` is also equal to the angle `GKD`; [<a href="/elem.1.c.n.1">C.N. 1</a>]
 
+and they are alternate. 
+<!-- <lb n="20"/> -->
 
-<p>Therefore <em>AB</em> is parallel to <em>CD</em>.</p>
+Therefore `AB` is parallel to `CD`.
 
-<div class="QED">
+- Q. E. D.
+
+<blockquote n="20" class="crit" place="unspecified" anchored="yes">
        
-<p>Q. E. D.</p>
-
-      </div><blockquote n="20" class="crit" place="unspecified" anchored="yes">
-       
-<p>The usual <em>conclusion</em> in general terms (<quote>Therefore etc.</quote>
-) repeating the enunciation is, curiously enough, wanting at the end of this proposition.</p>
+       The usual <em>conclusion</em> in general terms (<quote>Therefore etc.</quote>
+       ) repeating the enunciation is, curiously enough, wanting at the end of this proposition.
 
       </blockquote>

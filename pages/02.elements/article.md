@@ -26,3 +26,5 @@ taxonomy:
 - Book Subtitles taken from Heiberg edition
 
 - Book Summary taken from Casey Edition
+
+- Element subtitles by Phi

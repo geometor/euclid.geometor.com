@@ -15,35 +15,36 @@ In any triangle, if one of the sides be produced, the exterior angle is equal to
 
 ===
 
-<p>Let <em>ABC</em> be a triangle, and let one side of it <em>BC</em> be produced to <em>D</em>;</p>
+Let `ABC` be a triangle, and let one side of it `BC` be produced to `D`;
+
+I say that the exterior angle `ACD` is equal to the two interior and opposite angles `CAB`, `ABC`, and the three interior angles of the triangle `ABC`, `BCA`, `CAB` are equal to two right angles. <pb n="317"/>
+
+For let `CE` be drawn through the point `C` parallel to the straight line `AB`. [<a href="/elem.1.31">I. 31</a>]
+
+Then, since `AB` is parallel to `CE`, 
+
+- and `AC` has fallen upon them, the alternate angles `BAC`, `ACE` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
+
+Again, since `AB` is parallel to `CE`, 
+
+- and the straight line `BD` has fallen upon them,
+
+the exterior angle `ECD` is equal to the interior and opposite angle `ABC`. [<a href="/elem.1.29">I. 29</a>]
+
+But the angle `ACE` was also proved equal to the angle `BAC`; 
+
+- therefore the whole angle `ACD` is equal to the two interior and opposite angles `BAC`, `ABC`.
+
+Let the angle `ACB` be added to each; 
+
+- therefore the angles `ACD`, `ACB` are equal to the three angles `ABC`, `BCA`, `CAB`.
+
+But the angles `ACD`, `ACB` are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] 
+
+- therefore the angles `ABC`, `BCA`, `CAB` are also equal to two right angles.
+
+Therefore etc.
+
+- Q. E. D.
 
 
-<p>I say that the exterior angle <em>ACD</em> is equal to the two interior and opposite angles <em>CAB</em>, <em>ABC</em>, and the three interior angles of the triangle <em>ABC</em>, <em>BCA</em>, <em>CAB</em> are equal to two right angles. <pb n="317"/></p>
-
-
-<p>For let <em>CE</em> be drawn through the point <em>C</em> parallel to the straight line <em>AB</em>. [<a href="/elem.1.31">I. 31</a>]</p>
-
-
-<p>Then, since <em>AB</em> is parallel to <em>CE</em>, <span class="center">and <em>AC</em> has fallen upon them, the alternate angles <em>BAC</em>, <em>ACE</em> are equal to one another. [<a href="/elem.1.29">I. 29</a>]</span>
-</p>
-
-
-<p>Again, since <em>AB</em> is parallel to <em>CE</em>, <span class="center">and the straight line <em>BD</em> has fallen upon them,</span> the exterior angle <em>ECD</em> is equal to the interior and opposite angle <em>ABC</em>. [<a href="/elem.1.29">I. 29</a>]</p>
-
-
-<p>But the angle <em>ACE</em> was also proved equal to the angle <em>BAC</em>; <span class="center">therefore the whole angle <em>ACD</em> is equal to the two interior and opposite angles <em>BAC</em>, <em>ABC</em>.</span></p>
-
-
-<p>Let the angle <em>ACB</em> be added to each; <span class="center">therefore the angles <em>ACD</em>, <em>ACB</em> are equal to the three angles <em>ABC</em>, <em>BCA</em>, <em>CAB</em>.</span></p>
-
-
-<p>But the angles <em>ACD</em>, <em>ACB</em> are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] <span class="center">therefore the angles <em>ABC</em>, <em>BCA</em>, <em>CAB</em> are also equal to two right angles.</span></p>
-
-
-<p>Therefore etc.</p>
-
-<div class="QED">
-
-<p>Q. E. D.</p>
-
-      </div>

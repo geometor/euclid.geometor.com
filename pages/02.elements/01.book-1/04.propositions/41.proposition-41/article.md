@@ -15,25 +15,22 @@ If a parallelogram have the same base with a triangle and be in the same paralle
 
 ===
 
-<p>For let the parallelogram <em>ABCD</em> have the same base <em>BC</em> with the triangle <em>EBC</em>, and let it be in the same parallels <em>BC</em>, <em>AE</em>;</p>
+For let the parallelogram `ABCD` have the same base `BC` with the triangle `EBC`, and let it be in the same parallels `BC`, `AE`;
+
+I say that the parallelogram `ABCD` is double of the triangle `BEC`.
+
+For let `AC` be joined.
+
+Then the triangle `ABC` is equal to the triangle `EBC`; for it is on the same base `BC` with it and in the same parallels `BC`, `AE`. [<a href="/elem.1.37">I. 37</a>] 
+
+But the parallelogram `ABCD` is double of the triangle `ABC`; 
+
+- for the diameter `AC` bisects it; [<a href="/elem.1.34">I. 34</a>]
+
+ so that the parallelogram `ABCD` is also double of the triangle `EBC`.
+
+Therefore etc.
+
+- Q. E. D.
 
 
-<p>I say that the parallelogram <em>ABCD</em> is double of the triangle <em>BEC</em>.</p>
-
-
-<p>For let <em>AC</em> be joined.</p>
-
-
-<p>Then the triangle <em>ABC</em> is equal to the triangle <em>EBC</em>; for it is on the same base <em>BC</em> with it and in the same parallels <em>BC</em>, <em>AE</em>. [<a href="/elem.1.37">I. 37</a>] </p>
-
-
-<p>But the parallelogram <em>ABCD</em> is double of the triangle <em>ABC</em>; <span class="center">for the diameter <em>AC</em> bisects it; [<a href="/elem.1.34">I. 34</a>]</span> so that the parallelogram <em>ABCD</em> is also double of the triangle <em>EBC</em>.</p>
-
-
-<p>Therefore etc.</p>
-
-<div class="QED">
-
-<p>Q. E. D.</p>
-
-      </div>

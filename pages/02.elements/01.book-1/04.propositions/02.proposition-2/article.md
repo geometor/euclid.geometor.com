@@ -15,35 +15,47 @@ To place at a given point (as an extremity) a straight line equal to a given str
 
 ===
 
+[1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
+[1.1]: /elem.1.1 "Book 1 - Proposition 1"
+[1.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
+[1.post.2]: /elem.1.post.2 "Book 1 - Postulate 2"
+[1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
+[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
+[1.c.n.3]: /elem.1.c.n.3 "Book 1 - Common Notion 3"
+
 Let `A` be the given point, and `BC` the given straight line.
 
-Thus it is required to place at the point `A` (as an extremity) <lb n="5"/>a straight line equal to the given straight line `BC`. 
+Thus it is required to place at the point `A` (as an extremity) a straight line equal to the given straight line `BC`. 
+<!-- <lb n="5"/> -->
 
-From the point `A` to the point `B` let the straight line `AB` be joined; [<a href="/elem.1.post.1">Post. 1</a>] and on it let the equilateral triangle <lb n="10"/>`DAB` be constructed. [<a href="/elem.1.1">I. 1</a>]
+From the point `A` to the point `B` let the straight line `AB` be joined; [1.post.1] and on it let the equilateral triangle <lb n="10"/>`DAB` be constructed. [1.1]
 
-Let the straight lines `AE`, `BF` be produced in a straight line with `DA`, `DB`; [<a href="/elem.1.post.2">Post. 2</a>] with centre `B` and distance `BC` let the <lb n="15"/>circle `CGH` be described; [<a href="/elem.1.post.3">Post. 3</a>] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [<a href="/elem.1.post.3">Post. 3</a>]
+Let the straight lines `AE`, `BF` be produced in a straight line with `DA`, `DB`; [1.post.2] with centre `B` and distance `BC` let the <lb n="15"/>circle `CGH` be described; [1.post.3] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [1.post.3]
 
-Then, since the point `B` is the centre of the circle `CGH`, <span class="center">`BC` is equal to `BG`.</span>
+Then, since the point `B` is the centre of the circle `CGH`, 
+- `BC` is equal to `BG`.
 
 <!-- <lb n="20"/> -->
 
-Again, since the point `D` is the centre of the circle `GKL`, <span class="center">`DL` is equal to `DG`.</span>
+Again, since the point `D` is the centre of the circle `GKL`, 
+- `DL` is equal to `DG`.
 
-And in these `DA` is equal to `DB`; <span class="center">therefore the remainder `AL` is equal to the remainder `BG`. [<a href="/elem.1.c.n.3">C.N. 3</a>]</span>
+And in these `DA` is equal to `DB`; 
+- therefore the remainder `AL` is equal to the remainder `BG`. [1.c.n.3]
 
 <!-- <lb n="25"/> -->
 
-But `BC` was also proved equal to `BG`; <span class="center">therefore each of the straight lines `AL`, `BC` is equal to `BG`.</span>
+But `BC` was also proved equal to `BG`; 
+- therefore each of the straight lines `AL`, `BC` is equal to `BG`.
 
-And things which are equal to the same thing are also equal to one another; [<a href="/elem.1.c.n.1">C.N. 1</a>] <lb n="30"/><span class="center">therefore `AL` is also equal to `BC`.</span>
+And things which are equal to the same thing are also equal to one another; [1.c.n.1] <lb n="30"/>
+- therefore `AL` is also equal to `BC`.
 
 Therefore at the given point `A` the straight line `AL` is placed equal to the given straight line `BC`.
 
-<div class="QED">
+- (Being) what it was required to do.
 
-(Being) what it was required to do.
 
-</div>
 
 [mermaid]
 graph BT

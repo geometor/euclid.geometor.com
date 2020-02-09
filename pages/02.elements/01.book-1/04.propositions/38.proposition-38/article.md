@@ -15,34 +15,32 @@ Triangles which are on equal bases and in the same parallels are equal to one an
 
 ===
 
-<p>Let <em>ABC</em>, <em>DEF</em> be triangles on equal bases <em>BC</em>, <em>EF</em> and in the same parallels <em>BF</em>, <em>AD</em>; I say that the triangle <em>ABC</em> is equal to the triangle <em>DEF</em>. </p>
+Let `ABC`, `DEF` be triangles on equal bases `BC`, `EF` and in the same parallels `BF`, `AD`; I say that the triangle `ABC` is equal to the triangle `DEF`. 
 
 
-<p>For let <em>AD</em> be produced in both directions to <em>G</em>, <em>H</em>; through <em>B</em> let <em>BG</em> be drawn parallel to <em>CA</em>, [<a href="/elem.1.31">I. 31</a>] and through <em>F</em> let <em>FH</em> be drawn parallel to <em>DE</em>.</p>
+For let `AD` be produced in both directions to `G`, `H`; through `B` let `BG` be drawn parallel to `CA`, [<a href="/elem.1.31">I. 31</a>] and through `F` let `FH` be drawn parallel to `DE`.
 
 
-<p>Then each of the figures <em>GBCA</em>, <em>DEFH</em> is a parallelogram; and <em>GBCA</em> is equal to <em>DEFH</em>; <pb n="334"/></p>
+Then each of the figures `GBCA`, `DEFH` is a parallelogram; and `GBCA` is equal to `DEFH`; <pb n="334"/>
 
 
-<p>for they are on equal bases <em>BC</em>, <em>EF</em> and in the same parallels <em>BF</em>, <em>GH</em>. [<a href="/elem.1.36">I. 36</a>]</p>
+for they are on equal bases `BC`, `EF` and in the same parallels `BF`, `GH`. [<a href="/elem.1.36">I. 36</a>]
 
 
-<p>Moreover the triangle <em>ABC</em> is half of the parallelogram <em>GBCA</em>; for the diameter <em>AB</em> bisects it. [<a href="/elem.1.34">I. 34</a>]</p>
+Moreover the triangle `ABC` is half of the parallelogram `GBCA`; for the diameter `AB` bisects it. [<a href="/elem.1.34">I. 34</a>]
 
 
-<p>And the triangle <em>FED</em> is half of the parallelogram <em>DEFH</em>; for the diameter <em>DF</em> bisects it. [<a href="/elem.1.34">I. 34</a>]</p>
+And the triangle `FED` is half of the parallelogram `DEFH`; for the diameter `DF` bisects it. [<a href="/elem.1.34">I. 34</a>]
 
 
-<p>[But the halves of equal things are equal to one another.]</p>
+[But the halves of equal things are equal to one another.]
 
 
-<p>Therefore the triangle <em>ABC</em> is equal to the triangle <em>DEF</em>.</p>
+Therefore the triangle `ABC` is equal to the triangle `DEF`.
 
 
-<p>Therefore etc.</p>
+Therefore etc.
 
-<div class="QED">
+- Q. E. D.
 
-<p>Q. E. D.</p>
 
-      </div>

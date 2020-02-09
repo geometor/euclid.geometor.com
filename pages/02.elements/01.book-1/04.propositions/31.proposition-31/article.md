@@ -1,6 +1,6 @@
 ---
 title:  Proposition 31
-subtitle: 
+subtitle:
 author:
 routes:
   aliases:
@@ -8,26 +8,23 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
+    -
 ---
 
 Through a given point to draw a straight line parallel to a given straight line.
 
 ===
 
-<p>Let <em>A</em> be the given point, and <em>BC</em> the given straight line; thus it is required to draw through the point <em>A</em> a straight line parallel to the straight line <em>BC</em>. <pb n="316"/></p>
+Let `A` be the given point, and `BC` the given straight line; thus it is required to draw through the point `A` a straight line parallel to the straight line `BC`. <pb n="316"/>
+
+Let a point `D` be taken at random on `BC`, and let `AD` be joined; on the straight line `DA`, and at the point `A` on it, let the angle `DAE` be constructed equal to the angle `ADC` [<a href="/elem.1.23">I. 23</a>]; and let the straight line `AF` be produced in a straight line with `EA`.
+
+Then, since the straight line `AD` falling on the two straight lines `BC`, `EF` has made the alternate angles `EAD`, `ADC` equal to one another, 
+
+- therefore `EAF` is parallel to `BC`. [<a href="/elem.1.27">I. 27</a>]
+
+Therefore through the given point `A` the straight line `EAF` has been drawn parallel to the given straight line `BC`.
+
+- Q. E. F.
 
 
-<p>Let a point <em>D</em> be taken at random on <em>BC</em>, and let <em>AD</em> be joined; on the straight line <em>DA</em>, and at the point <em>A</em> on it, let the angle <em>DAE</em> be constructed equal to the angle <em>ADC</em> [<a href="/elem.1.23">I. 23</a>]; and let the straight line <em>AF</em> be produced in a straight line with <em>EA</em>. </p>
-
-
-<p>Then, since the straight line <em>AD</em> falling on the two straight lines <em>BC</em>, <em>EF</em> has made the alternate angles <em>EAD</em>, <em>ADC</em> equal to one another, <span class="center">therefore <em>EAF</em> is parallel to <em>BC</em>. [<a href="/elem.1.27">I. 27</a>]</span></p>
-
-
-<p>Therefore through the given point <em>A</em> the straight line <em>EAF</em> has been drawn parallel to the given straight line <em>BC</em>.</p>
-
-<div class="QED">
-       
-<p>Q. E. F.</p>
-
-      </div>

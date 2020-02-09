@@ -17,29 +17,36 @@ On a given finite straight line[^1] to construct an equilateral triangle.
 
 ===
 
+[1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
+[1.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
+[1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
+[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
+
 Let `AB` be the given finite straight line.[^2]
 
 Thus it is required to construct an equilateral triangle on the straight line `AB`. 
 
-With centre `A` and distance `AB` let the circle `BCD` be described[^3]; [<a href="/elem.1.post.3">Post. 3</a>] again, with centre `B` and distance `BA` let the circle `ACE` be described; [<a href="/elem.1.post.3">Post. 3</a>] and from the point `C`[^4], in which the circles cut one another, to the points `A`, `B` let the straight lines `CA`, `CB` be joined. [<a href="/elem.1.post.1">Post. 1</a>] 
+With centre `A` and distance `AB` let the circle `BCD` be described[^3]; [1.post.3] again, with centre `B` and distance `BA` let the circle `ACE` be described; [1.post.3] and from the point `C`[^4], in which the circles cut one another, to the points `A`, `B` let the straight lines `CA`, `CB` be joined. [1.post.1] 
 
-Now, since the point `A` is the centre of the circle `CDB`, <span class="center">`AC` is equal to `AB`. [<a href="/elem.1.def.15">Def. 15</a>]</span>
+Now, since the point `A` is the centre of the circle `CDB`, 
+- `AC` is equal to `AB`. [1.def.15]
 
-Again, since the point `B` is the centre of the circle `CAE`, <span class="center">`BC` is equal to `BA`. [<a href="/elem.1.def.15">Def. 15</a>]</span>
+Again, since the point `B` is the centre of the circle `CAE`, 
+- `BC` is equal to `BA`. [1.def.15]
 
 But `CA` was also proved equal to `AB`; therefore each of the straight lines `CA`, `CB` is equal to `AB`.
 
-And things which are equal to the same thing are also equal to one another; [<a href="/elem.1.c.n.1">C.N. 1</a>] <span class="center">therefore `CA` is also equal to `CB`.</span>
+And things which are equal to the same thing are also equal to one another; [1.c.n.1] 
+- therefore `CA` is also equal to `CB`.
 
 Therefore the three straight lines `CA`, `AB`, `BC` are equal to one another.[^5]
 
 Therefore the triangle `ABC` is equilateral; and it has been constructed on the given finite straight line `AB`.
 
-<div class="QED">
 
-(Being) what it was required to do.
+- (Being) what it was required to do.
 
-</div>
+
 
 ***
 
@@ -109,5 +116,4 @@ e1_1 --> e1_def15
 
 [^5]: each of the straight lines `CA`, `CB`
     , <foreign lang="greek">ἑκατέρα τῶν ΓΑ, ΓΒ</foreign> and <span class="bold">24. the three straight</span> lines `CA`, `AB`, `BC`, <foreign lang="greek">αἱ τρεῖς αἱ ΓΑ, ΑΒ, ΒΓ</foreign>. I have, here and in all similar expressions, inserted the words <quote>straight lines</quote> which are not in the Greek. The possession of the inflected definite article enables the Greek to omit the words, but this is not possible in English, and it would scarcely be English to write <quote>each of `CA`, `CB`</quote> or <quote>the three `CA`, `AB`, `BC`.</quote>
-
 

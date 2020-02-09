@@ -1,6 +1,6 @@
 ---
 title:  Proposition 3
-subtitle: Construct equal segments  by section
+subtitle: Construct equal segments by section
 author:
 routes:
   aliases:
@@ -18,19 +18,25 @@ Given two unequal straight lines, to cut off from the greater a straight line eq
 
 ===
 
+[1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
+[1.2]: /elem.1.2 "Book 1 - Proposition 2"
+[1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
+[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
+
 Let `AB`, `C` be the-two given unequal straight lines, and let `AB` be the greater of them.
 
 Thus it is required to cut off from `AB` the greater a straight line equal to `C` the less.
 
-At the point `A` let `AD` be placed equal to the straight line `C`; [<a href="/elem.1.2">I. 2</a>] and with centre `A` and distance `AD` let the circle `DEF` be described. [<a href="/elem.1.post.3">Post. 3</a>] <pb n="247"/><span class="center">Now, since the point `A` is the centre of the circle `DEF`, `AE` is equal to `AD`. [<a href="/elem.1.def.15">Def. 15</a>] But `C` is also equal to `AD`. Therefore each of the straight lines `AE`, `C` is equal to `AD`; so that `AE` is also equal to `C`. [<a href="/elem.1.c.n.1">C.N. 1</a>]</span>
+At the point `A` let `AD` be placed equal to the straight line `C`; [1.2] and with centre `A` and distance `AD` let the circle `DEF` be described. [1.post.3] 
+<!-- <pb n="247"/> -->
+Now, since the point `A` is the centre of the circle `DEF`, `AE` is equal to `AD`. [1.def.15] But `C` is also equal to `AD`. 
+- Therefore each of the straight lines `AE`, `C` is equal to `AD`; so that `AE` is also equal to `C`. [1.c.n.1]
 
 Therefore, given the two straight lines `AB`, `C`, from `AB` the greater `AE` has been cut off equal to `C` the less.
 
-<div class="QED">
+- (Being) what it was required to do.
 
-(Being) what it was required to do.
 
-</div>
 
 [mermaid]
 graph BT

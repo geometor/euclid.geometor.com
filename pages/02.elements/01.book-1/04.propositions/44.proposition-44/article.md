@@ -15,38 +15,40 @@ To a given straight line to apply, in a given rectilineal angle, a parallelogram
 
 ===
 
-<p>Let <em>AB</em> be the given straight line, <em>C</em> the given triangle and <em>D</em> the given rectilineal angle; <lb n="5"/>thus it is required to apply to the given straight line <em>AB</em>, in an angle equal to the angle <em>D</em>, a parallelogram equal to the given triangle <em>C</em>.</p>
+Let `AB` be the given straight line, `C` the given triangle and `D` the given rectilineal angle; <lb n="5"/>thus it is required to apply to the given straight line `AB`, in an angle equal to the angle `D`, a parallelogram equal to the given triangle `C`.
 
+Let the parallelogram `BEFG` be constructed equal to the triangle `C`, in the angle `EBG` which is equal to `D` [<a href="/elem.1.42">I. 42</a>]; <lb n="10"/>let it be placed so that `BE` is in a straight line with `AB`; let<pb n="342"/>`FG` be drawn through to `H`, and let `AH` be drawn through `A` parallel to either `BG` or `EF`. [<a href="/elem.1.31">I. 31</a>]
 
-<p>Let the parallelogram <em>BEFG</em> be constructed equal to the triangle <em>C</em>, in the angle <em>EBG</em> which is equal to <em>D</em> [<a href="/elem.1.42">I. 42</a>]; <lb n="10"/>let it be placed so that <em>BE</em> is in a straight line with <em>AB</em>; let<pb n="342"/><em>FG</em> be drawn through to <em>H</em>, and let <em>AH</em> be drawn through <em>A</em> parallel to either <em>BG</em> or <em>EF</em>. [<a href="/elem.1.31">I. 31</a>]</p>
+Let `HB` be joined. 
 
+Then, since the straight line `HF` falls upon the parallels <lb n="15"/>`AH`, `EF`, 
 
-<p>Let <em>HB</em> be joined. </p>
+- the angles `AHF`, `HFE` are equal to two right angles. [<a href="/elem.1.29">I. 29</a>]
 
+Therefore the angles `BHG`, `GFE` are less than two right angles; and straight lines produced indefinitely from angles less than <lb n="20"/>two right angles meet; [<a href="/elem.1.post.5">Post. 5</a>] 
 
-<p>Then, since the straight line <em>HF</em> falls upon the parallels <lb n="15"/><em>AH</em>, <em>EF</em>, <span class="center">the angles <em>AHF</em>, <em>HFE</em> are equal to two right angles. [<a href="/elem.1.29">I. 29</a>]</span> Therefore the angles <em>BHG</em>, <em>GFE</em> are less than two right angles; and straight lines produced indefinitely from angles less than <lb n="20"/>two right angles meet; [<a href="/elem.1.post.5">Post. 5</a>] <span class="center">therefore <em>HB</em>, <em>FE</em>, when produced, will meet.</span></p>
+- therefore `HB`, `FE`, when produced, will meet.
 
+Let them be produced and meet at `K`; through the point `K` let `KL` be drawn parallel to either `EA` or `FH`, [<a href="/elem.1.31">I. 31</a>] and let `HA`, `GB` be produced to the points `L`, `M`. <lb n="25"/>
 
-<p>Let them be produced and meet at <em>K</em>; through the point <em>K</em> let <em>KL</em> be drawn parallel to either <em>EA</em> or <em>FH</em>, [<a href="/elem.1.31">I. 31</a>] and let <em>HA</em>, <em>GB</em> be produced to the points <em>L</em>, <em>M</em>. <lb n="25"/></p>
+Then `HLKF` is a parallelogram, `HK` is its diameter, and `AG`, `ME` are parallelograms. and `LB`, `BF` the so-called complements, about `HK`; 
 
+- therefore `LB` is equal to `BF`. [<a href="/elem.1.43">I. 43</a>]
 
-<p>Then <em>HLKF</em> is a parallelogram, <em>HK</em> is its diameter, and <em>AG</em>, <em>ME</em> are parallelograms. and <em>LB</em>, <em>BF</em> the so-called complements, about <em>HK</em>; <span class="center">therefore <em>LB</em> is equal to <em>BF</em>. [<a href="/elem.1.43">I. 43</a>]</span></p>
+But `BF` is equal to the triangle `C`; <lb n="30"/>
 
+- therefore `LB` is also equal to `C`. [<a href="/elem.1.c.n.1">C.N. 1</a>]
 
-<p>But <em>BF</em> is equal to the triangle <em>C</em>; <lb n="30"/><span class="center">therefore <em>LB</em> is also equal to <em>C</em>. [<a href="/elem.1.c.n.1">C.N. 1</a>]</span></p>
+And, since the angle `GBE` is equal to the angle `ABM`, [<a href="/elem.1.15">I. 15</a>] 
 
+- while the angle `GBE` is equal to `D`, the angle `ABM` is also equal to the angle `D`.
 
-<p>And, since the angle <em>GBE</em> is equal to the angle <em>ABM</em>, [<a href="/elem.1.15">I. 15</a>] <span class="center">while the angle <em>GBE</em> is equal to <em>D</em>, the angle <em>ABM</em> is also equal to the angle <em>D</em>.</span></p>
+Therefore the parallelogram `LB` equal to the given triangle <lb n="35"/>`C` has been applied to the given straight line `AB`, in the angle `ABM` which is equal to `D`.
 
+- Q. E. F.
 
-<p>Therefore the parallelogram <em>LB</em> equal to the given triangle <lb n="35"/><em>C</em> has been applied to the given straight line <em>AB</em>, in the angle <em>ABM</em> which is equal to <em>D</em>.</p>
+<blockquote n="14. since the straight line HF falls...." class="crit" place="unspecified" anchored="yes">
 
-<div class="QED">
-
-<p>Q. E. F.</p>
-
-      </div><blockquote n="14. since the straight line HF falls...." class="crit" place="unspecified" anchored="yes">
-
-<p>The verb is in the aorist (<foreign lang="greek">ὲνέπεσεν</foreign>) here and in similar expressions in the following propositions.</p>
+The verb is in the aorist (<foreign lang="greek">ὲνέπεσεν</foreign>) here and in similar expressions in the following propositions.
 
       </blockquote>

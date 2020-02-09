@@ -3,12 +3,12 @@ title:  Proposition 11
 subtitle:
 author:
 routes:
-  aliases:
-    - /elem.1.11
+aliases:
+  - /elem.1.11
 taxonomy:
-  tag:
-  category:
-    -
+tag:
+category:
+  -
 ---
 
 To draw a straight line at right angles to a given straight line from a given point on it.
@@ -16,25 +16,33 @@ To draw a straight line at right angles to a given straight line from a given po
 
 ===
 
-Let <em>AB</em> be the given straight line, and <em>C</em> the given point on it. <lb n="5"/>
+Let `AB` be the given straight line, and `C` the given point on it. <lb n="5"/>
 
-Thus it is required to draw from the point <em>C</em> a straight line at right angles to the straight line <em>AB</em>.
+Thus it is required to draw from the point `C` a straight line at right angles to the straight line `AB`.
 
-Let a point <em>D</em> be taken at random on <em>AC</em>; <lb n="10"/>let <em>CE</em> be made equal to <em>CD</em>; [<a href="/elem.1.3">I. 3</a>] on <em>DE</em> let the equilateral triangle <em>FDE</em> be constructed, [<a href="/elem.1.1">I. 1</a>] and let <em>FC</em> be joined; 
+Let a point `D` be taken at random on `AC`; <lb n="10"/>let `CE` be made equal to `CD`; [<a href="/elem.1.3">I. 3</a>] on `DE` let the equilateral triangle `FDE` be constructed, [<a href="/elem.1.1">I. 1</a>] and let `FC` be joined; 
 
-I say that the straight line <em>FC</em> has been drawn at right <lb n="15"/>angles to the given straight line <em>AB</em> from <em>C</em> the given point on it.
+I say that the straight line `FC` has been drawn at right <lb n="15"/>angles to the given straight line `AB` from `C` the given point on it.
 
-For, since <em>DC</em> is equal to <em>CE</em>, and <em>CF</em> is common, <span class="center">the two sides <em>DC</em>, <em>CF</em> are equal to the two sides <em>EC</em>, <lb n="20"/><em>CF</em> respectively;</span> and the base <em>DF</em> is equal to the base <em>FE</em>; <span class="center">therefore the angle <em>DCF</em> is equal to the angle <em>ECF</em>; [<a href="/elem.1.8">I. 8</a>]</span> and they are adjacent angles.
+For, since `DC` is equal to `CE`, and `CF` is common, 
 
-But, when a straight line set up on a straight line makes <lb n="25"/>the adjacent angles equal to one another, each of the equal angles is right; [<a href="/elem.1.def.10">Def. 10</a>] <span class="center">therefore each of the angles <em>DCF</em>, <em>FCE</em> is right.</span>
+- the two sides `DC`, `CF` are equal to the two sides `EC`, <lb n="20"/>`CF` respectively;
 
-Therefore the straight line <em>CF</em> has been drawn at right angles to the given straight line <em>AB</em> from the given point <lb n="30"/><em>C</em> on it.
+and the base `DF` is equal to the base `FE`; 
 
-<div class="QED">
+- therefore the angle `DCF` is equal to the angle `ECF`; [<a href="/elem.1.8">I. 8</a>]
 
-Q. E. F.
+ and they are adjacent angles.
 
-</div>
+But, when a straight line set up on a straight line makes <lb n="25"/>the adjacent angles equal to one another, each of the equal angles is right; [<a href="/elem.1.def.10">Def. 10</a>] 
+
+- therefore each of the angles `DCF`, `FCE` is right.
+
+Therefore the straight line `CF` has been drawn at right angles to the given straight line `AB` from the given point <lb n="30"/>`C` on it.
+
+- Q. E. F.
+
+
 [mermaid]
 graph BT
 classDef default fill:#CCC,stroke:#333,stroke-width:1px,cursor:pointer;

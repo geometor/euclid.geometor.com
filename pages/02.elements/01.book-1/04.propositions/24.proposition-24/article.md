@@ -15,43 +15,40 @@ If two triangles have the two sides equal to two sides respectively, but have th
 
 ===
 
-<p>Let <em>ABC</em>, <em>DEF</em> be two triangles having the two sides <em>AB</em>, <em>AC</em> equal to the two sides <em>DE</em>, <em>DF</em> respectively, namely <em>AB</em> to <em>DE</em>, and <em>AC</em> to <em>DF</em>, and let the angle at <em>A</em> be greater than the angle at <em>D</em>;</p>
+Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the two sides `DE`, `DF` respectively, namely `AB` to `DE`, and `AC` to `DF`, and let the angle at `A` be greater than the angle at `D`;
 
+I say that the base `BC` is also greater than the base `EF`. [^1]
 
-<p>I say that the base <em>BC</em> is also greater than the base <em>EF</em>. <lb n="10"/></p>
+For, since the angle `BAC` is greater than the angle `EDF`, let there be constructed, on the straight line `DE`, and at the point `D` on it, the angle `EDG`
+<lb n="15"/>equal to the angle `BAC`; [<a href="/elem.1.23">I. 23</a>] let `DG` be made equal to either of the two straight lines `AC`, `DF`, and let `EG`, `FG` be joined. 
+<!-- <pb n="297"/> -->
 
+Then, since `AB` is equal to `DE`, and `AC` to `DG`, <lb n="20"/>the two sides `BA`, `AC` are equal to the two sides `ED`, `DG`, respectively; 
 
-<p>For, since the angle <em>BAC</em> is greater than the angle <em>EDF</em>, let there be constructed, on the straight line <em>DE</em>, and at the point <em>D</em> on it, the angle <em>EDG</em>
-<lb n="15"/>equal to the angle <em>BAC</em>; [<a href="/elem.1.23">I. 23</a>] let <em>DG</em> be made equal to either of the two straight lines <em>AC</em>, <em>DF</em>, and let <em>EG</em>, <em>FG</em> be joined. 
-<pb n="297"/></p>
+- and the angle `BAC` is equal to the angle `EDG`; therefore the base `BC` is equal to the base `EG`. [<a href="/elem.1.4">I. 4</a>]
 
+Again, since `DF` is equal to `DG`, <lb n="25"/>
 
-<p>Then, since <em>AB</em> is equal to <em>DE</em>, and <em>AC</em> to <em>DG</em>, <lb n="20"/>the two sides <em>BA</em>, <em>AC</em> are equal to the two sides <em>ED</em>, <em>DG</em>, respectively; <span class="center">and the angle <em>BAC</em> is equal to the angle <em>EDG</em>; therefore the base <em>BC</em> is equal to the base <em>EG</em>. [<a href="/elem.1.4">I. 4</a>]</span></p>
+- the angle `DGF` is also equal to the angle `DFG`; [<a href="/elem.1.5">I. 5</a>] therefore the angle `DFG` is greater than the angle `EGF`.
 
+Therefore the angle `EFG` is much greater than the angle `EGF`.
 
-<p>Again, since <em>DF</em> is equal to <em>DG</em>, <lb n="25"/><span class="center">the angle <em>DGF</em> is also equal to the angle <em>DFG</em>; [<a href="/elem.1.5">I. 5</a>] therefore the angle <em>DFG</em> is greater than the angle <em>EGF</em>.</span></p>
+And, since `EFG` is a triangle having the angle `EFG`
+<lb n="30"/>greater than the angle `EGF`, 
 
+- and the greater angle is subtended by the greater side, [<a href="/elem.1.19">I. 19</a>] the side `EG` is also greater than `EF`.
 
-<p>Therefore the angle <em>EFG</em> is much greater than the angle <em>EGF</em>.</p>
+But `EG` is equal to `BC`. 
 
+- Therefore `BC` is also greater than `EF`.
 
-<p>And, since <em>EFG</em> is a triangle having the angle <em>EFG</em>
-<lb n="30"/>greater than the angle <em>EGF</em>, <span class="center">and the greater angle is subtended by the greater side, [<a href="/elem.1.19">I. 19</a>] the side <em>EG</em> is also greater than <em>EF</em>.</span></p>
+<!-- <lb n="35"/> -->
 
+Therefore etc.
 
-<p>But <em>EG</em> is equal to <em>BC</em>. <span class="center">Therefore <em>BC</em> is also greater than <em>EF</em>.</span>
-<lb n="35"/></p>
+- Q. E. D.
 
+[^1]: I say that the base `BC` is also greater than the base `EF`. 
+    I have naturally left out the well-known words added by Simson in order to avoid the necessity of considering three cases: <quote>Of the two sides `DE`, `DF` let `DE` be the side which is not greater than the other.</quote>
+    I doubt whether Euclid could have been induced to insert the words himself, even if it had been represented to him that their omission meant leaving two possible cases out of consideration. His habit and that of the great Greek geometers was, not to set out all possible cases, but to give as a rule one case, generally the most difficult, as here, and to leave the others to the reader to work out for himself. We have already seen one instance in <a href="/elem.1.7">I. 7</a>.
 
-<p>Therefore etc.</p>
-
-<div class="QED">
-       
-<p>Q. E. D.</p>
-
-      </div><blockquote n="10" class="crit" place="unspecified" anchored="yes">
-       
-<p>I have naturally left out the well-known words added by Simson in order to avoid the necessity of considering three cases: <quote>Of the two sides <em>DE</em>, <em>DF</em> let <em>DE</em> be the side which is not greater than the other.</quote>
- I doubt whether Euclid could have been induced to insert the words himself, even if it had been represented to him that their omission meant leaving two possible cases out of consideration. His habit and that of the great Greek geometers was, not to set out all possible cases, but to give as a rule one case, generally the most difficult, as here, and to leave the others to the reader to work out for himself. We have already seen one instance in <a href="/elem.1.7">I. 7</a>.</p>
-
-      </blockquote>

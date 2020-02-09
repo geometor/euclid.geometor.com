@@ -15,49 +15,57 @@ If on one of the sides of a triangle, from its extremities, there be constructed
 
 ===
 
-<p>On <em>BC</em>, one of the sides of the triangle <em>ABC</em>, from its extremities <em>B</em>, <em>C</em>, let the two straight lines <em>BD</em>, <em>DC</em> be constructed meeting within the triangle;</p>
+On `BC`, one of the sides of the triangle `ABC`, from its extremities `B`, `C`, let the two straight lines `BD`, `DC` be constructed meeting within the triangle;
 
+I say that `BD`, `DC` are less than the remaining two sides <lb n="10"/>of the triangle `BA`, `AC`, but contain an angle `BDC` greater than the angle `BAC`. 
 
-<p>I say that <em>BD</em>, <em>DC</em> are less than the remaining two sides <lb n="10"/>of the triangle <em>BA</em>, <em>AC</em>, but contain an angle <em>BDC</em> greater than the angle <em>BAC</em>. </p>
+For let `BD` be drawn through to `E`.
 
+Then, since in any triangle two sides are greater than the remaining <lb n="15"/>one, [<a href="/elem.1.20">I. 20</a>] 
 
-<p>For let <em>BD</em> be drawn through to <em>E</em>.</p>
+- therefore, in the triangle `ABE`, the two sides `AB`, `AE` are greater than `BE`.
 
+Let `EC` be added to each; 
 
-<p>Then, since in any triangle two sides are greater than the remaining <lb n="15"/>one, [<a href="/elem.1.20">I. 20</a>] <span class="center">therefore, in the triangle <em>ABE</em>, the two sides <em>AB</em>, <em>AE</em> are greater than <em>BE</em>.</span></p>
+- therefore `BA`, `AC` are greater than `BE`, `EC`.
 
+<!-- <lb n="20"/> -->
 
-<p>Let <em>EC</em> be added to each; <span class="center">therefore <em>BA</em>, <em>AC</em> are greater than <em>BE</em>, <em>EC</em>.</span>
-<lb n="20"/></p>
+Again, since, in the triangle `CED`, 
 
+- the two sides `CE`, `ED` are greater than `CD`, let `DB` be added to each; therefore `CE`, `EB` are greater than `CD`, `DB`.
 
-<p>Again, since, in the triangle <em>CED</em>, <span class="center">the two sides <em>CE</em>, <em>ED</em> are greater than <em>CD</em>, let <em>DB</em> be added to each; therefore <em>CE</em>, <em>EB</em> are greater than <em>CD</em>, <em>DB</em>.</span></p>
+But `BA`, `AC` were proved greater than `BE`, `EC`; <lb n="25"/>
 
+- therefore `BA`, `AC` are much greater than `BD`, `DC`.
 
-<p>But <em>BA</em>, <em>AC</em> were proved greater than <em>BE</em>, <em>EC</em>; <lb n="25"/><span class="center">therefore <em>BA</em>, <em>AC</em> are much greater than <em>BD</em>, <em>DC</em>.</span></p>
+Again, since in any triangle the exterior angle is greater than the interior and opposite angle, [<a href="/elem.1.16">I. 16</a>] therefore, in the triangle `CDE`, 
 
+- the exterior angle `BDC` is greater than the angle `CED`.
 
-<p>Again, since in any triangle the exterior angle is greater than the interior and opposite angle, [<a href="/elem.1.16">I. 16</a>] therefore, in the triangle <em>CDE</em>, <span class="center">the exterior angle <em>BDC</em> is greater than the angle <em>CED</em>.</span>
-<lb n="30"/></p>
+<!-- <lb n="30"/> -->
 
+For the same reason, moreover, in the triangle `ABE` also, 
 
-<p>For the same reason, moreover, in the triangle <em>ABE</em> also, <span class="center">the exterior angle <em>CEB</em> is greater than the angle <em>BAC</em>.</span> But the angle <em>BDC</em> was proved greater than the angle <em>CEB</em>; <span class="center">therefore the angle <em>BDC</em> is much greater than the angle <em>BAC</em>.</span>
-<lb n="35"/></p>
+- the exterior angle `CEB` is greater than the angle `BAC`.
 
+But the angle `BDC` was proved greater than the angle `CEB`; 
 
-<p>Therefore etc.</p>
+- therefore the angle `BDC` is much greater than the angle `BAC`.
 
-<div class="QED">
+<!-- <lb n="35"/> -->
+
+Therefore etc.
+
+- Q. E. D.
+
+<blockquote n="2. be constructed...meeting within the triangle." class="crit" place="unspecified" anchored="yes">
        
-<p>Q. E. D.</p>
-
-      </div><blockquote n="2. be constructed...meeting within the triangle." class="crit" place="unspecified" anchored="yes">
-       
-<p>The word <quote>meeting</quote>
- is not in the Greek, where the words are <foreign lang="greek">ἐντὸς συσταθῶσιν. συνίστασθαι</foreign> is the word used of constructing two straight lines <em>to a point</em> (cf. <a href="/elem.1.7">I. 7</a>) or so as to form a triangle; but it is necessary in English to indicate that they <em>meet</em>.</p>
+       The word <quote>meeting</quote>
+       is not in the Greek, where the words are <foreign lang="greek">ἐντὸς συσταθῶσιν. συνίστασθαι</foreign> is the word used of constructing two straight lines <em>to a point</em> (cf. <a href="/elem.1.7">I. 7</a>) or so as to form a triangle; but it is necessary in English to indicate that they <em>meet</em>.
 
       </blockquote><blockquote n="3. the straight lines so constructed." class="crit" place="unspecified" anchored="yes">
        
-<p>Observe the elegant brevity of the Greek <foreign lang="greek">αἱ συσταθεῖσαι</foreign>.</p>
+Observe the elegant brevity of the Greek <foreign lang="greek">αἱ συσταθεῖσαι</foreign>.
 
       </blockquote>

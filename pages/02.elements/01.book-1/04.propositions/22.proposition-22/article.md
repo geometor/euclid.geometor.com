@@ -15,52 +15,57 @@ Out of three straight lines, which are equal to three given straight lines, to c
 
 ===
 
-<p>Let the three given straight lines be <em>A</em>, <em>B</em>, <em>C</em>, and of these let two taken together in any manner be greater than the remaining one, namely <em>A</em>, <em>B</em> greater than <em>C</em>, <span class="center"><em>A</em>, <em>C</em> greater than <em>B</em>,</span> and <em>B</em>, <em>C</em> greater than <em>A</em>; thus it is required to construct a triangle out of straight lines equal to <em>A</em>, <em>B</em>, <em>C</em>. </p>
+Let the three given straight lines be `A`, `B`, `C`, and of these let two taken together in any manner be greater than the remaining one, namely `A`, `B` greater than `C`, 
+
+- `A`, `C` greater than `B`,
+
+nd `B`, `C` greater than `A`; thus it is required to construct a triangle out of straight lines equal to `A`, `B`, `C`. 
 
 
-<p>Let there be set out a straight line <em>DE</em>, terminated at <em>D</em> but of infinite length in the direction of <em>E</em>, and let <em>DF</em> be made equal to <em>A</em>, <em>FG</em> equal to <em>B</em>, and <em>GH</em> equal to <em>C</em>. [<a href="/elem.1.3">I. 3</a>]</p>
+Let there be set out a straight line `DE`, terminated at `D` but of infinite length in the direction of `E`, and let `DF` be made equal to `A`, `FG` equal to `B`, and `GH` equal to `C`. [<a href="/elem.1.3">I. 3</a>]
 
+With centre `F` and distance `FD` let the circle `DKL` be described; again, with centre `G` and distance `GH` let the circle `KLH` be described; and let `KF`, `KG` be joined;
 
-<p>With centre <em>F</em> and distance <em>FD</em> let the circle <em>DKL</em> be described; again, with centre <em>G</em> and distance <em>GH</em> let the circle <em>KLH</em> be described; and let <em>KF</em>, <em>KG</em> be joined;</p>
+I say that the triangle `KFG` has been constructed out of three straight lines equal to `A`, `B`, `C`. <pb n="293"/>
 
+For, since the point `F` is the centre of the circle `DKL`, 
 
-<p>I say that the triangle <em>KFG</em> has been constructed out of three straight lines equal to <em>A</em>, <em>B</em>, <em>C</em>. <pb n="293"/></p>
+- `FD` is equal to `FK`.
 
+But `FD` is equal to `A`; 
 
-<p>For, since the point <em>F</em> is the centre of the circle <em>DKL</em>, <span class="center"><em>FD</em> is equal to <em>FK</em>.</span></p>
+- therefore `KF` is also equal to `A`.
 
+Again, since the point `G` is the centre of the circle `LKH`, 
 
-<p>But <em>FD</em> is equal to <em>A</em>; <span class="center">therefore <em>KF</em> is also equal to <em>A</em>.</span></p>
+- `GH` is equal to `GK`.
 
+But `GH` is equal to `C`; 
 
-<p>Again, since the point <em>G</em> is the centre of the circle <em>LKH</em>, <span class="center"><em>GH</em> is equal to <em>GK</em>.</span></p>
+- therefore `KG` is also equal to `C`. And `FG` is also equal to `B`;
 
+therefore the three straight lines `KF`, `FG`, `GK` are equal to the three straight lines `A`, `B`, `C`.
 
-<p>But <em>GH</em> is equal to <em>C</em>; <span class="center">therefore <em>KG</em> is also equal to <em>C</em>. And <em>FG</em> is also equal to <em>B</em>;</span> therefore the three straight lines <em>KF</em>, <em>FG</em>, <em>GK</em> are equal to the three straight lines <em>A</em>, <em>B</em>, <em>C</em>.</p>
+Therefore out of the three straight lines `KF`, `FG`, `GK`, which are equal to the three given straight lines `A`, `B`, `C`, the triangle `KFG` has been constructed.
 
+- Q. E. F.
 
-<p>Therefore out of the three straight lines <em>KF</em>, <em>FG</em>, <em>GK</em>, which are equal to the three given straight lines <em>A</em>, <em>B</em>, <em>C</em>, the triangle <em>KFG</em> has been constructed.</p>
-
-<div class="QED">
+<blockquote n="2-4" class="crit" place="unspecified" anchored="yes">
        
-<p>Q. E. F.</p>
-
-      </div><blockquote n="2-4" class="crit" place="unspecified" anchored="yes">
-       
-<p>This is the first case in the <title>Elements</title> of a <foreign lang="greek">διορισμός</foreign> to a problem in the sense of a statement of the conditions or limits of the possibility of a solution. The criterion is of course supplied by the preceding proposition.</p>
+This is the first case in the <title>Elements</title> of a <foreign lang="greek">διορισμός</foreign> to a problem in the sense of a statement of the conditions or limits of the possibility of a solution. The criterion is of course supplied by the preceding proposition.
 
       </blockquote><blockquote n="2. thus it is necessary." class="crit" place="unspecified" anchored="yes">
        
-<p>This is usually translated (e.g. by Williamson and Simson) <quote><title>But</title> it is necessary,</quote>
- which is however inaccurate, since the Greek is not <foreign lang="greek">δεῖ δέ</foreign> but <foreign lang="greek">δεῖ δή</foreign>. The words are the same as those used to introduce the <foreign lang="greek">διορισμός</foreign> in the other sense of the <quote>definition</quote>
- or <quote>particular statement</quote>
- of a construction to be effected. Hence, as in the latter case we say <quote>thus it is required</quote>
- (e.g. to bisect the finite straight line <em>AB</em>, <a href="/elem.1.10">I. 10</a>), we should here translate <quote><em>thus</em> it is necessary.</quote>
-</p>
+       This is usually translated (e.g. by Williamson and Simson) <quote><title>But</title> it is necessary,</quote>
+       which is however inaccurate, since the Greek is not <foreign lang="greek">δεῖ δέ</foreign> but <foreign lang="greek">δεῖ δή</foreign>. The words are the same as those used to introduce the <foreign lang="greek">διορισμός</foreign> in the other sense of the <quote>definition</quote>
+       or <quote>particular statement</quote>
+       of a construction to be effected. Hence, as in the latter case we say <quote>thus it is required</quote>
+       (e.g. to bisect the finite straight line `AB`, <a href="/elem.1.10">I. 10</a>), we should here translate <quote><em>thus</em> it is necessary.</quote>
+
 
       </blockquote><blockquote n="4" class="crit" place="unspecified" anchored="yes">
        
-<p>To this enunciation all the MSS. and Boethius add, after the <foreign lang="greek">διορισμός</foreign>, the words <quote>because in any triangle two sides taken together in any manner are greater than the remaining one.</quote>
- But this explanation has the appearance of a gloss, and it is omitted by Proclus and Campanus. Moreover there is no corresponding addition to the <foreign lang="greek">διορισμός</foreign> of <a href="/elem.6.28">VI. 28</a>.</p>
+       To this enunciation all the MSS. and Boethius add, after the <foreign lang="greek">διορισμός</foreign>, the words <quote>because in any triangle two sides taken together in any manner are greater than the remaining one.</quote>
+       But this explanation has the appearance of a gloss, and it is omitted by Proclus and Campanus. Moreover there is no corresponding addition to the <foreign lang="greek">διορισμός</foreign> of <a href="/elem.6.28">VI. 28</a>.
 
       </blockquote>

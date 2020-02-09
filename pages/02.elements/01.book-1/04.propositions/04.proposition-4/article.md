@@ -20,17 +20,22 @@ Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the t
 
 I say that the base `BC` is also equal to the base `EF`, the triangle `ABC` will be equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, that <lb n="15"/>is, the angle `ABC` to the angle `DEF`, and the angle `ACB` to the angle `DFE`.
 
-For, if the triangle `ABC` be applied to the triangle `DEF`, <span class="center">and if the point `A` be placed <lb n="20"/>on the point `D` and the straight line `AB` on `DE`,</span> then the point `B` will also coincide with `E`, because `AB` is equal to `DE`.
-<pb n="248"/><lb n="25"/>
+For, if the triangle `ABC` be applied to the triangle `DEF`, 
+- and if the point `A` be placed <lb n="20"/>on the point `D` and the straight line `AB` on `DE`,
+then the point `B` will also coincide with `E`, because `AB` is equal to `DE`.
+<!-- <pb n="248"/><lb n="25"/> -->
 
-Again, `AB` coinciding with `DE`, the straight line `AC` will also coincide with `DF`, because the angle `BAC` is equal to the angle `EDF`; <span class="center">hence the point `C` will also coincide with the point `F`, because `AC` is again equal to `DF`.</span>
-<lb n="30"/>
+Again, `AB` coinciding with `DE`, the straight line `AC` will also coincide with `DF`, because the angle `BAC` is equal to the angle `EDF`; 
+- hence the point `C` will also coincide with the point `F`, because `AC` is again equal to `DF`.
+<!-- <lb n="30"/> -->
 
 But `B` also coincided with `E`; hence the base `BC` will coincide with the base `EF`.
 
-[For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible. <lb n="35"/><span class="center">Therefore the base `BC` will coincide with `EF`] and will be equal to it. [<a href="/elem.1.c.n.4">C.N. 4</a>]</span>
+[For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible. <lb n="35"/>
+- Therefore the base `BC` will coincide with `EF`] and will be equal to it. [<a href="/elem.1.c.n.4">C.N. 4</a>]
 
-Thus the whole triangle `ABC` will coincide with the whole triangle `DEF`, <span class="center">and will be equal to it.</span>
+Thus the whole triangle `ABC` will coincide with the whole triangle `DEF`, 
+- and will be equal to it.
 <lb n="40"/>
 
 And the remaining angles will also coincide with the remaining angles and will be equal to them, the angle `ABC` to the angle `DEF`, and the angle `ACB` to the angle `DFE`.
@@ -38,11 +43,9 @@ And the remaining angles will also coincide with the remaining angles and will b
 
 Therefore etc. <lb n="45"/>
 
-<div class="QED">
+- (Being) what it was required to prove.
 
-(Being) what it was required to prove.
 
-      </div>
 <blockquote n="1-3" class="crit" place="unspecified" anchored="yes">
 
 <p>It is a fact that Euclid's enunciations not infrequently leave something to be desired in point of clearness and precision. Here he speaks of the triangles having <quote>the angle equal to the angle, namely the angle contained by the equal straight lines</quote>

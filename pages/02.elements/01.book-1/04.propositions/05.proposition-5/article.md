@@ -17,24 +17,52 @@ In isosceles triangles the angles at the base are equal to one another, and, if 
 
 Let `ABC` be an isosceles triangle having the side `AB` <lb n="5"/>equal to the side `AC`; and let the straight lines `BD`, `CE` be produced further in a straight line with `AB`, `AC`. [<a href="/elem.1.post.2">Post. 2</a>]
 
-I say that the angle `ABC` is equal to the angle `ACB`, and the angle `CBD` to the angle `BCE`. <lb n="10"/> 
+I say that the angle `ABC` is equal to the angle `ACB`, and the angle `CBD` to the angle `BCE`. <lb n="10"/>
 
-Let a point `F` be taken at random on `BD`;  from `AE` the greater let `AG` be cut off equal to `AF` the less; [<a href="/elem.1.3">I. 3</a>] and let the straight lines `FC`, `GB` be joined. [<a href="/elem.1.post.1">Post. 1</a>] <lb n="15"/> 
+Let a point `F` be taken at random on `BD`;  from `AE` the greater let `AG` be cut off equal to `AF` the less; [<a href="/elem.1.3">I. 3</a>] and let the straight lines `FC`, `GB` be joined. [<a href="/elem.1.post.1">Post. 1</a>] <lb n="15"/>
 
-Then, since `AF` is equal to `AG` and `AB` to `AC`, <span class="center">the two sides `FA`, `AC` are equal to the two sides `GA`, `AB`, respectively;</span> and they contain a common angle, the angle `FAG`. <lb n="20"/><span class="center">Therefore the base `FC` is equal to the base `GB`, and the triangle `AFC` is equal to the triangle `AGB`,</span> and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, <span class="center">that is, the angle `ACF` to the angle `ABG`, <lb n="25"/>and the angle `AFC` to the angle `AGB`. [<a href="/elem.1.4">I. 4</a>]</span> 
+Then, since `AF` is equal to `AG` and `AB` to `AC`,
 
-And, since the whole `AF` is equal to the whole `AG`, <span class="center">and in these `AB` is equal to `AC`, the remainder `BF` is equal to the remainder `CG`.</span> 
+- the two sides `FA`, `AC` are equal to the two sides `GA`, `AB`, respectively;
 
-But `FC` was also proved equal to `GB`; <lb n="30"/>therefore the two sides `BF`, `FC` are equal to the two sides `CG`, `GB` respectively; and the angle `BFC` is equal to the angle `CGB`, <span class="center">while the base `BC` is common to them;</span> therefore the triangle `BFC` is also equal to the triangle `CGB`, <lb n="35"/>and the remaining angles will be equal to the remaining <pb n="252"/>angles respectively, namely those which the equal sides subtend; <span class="center">therefore the angle `FBC` is equal to the angle `GCB`, and the angle `BCF` to the angle `CBG`.</span> <lb n="40"/>
+and they contain a common angle, the angle `FAG`. <lb n="20"/>
 
+- Therefore the base `FC` is equal to the base `GB`, and the triangle `AFC` is equal to the triangle `AGB`,
 
-Accordingly, since the whole angle `ABG` was proved equal to the angle `ACF`, <span class="center">and in these the angle `CBG` is equal to the angle `BCF`,</span> the remaining angle `ABC` is equal to the remaining angle `ACB`; <lb n="45"/><span class="center">and they are at the base of the triangle `ABC`.</span> But the angle `FBC` was also proved equal to the angle `GCB`; <span class="center">and they are under the base.</span> 
+and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend,
 
-Therefore etc.  
-<div class="QED">
+- that is, the angle `ACF` to the angle `ABG`, <lb n="25"/>and the angle `AFC` to the angle `AGB`. [<a href="/elem.1.4">I. 4</a>]
 
-Q. E. D.  
-      </div><blockquote n="2. the equal straight lines" class="crit" place="unspecified" anchored="yes">
+And, since the whole `AF` is equal to the whole `AG`,
+
+- and in these `AB` is equal to `AC`, the remainder `BF` is equal to the remainder `CG`.
+
+But `FC` was also proved equal to `GB`; <lb n="30"/>therefore the two sides `BF`, `FC` are equal to the two sides `CG`, `GB` respectively; and the angle `BFC` is equal to the angle `CGB`,
+
+- while the base `BC` is common to them;
+
+therefore the triangle `BFC` is also equal to the triangle `CGB`, <lb n="35"/>and the remaining angles will be equal to the remaining <pb n="252"/>angles respectively, namely those which the equal sides subtend;
+- therefore the angle `FBC` is equal to the angle `GCB`, and the angle `BCF` to the angle `CBG`.
+
+ <!-- <lb n="40"/> -->
+
+Accordingly, since the whole angle `ABG` was proved equal to the angle `ACF`,
+
+- and in these the angle `CBG` is equal to the angle `BCF`,
+
+the remaining angle `ABC` is equal to the remaining angle `ACB`; <lb n="45"/>
+
+- and they are at the base of the triangle `ABC`.
+
+But the angle `FBC` was also proved equal to the angle `GCB`;
+
+- and they are under the base.
+
+Therefore etc.
+
+- Q. E. D.
+
+<blockquote n="2. the equal straight lines" class="crit" place="unspecified" anchored="yes">
 
 (meaning the equal <em>sides</em>). Cf. blockquote on the similar expression in <a href="/elem.1.4">Prop. 4</a>, lines 2, 3.
 

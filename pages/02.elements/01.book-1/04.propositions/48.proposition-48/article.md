@@ -15,31 +15,36 @@ If in a triangle the square on one of the sides be equal to the squares on the r
 
 ===
 
-<p>For in the triangle <em>ABC</em> let the square on one side <em>BC</em> be equal to the squares on the sides <em>BA</em>, <em>AC</em>;</p>
+For in the triangle `ABC` let the square on one side `BC` be equal to the squares on the sides `BA`, `AC`;
+
+I say that the angle `BAC` is right.
+
+For let `AD` be drawn from the point `A` at right angles to the straight line `AC`, let `AD` be made equal to `BA`, and let `DC` be joined.
+
+Since `DA` is equal to `AB`, the square on `DA` is also equal to the square on `AB`. 
+
+Let the square on `AC` be added to each; <pb n="369"/>
+
+- therefore the squares on `DA`, `AC` are equal to the squares on `BA`, `AC`.
+
+But the square on `DC` is equal to the squares on `DA`, `AC`, for the angle `DAC` is right; [<a href="/elem.1.47">I. 47</a>] and the square on `BC` is equal to the squares on `BA`, `AC`, for this is the hypothesis; 
+
+- therefore the square on `DC` is equal to the square on `BC`, so that the side `DC` is also equal to `BC`.
+
+And, since `DA` is equal to `AB`, and `AC` is common, 
+
+- the two sides `DA`, `AC` are equal to the two sides `BA`, `AC`;
+
+and the base `DC` is equal to the base `BC`; 
+
+- therefore the angle `DAC` is equal to the angle `BAC`. [<a href="/elem.1.8">I. 8</a>]
+
+But the angle `DAC` is right; 
+
+- therefore the angle `BAC` is also right.
+
+Therefore etc.
+
+- Q. E. D.
 
 
-<p>I say that the angle <em>BAC</em> is right.</p>
-
-
-<p>For let <em>AD</em> be drawn from the point <em>A</em> at right angles to the straight line <em>AC</em>, let <em>AD</em> be made equal to <em>BA</em>, and let <em>DC</em> be joined.</p>
-
-
-<p>Since <em>DA</em> is equal to <em>AB</em>, the square on <em>DA</em> is also equal to the square on <em>AB</em>. </p>
-
-
-<p>Let the square on <em>AC</em> be added to each; <pb n="369"/><span class="center">therefore the squares on <em>DA</em>, <em>AC</em> are equal to the squares on <em>BA</em>, <em>AC</em>.</span></p>
-
-
-<p>But the square on <em>DC</em> is equal to the squares on <em>DA</em>, <em>AC</em>, for the angle <em>DAC</em> is right; [<a href="/elem.1.47">I. 47</a>] and the square on <em>BC</em> is equal to the squares on <em>BA</em>, <em>AC</em>, for this is the hypothesis; <span class="center">therefore the square on <em>DC</em> is equal to the square on <em>BC</em>, so that the side <em>DC</em> is also equal to <em>BC</em>.</span></p>
-
-
-<p>And, since <em>DA</em> is equal to <em>AB</em>, and <em>AC</em> is common, <span class="center">the two sides <em>DA</em>, <em>AC</em> are equal to the two sides <em>BA</em>, <em>AC</em>;</span> and the base <em>DC</em> is equal to the base <em>BC</em>; <span class="center">therefore the angle <em>DAC</em> is equal to the angle <em>BAC</em>. [<a href="/elem.1.8">I. 8</a>]</span> But the angle <em>DAC</em> is right; <span class="center">therefore the angle <em>BAC</em> is also right.</span></p>
-
-
-<p>Therefore etc.</p>
-
-<div class="QED">
-
-<p>Q. E. D.</p>
-
-      </div>

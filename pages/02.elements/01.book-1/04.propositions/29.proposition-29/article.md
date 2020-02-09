@@ -1,6 +1,6 @@
 ---
 title:  Proposition 29
-subtitle: 
+subtitle:
 author:
 routes:
   aliases:
@@ -8,60 +8,60 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
+    -
 ---
 
 A straight line falling on parallel straight lines makes the alternate angles equal to one another, the exterior angle equal to the interior and opposite angle, and the interior angles on the same side equal to two right angles. <lb n="5"/>
 
 ===
 
-<p>For let the straight line <em>EF</em> fall on the parallel straight lines <em>AB</em>, <em>CD</em>;</p>
+For let the straight line `EF` fall on the parallel straight lines `AB`, `CD`;
 
+I say that it makes the alternate angles `AGH`, `GHD` equal, the exterior angle `EGB` equal to the interior and opposite angle `GHD`, and the interior angles on the same <lb n="10"/>side, namely `BGH`, `GHD`, equal to two right angles.
 
-<p>I say that it makes the alternate angles <em>AGH</em>, <em>GHD</em> equal, the exterior angle <em>EGB</em> equal to the interior and opposite angle <em>GHD</em>, and the interior angles on the same <lb n="10"/>side, namely <em>BGH</em>, <em>GHD</em>, equal to two right angles.</p>
+For, if the angle `AGH` is unequal to the angle `GHD`, one of them is greater.
 
+Let the angle `AGH` be greater. <lb n="15"/>
 
-<p>For, if the angle <em>AGH</em> is unequal to the angle <em>GHD</em>, one of them is greater. </p>
+Let the angle `BGH` be added to each; therefore the angles `AGH`, `BGH` are greater than the angles `BGH`, `GHD`. <pb n="312"/><lb n="20"/>
 
+But the angles `AGH`, `BGH` are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] 
 
-<p>Let the angle <em>AGH</em> be greater. <lb n="15"/></p>
+- therefore the angles `BGH`, `GHD` are less than two right angles.
 
+But straight lines produced indefinitely from angles less than two right angles meet; [<a href="/elem.1.post.5">Post. 5</a>] <lb n="25"/>
 
-<p>Let the angle <em>BGH</em> be added to each; therefore the angles <em>AGH</em>, <em>BGH</em> are greater than the angles <em>BGH</em>, <em>GHD</em>. <pb n="312"/><lb n="20"/></p>
+- therefore `AB`, `CD`, if produced indefinitely, will meet; but they do not meet, because they are by hypothesis parallel.
 
+Therefore the angle `AGH` is not unequal to the angle `GHD`, 
 
-<p>But the angles <em>AGH</em>, <em>BGH</em> are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] <span class="center">therefore the angles <em>BGH</em>, <em>GHD</em> are less than two right angles.</span></p>
+- and is therefore equal to it.
 
+<!-- <lb n="30"/> -->
 
-<p>But straight lines produced indefinitely from angles less than two right angles meet; [<a href="/elem.1.post.5">Post. 5</a>] <lb n="25"/><span class="center">therefore <em>AB</em>, <em>CD</em>, if produced indefinitely, will meet; but they do not meet, because they are by hypothesis parallel.</span></p>
+Again, the angle `AGH` is equal to the angle `EGB`; [<a href="/elem.1.15">I. 15</a>] 
 
+- therefore the angle `EGB` is also equal to the angle `GHD`. [<a href="/elem.1.c.n.1">C.N. 1</a>]
 
-<p>Therefore the angle <em>AGH</em> is not unequal to the angle <em>GHD</em>, <span class="center">and is therefore equal to it.</span>
-<lb n="30"/></p>
+Let the angle `BGH` be added to each; 
 
+- therefore the angles `EGB`, `BGH` are equal to the <lb n="35"/>angles `BGH`, `GHD`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
 
-<p>Again, the angle <em>AGH</em> is equal to the angle <em>EGB</em>; [<a href="/elem.1.15">I. 15</a>] <span class="center">therefore the angle <em>EGB</em> is also equal to the angle <em>GHD</em>. [<a href="/elem.1.c.n.1">C.N. 1</a>]</span></p>
+But the angles `EGB`, `BGH` are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] 
 
+- therefore the angles `BGH`, `GHD` are also equal to two right angles.
 
-<p>Let the angle <em>BGH</em> be added to each; <span class="center">therefore the angles <em>EGB</em>, <em>BGH</em> are equal to the <lb n="35"/>angles <em>BGH</em>, <em>GHD</em>. [<a href="/elem.1.c.n.2">C.N. 2</a>]</span></p>
+Therefore etc.
 
+- Q. E. D.
 
-<p>But the angles <em>EGB</em>, <em>BGH</em> are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] <span class="center">therefore the angles <em>BGH</em>, <em>GHD</em> are also equal to two right angles.</span></p>
+<blockquote n="23. straight lines produced indefinitely from angles less than two right angles," class="crit" place="unspecified" anchored="yes">
 
-
-<p>Therefore etc.</p>
-
-<div class="QED">
-       
-<p>Q. E. D.</p>
-
-      </div><blockquote n="23. straight lines produced indefinitely from angles less than two right angles," class="crit" place="unspecified" anchored="yes">
-       
-<p><foreign lang="greek">αἰ δὲ ἀπ: ὲλασσόνων ἢ δύο ὀρθῶν ἐκβαλλόμεναι εἰς ἄπειπον συμπίπτουσιν</foreign>, a variation from the more explicit language of <a href="/elem.1.post.5">Postulate 5</a>. A good deal is left to be understood, namely that the straight lines begin from points at which they meet a transversal, and make with it internal angles on the same side the sum of which is less than two right angles.</p>
+<foreign lang="greek">αἰ δὲ ἀπ: ὲλασσόνων ἢ δύο ὀρθῶν ἐκβαλλόμεναι εἰς ἄπειπον συμπίπτουσιν</foreign>, a variation from the more explicit language of <a href="/elem.1.post.5">Postulate 5</a>. A good deal is left to be understood, namely that the straight lines begin from points at which they meet a transversal, and make with it internal angles on the same side the sum of which is less than two right angles.
 
       </blockquote><blockquote n="26. because they are by hypothesis parallel," class="crit" place="unspecified" anchored="yes">
-       
-<p>literally <quote>because they are supposed parallel,</quote>
- <foreign lang="greek">διὰ τὸ παραλλήλους αὐτὰς ὑποκεῖσθαι</foreign>.</p>
+
+       literally <quote>because they are supposed parallel,</quote>
+       <foreign lang="greek">διὰ τὸ παραλλήλους αὐτὰς ὑποκεῖσθαι</foreign>.
 
       </blockquote>

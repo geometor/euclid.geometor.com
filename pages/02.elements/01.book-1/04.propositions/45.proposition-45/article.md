@@ -15,52 +15,54 @@ To construct, in a given rectilineal angle, a parallelogram equal to a given rec
 
 ===
 
-<p>Let <em>ABCD</em> be the given rectilineal figure and <em>E</em> the given rectilineal angle; <lb n="5"/>thus it is required to construct, in the given angle <em>E</em>, a parallelogram equal to the rectilineal figure <em>ABCD</em>. </p>
+Let `ABCD` be the given rectilineal figure and `E` the given rectilineal angle; <lb n="5"/>thus it is required to construct, in the given angle `E`, a parallelogram equal to the rectilineal figure `ABCD`. 
 
+Let `DB` be joined, and let the parallelogram `FH` be constructed equal to the triangle `ABD`, in the angle `HKF` which is equal to `E`; [<a href="/elem.1.42">I. 42</a>] <lb n="10"/>let the parallelogram `GM` equal to the triangle `DBC` be applied to the straight line `GH`, in the angle `GHM` which is equal to `E`. [<a href="/elem.1.44">I. 44</a>]
 
-<p>Let <em>DB</em> be joined, and let the parallelogram <em>FH</em> be constructed equal to the triangle <em>ABD</em>, in the angle <em>HKF</em> which is equal to <em>E</em>; [<a href="/elem.1.42">I. 42</a>] <lb n="10"/>let the parallelogram <em>GM</em> equal to the triangle <em>DBC</em> be applied to the straight line <em>GH</em>, in the angle <em>GHM</em> which is equal to <em>E</em>. [<a href="/elem.1.44">I. 44</a>]</p>
+Then, since the angle `E` is equal to each of the angles `HKF`, `GHM`, <lb n="15"/>
 
+- the angle `HKF` is also equal to the angle `GHM`. [<a href="/elem.1.c.n.1">C.N. 1</a>]
 
-<p>Then, since the angle <em>E</em> is equal to each of the angles <em>HKF</em>, <em>GHM</em>, <lb n="15"/><span class="center">the angle <em>HKF</em> is also equal to the angle <em>GHM</em>. [<a href="/elem.1.c.n.1">C.N. 1</a>]</span>
-<pb n="346"/></p>
+<!-- <pb n="346"/> -->
 
+Let the angle `KHG` be added to each; therefore the angles `FKH`, `KHG` are equal to the angles `KHG`, `GHM`.
 
-<p>Let the angle <em>KHG</em> be added to each; therefore the angles <em>FKH</em>, <em>KHG</em> are equal to the angles <em>KHG</em>, <em>GHM</em>.</p>
+But the angles `FKH`, `KHG` are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] <lb n="20"/>therefore the angles `KHG`, `GHM` are also equal to two right angles.
 
+Thus, with a straight line `GH`, and at the point `H` on it, two straight lines `KH`, `HM` not lying on the same side make the adjacent angles equal to two right angles; <lb n="25"/>
 
-<p>But the angles <em>FKH</em>, <em>KHG</em> are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] <lb n="20"/>therefore the angles <em>KHG</em>, <em>GHM</em> are also equal to two right angles.</p>
+- therefore `KH` is in a straight line with `HM`. [<a href="/elem.1.14">I. 14</a>]
 
+And, since the straight line `HG` falls upon the parallels `KM`, `FG`, the alternate angles `MHG`, `HGF` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
 
-<p>Thus, with a straight line <em>GH</em>, and at the point <em>H</em> on it, two straight lines <em>KH</em>, <em>HM</em> not lying on the same side make the adjacent angles equal to two right angles; <lb n="25"/><span class="center">therefore <em>KH</em> is in a straight line with <em>HM</em>. [<a href="/elem.1.14">I. 14</a>]</span></p>
+Let the angle `HGL` be added to each; <lb n="30"/>therefore the angles `MHG`, `HGL` are equal to the angles `HGF`, `HGL`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
 
+But the angles `MHG`, `HGL` are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] therefore the angles `HGF`, `HGL` are also equal to two right angles. [<a href="/elem.1.c.n.1">C.N. 1</a>] <lb n="35"/>
 
-<p>And, since the straight line <em>HG</em> falls upon the parallels <em>KM</em>, <em>FG</em>, the alternate angles <em>MHG</em>, <em>HGF</em> are equal to one another. [<a href="/elem.1.29">I. 29</a>]</p>
+- Therefore `FG` is in a straight line with `GL`. [<a href="/elem.1.14">I. 14</a>]
 
+And, since `FK` is equal and parallel to `HG`, [<a href="/elem.1.34">I. 34</a>] 
 
-<p>Let the angle <em>HGL</em> be added to each; <lb n="30"/>therefore the angles <em>MHG</em>, <em>HGL</em> are equal to the angles <em>HGF</em>, <em>HGL</em>. [<a href="/elem.1.c.n.2">C.N. 2</a>]</p>
+- and `HG` to `ML` also,
 
+`KF` is also equal and parallel to `ML`; [<a href="/elem.1.c.n.1">C.N. 1</a>;<a href="/elem.1.30"> I. 30</a>] and the straight lines `KM`, `FL` join them (at their extremities); <lb n="40"/>therefore `KM`, `FL` are also equal and parallel. [<a href="/elem.1.33">I. 33</a>] 
 
-<p>But the angles <em>MHG</em>, <em>HGL</em> are equal to two right angles; [<a href="/elem.1.29">I. 29</a>] therefore the angles <em>HGF</em>, <em>HGL</em> are also equal to two right angles. [<a href="/elem.1.c.n.1">C.N. 1</a>] <lb n="35"/><span class="center">Therefore <em>FG</em> is in a straight line with <em>GL</em>. [<a href="/elem.1.14">I. 14</a>]</span></p>
+- Therefore `KFLM` is a parallelogram.
 
+And, since the triangle `ABD` is equal to the parallelogram `FH`, 
 
-<p>And, since <em>FK</em> is equal and parallel to <em>HG</em>, [<a href="/elem.1.34">I. 34</a>] <span class="center">and <em>HG</em> to <em>ML</em> also,</span>
-<em>KF</em> is also equal and parallel to <em>ML</em>; [<a href="/elem.1.c.n.1">C.N. 1</a>;<a href="/elem.1.30"> I. 30</a>] and the straight lines <em>KM</em>, <em>FL</em> join them (at their extremities); <lb n="40"/>therefore <em>KM</em>, <em>FL</em> are also equal and parallel. [<a href="/elem.1.33">I. 33</a>] <span class="center">Therefore <em>KFLM</em> is a parallelogram.</span></p>
+- and `DBC` to `GM`,
 
+<lb n="45"/>the whole rectilineal figure `ABCD` is equal to the whole parallelogram `KFLM`.
 
-<p>And, since the triangle <em>ABD</em> is equal to the parallelogram <em>FH</em>, <span class="center">and <em>DBC</em> to <em>GM</em>,</span>
-<lb n="45"/>the whole rectilineal figure <em>ABCD</em> is equal to the whole parallelogram <em>KFLM</em>.</p>
+Therefore the parallelogram `KFLM` has been constructed equal to the given rectilineal figure `ABCD`, in the angle `FKM` which is equal to the given angle `E`.
 
+- Q. E. F.
 
-<p>Therefore the parallelogram <em>KFLM</em> has been constructed equal to the given rectilineal figure <em>ABCD</em>, in the angle <em>FKM</em> which is equal to the given angle <em>E</em>.</p>
+<blockquote n="2, 3, 6, 45, 48. rectilineal figure, in the Greek" class="crit" place="unspecified" anchored="yes">
 
-<div class="QED">
-
-<p>Q. E. F.</p>
-
-      </div><blockquote n="2, 3, 6, 45, 48. rectilineal figure, in the Greek" class="crit" place="unspecified" anchored="yes">
-
-<p><quote>rectilineal</quote>
- simply, without <quote>figure,</quote>
- <foreign lang="greek">εὐθύγραμμον</foreign> being here used as a substantive, like the similarly formed <foreign lang="greek">παραλληλόγραμμον</foreign>.</p>
+      <quote>rectilineal</quote>
+      simply, without <quote>figure,</quote>
+      <foreign lang="greek">εὐθύγραμμον</foreign> being here used as a substantive, like the similarly formed <foreign lang="greek">παραλληλόγραμμον</foreign>.
 
       </blockquote>

@@ -15,22 +15,18 @@ On a given straight line and at a point on it to construct a rectilineal angle e
 
 ===
 
-<p>Let <em>AB</em> be the given straight line, <em>A</em> the point on it, and the angle <em>DCE</em> the given rectilineal angle;</p>
+Let `AB` be the given straight line, `A` the point on it, and the angle `DCE` the given rectilineal angle;
+
+thus it is required to construct on the given straight line `AB`, and at the point `A` on it, a rectilineal angle equal to the given rectilineal angle `DCE`. 
+
+On the straight lines `CD`, `CE` respectively let the points `D`, `E` be taken at random; let `DE` be joined, and out of three straight lines which are equal to the three <pb n="295"/>straight lines `CD`, `DE`, `CE` let the triangle `AFG` be constructed in such a way that `CD` is equal to `AF`, `CE` to `AG`, and further `DE` to `FG`.
+
+Then, since the two sides `DC`, `CE` are equal to the two sides `FA`, `AG` respectively, 
+
+- and the base `DE` is equal to the base `FG`, the angle `DCE` is equal to the angle `FAG`. [<a href="/elem.1.8">I. 8</a>]
+
+Therefore on the given straight line `AB`, and at the point `A` on it, the rectilineal angle `FAG` has been constructed equal to the given rectilineal angle `DCE`.
+
+- Q. E. F.
 
 
-<p>thus it is required to construct on the given straight line <em>AB</em>, and at the point <em>A</em> on it, a rectilineal angle equal to the given rectilineal angle <em>DCE</em>. </p>
-
-
-<p>On the straight lines <em>CD</em>, <em>CE</em> respectively let the points <em>D</em>, <em>E</em> be taken at random; let <em>DE</em> be joined, and out of three straight lines which are equal to the three <pb n="295"/>straight lines <em>CD</em>, <em>DE</em>, <em>CE</em> let the triangle <em>AFG</em> be constructed in such a way that <em>CD</em> is equal to <em>AF</em>, <em>CE</em> to <em>AG</em>, and further <em>DE</em> to <em>FG</em>.</p>
-
-
-<p>Then, since the two sides <em>DC</em>, <em>CE</em> are equal to the two sides <em>FA</em>, <em>AG</em> respectively, <span class="center">and the base <em>DE</em> is equal to the base <em>FG</em>, the angle <em>DCE</em> is equal to the angle <em>FAG</em>. [<a href="/elem.1.8">I. 8</a>]</span></p>
-
-
-<p>Therefore on the given straight line <em>AB</em>, and at the point <em>A</em> on it, the rectilineal angle <em>FAG</em> has been constructed equal to the given rectilineal angle <em>DCE</em>.</p>
-
-<div class="QED">
-       
-<p>Q. E. F.</p>
-
-      </div>
