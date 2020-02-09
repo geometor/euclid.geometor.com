@@ -11,11 +11,11 @@ taxonomy:
     - 
 ---
 
-If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle, the straight lines so constructed will be less than the remaining two sides of the triangle, but will contain a greater <lb n="5"/>angle.
+If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle,[^1] the straight lines so constructed [^2] will be less than the remaining two sides of the triangle, but will contain a greater <lb n="5"/>angle.
 
 ===
 
-On `BC`, one of the sides of the triangle `ABC`, from its extremities `B`, `C`, let the two straight lines `BD`, `DC` be constructed meeting within the triangle;
+On `BC`, one of the sides of the triangle `ABC`, from its extremities `B`, `C`, let the two straight lines `BD`, `DC` be constructed  meeting within the triangle;
 
 I say that `BD`, `DC` are less than the remaining two sides <lb n="10"/>of the triangle `BA`, `AC`, but contain an angle `BDC` greater than the angle `BAC`. 
 
@@ -59,13 +59,10 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="2. be constructed...meeting within the triangle." class="crit" place="unspecified" anchored="yes">
-       
-       The word <quote>meeting</quote>
-       is not in the Greek, where the words are <foreign lang="greek">ἐντὸς συσταθῶσιν. συνίστασθαι</foreign> is the word used of constructing two straight lines <em>to a point</em> (cf. <a href="/elem.1.7">I. 7</a>) or so as to form a triangle; but it is necessary in English to indicate that they <em>meet</em>.
 
-      </blockquote><blockquote n="3. the straight lines so constructed." class="crit" place="unspecified" anchored="yes">
-       
-Observe the elegant brevity of the Greek <foreign lang="greek">αἱ συσταθεῖσαι</foreign>.
+[^1]: be constructed...meeting within the triangle.
+  The word <quote>meeting</quote> is not in the Greek, where the words are <foreign lang="greek">ἐντὸς συσταθῶσιν. συνίστασθαι</foreign> is the word used of constructing two straight lines <em>to a point</em> (cf. <a href="/elem.1.7">I. 7</a>) or so as to form a triangle; but it is necessary in English to indicate that they <em>meet</em>.
 
-      </blockquote>
+[^2]: the straight lines so constructed.
+  Observe the elegant brevity of the Greek <foreign lang="greek">αἱ συσταθεῖσαι</foreign>.
+

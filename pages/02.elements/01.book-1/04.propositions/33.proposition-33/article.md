@@ -11,7 +11,7 @@ taxonomy:
     -
 ---
 
-The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are themselves also equal and parallel.
+The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) [^1]  are themselves also equal and parallel.
 
 ===
 
@@ -25,7 +25,7 @@ Then, since `AB` is parallel to `CD`, <lb n="10"/> and `BC` has fallen upon them
 
 And, since `AB` is equal to `CD`, 
 
-- and `BC` is common, <lb n="15"/>the two sides `AB`, `BC` are equal to the two sides `DC`, `CB`; and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is equal to the base `BD`, and the triangle `ABC` is equal to the triangle `DCB`, and the remaining angles will be equal to the remaining angles <lb n="20"/>respectively, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `ACB` is equal to the angle `CBD`.
+- and `BC` is common, <lb n="15"/>the two sides `AB`, `BC` are equal to the two sides `DC`, `CB`; [^2]  and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is equal to the base `BD`, and the triangle `ABC` is equal to the triangle `DCB`, and the remaining angles will be equal to the remaining angles <lb n="20"/>respectively, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `ACB` is equal to the angle `CBD`.
 
 And, since the straight line `BC` falling on the two straight lines `AC`, `BD` has made the alternate angles equal to one another, <lb n="25"/>
 
@@ -37,17 +37,9 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="1. joining...(at the extremities which are) in the same directions (respectively)." class="crit" place="unspecified" anchored="yes">
+[^1]. joining...(at the extremities which are) in the same directions (respectively).
+    I have for clearness' sake inserted the words in brackets though they are not in the original Greek, which has <quote>joining...in the same directions</quote> or <quote>on the same sides,</quote> <foreign lang="greek">ἐπὶ τὰ αυτὰ μέρη ἐπιζευγνύουσαι</foreign>. The expression <quote>tiwards the same parts,</quote> though usage has sanctioned it, is perhaps not quite satisfactory.
 
-      I have for clearness' sake inserted the words in brackets though they are not in the original Greek, which has <quote>joining...in the same directions</quote>
-      or <quote>on the same sides,</quote>
-      <foreign lang="greek">ἐπὶ τὰ αυτὰ μέρη ἐπιζευγνύουσαι</foreign>. The expression <quote>tiwards the same parts,</quote>
-      though usage has sanctioned it, is perhaps not quite satisfactory.
+[^2]: DC, CB
+    and 18. `DCB`. The Greek has <quote> `BC`, `CD`</quote> and <quote>`BCD`</quote> in these places respectively. Euclid is not always careful to write in corresponding order the letters denoting corresponding points in congruent figures. On the contrary, he evidently prefers the alphabetical order, and seems to disdain to alter it for the sake of beginners or others who might be confused by it. In the case of angles alteration is perhaps unnecessary; but in the case of triangles and pairs of corresponding sides I have ventured to alter the order to that which the mathematician of to-day expects.
 
-      </blockquote><blockquote n="15. DC, CB" class="crit" place="unspecified" anchored="yes">
-
-      and 18. `DCB`. The Greek has <quote> `BC`, `CD`</quote>
-      and <quote>`BCD`</quote>
-      in these places respectively. Euclid is not always careful to write in corresponding order the letters denoting corresponding points in congruent figures. On the contrary, he evidently prefers the alphabetical order, and seems to disdain to alter it for the sake of beginners or others who might be confused by it. In the case of angles alteration is perhaps unnecessary; but in the case of triangles and pairs of corresponding sides I have ventured to alter the order to that which the mathematician of to-day expects.
-
-      </blockquote>

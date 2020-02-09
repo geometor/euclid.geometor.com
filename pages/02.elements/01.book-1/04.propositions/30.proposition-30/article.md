@@ -36,13 +36,9 @@ But the angle `AGK` was also proved equal to the angle `GHF`;
 and they are alternate. 
 <!-- <lb n="20"/> -->
 
-Therefore `AB` is parallel to `CD`.
+Therefore `AB` is parallel to `CD`. [^1]
 
 - Q. E. D.
 
-<blockquote n="20" class="crit" place="unspecified" anchored="yes">
-       
-       The usual <em>conclusion</em> in general terms (<quote>Therefore etc.</quote>
-       ) repeating the enunciation is, curiously enough, wanting at the end of this proposition.
+[^1]: The usual <em>conclusion</em> in general terms (<quote>Therefore etc.</quote>) repeating the enunciation is, curiously enough, wanting at the end of this proposition.
 
-      </blockquote>

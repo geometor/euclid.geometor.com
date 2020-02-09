@@ -11,7 +11,7 @@ category:
   -
 ---
 
-If two straight lines cut one another, they make the vertical angles equal to one another.
+If two straight lines cut one another, they make the vertical angles [^1] equal to one another.
 
 ===
 
@@ -49,15 +49,11 @@ Therefore etc.
 <div id="elem.1.15.p.1" class="porism">
        <h1>Porism.</h1>
 
-[From this it is manifest that, if two straight lines cut one another, they will make the angles at the point of section equal to four right angles.
+[From this it is manifest that, if two straight lines cut one another, they will make the angles at the point of section [^2] equal to four right angles.
+</div>
+[^1]: the vertical angles.
+    The difference between <em>adjacent</em> angles (<foreign lang="greek">αἱ ἐφεξῆς γωνίαι</foreign>) and <em>vertical</em> angles (<foreign lang="greek">αἱ κατὰ κορυφὴν γωνίαι</foreign>) is thus explained by Proclus (<xref n="Proc. p. 298, 14-24" from="ROOT" to="DITTO">p. 298, 14-24</xref>). The first term describes the angles made by two straight lines when one only is divded by the other, i.e. when one straight line meets another at a point which is not either of its extremities, but is not itself produced beyond the point of meeting. When the first straight line <em>is</em> produced, so that the lines cross at the point, they make two pairs of <em>vertical</em> angles (which are more clearly described as <em>vertically opposite</em> angles), and which are so called because their convergence is from opposite directions to one point (the intersection of the lines) as vertex (<foreign lang="greek">κορυφή</foreign>).
 
-      </div><blockquote n="1. the vertical angles." class="crit" place="unspecified" anchored="yes">
+[^2]: at the point of section,
+    literally <quote>at the section,</quote> <foreign lang="greek">πρὸς τῇ τομῆ</foreign>.
 
-The difference between <em>adjacent</em> angles (<foreign lang="greek">αἱ ἐφεξῆς γωνίαι</foreign>) and <em>vertical</em> angles (<foreign lang="greek">αἱ κατὰ κορυφὴν γωνίαι</foreign>) is thus explained by Proclus (<xref n="Proc. p. 298, 14-24" from="ROOT" to="DITTO">p. 298, 14-24</xref>). The first term describes the angles made by two straight lines when one only is divded by the other, i.e. when one straight line meets another at a point which is not either of its extremities, but is not itself produced beyond the point of meeting. When the first straight line <em>is</em> produced, so that the lines cross at the point, they make two pairs of <em>vertical</em> angles (which are more clearly described as <em>vertically opposite</em> angles), and which are so called because their convergence is from opposite directions to one point (the intersection of the lines) as vertex (<foreign lang="greek">κορυφή</foreign>).
-
-      </blockquote><blockquote n="26. at the point of section," class="crit" place="unspecified" anchored="yes">
-
-       literally <quote>at the section,</quote>
-       <foreign lang="greek">πρὸς τῇ τομῆ</foreign>.
-
-      </blockquote>

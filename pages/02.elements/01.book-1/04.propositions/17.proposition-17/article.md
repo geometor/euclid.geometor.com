@@ -11,7 +11,7 @@ taxonomy:
     -
 ---
 
-In any triangle two angles taken together in any manner are less than two right angles.
+In any triangle two angles taken together in any manner [^1] are less than two right angles.
 
 ===
 
@@ -35,8 +35,6 @@ Therefore etc.
 
 -  Q. E. D.
 
-<blockquote n="1. taken together in any manner," class="crit" place="unspecified" anchored="yes">
+[^1]: taken together in any manner,
+    <foreign lang="greek">πάντη μεταλαμβανόμεναι</foreign>, i.e. any pair added together.
 
-<foreign lang="greek">πάντη μεταλαμβανόμεναι</foreign>, i.e. any pair added together.
-
-      </blockquote>

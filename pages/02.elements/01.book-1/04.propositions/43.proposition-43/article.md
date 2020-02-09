@@ -11,12 +11,11 @@ taxonomy:
     -
 ---
 
-In any parallelogram the complements of the parallelograms about the diameter are equal to one another.
+In any parallelogram the complements [^1]  of the parallelograms about the diameter are equal to one another.
 
 ===
 
-Let `ABCD` be a parallelogram, and `AC` its diameter; and about `AC` let `EH`, `FG` be parallelograms, and `BK`, `KD`
-<lb n="5"/>the so-called complements;
+Let `ABCD` be a parallelogram, and `AC` its diameter; and about `AC` let `EH`, `FG` be parallelograms, and `BK`, `KD` [^2] the so-called complements;
 
 I say that the complement `BK` is equal to the complement `KD`.
 
@@ -44,15 +43,8 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="1" class="crit" place="unspecified" anchored="yes">
-       <pb n="341"/>
+[^1]: complements,
+    <foreign lang="greek">παραπληρώματα</foreign>, the figures put in to fill up (interstices).
 
-<span class="bold">complements</span>, <foreign lang="greek">παραπληρώματα</foreign>, the figures put in to fill up (interstices).
-
-      </blockquote><blockquote n="4. and about AC...." class="crit" place="unspecified" anchored="yes">
-
-      Euclid's phraseology here and in the next proposition implies that the complements as well as the other parallelograms are <quote>about</quote>
-      the diagonal. The words are here <foreign lang="greek">περὶ δὲ τὴν ΑΓ παραλληλόγραμμα μὲν ἔστω τὰ ΕΘ, ΖΗ, τὰ δὲ λεγόμενα παραπληρώματα τὰ ΒΚ, ΚΔ</foreign>. The expression <quote>the so-called complements</quote>
-      indicates that this technical use of <foreign lang="greek">παραπληρώματα</foreign> was not new, though it might not be universally known.
-
-      </blockquote>
+[^2]: and about AC....
+    Euclid's phraseology here and in the next proposition implies that the complements as well as the other parallelograms are <quote>about</quote> the diagonal. The words are here <foreign lang="greek">περὶ δὲ τὴν ΑΓ παραλληλόγραμμα μὲν ἔστω τὰ ΕΘ, ΖΗ, τὰ δὲ λεγόμενα παραπληρώματα τὰ ΒΚ, ΚΔ</foreign>. The expression <quote>the so-called complements</quote> indicates that this technical use of <foreign lang="greek">παραπληρώματα</foreign> was not new, though it might not be universally known.

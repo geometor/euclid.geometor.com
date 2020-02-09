@@ -33,9 +33,9 @@ and `DE` is common;
 
 But `AB` is also equal to `DC`; [<a href="/elem.1.34">I. 34</a>] therefore the two sides `EA`, `AB` are equal to the two sides <lb n="15"/>`FD`, `DC` respectively,
 
-- and the angle `FDC` is equal to the angle `EAB`, the exterior to the interior; [<a href="/elem.1.29">I. 29</a>] therefore the base `EB` is equal <lb n="20"/>to the base `FC`, and the triangle `EAB` will be equal to the triangle `FDC`. [<a href="/elem.1.4">I. 4</a>]
+- and the angle `FDC`[^1] is equal to the angle `EAB`, the exterior to the interior; [<a href="/elem.1.29">I. 29</a>] therefore the base `EB` is equal <lb n="20"/>to the base `FC`, and the triangle `EAB` will be equal to the triangle `FDC`. [<a href="/elem.1.4">I. 4</a>]
 
-Let `DGE` be subtracted from each; therefore the trapezium `ABGD` which remains is equal to the trapezium `EGCF` which remains. [<a href="/elem.1.c.n.3">C.N. 3</a>] <lb n="25"/>
+Let `DGE` be subtracted [^2] from each; therefore the trapezium `ABGD` which remains is equal to the trapezium `EGCF` which remains. [<a href="/elem.1.c.n.3">C.N. 3</a>] <lb n="25"/>
 
 Let the triangle `GBC` be added to each; therefore the whole parallelogram `ABCD` is equal to the whole parallelogram `EBCF`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
 
@@ -44,14 +44,10 @@ Therefore etc.
 - Q. E. D.
 
 
-<blockquote n="21. FDC." class="crit" place="unspecified" anchored="yes">
+[^1]: FDC
+    The text has <quote>`DFC`.</quote>
 
-The text has <quote>`DFC`.</quote>
 
+[^2]: DGE
+    Euclid speaks of the triangle `DGE` without any explanation that, in the case which he takes (where `AD`, `EF` have no point in common), `BE`, `CD` must meet at a point `G` between the two parallels. He allows this to appear from the figure simply.
 
-</blockquote>
-<blockquote n="22. Let DGE be subtracted." class="crit" place="unspecified" anchored="yes">
-
-Euclid speaks of the triangle `DGE` without any explanation that, in the case which he takes (where `AD`, `EF` have no point in common), `BE`, `CD` must meet at a point `G` between the two parallels. He allows this to appear from the figure simply.
-
-</blockquote>

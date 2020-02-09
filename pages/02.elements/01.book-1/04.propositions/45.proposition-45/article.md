@@ -15,7 +15,7 @@ To construct, in a given rectilineal angle, a parallelogram equal to a given rec
 
 ===
 
-Let `ABCD` be the given rectilineal figure and `E` the given rectilineal angle; <lb n="5"/>thus it is required to construct, in the given angle `E`, a parallelogram equal to the rectilineal figure `ABCD`. 
+Let `ABCD` be the given rectilineal figure [^1] and `E` the given rectilineal angle; <lb n="5"/>thus it is required to construct, in the given angle `E`, a parallelogram equal to the rectilineal figure `ABCD`. 
 
 Let `DB` be joined, and let the parallelogram `FH` be constructed equal to the triangle `ABD`, in the angle `HKF` which is equal to `E`; [<a href="/elem.1.42">I. 42</a>] <lb n="10"/>let the parallelogram `GM` equal to the triangle `DBC` be applied to the straight line `GH`, in the angle `GHM` which is equal to `E`. [<a href="/elem.1.44">I. 44</a>]
 
@@ -59,10 +59,6 @@ Therefore the parallelogram `KFLM` has been constructed equal to the given recti
 
 - Q. E. F.
 
-<blockquote n="2, 3, 6, 45, 48. rectilineal figure, in the Greek" class="crit" place="unspecified" anchored="yes">
+[^1]: rectilineal figure, in the Greek
+    <quote>rectilineal</quote> simply, without <quote>figure,</quote> <foreign lang="greek">εὐθύγραμμον</foreign> being here used as a substantive, like the similarly formed <foreign lang="greek">παραλληλόγραμμον</foreign>.
 
-      <quote>rectilineal</quote>
-      simply, without <quote>figure,</quote>
-      <foreign lang="greek">εὐθύγραμμον</foreign> being here used as a substantive, like the similarly formed <foreign lang="greek">παραλληλόγραμμον</foreign>.
-
-      </blockquote>

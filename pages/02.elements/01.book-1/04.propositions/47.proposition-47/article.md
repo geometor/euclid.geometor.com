@@ -11,7 +11,7 @@ taxonomy:
     -
 ---
 
-In right-angled triangles the square on the side subtending the right angle is equal to the squares on the sides containing the right angle.
+In right-angled triangles the square on [^1] the side subtending the right angle [^2] is equal to the squares on the sides containing the right angle.
 
 ===
 
@@ -38,7 +38,7 @@ And, since the angle `DBC` is equal to the angle `FBA`: for each is right: let t
 
 <!-- <pb n="350"/> -->
 
-And, since `DB` is equal to `BC`, and `FB` to `BA`, the two sides `AB`, `BD` are equal to the two sides `FB`, `BC` respectively, <lb n="35"/>
+And, since `DB` is equal to `BC`, and `FB` to `BA`, the two sides `AB`, `BD` are equal to the two sides `FB`, `BC` respectively, [^3]
 
 - and the angle `ABD` is equal to the angle `FBC`; therefore the base `AD` is equal to the base `FC`, and the triangle `ABD` is equal to the triangle `FBC`. [<a href="/elem.1.4">I. 4</a>]
 
@@ -46,7 +46,7 @@ Now the parallelogram `BL` is double of the triangle `ABD`, for they have the sa
 
 And the square `GB` is double of the triangle `FBC`, for they again have the same base `FB` and are in the same parallels `FB`, `GC`. [<a href="/elem.1.41">I. 41</a>]
 
-[But the doubles of equals are equal to one another.] <lb n="45"/>
+[But the doubles of equals are equal to one another.] [^4]
 
 - Therefore the parallelogram `BL` is also equal to the square `GB`.
 
@@ -64,23 +64,16 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="1. the square on" class="crit" place="unspecified" anchored="yes">
+[^1]: the square on
+    , <foreign lang="greek">τὸ ἀπὸ...τετρἁγωνον</foreign>, the word <foreign lang="greek">ἀναγραφέν</foreign> or <foreign lang="greek">ἀναγεγραμμένον</foreign> being understood.
 
-, <foreign lang="greek">τὸ ἀπὸ...τετρἁγωνον</foreign>, the word <foreign lang="greek">ἀναγραφέν</foreign> or <foreign lang="greek">ἀναγεγραμμένον</foreign> being understood.
+[^2]: subtending the right angle.
+    Here <foreign lang="greek">ὑποτεινούσης</foreign>, <quote>subtending,</quote> is used with the simple accusative (<foreign lang="greek">τὴν ὀρθὴν γωνίαν</foreign>) instead of being followed by <foreign lang="greek">ὑπό</foreign> and the accusative, which seems to be the original and more orthodox construction. Cf. <a href="/elem.1.18">I. 18</a>, note.
 
-      </blockquote><blockquote class="crit" place="unspecified" anchored="yes">
+      
+[^3]: the two sides AB, BD....
+    Euclid actually writes <quote>`DB`, `BA`,</quote> and therefore the equal sides in the two triangles are not mentioned in corresponding order, though he adheres to the words <foreign lang="greek">ἑκατέρα ἑκατέρα</foreign> <quote>respectively.</quote> Here `DB` is equal to `BC` and `BA` to `FB`.
 
-      <span class="bold">subtending the right angle.</span> Here <foreign lang="greek">ὑποτεινούσης</foreign>, <quote>subtending,</quote>
-      is used with the simple accusative (<foreign lang="greek">τὴν ὀρθὴν γωνίαν</foreign>) instead of being followed by <foreign lang="greek">ὑπό</foreign> and the accusative, which seems to be the original and more orthodox construction. Cf. <a href="/elem.1.18">I. 18</a>, blockquote.
+[^4]: [But the doubles of equals are equal to one another.]
+    Heiberg brackets these words as an interpolation, since it quotes a <title>Common Notion</title> which is itself interpolated. Cf. note on <a href="/elem.1.37">I. 37</a>, p. 332, and on interpolated <title>Common Notions</title>, pp. 223-4.
 
-      </blockquote><blockquote n="33. the two sides AB, BD...." class="crit" place="unspecified" anchored="yes">
-
-      Euclid actually writes <quote>`DB`, `BA`,</quote>
-      and therefore the equal sides in the two triangles are not mentioned in corresponding order, though he adheres to the words <foreign lang="greek">ἑκατέρα ἑκατέρα</foreign> <quote>respectively.</quote>
-      Here `DB` is equal to `BC` and `BA` to `FB`.
-
-      </blockquote><blockquote n="44" class="crit" place="unspecified" anchored="yes">
-
-[<span class="bold">But the doubles of equals are equal to one another.</span>] Heiberg brackets these words as an interpolation, since it quotes a <title>Common Notion</title> which is itself interpolated. Cf. blockquotes on <a href="/elem.1.37">I. 37</a>, p. 332, and on interpolated <title>Common Notions</title>, pp. 223-4.
-
-      </blockquote>

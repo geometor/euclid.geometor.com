@@ -15,7 +15,7 @@ Equal triangles which are on the same base and on the same side are also in the 
 
 ===
 
-Let `ABC`, `DBC` be equal triangles which are on the same base `BC` and on the same side of it; <lb n="5"/>[I say that they are also in the same parallels.]
+Let `ABC`, `DBC` be equal triangles which are on the same base `BC` and on the same side of it; <lb n="5"/>[I say that they are also in the same parallels.] [^1]
 
 And [For] let `AD` be joined; I say that `AD` is parallel to `BC`.
 
@@ -37,13 +37,6 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="5" class="crit" place="unspecified" anchored="yes">
-       <pb n="337"/>
+[^1]: [I say that they are also in the same parallels.]
+    Heiberg has proved (<title>Hermes</title>, XXXVIII., 1903, p. 50) from a recently discovered papyrus-fragment (<title>Fayūm towns and their papyri</title>, p. 96, No. IX.) that these words are an interpolation by some one who did not observe that the words <quote>And let `AD` be joined</quote> are part of the <em>setting-out</em> (<foreign lang="greek">ἔκθεσις</foreign>), but took them as belonging to the <em>construction</em> (<foreign lang="greek">κατασκευή</foreign>) and consequently thought that a <foreign lang="greek">διορισμός</foreign> or <quote>definition</quote> (of the thing to be proved) should precede. The interpolator then altered <quote>And</quote> into <quote>For</quote> in the next sentence.
 
-       [<span class="bold">I say that they are also in the same parallels.</span>] Heiberg has proved (<title>Hermes</title>, XXXVIII., 1903, p. 50) from a recently discovered papyrus-fragment (<title>Fayūm towns and their papyri</title>, p. 96, No. IX.) that these words are an interpolation by some one who did not observe that the words <quote>And let `AD` be joined</quote>
-       are part of the <em>setting-out</em> (<foreign lang="greek">ἔκθεσις</foreign>), but took them as belonging to the <em>construction</em> (<foreign lang="greek">κατασκευή</foreign>) and consequently thought that a <foreign lang="greek">διορισμός</foreign> or <quote>definition</quote>
-       (of the thing to be proved) should precede. The interpolator then altered <quote>And</quote>
-       into <quote>For</quote>
-       in the next sentence.
-
-      </blockquote>

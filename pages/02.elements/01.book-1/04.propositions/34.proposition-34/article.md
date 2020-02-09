@@ -11,7 +11,7 @@ taxonomy:
     -
 ---
 
-In parallelogrammic areas the opposite sides and angles are equal to one another, and the diameter bisects the areas.
+In parallelogrammic areasi [^1] the opposite sides and angles are equal to one another, and the diameter bisects the areas.
 
 ===
 
@@ -25,7 +25,7 @@ Again, since `AC` is parallel to `BD`, and `BChas` fallen upon them, <lb n="15"/
 
 - the alternate angles `ACB`, `CBD` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
 
-Therefore `ABC`, `DCB` are two triangles having the two angles `ABC`, `BCA` equal to the two angles `DCB`, `CBD` respectively, and one side equal to one side, namely that <lb n="20"/>adjoining the equal angles and common to both of them, `BC`; 
+Therefore `ABC`, `DCB`[^2] are two triangles having the two angles `ABC`, `BCA` equal to the two angles `DCB`, `CBD` respectively, and one side equal to one side, namely that <lb n="20"/>adjoining the equal angles and common to both of them, `BC`; 
 
 - therefore they will also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle; [<a href="/elem.1.26">I. 26</a>] therefore the side `AB` is equal to `CD`, <lb n="25"/>and `AC` to `BD`,
 
@@ -49,18 +49,10 @@ Therefore the diameter `BC` bisects the parallelogram `ACDB`.
 
 - Q. E. D.
 
-<blockquote n="1" class="crit" place="unspecified" anchored="yes">
-       <pb n="325"/>
+[^1]: parallelogrammic areas
+    It is to be observed that, when parallelograms have to be mentioned for the first time, Euclid calls them <quote>parallelogrammic areas</quote> or, more exactly, <quote>parallelogram</quote> areas (<foreign lang="greek">παραλληλόγραμμα χωρία</foreign>). The meaning is simply areas bounded by parallel straight lines with the further limitation placed upon the term by Euclid that only <em>four-sided</em> figures are so called, although of course there are certain regular polygons which have opposite sides parallel, and which therefore might be said to be areas bounded by parallel straight lines. We gather from Proclus (<xref n="Proc. p. 393" from="ROOT" to="DITTO">p. 393</xref>) that the word <quote>parallelogram</quote> was first introduced by Euclid, that its use was suggested by <a href="/elem.1.33">I. 33</a>, and that the formation of the word <foreign lang="greek">παραλληλόγραμμος</foreign> (parallel-lined) was analogous to that of <foreign lang="greek">εὐθύγραμμος</foreign> (straight-lined or rectilineal).
 
-       It is to be observed that, when parallelograms have to be mentioned for the first time, Euclid calls them <quote>parallelogrammic areas</quote>
-       or, more exactly, <quote>parallelogram</quote>
-       areas (<foreign lang="greek">παραλληλόγραμμα χωρία</foreign>). The meaning is simply areas bounded by parallel straight lines with the further limitation placed upon the term by Euclid that only <em>four-sided</em> figures are so called, although of course there are certain regular polygons which have opposite sides parallel, and which therefore might be said to be areas bounded by parallel straight lines. We gather from Proclus (<xref n="Proc. p. 393" from="ROOT" to="DITTO">p. 393</xref>) that the word <quote>parallelogram</quote>
-       was first introduced by Euclid, that its use was suggested by <a href="/elem.1.33">I. 33</a>, and that the formation of the word <foreign lang="greek">παραλληλόγραμμος</foreign> (parallel-lined) was analogous to that of <foreign lang="greek">εὐθύγραμμος</foreign> (straight-lined or rectilineal).
+      
+[^2]: DCB
+    and `DC`, `CB`. The Greek has in these places <quote>`BCD`</quote> and <quote>`CD`, `BC`</quote> respectively. Cf. note on <a href="/elem.1.33">I. 33</a>, lines 15, 18.
 
-      </blockquote><blockquote n="17, 18, 40. DCB" class="crit" place="unspecified" anchored="yes">
-
-      and 36. `DC`, `CB`. The Greek has in these places <quote>`BCD`</quote>
-      and <quote>`CD`, `BC`</quote>
-      respectively. Cf. blockquote on <a href="/elem.1.33">I. 33</a>, lines 15, 18.
-
-      </blockquote>

@@ -11,7 +11,7 @@ taxonomy:
     - 
 ---
 
-Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary that two of the straight lines taken together in any manner should be greater than the remaining one. [<a href="/elem.1.20">I. 20</a>]
+Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary [^2] that two of the straight lines taken together in any manner should be greater than the remaining one. [<a href="/elem.1.20">I. 20</a>] [^1] [^3]
 
 ===
 
@@ -50,22 +50,13 @@ Therefore out of the three straight lines `KF`, `FG`, `GK`, which are equal to t
 
 - Q. E. F.
 
-<blockquote n="2-4" class="crit" place="unspecified" anchored="yes">
-       
-This is the first case in the <title>Elements</title> of a <foreign lang="greek">διορισμός</foreign> to a problem in the sense of a statement of the conditions or limits of the possibility of a solution. The criterion is of course supplied by the preceding proposition.
+[^1]: enunciation note
+    This is the first case in the <title>Elements</title> of a <foreign lang="greek">διορισμός</foreign> to a problem in the sense of a statement of the conditions or limits of the possibility of a solution. The criterion is of course supplied by the preceding proposition.
 
-      </blockquote><blockquote n="2. thus it is necessary." class="crit" place="unspecified" anchored="yes">
-       
-       This is usually translated (e.g. by Williamson and Simson) <quote><title>But</title> it is necessary,</quote>
-       which is however inaccurate, since the Greek is not <foreign lang="greek">δεῖ δέ</foreign> but <foreign lang="greek">δεῖ δή</foreign>. The words are the same as those used to introduce the <foreign lang="greek">διορισμός</foreign> in the other sense of the <quote>definition</quote>
-       or <quote>particular statement</quote>
-       of a construction to be effected. Hence, as in the latter case we say <quote>thus it is required</quote>
-       (e.g. to bisect the finite straight line `AB`, <a href="/elem.1.10">I. 10</a>), we should here translate <quote><em>thus</em> it is necessary.</quote>
+[^2]: thus it is necessary.
+    This is usually translated (e.g. by Williamson and Simson) <quote><title>But</title> it is necessary,</quote> which is however inaccurate, since the Greek is not <foreign lang="greek">δεῖ δέ</foreign> but <foreign lang="greek">δεῖ δή</foreign>. The words are the same as those used to introduce the <foreign lang="greek">διορισμός</foreign> in the other sense of the <quote>definition</quote> or <quote>particular statement</quote> of a construction to be effected. Hence, as in the latter case we say <quote>thus it is required</quote> (e.g. to bisect the finite straight line `AB`, <a href="/elem.1.10">I. 10</a>), we should here translate <quote><em>thus</em> it is necessary.</quote>
 
+[^3]: enunciation note
+    To this enunciation all the MSS. and Boethius add, after the <foreign lang="greek">διορισμός</foreign>, the words <quote>because in any triangle two sides taken together in any manner are greater than the remaining one.</quote>
+    But this explanation has the appearance of a gloss, and it is omitted by Proclus and Campanus. Moreover there is no corresponding addition to the <foreign lang="greek">διορισμός</foreign> of <a href="/elem.6.28">VI. 28</a>.
 
-      </blockquote><blockquote n="4" class="crit" place="unspecified" anchored="yes">
-       
-       To this enunciation all the MSS. and Boethius add, after the <foreign lang="greek">διορισμός</foreign>, the words <quote>because in any triangle two sides taken together in any manner are greater than the remaining one.</quote>
-       But this explanation has the appearance of a gloss, and it is omitted by Proclus and Campanus. Moreover there is no corresponding addition to the <foreign lang="greek">διορισμός</foreign> of <a href="/elem.6.28">VI. 28</a>.
-
-      </blockquote>

@@ -28,9 +28,9 @@ For, if the triangle `ABC` be applied to the triangle `DEF`, and if the point `B
 
 Then, `BC` coinciding with `EF`, 
 
-- `BA`, `AC` will also coincide with `ED`, `DF`;
+- `BA`, `AC` [^1] will also coincide with `ED`, `DF`;
 
-<lb n="20"/>for, if the base `BC` coincides with the base `EF`, and the sides `BA`, `AC` do not coincide with `ED`, `DF` but fall beside them as `EG`, `GF`, 
+<lb n="20"/>for, if the base `BC` coincides with the base `EF`, and the sides `BA`, `AC` do not coincide with `ED`, `DF` but fall beside them [^2] as `EG`, `GF`, 
 
 - then, given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there will <lb n="25"/>have been constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each to that which has the same extremity with it. <lb n="30"/>But they cannot be so constructed. [<a href="/elem.1.7">I. 7</a>]
 
@@ -43,15 +43,11 @@ Therefore it is not possible that, if the base `BC` be applied to the base `EF`,
 If therefore etc.
 
 - Q. E. D.
-<blockquote n="19. BA, AC." class="crit" place="unspecified" anchored="yes">
 
-      The text has here <quote>`BA`, `CA`.</quote>
+[^1]: BA, AC.
+    The text has here <quote>`BA`, `CA`.</quote>
 
-</blockquote><blockquote n="21" class="crit" place="unspecified" anchored="yes">
+[^2]: fall beside them
+    The Greek has the future, <foreign lang="greek">παραλλάξουσι. παραλλάττω</foreign> means <quote>to pass by without touching,</quote> <quote>to miss</quote> or <quote>to deviate.</quote>
 
-<p>fall beside them. The Greek has the future, <foreign lang="greek">παραλλάξουσι. παραλλάττω</foreign> means <quote>to pass by without touching,</quote>
- <quote>to miss</quote>
- or <quote>to deviate.</quote>
-</p>
 
-      </blockquote>

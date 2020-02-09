@@ -11,13 +11,13 @@ taxonomy:
     -
 ---
 
-To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.
+To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.[^1]
 
 ===
 
 Let `AB` be the given infinite straight line, and `C` the given point which is not on it; <pb n="271"/><lb n="5"/>thus it is required to draw to the given infinite straight line `AB`, from the given point `C` which is not on it, a perpendicular straight line.
 
-For let a point `D` be taken <lb n="10"/>at random on the other side of the straight line `AB`, and with centre `C` and distance `CD` let the circle `EFG` be described; [<a href="/elem.1.post.3">Post. 3</a>]
+For let a point `D` be taken <lb n="10"/>at random on the other side of the straight line `AB`[^2], and with centre `C` and distance `CD` let the circle `EFG` be described; [<a href="/elem.1.post.3">Post. 3</a>]
 
 - let the straight line `EG`
 <lb n="15"/>be bisected at `H`, [<a href="/elem.1.10">I. 10</a>] and let the straight lines `CG`, `CH`, `CE` be joined. [<a href="/elem.1.post.1">Post. 1</a>]
@@ -38,15 +38,9 @@ Therefore `CH` has been drawn perpendicular to the given infinite straight line 
 
 - Q. E. F.
 
-<blockquote n="2. a perpendicular straight line" class="crit" place="unspecified" anchored="yes">
+[^1]: a perpendicular straight line
+    , <foreign lang="greek">κάθετον εὐθεῖαν γραμμἡν</foreign>. This is the full expression for a <em>perpendicular</em>, <foreign lang="greek">κάθετος</foreign> meaning <em>let fall</em> or <em>let down</em>, so that the expression corresponds to our <em>plumb-line</em>. <foreign lang="greek">ἡ κάθετος</foreign> is however constantly used alone for a perpendicular, <foreign lang="greek">γραμμἡ</foreign> being understood.
 
-, <foreign lang="greek">κάθετον εὐθεῖαν γραμμἡν</foreign>. This is the full expression for a <em>perpendicular</em>, <foreign lang="greek">κάθετος</foreign> meaning <em>let fall</em> or <em>let down</em>, so that the expression corresponds to our <em>plumb-line</em>. <foreign lang="greek">ἡ κάθετος</foreign> is however constantly used alone for a perpendicular, <foreign lang="greek">γραμμἡ</foreign> being understood.
+[^2]: on the other side of the straight line AB
+    , literally <quote>towards the other parts of the straight line `AB`,</quote> <foreign lang="greek">ἐπὶ τὰ ἕτερα μέρη τῆς</foreign> AB. Cf. <quote>on the same side</quote> (<foreign lang="greek">ἐπὶ τὰ αὐτὰ μέρη</foreign>) in <a href="/elem.1.post.5">Post. 5</a> and <quote>in both directions</quote> (<foreign lang="greek">ἐφ̓ ἑκάτερα τὰ μἑρη</foreign>) in <a href="/elem.1.def.23">Def. 23</a>.
 
-      </blockquote><blockquote n="10. on the other side of the straight line AB" class="crit" place="unspecified" anchored="yes">
-
-     , literally <quote>towards the other parts of the straight line `AB`,</quote>
-       <foreign lang="greek">ἐπὶ τὰ ἕτερα μέρη τῆς</foreign> AB. Cf. <quote>on the same side</quote>
-       (<foreign lang="greek">ἐπὶ τὰ αὐτὰ μέρη</foreign>) in <a href="/elem.1.post.5">Post. 5</a> and <quote>in both directions</quote>
-       (<foreign lang="greek">ἐφ̓ ἑκάτερα τὰ μἑρη</foreign>) in <a href="/elem.1.def.23">Def. 23</a>.
-
-      </blockquote>

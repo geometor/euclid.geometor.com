@@ -27,7 +27,7 @@ Moreover the triangle `ABC` is half of the parallelogram `EBCA`; for the diamete
 
 And the triangle `DBC` is half of the parallelogram `DBCF`; <lb n="20"/>for the diameter `DC` bisects it. [<a href="/elem.1.34">I. 34</a>]
 
-[But the halves of equal things are equal to one another.]
+[But the halves of equal things are equal to one another.][^1]
 
 Therefore the triangle `ABC` is equal to the triangle `DBC`.
 
@@ -35,9 +35,6 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="21" class="crit" place="unspecified" anchored="yes">
+[^1]: But the halves of equal things are equal to one another
+    Here and in the next proposition Heiberg brackets the words <quote>But the halves of equal things are equal to one another</quote> on the ground that, since the <title>Common Notion</title> which asserted this fact was interpolated at a very early date (before the time of Theon), it is probable that the words here were interpolated at the same time. Cf. note above (p. 224) on the interpolated <title>Common Notion</title>.
 
-      Here and in the next proposition Heiberg brackets the words <quote>But the halves of equal things are equal to one another</quote>
-      on the ground that, since the <title>Common Notion</title> which asserted this fact was interpolated at a very early date (before the time of Theon), it is probable that the words here were interpolated at the same time. Cf. blockquote above (p. 224) on the interpolated <title>Common Notion</title>.
-
-      </blockquote>

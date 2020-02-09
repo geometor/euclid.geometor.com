@@ -29,9 +29,9 @@ But the angles `AGH`, `BGH` are equal to two right angles; [<a href="/elem.1.13"
 
 - therefore the angles `BGH`, `GHD` are less than two right angles.
 
-But straight lines produced indefinitely from angles less than two right angles meet; [<a href="/elem.1.post.5">Post. 5</a>] <lb n="25"/>
+But straight lines produced indefinitely from angles less than two right angles meet; [<a href="/elem.1.post.5">Post. 5</a>] [^1] 
 
-- therefore `AB`, `CD`, if produced indefinitely, will meet; but they do not meet, because they are by hypothesis parallel.
+- therefore `AB`, `CD`, if produced indefinitely, will meet; but they do not meet, because they are by hypothesis parallel. [^2] 
 
 Therefore the angle `AGH` is not unequal to the angle `GHD`, 
 
@@ -55,13 +55,8 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="23. straight lines produced indefinitely from angles less than two right angles," class="crit" place="unspecified" anchored="yes">
+[^1]: straight lines produced indefinitely from angles less than two right angles,
+    <foreign lang="greek">αἰ δὲ ἀπ: ὲλασσόνων ἢ δύο ὀρθῶν ἐκβαλλόμεναι εἰς ἄπειπον συμπίπτουσιν</foreign>, a variation from the more explicit language of <a href="/elem.1.post.5">Postulate 5</a>. A good deal is left to be understood, namely that the straight lines begin from points at which they meet a transversal, and make with it internal angles on the same side the sum of which is less than two right angles.
 
-<foreign lang="greek">αἰ δὲ ἀπ: ὲλασσόνων ἢ δύο ὀρθῶν ἐκβαλλόμεναι εἰς ἄπειπον συμπίπτουσιν</foreign>, a variation from the more explicit language of <a href="/elem.1.post.5">Postulate 5</a>. A good deal is left to be understood, namely that the straight lines begin from points at which they meet a transversal, and make with it internal angles on the same side the sum of which is less than two right angles.
-
-      </blockquote><blockquote n="26. because they are by hypothesis parallel," class="crit" place="unspecified" anchored="yes">
-
-       literally <quote>because they are supposed parallel,</quote>
-       <foreign lang="greek">διὰ τὸ παραλλήλους αὐτὰς ὑποκεῖσθαι</foreign>.
-
-      </blockquote>
+[^2]: because they are by hypothesis parallel,
+    literally <quote>because they are supposed parallel,</quote> <foreign lang="greek">διὰ τὸ παραλλήλους αὐτὰς ὑποκεῖσθαι</foreign>.

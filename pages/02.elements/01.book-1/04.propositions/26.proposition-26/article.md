@@ -11,7 +11,7 @@ taxonomy:
     -
 ---
 
-If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, or that subtending one of the equal angles, they will also have the remaining sides equal to <lb n="5"/>the remaining sides and the remaining angle to the remaining angle. <pb n="302"/>
+If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, [^1] or that subtending one of the equal angles, they will also have the remaining sides equal to <lb n="5"/>the remaining sides and the remaining angle to the remaining angle. <pb n="302"/>
 
 ===
 
@@ -27,7 +27,7 @@ Then, since `BG` is equal to `DE`, and `BC` to `EF`, the two sides `GB`, `BC` ar
 
 - therefore the base `GC` is equal to the base `DF`, <lb n="25"/>and the triangle `GBC` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `GCB` is equal to the angle `DFE`.
 
-But the angle `DFE` is by hypothesis equal to the angle `BCA`; <lb n="30"/>
+But the angle `DFE` is by hypothesis equal to the angle `BCA`; [^2]
 
 - therefore the angle `BCG` is equal to the angle `BCA`, the less to the greater: which is impossible. Therefore `AB` is not unequal to `DE`, and is therefore equal to it.
 
@@ -71,13 +71,10 @@ Therefore etc.
 
 - Q. E. D.
 
-<blockquote n="2-3. the side adjoining the equal angles," class="crit" place="unspecified" anchored="yes">
+[^1]: the side adjoining the equal angles,
+    <foreign lang="greek">πλευρὰν τὴν πρὸς ταῖς ἴσαις γωνίαις</foreign>.
 
-<foreign lang="greek">πλευρὰν τὴν πρὸς ταῖς ἴσαις γωνίαις</foreign>.
-
-      </blockquote><blockquote n="29. is by hypothesis equal." class="crit" place="unspecified" anchored="yes">
-
-       <foreign lang="greek">ὑπόκειται ἴση</foreign>, according to the elegant Greek idiom. <foreign lang="greek">ὑπόκειμαι</foreign> is used for the passive of <foreign lang="greek">ὑποτίθημι</foreign>, as <foreign lang="greek">κεῖμαι</foreign> is used for the passive of <foreign lang="greek">τίθημι,</foreign> and so with the other compounds. Cf. <foreign lang="greek">προσκεῖσθαι</foreign>, <quote>to be added.</quote>
+[^2]: is by hypothesis equal.
+    <foreign lang="greek">ὑπόκειται ἴση</foreign>, according to the elegant Greek idiom. <foreign lang="greek">ὑπόκειμαι</foreign> is used for the passive of <foreign lang="greek">ὑποτίθημι</foreign>, as <foreign lang="greek">κεῖμαι</foreign> is used for the passive of <foreign lang="greek">τίθημι,</foreign> and so with the other compounds. Cf. <foreign lang="greek">προσκεῖσθαι</foreign>, <quote>to be added.</quote>
 
 
-      </blockquote>

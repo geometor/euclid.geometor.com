@@ -101,23 +101,12 @@ e1_2 --> e1_def15
 
 [/mermaid]
 
-<blockquote n="1. (as an extremity)." class="crit" place="unspecified" anchored="yes">
+[^1]: (as an extremity).
+    I have inserted these words because <quote>to place a straight line <em>at</em> a given point</quote> (<foreign lang="greek">πρὸς τῷ δοθέντι σημείῳ</foreign>) is not quite clear enough, at least in English.
 
-<p>I have inserted these words because <quote>to place a straight line <em>at</em> a given point</quote>
- (<foreign lang="greek">πρὸς τῷ δοθέντι σημείῳ</foreign>) is not quite clear enough, at least in English.</p>
+[^2]: Let the straight lines AE, BF be produced....
+    It will be observed that in this first application of <a href="/elem.1.post.2">Postulate 2</a>, and again in <a href="/elem.1.5">I. 5</a>, Euclid speaks of the <em>continuation</em> of the straight line as that which is produced in such cases, <foreign lang="greek">ἐκβεβλήσθωσαν</foreign> and <foreign lang="greek">προσεκβεβλήσθωσαν</foreign> meaning little more than <em>drawing</em> straight lines <quote>in a straight line with</quote> the given straight lines. The first place in which Euclid uses phraseology exactly corresponding to ours when <pb n="245"/>speaking of a straight line being produced is in <a href="/elem.1.16">I. 16</a>: <quote>let one side of it, `BC`, be produced to `D`</quote> (<foreign lang="greek">προσεκβεβλήσθω αὐτοῦ μία πλευρὰ ἡ ΒΓ ἐπὶ τὸ Δ</foreign>).
 
-</blockquote>
-<blockquote n="11. Let the straight lines AE, BF be produced...." class="crit" place="unspecified" anchored="yes">
+[^3]: the remainder AL...the remainder BG.
+    The Greek expressions are <foreign lang="greek">λοιπὴ ἡ ΑΛ</foreign> and <foreign lang="greek">λοιπῇ τῇ</foreign> BH, and the literal translation would be <quote>`AL` (or `BG`) <em>remaining</em>,</quote> but the shade of meaning conveyed by the position of the definite article can hardly be expressed in English.
 
-<p>It will be observed that in this first application of <a href="/elem.1.post.2">Postulate 2</a>, and again in <a href="/elem.1.5">I. 5</a>, Euclid speaks of the <em>continuation</em> of the straight line as that which is produced in such cases, <foreign lang="greek">ἐκβεβλήσθωσαν</foreign> and <foreign lang="greek">προσεκβεβλήσθωσαν</foreign> meaning little more than <em>drawing</em> straight lines <quote>in a straight line with</quote>
- the given straight lines. The first place in which Euclid uses phraseology exactly corresponding to ours when <pb n="245"/>speaking of a straight line being produced is in <a href="/elem.1.16">I. 16</a>: <quote>let one side of it, `BC`, be produced to `D`</quote>
- (<foreign lang="greek">προσεκβεβλήσθω αὐτοῦ μία πλευρὰ ἡ ΒΓ ἐπὶ τὸ Δ</foreign>).</p>
-
-</blockquote>
-
-<blockquote n="23. the remainder AL...the remainder BG." class="crit" place="unspecified" anchored="yes">
-
-<p>The Greek expressions are <foreign lang="greek">λοιπὴ ἡ ΑΛ</foreign> and <foreign lang="greek">λοιπῇ τῇ</foreign> BH, and the literal translation would be <quote>`AL` (or `BG`) <em>remaining</em>,</quote>
- but the shade of meaning conveyed by the position of the definite article can hardly be expressed in English.</p>
-
-</blockquote>

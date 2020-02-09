@@ -16,11 +16,11 @@ To draw a straight line at right angles to a given straight line from a given po
 
 ===
 
-Let `AB` be the given straight line, and `C` the given point on it. <lb n="5"/>
+Let `AB` be the given straight line, and `C` the given point on it. 
 
 Thus it is required to draw from the point `C` a straight line at right angles to the straight line `AB`.
 
-Let a point `D` be taken at random on `AC`; <lb n="10"/>let `CE` be made equal to `CD`; [<a href="/elem.1.3">I. 3</a>] on `DE` let the equilateral triangle `FDE` be constructed, [<a href="/elem.1.1">I. 1</a>] and let `FC` be joined; 
+Let a point `D` be taken at random on `AC`; [^1] let `CE` be made equal to `CD`; [<a href="/elem.1.3">I. 3</a>] on `DE` let the equilateral triangle `FDE` be constructed, [<a href="/elem.1.1">I. 1</a>] and let `FC` be joined; 
 
 I say that the straight line `FC` has been drawn at right <lb n="15"/>angles to the given straight line `AB` from `C` the given point on it.
 
@@ -108,9 +108,7 @@ e1_3 --> e1_cn1
 
 [/mermaid]
 
-<blockquote n="10. let CE be made equal to CD." class="crit" place="unspecified" anchored="yes">
-
-The verb is <foreign lang="greek">κείσθω</foreign> which, as well as the other parts of <foreign lang="greek">κεῖμαι</foreign>, is constantly used for the passive of <foreign lang="greek">τίθημι</foreign> <quote>to <em>place</em></quote>
+[^1]: let CE be made equal to CD.
+    The verb is <foreign lang="greek">κείσθω</foreign> which, as well as the other parts of <foreign lang="greek">κεῖμαι</foreign>, is constantly used for the passive of <foreign lang="greek">τίθημι</foreign> <quote>to <em>place</em></quote>
 ; and the latter word is constantly used in the sense of <em>making</em>, e.g., one straight line equal to another straight line.
 
-</blockquote>
