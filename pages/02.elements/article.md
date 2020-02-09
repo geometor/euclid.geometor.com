@@ -3,7 +3,7 @@ title: Elements
 subtitle: 13 Books of Euclid
 author:
 collection:
-  name: Articles
+  name: Books
   showCount: true
   showMenu: true
 content:

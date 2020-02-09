@@ -5,9 +5,6 @@ author:
 routes:
   aliases:
     - /elem.6.30
-content:
-  items: '@self.children'
-child_type: article
 taxonomy:
   tag:
     - featured
@@ -28,7 +25,7 @@ On `AB` let the square `BC` be described; and let there be applied to `AC` the p
 Now `BC` is a square; <span class="center">therefore `AD` is also a square.</span>
 
 And, since `BC` is equal to `CD`, let `CE` be subtracted from each; <span class="center">therefore the remainder `BF` is equal to the remainder `AD`.</span>
-<pb n="268"/>
+<!-- <pb n="268"/> -->
 
 But it is also equiangular with it; therefore in `BF`, `AD` the sides about the equal angles are reciprocally proportional; [<a href="/elem.6.14">VI. 14</a>] <span class="center">therefore, as `FE` is to `ED`, so is `AE` to `EB`.</span>
 
