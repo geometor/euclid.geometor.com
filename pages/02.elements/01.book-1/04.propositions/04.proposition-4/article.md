@@ -34,7 +34,7 @@ But `B` also coincided with `E`; hence the base `BC` will coincide with the base
 
 [For if, when `B` coincides with `E` and `C` with `F`, the base `BC` does not coincide with the base `EF`, two straight lines will enclose a space: which is impossible. 
 
-- Therefore the base `BC` will coincide with `EF`] [^7] and will be equal to it. [<a href="/elem.1.c.n.4">C.N. 4</a>]
+- Therefore the base `BC` will coincide with `EF`] [^7] and will be equal to it. [1.c.n.4]
 
 Thus the whole triangle `ABC` will coincide with the whole triangle `DEF`, 
 
@@ -46,10 +46,15 @@ Therefore etc. [^8]
 
 - (Being) what it was required to prove.
 
+## References
+
+[1.c.n.4]: /elem.1.c.n.4 "Book 1 - Common Notion 4"
+
+## Footnotes
 
 [^1]: enunciation
     It is a fact that Euclid's enunciations not infrequently leave something to be desired in point of clearness and precision. Here he speaks of the triangles having <quote>the angle equal to the angle, namely the angle contained by the equal straight lines</quote> (<foreign lang="greek">τὴν γωνίαν τῇ γωνίᾳ ἴσην ἔχῃ τὴν ὑπὸ τῶν ἴσων εὐθειῶν περιεχομένην</foreign>), only one of the two angles being described in the latter expression (in the accusative), and a similar expression in the dative being left to be understood of the other angle. It is curious too that, after mentioning two <quote><em>sides</em>,</quote> he speaks of the angles contained by the equal <quote><em>straight lines</em>,</quote> not <quote><em>sides</em>.</quote>
-It may be that he wished to adhere scrupulously, at the outset, to the phraseology of the definitions, where the angle is the inclination to one another of two <em>lines</em> or <em>straight lines</em>. Similarly in the enunciation of <a href="/elem.1.5">I. 5</a> he speaks of producing the equal <quote>straight lines</quote> as if to keep strictly to the wording of <a href="/elem.1.post.2">Postulate 2</a>.
+It may be that he wished to adhere scrupulously, at the outset, to the phraseology of the definitions, where the angle is the inclination to one another of two <em>lines</em> or <em>straight lines</em>. Similarly in the enunciation of [<a href="/elem.1.5">I. 5</a>] he speaks of producing the equal <quote>straight lines</quote> as if to keep strictly to the wording of [<a href="/elem.1.post.2">Postulate 2</a>.
 
 [^2]: respectively.
     I agree with Mr H. M. Taylor (<title>Euclid</title>, p. ix) that it is best to abandon the traditional translation of <quote>each to each,</quote>

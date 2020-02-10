@@ -17,11 +17,6 @@ On a given finite straight line[^1] to construct an equilateral triangle.
 
 ===
 
-[1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
-[1.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
-[1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
-[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
-
 Let `AB` be the given finite straight line.[^2]
 
 Thus it is required to construct an equilateral triangle on the straight line `AB`. 
@@ -47,10 +42,12 @@ Therefore the triangle `ABC` is equilateral; and it has been constructed on the 
 - (Being) what it was required to do.
 
 
+## References
 
-***
-
-## Dependency Graph
+[1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
+[1.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
+[1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
+[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
 
 [mermaid]
 graph BT
@@ -95,8 +92,6 @@ e1_1 --> e1_post3
 e1_1 --> e1_def15
 
 [/mermaid]
-
-***
 
 ## Footnotes {#footnotes}
 

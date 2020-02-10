@@ -29,7 +29,6 @@ Then, since `DB` is equal to `AC`, and `BC` is common,
 
 - the two sides `DB`, `BC` are equal to the two sides `AC`, `CB` respectively;
 
-<!-- <pb n="256"/> -->
 and the angle `DBC` is equal to the angle `ACB`; 
 
 - therefore the base `DC` is equal to the base `AB`, and the triangle `DBC` will be equal to the triangle `ACB`, the less to the greater: which is absurd. Therefore `AB` is not unequal to `AC`; it is therefore equal to it.

@@ -15,14 +15,6 @@ To place at a given point (as an extremity) a straight line equal to a given str
 
 ===
 
-[1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
-[1.1]: /elem.1.1 "Book 1 - Proposition 1"
-[1.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
-[1.post.2]: /elem.1.post.2 "Book 1 - Postulate 2"
-[1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
-[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
-[1.c.n.3]: /elem.1.c.n.3 "Book 1 - Common Notion 3"
-
 Let `A` be the given point, and `BC` the given straight line.
 
 Thus it is required to place at the point `A` (as an extremity) a straight line equal to the given straight line `BC`. 
@@ -54,6 +46,16 @@ And things which are equal to the same thing are also equal to one another; [1.c
 Therefore at the given point `A` the straight line `AL` is placed equal to the given straight line `BC`.
 
 - (Being) what it was required to do.
+
+## References
+
+[1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
+[1.1]: /elem.1.1 "Book 1 - Proposition 1"
+[1.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
+[1.post.2]: /elem.1.post.2 "Book 1 - Postulate 2"
+[1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
+[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
+[1.c.n.3]: /elem.1.c.n.3 "Book 1 - Common Notion 3"
 
 
 
@@ -100,6 +102,8 @@ e1_2 --> e1_post3
 e1_2 --> e1_def15
 
 [/mermaid]
+
+## Footnotes
 
 [^1]: (as an extremity).
     I have inserted these words because <quote>to place a straight line <em>at</em> a given point</quote> (<foreign lang="greek">πρὸς τῷ δοθέντι σημείῳ</foreign>) is not quite clear enough, at least in English.
