@@ -25,7 +25,7 @@ Let `AB` be greater, and let `BG` be made equal to `DE`; and let `GC` be joined.
 
 Then, since `BG` is equal to `DE`, and `BC` to `EF`, the two sides `GB`, `BC` are equal to the two sides `DE`, `EF` respectively; and the angle `GBC` is equal to the angle `DEF`;
 
-- therefore the base `GC` is equal to the base `DF`, and the triangle `GBC` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `GCB` is equal to the angle `DFE`.
+- therefore the base `GC` is equal to the base `DF`, and the triangle `GBC` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [1.4] therefore the angle `GCB` is equal to the angle `DFE`.
 
 But the angle `DFE` is by hypothesis equal to the angle `BCA`; [^2]
 
@@ -33,7 +33,7 @@ But the angle `DFE` is by hypothesis equal to the angle `BCA`; [^2]
 
 But `BC` is also equal to `EF`; 
 
-- therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and the angle `ABC` is equal to the angle `DEF`; therefore the base `AC` is equal to the base `DF`, and the remaining angle `BAC` is equal to the remaining angle `EDF`. [<a href="/elem.1.4">I. 4</a>]
+- therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and the angle `ABC` is equal to the angle `DEF`; therefore the base `AC` is equal to the base `DF`, and the remaining angle `BAC` is equal to the remaining angle `EDF`. [1.4]
 
 Again, let sides subtending equal angles be equal, as `AB` to `DE`;
 
@@ -47,13 +47,13 @@ Then, since `BH` is equal to `EF`, and `AB` to `DE`, the two sides `AB`, `BH` ar
 
 - therefore the base `AH` is equal to the base `DF`,
 
-and the triangle `ABH` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>]
+and the triangle `ABH` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [1.4]
 
 - therefore the angle `BHA` is equal to the angle `EFD`.
 
 But the angle `EFD` is equal to the angle `BCA`; therefore, in the triangle `AHC`, the exterior angle `BHA` is equal to the interior and opposite angle `BCA`:
 
-- which is impossible. [<a href="/elem.1.16">I. 16</a>]
+- which is impossible. [1.16]
 
 Therefore `BC` is not unequal to `EF`,
 
@@ -63,11 +63,18 @@ But `AB` is also equal to `DE`; therefore the two sides `AB`, `BC` are equal to 
 
 - therefore the base `AC` is equal to the base `DF`, the triangle `ABC` equal to the triangle `DEF`,
 
-and the remaining angle `BAC` equal to the remaining angle `EDF`. [<a href="/elem.1.4">I. 4</a>]
+and the remaining angle `BAC` equal to the remaining angle `EDF`. [1.4]
 
 Therefore etc.
 
 - Q. E. D.
+
+## References
+
+[1.4]: /elem.1.4 "Book 1 - Proposition 4"
+[1.16]: /elem.1.16 "Book 1 - Proposition 16"
+
+## Footnotes
 
 [^1]: the side adjoining the equal angles,
     <foreign lang="greek">πλευρὰν τὴν πρὸς ταῖς ἴσαις γωνίαις</foreign>.

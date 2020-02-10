@@ -21,11 +21,11 @@ I say that the side `AC` is also greater than the side `AB`.
 
 For, if not, `AC` is either equal to `AB` or less.
 
-Now `AC` is not equal to `AB`; for then the angle `ABC` would also have been equal to the angle `ACB`; [<a href="/elem.1.5">I. 5</a>] but it is not; 
+Now `AC` is not equal to `AB`; for then the angle `ABC` would also have been equal to the angle `ACB`; [1.5] but it is not; 
 
 - therefore `AC` is not equal to `AB`.
 
-Neither is `AC` less than `AB`, for then the angle `ABC` would also have been less than the angle `ACB`; [<a href="/elem.1.18">I. 18</a>] but it is not; 
+Neither is `AC` less than `AB`, for then the angle `ABC` would also have been less than the angle `ACB`; [1.18] but it is not; 
 
 - therefore `AC` is not less than `AB`.
 
@@ -37,4 +37,9 @@ Therefore etc.
 
 - Q. E. D.
 
+## References
+
+[1.5]: /elem.1.5 "Book 1 - Proposition 5"
+[1.18]: /elem.1.18 "Book 1 - Proposition 18"
+## Footnotes
 

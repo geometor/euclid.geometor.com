@@ -23,19 +23,26 @@ For, if not, `AB`, `CD` when produced will meet either in the direction of `B`, 
 
 Let them be produced and meet, in the direction of `B`, `D`, at `G`.
 
-Then, in the triangle `GEF`, the exterior angle `AEF` is equal to the interior and opposite angle `EFG`: which is impossible. [<a href="/elem.1.16">I. 16</a>]
+Then, in the triangle `GEF`, the exterior angle `AEF` is equal to the interior and opposite angle `EFG`: which is impossible. [1.16]
 
 Therefore `AB`, `CD` when produced will not meet in the direction of `B`, `D`.
 
 Similarly it can be proved that neither will they meet towards `A`, `C`. 
 
-But straight lines which do not meet in either direction are parallel; [<a href="/elem.1.def.23">Def. 23</a>] 
+But straight lines which do not meet in either direction are parallel; [1.def.23] 
 
 - therefore `AB` is parallel to `CD`.
 
 Therefore etc.
 
 - Q. E. D.
+
+## References
+
+[1.def.23]: /elem.1.def.23 "Book 1 - Definition 23"
+[1.16]: /elem.1.16 "Book 1 - Proposition 16"
+
+## Footnotes
 
 [^1]: falling on two straight lines,
     <foreign lang="greek">εὶς δύο εὐθείας ἐμπίπτουσα</foreign>, the phrase being the same as that used in <a href="/elem.1.post.5">Post. 5</a>, meaning a <em>transversal</em>.

@@ -25,11 +25,11 @@ Let the angle `AGH` be greater.
 
 Let the angle `BGH` be added to each; therefore the angles `AGH`, `BGH` are greater than the angles `BGH`, `GHD`.
 
-But the angles `AGH`, `BGH` are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] 
+But the angles `AGH`, `BGH` are equal to two right angles; [1.13] 
 
 - therefore the angles `BGH`, `GHD` are less than two right angles.
 
-But straight lines produced indefinitely from angles less than two right angles meet; [<a href="/elem.1.post.5">Post. 5</a>] [^1] 
+But straight lines produced indefinitely from angles less than two right angles meet; [1.post.5] [^1] 
 
 - therefore `AB`, `CD`, if produced indefinitely, will meet; but they do not meet, because they are by hypothesis parallel. [^2] 
 
@@ -37,21 +37,32 @@ Therefore the angle `AGH` is not unequal to the angle `GHD`,
 
 - and is therefore equal to it.
 
-Again, the angle `AGH` is equal to the angle `EGB`; [<a href="/elem.1.15">I. 15</a>] 
+Again, the angle `AGH` is equal to the angle `EGB`; [1.15] 
 
-- therefore the angle `EGB` is also equal to the angle `GHD`. [<a href="/elem.1.c.n.1">C.N. 1</a>]
+- therefore the angle `EGB` is also equal to the angle `GHD`. [1.c.n.1]
 
 Let the angle `BGH` be added to each; 
 
-- therefore the angles `EGB`, `BGH` are equal to the angles `BGH`, `GHD`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
+- therefore the angles `EGB`, `BGH` are equal to the angles `BGH`, `GHD`. [1.c.n.2]
 
-But the angles `EGB`, `BGH` are equal to two right angles; [<a href="/elem.1.13">I. 13</a>] 
+But the angles `EGB`, `BGH` are equal to two right angles; [1.13] 
 
 - therefore the angles `BGH`, `GHD` are also equal to two right angles.
 
 Therefore etc.
 
 - Q. E. D.
+
+## References
+
+[1.13]: /elem.1.13 "Book 1 - Proposition 13"
+[1.15]: /elem.1.15 "Book 1 - Proposition 15"
+[1.post.5]: /elem.1.post.5 "Book 1 - Postulate 5"
+[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
+[1.c.n.2]: /elem.1.c.n.2 "Book 1 - Common Notion 2"
+
+## Footnotes
+
 
 [^1]: straight lines produced indefinitely from angles less than two right angles,
     <foreign lang="greek">αἰ δὲ ἀπ: ὲλασσόνων ἢ δύο ὀρθῶν ἐκβαλλόμεναι εἰς ἄπειπον συμπίπτουσιν</foreign>, a variation from the more explicit language of <a href="/elem.1.post.5">Postulate 5</a>. A good deal is left to be understood, namely that the straight lines begin from points at which they meet a transversal, and make with it internal angles on the same side the sum of which is less than two right angles.

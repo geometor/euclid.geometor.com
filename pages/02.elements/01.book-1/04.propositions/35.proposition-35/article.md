@@ -19,28 +19,39 @@ Let `ABCD`, `EBCF` be parallelograms on the same base `BC` and in the same paral
 
 For, since `ABCD` is a parallelogram, 
 
-- `AD` is equal to `BC`. [<a href="/elem.1.34">I. 34</a>]
+- `AD` is equal to `BC`. [1.34]
 
 For the same reason also 
 
-- `EF` is equal to `BC`, so that `AD` is also equal to `EF`; [<a href="/elem.1.c.n.1">C.N. 1</a>]
+- `EF` is equal to `BC`, so that `AD` is also equal to `EF`; [1.c.n.1]
 
 and `DE` is common; 
 
-- therefore the whole `AE` is equal to the whole `DF`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
+- therefore the whole `AE` is equal to the whole `DF`. [1.c.n.2]
 
-But `AB` is also equal to `DC`; [<a href="/elem.1.34">I. 34</a>] therefore the two sides `EA`, `AB` are equal to the two sides `FD`, `DC` respectively,
+But `AB` is also equal to `DC`; [1.34] therefore the two sides `EA`, `AB` are equal to the two sides `FD`, `DC` respectively,
 
-- and the angle `FDC`[^1] is equal to the angle `EAB`, the exterior to the interior; [<a href="/elem.1.29">I. 29</a>] therefore the base `EB` is equal to the base `FC`, and the triangle `EAB` will be equal to the triangle `FDC`. [<a href="/elem.1.4">I. 4</a>]
+- and the angle `FDC`[^1] is equal to the angle `EAB`, the exterior to the interior; [1.29] therefore the base `EB` is equal to the base `FC`, and the triangle `EAB` will be equal to the triangle `FDC`. [1.4]
 
-Let `DGE` be subtracted [^2] from each; therefore the trapezium `ABGD` which remains is equal to the trapezium `EGCF` which remains. [<a href="/elem.1.c.n.3">C.N. 3</a>] 
+Let `DGE` be subtracted [^2] from each; therefore the trapezium `ABGD` which remains is equal to the trapezium `EGCF` which remains. [1.c.n.3] 
 
-Let the triangle `GBC` be added to each; therefore the whole parallelogram `ABCD` is equal to the whole parallelogram `EBCF`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
+Let the triangle `GBC` be added to each; therefore the whole parallelogram `ABCD` is equal to the whole parallelogram `EBCF`. [1.c.n.2]
 
 Therefore etc.
 
 - Q. E. D.
 
+
+## References
+
+[1.4]: /elem.1.4 "Book 1 - Proposition 4"
+[1.29]: /elem.1.29 "Book 1 - Proposition 29"
+[1.34]: /elem.1.34 "Book 1 - Proposition 34"
+[1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
+[1.c.n.2]: /elem.1.c.n.2 "Book 1 - Common Notion 2"
+[1.c.n.3]: /elem.1.c.n.3 "Book 1 - Common Notion 3"
+
+## Footnotes
 
 [^1]: FDC
     The text has <quote>`DFC`.</quote>

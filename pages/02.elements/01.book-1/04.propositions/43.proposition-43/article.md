@@ -21,7 +21,7 @@ I say that the complement `BK` is equal to the complement `KD`.
 
 For, since `ABCD` is a parallelogram, and `AC` its diameter, 
 
-- the triangle `ABC` is equal to the triangle `ACD`. [<a href="/elem.1.34">I. 34</a>]
+- the triangle `ABC` is equal to the triangle `ACD`. [1.34]
 
 Again, since `EH` is a parallelogram, and `AK` is its diameter, 
 
@@ -35,13 +35,21 @@ Now, since the triangle `AEK` is equal to the triangle `AHK`,
 
 - and `KFC` to `KGC`,
 
-the triangle `AEK` together with `KGC` is equal to the triangle `AHK` together with `KFC`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
+the triangle `AEK` together with `KGC` is equal to the triangle `AHK` together with `KFC`. [1.c.n.2]
 
-And the whole triangle `ABC` is also equal to the whole `ADC`; therefore the complement `BK` which remains is equal to the complement `KD` which remains. [<a href="/elem.1.c.n.3">C.N. 3</a>]
+And the whole triangle `ABC` is also equal to the whole `ADC`; therefore the complement `BK` which remains is equal to the complement `KD` which remains. [1.c.n.3]
 
 Therefore etc.
 
 - Q. E. D.
+
+## References
+
+[1.34]: /elem.1.34 "Book 1 - Proposition 34"
+[1.c.n.2]: /elem.1.c.n.2 "Book 1 - Common Notion 2"
+[1.c.n.3]: /elem.1.c.n.3 "Book 1 - Common Notion 3"
+
+## Footnotes
 
 [^1]: complements,
     <foreign lang="greek">παραπληρώματα</foreign>, the figures put in to fill up (interstices).

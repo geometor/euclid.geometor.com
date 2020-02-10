@@ -19,21 +19,21 @@ Let `ABC`, `DEF` be two triangles having the two sides `AB`, `AC` equal to the t
 
 I say that the base `BC` is also greater than the base `EF`. [^1]
 
-For, since the angle `BAC` is greater than the angle `EDF`, let there be constructed, on the straight line `DE`, and at the point `D` on it, the angle `EDG` equal to the angle `BAC`; [<a href="/elem.1.23">I. 23</a>] let `DG` be made equal to either of the two straight lines `AC`, `DF`, and let `EG`, `FG` be joined. 
+For, since the angle `BAC` is greater than the angle `EDF`, let there be constructed, on the straight line `DE`, and at the point `D` on it, the angle `EDG` equal to the angle `BAC`; [1.23] let `DG` be made equal to either of the two straight lines `AC`, `DF`, and let `EG`, `FG` be joined. 
 
 Then, since `AB` is equal to `DE`, and `AC` to `DG`, the two sides `BA`, `AC` are equal to the two sides `ED`, `DG`, respectively; 
 
-- and the angle `BAC` is equal to the angle `EDG`; therefore the base `BC` is equal to the base `EG`. [<a href="/elem.1.4">I. 4</a>]
+- and the angle `BAC` is equal to the angle `EDG`; therefore the base `BC` is equal to the base `EG`. [1.4]
 
 Again, since `DF` is equal to `DG`, 
 
-- the angle `DGF` is also equal to the angle `DFG`; [<a href="/elem.1.5">I. 5</a>] therefore the angle `DFG` is greater than the angle `EGF`.
+- the angle `DGF` is also equal to the angle `DFG`; [1.5] therefore the angle `DFG` is greater than the angle `EGF`.
 
 Therefore the angle `EFG` is much greater than the angle `EGF`.
 
 And, since `EFG` is a triangle having the angle `EFG` greater than the angle `EGF`, 
 
-- and the greater angle is subtended by the greater side, [<a href="/elem.1.19">I. 19</a>] the side `EG` is also greater than `EF`.
+- and the greater angle is subtended by the greater side, [1.19] the side `EG` is also greater than `EF`.
 
 But `EG` is equal to `BC`. 
 
@@ -42,6 +42,15 @@ But `EG` is equal to `BC`.
 Therefore etc.
 
 - Q. E. D.
+
+## References
+
+[1.4]: /elem.1.4 "Book 1 - Proposition 4"
+[1.5]: /elem.1.5 "Book 1 - Proposition 5"
+[1.19]: /elem.1.19 "Book 1 - Proposition 19"
+[1.23]: /elem.1.23 "Book 1 - Proposition 23"
+
+## Footnotes
 
 [^1]: I say that the base `BC` is also greater than the base `EF`. 
     I have naturally left out the well-known words added by Simson in order to avoid the necessity of considering three cases: <quote>Of the two sides `DE`, `DF` let `DE` be the side which is not greater than the other.</quote>

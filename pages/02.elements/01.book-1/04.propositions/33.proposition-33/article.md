@@ -21,21 +21,28 @@ Let `BC` be joined.
 
 Then, since `AB` is parallel to `CD`, and `BC` has fallen upon them, 
 
-- the alternate angles `ABC`, `BCD` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
+- the alternate angles `ABC`, `BCD` are equal to one another. [1.29]
 
 And, since `AB` is equal to `CD`, 
 
-- and `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB`; [^2]  and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is equal to the base `BD`, and the triangle `ABC` is equal to the triangle `DCB`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend; [<a href="/elem.1.4">I. 4</a>] therefore the angle `ACB` is equal to the angle `CBD`.
+- and `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB`; [^2]  and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is equal to the base `BD`, and the triangle `ABC` is equal to the triangle `DCB`, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend; [1.4] therefore the angle `ACB` is equal to the angle `CBD`.
 
 And, since the straight line `BC` falling on the two straight lines `AC`, `BD` has made the alternate angles equal to one another, 
 
-- `AC` is parallel to `BD`. [<a href="/elem.1.27">I. 27</a>]
+- `AC` is parallel to `BD`. [1.27]
 
 And it was also proved equal to it.
 
 Therefore etc.
 
 - Q. E. D.
+
+## References
+
+[1.4]: /elem.1.4 "Book 1 - Proposition 4"
+[1.27]: /elem.1.27 "Book 1 - Proposition 27"
+[1.29]: /elem.1.29 "Book 1 - Proposition 29"
+## Footnotes
 
 [^1]. joining...(at the extremities which are) in the same directions (respectively).
     I have for clearness' sake inserted the words in brackets though they are not in the original Greek, which has <quote>joining...in the same directions</quote> or <quote>on the same sides,</quote> <foreign lang="greek">ἐπὶ τὰ αυτὰ μέρη ἐπιζευγνύουσαι</foreign>. The expression <quote>tiwards the same parts,</quote> though usage has sanctioned it, is perhaps not quite satisfactory.

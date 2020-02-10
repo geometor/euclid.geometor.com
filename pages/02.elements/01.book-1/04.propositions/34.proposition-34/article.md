@@ -19,21 +19,21 @@ Let `ACDB` be a parallelogrammic area, and `BC` its diameter; I say that the opp
 
 For, since `AB` is parallel to `CD`, and the straight line `BC` has fallen  upon them, 
 
-- the alternate angles `ABC`, `BCD` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
+- the alternate angles `ABC`, `BCD` are equal to one another. [1.29]
 
-Again, since `AC` is parallel to `BD`, and `BChas` fallen upon them, 
+Again, since `AC` is parallel to `BD`, and `BC` has fallen upon them, 
 
-- the alternate angles `ACB`, `CBD` are equal to one another. [<a href="/elem.1.29">I. 29</a>]
+- the alternate angles `ACB`, `CBD` are equal to one another. [1.29]
 
 Therefore `ABC`, `DCB`[^2] are two triangles having the two angles `ABC`, `BCA` equal to the two angles `DCB`, `CBD` respectively, and one side equal to one side, namely that adjoining the equal angles and common to both of them, `BC`; 
 
-- therefore they will also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle; [<a href="/elem.1.26">I. 26</a>] therefore the side `AB` is equal to `CD`, and `AC` to `BD`,
+- therefore they will also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle; [1.26] therefore the side `AB` is equal to `CD`, and `AC` to `BD`,
 
 and further the angle `BAC` is equal to the angle `CDB`.
 
 And, since the angle `ABC` is equal to the angle `BCD`, 
 
-- and the angle `CBD` to the angle `ACB`, the whole angle `ABD` is equal to the whole angle `ACD`. [<a href="/elem.1.c.n.2">C.N. 2</a>]
+- and the angle `CBD` to the angle `ACB`, the whole angle `ABD` is equal to the whole angle `ACD`. [1.c.n.2]
 
 And the angle `BAC` was also proved equal to the angle `CDB`.
 
@@ -43,11 +43,20 @@ I say, next, that the diameter also bisects the areas.
 
 For, since `AB` is equal to `CD`, and `BC` is common, the two sides `AB`, `BC` are equal to the two sides `DC`, `CB` respectively; 
 
-- and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is also equal to `DB`, and the triangle `ABC` is equal to the triangle `DCB`. [<a href="/elem.1.4">I. 4</a>]
+- and the angle `ABC` is equal to the angle `BCD`; therefore the base `AC` is also equal to `DB`, and the triangle `ABC` is equal to the triangle `DCB`. [1.4]
 
 Therefore the diameter `BC` bisects the parallelogram `ACDB`.
 
 - Q. E. D.
+
+## References
+
+[1.4]: /elem.1.4 "Book 1 - Proposition 4"
+[1.26]: /elem.1.26 "Book 1 - Proposition 26"
+[1.29]: /elem.1.29 "Book 1 - Proposition 29"
+[1.c.n.2]: /elem.1.c.n.2 "Book 1 - Common Notion 2"
+
+## Footnotes
 
 [^1]: parallelogrammic areas
     It is to be observed that, when parallelograms have to be mentioned for the first time, Euclid calls them <quote>parallelogrammic areas</quote> or, more exactly, <quote>parallelogram</quote> areas (<foreign lang="greek">παραλληλόγραμμα χωρία</foreign>). The meaning is simply areas bounded by parallel straight lines with the further limitation placed upon the term by Euclid that only <em>four-sided</em> figures are so called, although of course there are certain regular polygons which have opposite sides parallel, and which therefore might be said to be areas bounded by parallel straight lines. We gather from Proclus (<xref n="Proc. p. 393" from="ROOT" to="DITTO">p. 393</xref>) that the word <quote>parallelogram</quote> was first introduced by Euclid, that its use was suggested by <a href="/elem.1.33">I. 33</a>, and that the formation of the word <foreign lang="greek">παραλληλόγραμμος</foreign> (parallel-lined) was analogous to that of <foreign lang="greek">εὐθύγραμμος</foreign> (straight-lined or rectilineal).

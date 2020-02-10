@@ -1,6 +1,6 @@
 ---
 title:  Proposition 22
-subtitle: 
+subtitle:
 author:
 routes:
   aliases:
@@ -8,39 +8,39 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
+    -
 ---
 
-Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary [^2] that two of the straight lines taken together in any manner should be greater than the remaining one. [<a href="/elem.1.20">I. 20</a>] [^1] [^3]
+Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary [^2] that two of the straight lines taken together in any manner should be greater than the remaining one. [1.20] [^1] [^3]
 
 ===
 
-Let the three given straight lines be `A`, `B`, `C`, and of these let two taken together in any manner be greater than the remaining one, namely `A`, `B` greater than `C`, 
+Let the three given straight lines be `A`, `B`, `C`, and of these let two taken together in any manner be greater than the remaining one, namely `A`, `B` greater than `C`,
 
 - `A`, `C` greater than `B`,
 
-nd `B`, `C` greater than `A`; thus it is required to construct a triangle out of straight lines equal to `A`, `B`, `C`. 
+nd `B`, `C` greater than `A`; thus it is required to construct a triangle out of straight lines equal to `A`, `B`, `C`.
 
 
-Let there be set out a straight line `DE`, terminated at `D` but of infinite length in the direction of `E`, and let `DF` be made equal to `A`, `FG` equal to `B`, and `GH` equal to `C`. [<a href="/elem.1.3">I. 3</a>]
+Let there be set out a straight line `DE`, terminated at `D` but of infinite length in the direction of `E`, and let `DF` be made equal to `A`, `FG` equal to `B`, and `GH` equal to `C`. [1.3]
 
 With centre `F` and distance `FD` let the circle `DKL` be described; again, with centre `G` and distance `GH` let the circle `KLH` be described; and let `KF`, `KG` be joined;
 
-I say that the triangle `KFG` has been constructed out of three straight lines equal to `A`, `B`, `C`. <pb n="293"/>
+I say that the triangle `KFG` has been constructed out of three straight lines equal to `A`, `B`, `C`.
 
-For, since the point `F` is the centre of the circle `DKL`, 
+For, since the point `F` is the centre of the circle `DKL`,
 
 - `FD` is equal to `FK`.
 
-But `FD` is equal to `A`; 
+But `FD` is equal to `A`;
 
 - therefore `KF` is also equal to `A`.
 
-Again, since the point `G` is the centre of the circle `LKH`, 
+Again, since the point `G` is the centre of the circle `LKH`,
 
 - `GH` is equal to `GK`.
 
-But `GH` is equal to `C`; 
+But `GH` is equal to `C`;
 
 - therefore `KG` is also equal to `C`. And `FG` is also equal to `B`;
 
@@ -49,6 +49,13 @@ therefore the three straight lines `KF`, `FG`, `GK` are equal to the three strai
 Therefore out of the three straight lines `KF`, `FG`, `GK`, which are equal to the three given straight lines `A`, `B`, `C`, the triangle `KFG` has been constructed.
 
 - Q. E. F.
+
+## References
+
+[1.3]: /elem.1.3 "Book 1 - Proposition 3"
+[1.20]: /elem.1.20 "Book 1 - Proposition 20"
+
+## Footnotes
 
 [^1]: enunciation note
     This is the first case in the <title>Elements</title> of a <foreign lang="greek">διορισμός</foreign> to a problem in the sense of a statement of the conditions or limits of the possibility of a solution. The criterion is of course supplied by the preceding proposition.
