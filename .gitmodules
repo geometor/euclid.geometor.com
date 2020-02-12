@@ -40,3 +40,6 @@
 [submodule "blueprints"]
 	path = blueprints
 	url = https://github.com/photon-platform/photon-blueprints.git
+[submodule "plugins/photon-mermaid"]
+	path = plugins/photon-mermaid
+	url = https://github.com/photon-platform/grav-plugin-photon-mermaid.git
