@@ -25,7 +25,7 @@ article > .content > .summary {
   font-style: italic;
 }
 article > .content > .summary::before, article > .content > .summary::after {
-  content: "·";
+  content: "•";
 }
 article > .content > .summary > * {
   margin-bottom: var(--fitz);
@@ -53,6 +53,26 @@ article > .content ul, article > .content ol {
 }
 article > .content h1, article > .content h2, article > .content h3, article > .content h4 {
   text-align: center;
+}
+article > .content .mermaid .node {
+  stroke: #333;
+  stroke-width: 1px;
+  cursor: pointer;
+}
+article > .content .mermaid .prop {
+  fill: #e0e8eb;
+}
+article > .content .mermaid .def {
+  fill: #e8e0eb;
+}
+article > .content .mermaid .post {
+  fill: #ebe8e0;
+}
+article > .content .mermaid .cn {
+  fill: #e8ebe0;
+}
+article > .content .mermaid .current {
+  stroke-width: 3px;
 }
 article > .content a {
   font-variant: small-caps;

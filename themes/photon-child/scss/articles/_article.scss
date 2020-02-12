@@ -51,11 +51,9 @@ article {
   > header {
 
     > h1 {
-
     }
 
     > nav {
-
     }
 
     > time {
@@ -69,7 +67,6 @@ article {
     max-width: 36em;
     margin: 0 auto;
 
-
     > .summary {
       background: none;
       font-size: 1.4em;
@@ -77,12 +74,13 @@ article {
       font-style: italic;
 
       &::before, &::after {
-        content: '·';
+        content: '•';
       }
 
       > * {
         margin-bottom: var(--fitz);
       }
+
       > ul {
         list-style: none;
         text-align: center;
@@ -100,9 +98,7 @@ article {
             content: "";
           }
         }
-
       }
-
     }
 
     ul, ol {
@@ -113,6 +109,32 @@ article {
       text-align: center;
     }
 
+    .mermaid {
+      .node {
+        stroke: #333;
+        stroke-width: 1px;
+        cursor: pointer;
+      }
+      .prop {
+        fill: #e0e8eb;
+      }
+      .def {
+        fill: #e8e0eb;
+      }
+      .post {
+        fill: #ebe8e0;
+      }
+      .cn {
+        fill: #e8ebe0;
+      }
+      .current {
+        stroke-width: 3px;
+      }
+    }
+
+    .footnote {
+
+    }
     a {
       font-variant: small-caps;
       font-weight: bold;
