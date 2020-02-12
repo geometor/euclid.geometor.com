@@ -42,39 +42,23 @@ Therefore the triangle `ABC` is equilateral; and it has been constructed on the 
 - (Being) what it was required to do.
 
 
-## References
-
 [1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
 [1.post.1]: /elem.1.post.1 "Book 1 - Postulate 1"
 [1.post.3]: /elem.1.post.3 "Book 1 - Postulate 3"
 [1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
 
-[mermaid]
+[references]
 graph BT
-classDef default fill:#CCC,stroke:#333,stroke-width:1px,cursor:pointer;
-classDef current stroke-width:3px;
-classDef prop fill:#e0e8eb;
-classDef def fill:#e8e0eb;
-classDef post fill:#ebe8e0;
-classDef cn fill:#CF9;
 
 e1_1[1.1]
 class e1_1 prop; 
-click e1_1 "/elem.1.1" "Book 1 Proposition 1";
+%% click e1_1 "/elem.1.1" "Book 1 Proposition 1";
 
 %%%% dependencies
-
-e1_1[1.1]
-class e1_1 prop; 
-click e1_1 "/elem.1.1" "Book 1 Proposition 1";
 
 e1_post1(1.post.1)
 class e1_post1 post;
 click e1_post1 "/elem.1.post.1" "Book 1 Postulate 1";
-
-e1_post2(1.post.2)
-class e1_post2 post;
-click e1_post2 "/elem.1.post.2" "Book 1 Postulate 2";
 
 e1_post3(1.post.3)
 class e1_post3 post;
@@ -84,14 +68,18 @@ e1_def15((1.def.15))
 class e1_def15 def;
 click e1_def15 "/elem.1.def.15" "Book 1 Definition 15";
 
+e1_cn1{1.c.n.1}
+class e1_cn1 cn;
+click e1_cn1 "/elem.1.c.n.1" "Book 1 Common Notion 1";
+
 %%%% links
 
 e1_1 --> e1_post1
-e1_1 --> e1_post2
 e1_1 --> e1_post3
 e1_1 --> e1_def15
+e1_1 --> e1_cn1
 
-[/mermaid]
+[/references]
 
 ## Footnotes {#footnotes}
 
