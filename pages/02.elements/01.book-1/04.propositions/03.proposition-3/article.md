@@ -41,11 +41,6 @@ Therefore, given the two straight lines `AB`, `C`, from `AB` the greater `AE` ha
 
 [mermaid]
 graph BT
-classDef default fill:#CCC,stroke:#333,stroke-width:1px,cursor:pointer;
-classDef prop fill:#FC3;
-classDef def fill:#3CF;
-classDef post fill:#C3F;
-classDef cn fill:#CF3;
 
 e1_3[1.3]
 class e1_3 prop;

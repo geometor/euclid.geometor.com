@@ -51,11 +51,6 @@ Therefore the straight line `CF` has been drawn at right angles to the given str
 
 [mermaid]
 graph BT
-classDef default fill:#CCC,stroke:#333,stroke-width:1px,cursor:pointer;
-classDef prop fill:#FC3;
-classDef def fill:#3CF;
-classDef post fill:#C3F;
-classDef cn fill:#CF3;
 
 e1_11[1.11]
 class e1_11 prop; 

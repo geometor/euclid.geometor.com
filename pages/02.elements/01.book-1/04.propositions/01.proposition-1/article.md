@@ -5,6 +5,12 @@ author:
 routes:
   aliases:
     - /elem.1.1
+references:
+  - 
+    key: 1.def.15
+    url: /elem.1.def.15
+    type: def
+    title: "Book 1 - Definition 15"
 taxonomy:
   tag:
   category:
@@ -12,7 +18,7 @@ taxonomy:
     - segments
 ---
 
-On a given finite straight line[^1] to construct an equilateral triangle.
+On a given finite straight line [^1] to construct an equilateral triangle.
 
 
 ===
@@ -50,26 +56,20 @@ Therefore the triangle `ABC` is equilateral; and it has been constructed on the 
 [references]
 graph BT
 
-e1_1[1.1]
-class e1_1 prop; 
-%% click e1_1 "/elem.1.1" "Book 1 Proposition 1";
+e1_1[1.1]:::prop
 
 %%%% dependencies
 
-e1_post1(1.post.1)
-class e1_post1 post;
+e1_post1(1.post.1):::post
 click e1_post1 "/elem.1.post.1" "Book 1 Postulate 1";
 
-e1_post3(1.post.3)
-class e1_post3 post;
+e1_post3(1.post.3):::post
 click e1_post3 "/elem.1.post.3" "Book 1 Postulate 3";
 
-e1_def15((1.def.15))
-class e1_def15 def;
+e1_def15((1.def.15)):::def
 click e1_def15 "/elem.1.def.15" "Book 1 Definition 15";
 
-e1_cn1{1.c.n.1}
-class e1_cn1 cn;
+e1_cn1{1.c.n.1}:::cn
 click e1_cn1 "/elem.1.c.n.1" "Book 1 Common Notion 1";
 
 %%%% links

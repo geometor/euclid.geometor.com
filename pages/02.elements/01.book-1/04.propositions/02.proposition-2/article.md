@@ -61,11 +61,6 @@ Therefore at the given point `A` the straight line `AL` is placed equal to the g
 
 [mermaid]
 graph BT
-classDef default fill:#CCC,stroke:#333,stroke-width:1px,cursor:pointer;
-classDef prop fill:#FC6;
-classDef def fill:#6CF;
-classDef post fill:#C6F;
-classDef cn fill:#CF6;
 
 e1_2[1.2]
 class e1_2 prop; 
