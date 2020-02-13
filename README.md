@@ -1,8 +1,9 @@
-<a href="https://photon-platform.net/">
-    <img src="https://photon-platform.net/images/photon-logo-bg.png" alt="photon" title="photon" align="right" height="120" />
+<a href="https://geometor.com/">
+<!-- http://www.geometor.com/images/8/2/6/d/5/826d5a6bb312853c43fa3cc69d15edb53e44be3a-logo2.png -->
+    <img src="https://geometor.com/images/logo2.png" alt="geometor" title="geometor" align="right" height="120" />
 </a>
 
-# `photon ✴ STARTER`
+# Euclid's Elements
 
 **photon ✴** STARTER is a skeleton site for the [Grav CMS](https://getgrav.org), the templating engine for the **photon ✴ PLATFORM**.
 
@@ -15,117 +16,7 @@ for more about the **photon ✴ PLATFORM**, visit us at <https://photon-platform
 Be sure to check out our video series on Youtube:
 [Introduction to photon PLATFORM](https://www.youtube.com/playlist?list=PLruFHGFsvC_yEkLoYGsBavfg8qmymMQOQ)
 
-**TOC**
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-* [Setup](#setup)
-* [THEMES](#themes)
-	* [photon THEME](#photon-theme)
-	* [photon CHILD theme](#photon-child-theme)
-	* [Theme Configuration](#theme-configuration)
-* [PLUGINS](#plugins)
-	* [Core Grav Plugins](#core-grav-plugins)
-	* [photon PLUGINS](#photon-plugins)
-* [PAGES](#pages)
-	* [Page Data Types](#page-data-types)
-* [About the photon ✴ PLATFORM](#about-the-photon-platform)
-
-<!-- /code_chunk_output -->
-
-## Setup
-
-This STARTER project is not a standalone website. It is just the `user` folder for a Grav installation.
-
-Setting up Grav can mean setting up a lot of prerequisites. So follow the installation guidance [here](https://learn.getgrav.org/basics/installation).
-
-After you configure a working Grav site on your local environment, you can remove the `user` folder and clone this repo in its place.
-
-Since the Grav code is a fixed set of code across all projects, we leave it out of the repo.
-
-From the commandline in your Grav project directory:
-
-    rm -rf user
-    git clone --recurse-submodules https://github.com/photon-platform/photon.git user
-
-`--recurse-submodules` is important because the **photon THEME** and many photon plugins as managed as separate git repositories and are then include in this repo as a submodule.
-
-And make sure you specify the `user` folder at the end of the command
-
-Eventually, we will configure a true skeleton project for submission to Grav Package Manager (GPM)
-
-## THEMES
-
-[`themes`](themes)
-There are two themes in the starter project
-
-### photon THEME
-
-[`themes/photon`](https://github.com/photon-platform/grav-theme-photon)
-
-The **photon THEME** is a git submodule in this repo until it is be submitted to the Grav Package Manager. You can find the Github repo here:
-<https://github.com/photon-platform/grav-theme-photon>
-Check the Theme's README.md for more info.
-
-### photon CHILD theme
-
-[`themes/photon-child`](themes/photon-child)
-
-Grav provides the ability to have a child theme that can inherit and override the templates and styles within the parent theme.
-
-topics:
-
--   customizing the theme
-
-### Theme Configuration
-
-photon uses a set of CSS variables to configure a number of important attributes of the style of the site. These variables are set in the admin panel, as specified in the
-
--   fonts
--   color pallete
--   core dimensions
-
-CSS styles in the photon THEME use these variables, allowing changes to be made without recompiling the css
-
-[`blueprints/config/style.yaml`](blueprints/config/style.yaml)
-contains the form specifications for the style variables of the site.
-
-[`config/style.yaml`](config/style.yaml)
-stores the settings
-
-## PLUGINS
-
-[`plugins`](plugins)
-
-see the README.md in the plugins folder for more on the current set of plugins
-
-all photon PLUGINS are set in the starter site as git submodules
-
-### Core Grav Plugins
-
-Come with the standard install
-[COMMAND](https://github.com/photon-platform/grav-plugin-photon)
-
-### photon PLUGINS
-
-## PAGES
-
-[`pages`](pages)
-
-the `pages` folder contains the content for the system.
-
-The content is stored in folders and files.
-
-### Page Data Types
-
--   article
--   calendar
--   event
--   person
--   organization
--   search
 
 ## About the photon ✴ PLATFORM
 
