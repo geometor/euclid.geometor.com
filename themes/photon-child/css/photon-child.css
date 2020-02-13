@@ -59,19 +59,19 @@ article > .content .mermaid .node {
   stroke-width: 1px;
   cursor: pointer;
 }
-article > .content .mermaid .prop {
+article > .content .mermaid .node .prop {
   fill: #e0e8eb;
 }
-article > .content .mermaid .def {
+article > .content .mermaid .node .def {
   fill: #e8e0eb;
 }
-article > .content .mermaid .post {
+article > .content .mermaid .node .post {
   fill: #ebe8e0;
 }
-article > .content .mermaid .cn {
+article > .content .mermaid .node .cn {
   fill: #e8ebe0;
 }
-article > .content .mermaid .current {
+article > .content .mermaid .node .current {
   stroke-width: 3px;
 }
 article > .content a {
