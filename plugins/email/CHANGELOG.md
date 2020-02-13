@@ -1,3 +1,32 @@
+# v3.0.6
+## 02/11/2020
+
+1. [](#improved)
+    * Updated email validator library
+
+# v3.0.5
+## 02/03/2020
+
+1. [](#bugfix)
+    * Fixed a date in changelog (no other changes)
+
+# v3.0.4
+## 01/17/2020
+
+1. [](#improved)
+    * Added ZOHO configuration example
+    * Updated SwiftMailer library for PHP 7.4 support
+
+# v3.0.3
+## 08/16/2019
+
+1. [](#new)
+    * Support an array of multiple emails in `email:` form process
+    * Allow form values in email templates 
+1. [](#improved)
+    * Added Twig blocks for `content` and `footer` in `email/base.html.twig` template
+    * Updated `README.md` to reflect working setup for GMail 
+
 # v3.0.2
 ## 05/09/2019
 

@@ -206,7 +206,7 @@ class LoginPlugin extends Plugin
 
             foreach ($pages->instances() as $page) {
                 $header = $page->header();
-                if (isset($header) && isset($header->access) && isset($header->login['visibility_requires_access']) && $header->login['visibility_requires_access'] === true) {
+                if ($header && isset($header->access) && isset($header->login['visibility_requires_access']) && $header->login['visibility_requires_access'] === true) {
                     $config = $this->mergeConfig($page);
                     $access = $this->login->isUserAuthorizedForPage($user, $page, $config);
                     if ($access === false) {
@@ -252,6 +252,8 @@ class LoginPlugin extends Plugin
                     $redirect = $page->route() . ($uri->params() ?: '');
                 }
             }
+        } else {
+            $redirect = $this->grav['session']->redirect_after_login;
         }
 
         $this->grav['session']->redirect_after_login = $redirect;
@@ -669,7 +671,6 @@ class LoginPlugin extends Plugin
         }
 
         $form->validate();
-        $form->filter();
 
         /** @var Data $form_data */
         $form_data = $form->getData();
@@ -825,7 +826,6 @@ class LoginPlugin extends Plugin
         $language = $this->grav['language'];
 
         $form->validate();
-        $form->filter();
 
         /** @var Data $form_data */
         $form_data = $form->getData();
