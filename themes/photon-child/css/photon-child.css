@@ -110,11 +110,9 @@ body {
 }
 body > header {
   --color-bg: none;
-  --color-fg: white;
 }
 body > .asides {
   --color-bg: none;
-  --color-fg: white;
 }
 
 /*# sourceMappingURL=photon-child.css.map */
