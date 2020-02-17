@@ -7,11 +7,8 @@ content:
     pagination: true
     limit: 10
 child_type: article
-figure:
-    image: 
-    title: 
-    alt: 
-    caption: 
+taxonomy:
+  tag: showcase
 ---
 
 - Everything about us

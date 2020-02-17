@@ -56,7 +56,7 @@ Therefore the triangle `ABC` is equilateral; and it has been constructed on the 
 [references]
 graph BT
 
-e1_1[1.1]:::prop
+e1_1[1.1]:::post;
 
 %%%% dependencies
 
