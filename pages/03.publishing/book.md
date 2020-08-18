@@ -1,7 +1,6 @@
 ---
 title: Publishing
 subtitle: template for productions
-author:
 collection:
   name: Articles
   showCount: true
@@ -9,8 +8,8 @@ collection:
 content:
   items: '@self.children'
 taxonomy:
-  tag:
-  category:
+    photon:
+        - header
 gallery:
   show: true
 ---

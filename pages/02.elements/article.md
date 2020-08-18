@@ -1,7 +1,6 @@
 ---
 title: Elements
 subtitle: 13 Books of Euclid
-author:
 collection:
   name: Books
   showCount: true
@@ -9,14 +8,9 @@ collection:
 content:
   items: '@self.children'
 child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
-  tag:
-  category:
+    photon:
+        - header
 ---
 
 - Heath edition from Perseus project

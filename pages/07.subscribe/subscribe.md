@@ -8,7 +8,8 @@ child_type: article
 figure:
     image: heic0822a.jpg
 taxonomy:
-  tag:
+    photon:
+        - footer
 ---
 
 - don't miss an update
