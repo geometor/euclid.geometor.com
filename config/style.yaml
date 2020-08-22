@@ -14,7 +14,7 @@ color:
     darker: 90
   foreground: '#333'
   background: '#FFF'
-font: EB+Garamond
+font: Lato
 font_display: Playfair+Display
 font_code: monospace
 header_height: 10em
