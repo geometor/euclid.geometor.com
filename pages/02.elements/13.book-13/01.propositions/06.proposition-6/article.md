@@ -12,7 +12,7 @@ collection:
 content:
   items: '@self.children'
 taxonomy:
-  tag:
+  photon:
     - featured
   category:
     - extreme and mean

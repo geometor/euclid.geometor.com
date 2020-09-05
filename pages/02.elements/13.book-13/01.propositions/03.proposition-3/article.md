@@ -20,7 +20,7 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - extremem and mean
 ---
 
 <p><hi rend="ital">If a straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">the square on the lesser segment added to the half of the greater segment is five times the square on the half of the greater segment.</hi>

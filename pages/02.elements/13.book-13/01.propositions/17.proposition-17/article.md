@@ -20,7 +20,7 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">To construct a dodecahedron and comprehend it in a sphere</hi>, <hi rend="ital">like the aforesaid figures, and to prove that the side of the dodecahedron is the irrational straight line called apotome.</hi>

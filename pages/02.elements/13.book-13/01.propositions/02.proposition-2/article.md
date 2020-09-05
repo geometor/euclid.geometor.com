@@ -20,7 +20,7 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">If the square on a straight line be five times the square on a segment of it</hi>, <hi rend="ital">then</hi>, <hi rend="ital">when the double of the said segment is cut in extreme and mean ratio</hi>, <hi rend="ital">the greater segment is the remaining part of the original straight line.</hi>

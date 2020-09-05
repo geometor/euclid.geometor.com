@@ -20,7 +20,7 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">If a straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">and there be added to it a straight line equal to the greater segment</hi>, <hi rend="ital">the whole straight line has been cut in extreme and mean ratio</hi>, <hi rend="ital">and the original straight line is the greater segment.</hi>

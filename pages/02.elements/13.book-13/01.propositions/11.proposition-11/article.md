@@ -11,16 +11,10 @@ collection:
   showMenu: true
 content:
   items: '@self.children'
-child_type: article
-figure:
-  image:
-  alt:
-  title:
-  caption:
 taxonomy:
   tag:
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">If in a circle which has its diameter rational an equilateral pentagon be inscribed</hi>, <hi rend="ital">the side of the pentagon is the irrational straight line called minor.</hi>

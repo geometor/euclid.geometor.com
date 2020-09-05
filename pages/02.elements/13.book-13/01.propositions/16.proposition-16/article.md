@@ -20,7 +20,7 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">To construct an icosahedron and comprehend it in a sphere</hi>, <hi rend="ital">like the aforesaid figures; and to prove that the side of the icosahedron is the irrational straight line called minor.</hi>

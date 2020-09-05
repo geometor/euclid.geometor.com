@@ -18,9 +18,10 @@ figure:
   title:
   caption:
 taxonomy:
-  tag:
+  photon:
+    - featured
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">If a straight line be cut in extreme and mean ratio</hi>, <hi rend="ital">the square on the whole and the square on the lesser segment together are triple of the square on the greater segment.</hi>

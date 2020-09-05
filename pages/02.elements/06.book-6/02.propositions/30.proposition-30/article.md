@@ -6,7 +6,7 @@ routes:
   aliases:
     - /elem.6.30
 taxonomy:
-  tag:
+  photon:
     - featured
   category:
     - extreme and mean

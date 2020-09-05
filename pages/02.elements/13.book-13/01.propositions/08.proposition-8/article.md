@@ -20,7 +20,7 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">If in an equilateral and equiangular pentagon straight lines subtend two angles taken in order</hi>, <hi rend="ital">they cut one another in extreme and mean ratio</hi>, <hi rend="ital">and their greater segments are equal to the side of the pentagon.</hi>

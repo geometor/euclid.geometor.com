@@ -20,7 +20,7 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
+    - extreme and mean
 ---
 
 <p><hi rend="ital">If the side of the hexagon and that of the decagon inscribed in the same circle be added together</hi>, <hi rend="ital">the whole straight line has been cut in extreme and mean ratio</hi>, <hi rend="ital">and its greater segment is the side of the hexagon.</hi>
