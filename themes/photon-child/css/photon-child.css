@@ -1,118 +1,19 @@
-@charset "UTF-8";
-/* photon ✴ Theme Components and Templates */
-article > figure {
-  background: none;
-}
-article > figure > img {
-  max-height: 16em;
-  object-fit: contain;
-}
-article > figure:empty {
-  display: none;
-}
-article > header > time {
-  display: none;
-}
-article > .content {
-  width: 100%;
-  max-width: 36em;
-  margin: 0 auto;
-}
-article > .content > .summary {
-  background: none;
-  font-size: 1.4em;
-  text-align: center;
-  font-style: italic;
-}
-article > .content > .summary::before, article > .content > .summary::after {
-  content: "•";
-}
-article > .content > .summary > * {
-  margin-bottom: var(--fitz);
-}
-article > .content > .summary > ul {
-  list-style: none;
-  text-align: center;
-  margin: 0;
-  padding: 0;
-}
-article > .content > .summary > ul li {
-  margin: 0;
-  padding: 0;
-}
-article > .content > .summary > ul li::after {
+/* Error: Undefined mixin.
+ *    ,
+ * 67 | /   @include media-bp(3) {
+ * 68 | |     font-size: 1.2em;
+ * 69 | \   }
+ *    '
+ *   themes/photon-child/scss/articles/_article-showcase.scss 67:3  @import
+ *   themes/photon-child/scss/photon-child.scss 5:9                 root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
   display: block;
-  content: "•";
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined mixin.\a    \2577 \a 67 \2502  \250c    @include media-bp(3) {\a 68 \2502  \2502      font-size: 1.2em;\a 69 \2502  \2514    }\a    \2575 \a   themes/photon-child/scss/articles/_article-showcase.scss 67:3  @import\a   themes/photon-child/scss/photon-child.scss 5:9                 root stylesheet";
 }
-article > .content > .summary > ul li:last-child::after {
-  display: none;
-  content: "";
-}
-article > .content ul, article > .content ol {
-  margin: 1em 2em;
-}
-article > .content h1, article > .content h2, article > .content h3, article > .content h4 {
-  text-align: center;
-}
-article > .content .mermaid .node {
-  stroke: #333;
-  stroke-width: 1px;
-  cursor: pointer;
-}
-article > .content .mermaid .node .prop {
-  fill: #e0e8eb;
-}
-article > .content .mermaid .node .def {
-  fill: #e8e0eb;
-}
-article > .content .mermaid .node .post {
-  fill: #ebe8e0;
-}
-article > .content .mermaid .node .cn {
-  fill: #e8ebe0;
-}
-article > .content .mermaid .node .current {
-  stroke-width: 3px;
-}
-article > .content a {
-  font-variant: small-caps;
-  font-weight: bold;
-}
-article > .content a::before {
-  content: "[";
-}
-article > .content a::after {
-  content: "]";
-}
-article > footer > aside ul, article > footer > aside li {
-  margin: 0;
-}
-article.excerpt .article-share {
-  display: none;
-}
-article.excerpt .more {
-  align-self: flex-end;
-}
-
-@media (min-width: 72em) {
-  article.showcase {
-    font-size: 1.2em;
-  }
-}
-@media (min-width: 108em) {
-  article.showcase {
-    font-size: 1.4em;
-  }
-}
-
-body {
-  font-size: 1.2em;
-}
-body > header {
-  --color-bg: none;
-}
-body > .asides {
-  --color-bg: none;
-}
-
-/*# sourceMappingURL=photon-child.css.map */
