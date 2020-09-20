@@ -1,5 +1,5 @@
 ---
-title:  4
+title:  Postulate 1.4
 subtitle: Right Angles are Equal
 author:
 routes:

@@ -1,5 +1,5 @@
 ---
-title:  Proposition 104
+title:  Proposition 10.104
 subtitle: 
 author:
 routes:

@@ -1,5 +1,5 @@
 ---
-title:  Proposition 86
+title:  Proposition 10.86
 subtitle: 
 author:
 routes:

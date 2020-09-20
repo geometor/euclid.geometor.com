@@ -1,5 +1,5 @@
 ---
-title:  12
+title:  Definition 1.12
 subtitle: Acute Angle
 author:
 routes:

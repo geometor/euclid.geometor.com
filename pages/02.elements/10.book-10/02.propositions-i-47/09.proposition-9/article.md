@@ -1,5 +1,5 @@
 ---
-title:  Proposition 9
+title:  Proposition 10.9
 subtitle: 
 author:
 routes:

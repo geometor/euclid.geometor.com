@@ -1,5 +1,5 @@
 ---
-title:  2
+title:  Postulate 1.2
 subtitle: Finite Straight Line
 author:
 routes:

@@ -1,5 +1,5 @@
 ---
-title:  Proposition 23
+title:  Proposition 3.23
 subtitle: 
 author:
 routes:

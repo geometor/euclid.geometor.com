@@ -1,5 +1,5 @@
 ---
-title:  Proposition 13
+title:  Proposition 11.13
 subtitle: 
 author:
 routes:

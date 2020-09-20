@@ -1,5 +1,5 @@
 ---
-title:  5
+title:  Definition 7.5
 subtitle: 
 author:
 routes:

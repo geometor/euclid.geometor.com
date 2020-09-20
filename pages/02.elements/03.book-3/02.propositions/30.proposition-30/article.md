@@ -1,5 +1,5 @@
 ---
-title:  Proposition 30
+title:  Proposition 3.30
 subtitle: 
 author:
 routes:

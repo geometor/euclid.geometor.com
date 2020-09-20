@@ -1,5 +1,5 @@
 ---
-title:  Proposition 101
+title:  Proposition 10.101
 subtitle: 
 author:
 routes:

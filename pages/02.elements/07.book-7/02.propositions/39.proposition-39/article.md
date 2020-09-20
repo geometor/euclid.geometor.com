@@ -1,5 +1,5 @@
 ---
-title:  Proposition 39
+title:  Proposition 7.39
 subtitle: 
 author:
 routes:

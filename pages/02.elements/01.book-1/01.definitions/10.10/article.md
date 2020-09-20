@@ -1,5 +1,5 @@
 ---
-title:  10
+title:  Definition 1.10
 subtitle: Right (Perpendicular) Angle
 author:
 routes:

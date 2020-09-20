@@ -1,5 +1,5 @@
 ---
-title:  Proposition 115
+title:  Proposition 10.115
 subtitle: 
 author:
 routes:

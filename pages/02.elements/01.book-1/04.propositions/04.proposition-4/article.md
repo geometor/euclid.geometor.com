@@ -1,5 +1,5 @@
 ---
-title:  Proposition 4
+title:  Proposition 1.4
 subtitle: Triangles with Equal Sides have equal angles
 author:
 routes:

@@ -1,5 +1,5 @@
 ---
-title:  16
+title:  Definition 7.16
 subtitle: 
 author:
 routes:

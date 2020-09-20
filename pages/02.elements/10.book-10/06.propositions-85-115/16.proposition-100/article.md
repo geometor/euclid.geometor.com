@@ -1,5 +1,5 @@
 ---
-title:  Proposition 100
+title:  Proposition 10.100
 subtitle: 
 author:
 routes:

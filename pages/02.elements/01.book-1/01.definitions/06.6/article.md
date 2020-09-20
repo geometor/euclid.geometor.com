@@ -1,5 +1,5 @@
 ---
-title:  6
+title:  Definition 1.6
 subtitle: Extremities of a Surface
 author:
 routes:

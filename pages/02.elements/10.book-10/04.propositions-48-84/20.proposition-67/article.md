@@ -1,5 +1,5 @@
 ---
-title:  Proposition 67
+title:  Proposition 10.67
 subtitle: 
 author:
 routes:

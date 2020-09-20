@@ -1,5 +1,5 @@
 ---
-title:  Proposition 97
+title:  Proposition 10.97
 subtitle: 
 author:
 routes:

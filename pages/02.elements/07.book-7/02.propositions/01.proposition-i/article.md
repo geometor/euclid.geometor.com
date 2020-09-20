@@ -1,5 +1,5 @@
 ---
-title:  Proposition i
+title:  Proposition 7.1
 subtitle: 
 author:
 routes:

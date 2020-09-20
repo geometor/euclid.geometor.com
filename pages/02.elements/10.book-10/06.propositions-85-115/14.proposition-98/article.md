@@ -1,5 +1,5 @@
 ---
-title:  Proposition 98
+title:  Proposition 10.98
 subtitle: 
 author:
 routes:

@@ -1,5 +1,5 @@
 ---
-title:  Proposition 41
+title:  Proposition 10.41
 subtitle: 
 author:
 routes:

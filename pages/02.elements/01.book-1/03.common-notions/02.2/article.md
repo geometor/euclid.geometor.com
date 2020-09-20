@@ -1,5 +1,5 @@
 ---
-title:  2
+title:  Common Notion 1.2
 subtitle: 
 author:
 routes:

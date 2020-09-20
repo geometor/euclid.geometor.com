@@ -1,5 +1,5 @@
 ---
-title:  Proposition 35
+title:  Proposition 9.35
 subtitle: 
 author:
 routes:

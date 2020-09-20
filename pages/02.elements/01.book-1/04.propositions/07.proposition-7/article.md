@@ -1,5 +1,5 @@
 ---
-title:  Proposition 7
+title:  Proposition 1.7
 subtitle:
 author:
 routes:

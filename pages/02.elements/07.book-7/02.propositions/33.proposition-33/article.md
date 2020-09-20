@@ -1,5 +1,5 @@
 ---
-title:  Proposition 33
+title:  Proposition 7.33
 subtitle: 
 author:
 routes:

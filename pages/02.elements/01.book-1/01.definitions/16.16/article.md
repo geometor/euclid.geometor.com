@@ -1,5 +1,5 @@
 ---
-title:  16
+title:  Definition 1.16
 subtitle: Center
 author:
 routes:

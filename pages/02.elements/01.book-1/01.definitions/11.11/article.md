@@ -1,5 +1,5 @@
 ---
-title:  11
+title:  Definition 1.11
 subtitle: Obtuse Angle
 author:
 routes:

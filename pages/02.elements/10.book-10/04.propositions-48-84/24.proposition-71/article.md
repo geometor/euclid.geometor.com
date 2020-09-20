@@ -1,5 +1,5 @@
 ---
-title:  Proposition 71
+title:  Proposition 10.71
 subtitle: 
 author:
 routes:

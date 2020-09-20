@@ -1,5 +1,5 @@
 ---
-title:  Proposition 37
+title:  Proposition 3.37
 subtitle: 
 author:
 routes:

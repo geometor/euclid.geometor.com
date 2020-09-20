@@ -1,5 +1,5 @@
 ---
-title:  Proposition 16
+title:  Proposition 7.16
 subtitle: 
 author:
 routes:

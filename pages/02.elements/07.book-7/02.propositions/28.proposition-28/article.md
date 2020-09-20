@@ -1,5 +1,5 @@
 ---
-title:  Proposition 28
+title:  Proposition 7.28
 subtitle: 
 author:
 routes:

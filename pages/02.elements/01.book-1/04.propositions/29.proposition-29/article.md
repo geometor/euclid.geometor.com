@@ -1,5 +1,5 @@
 ---
-title:  Proposition 29
+title:  Proposition 1.29
 subtitle:
 author:
 routes:

@@ -1,5 +1,5 @@
 ---
-title:  21
+title:  Definition 1.21
 subtitle: Right Triangle
 author:
 routes:

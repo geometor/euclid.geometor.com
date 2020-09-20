@@ -1,5 +1,5 @@
 ---
-title:  Proposition 34
+title:  Proposition 7.34
 subtitle: 
 author:
 routes:

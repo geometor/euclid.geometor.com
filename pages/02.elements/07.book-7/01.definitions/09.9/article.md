@@ -1,5 +1,5 @@
 ---
-title:  9
+title:  Definition 7.9
 subtitle: 
 author:
 routes:

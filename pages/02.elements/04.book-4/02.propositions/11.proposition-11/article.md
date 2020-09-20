@@ -1,5 +1,5 @@
 ---
-title:  Proposition 11
+title:  Proposition 4.11
 subtitle: 
 author:
 routes:

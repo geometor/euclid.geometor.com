@@ -1,5 +1,5 @@
 ---
-title:  Proposition 6
+title:  Proposition 2.6
 subtitle: 
 author:
 routes:

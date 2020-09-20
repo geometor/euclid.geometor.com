@@ -1,5 +1,5 @@
 ---
-title:  Proposition i
+title:  Proposition 5.1
 subtitle: 
 author:
 routes:

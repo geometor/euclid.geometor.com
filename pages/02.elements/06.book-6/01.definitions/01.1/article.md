@@ -1,5 +1,5 @@
 ---
-title:  1
+title:  Definition 6.1
 subtitle: 
 author:
 routes:

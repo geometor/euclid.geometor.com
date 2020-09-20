@@ -1,5 +1,5 @@
 ---
-title:  Proposition 85
+title:  Proposition 10.85
 subtitle: 
 author:
 routes:

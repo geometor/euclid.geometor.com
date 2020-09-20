@@ -1,5 +1,5 @@
 ---
-title:  Proposition 27
+title:  Proposition 11.27
 subtitle: 
 author:
 routes:

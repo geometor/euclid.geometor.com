@@ -1,5 +1,5 @@
 ---
-title:  Proposition 3
+title:  Proposition 1.3
 subtitle: Construct equal segments by section
 author:
 routes:

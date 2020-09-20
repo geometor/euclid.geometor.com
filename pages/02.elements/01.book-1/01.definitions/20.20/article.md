@@ -1,5 +1,5 @@
 ---
-title:  20
+title:  Definition 1.20
 subtitle: Trilateral Figures
 author:
 routes:

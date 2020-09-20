@@ -1,5 +1,5 @@
 ---
-title:  Proposition 79
+title:  Proposition 10.79
 subtitle: 
 author:
 routes:

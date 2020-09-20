@@ -1,5 +1,5 @@
 ---
-title:  Proposition 17
+title:  Proposition 5.17
 subtitle: 
 author:
 routes:

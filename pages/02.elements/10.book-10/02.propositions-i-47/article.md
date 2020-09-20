@@ -1,5 +1,5 @@
 ---
-title:  Propositions i—47
+title:  Propositions 1—47
 subtitle: 
 author:
 routes:

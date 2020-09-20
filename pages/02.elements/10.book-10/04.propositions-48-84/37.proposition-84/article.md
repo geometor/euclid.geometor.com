@@ -1,5 +1,5 @@
 ---
-title:  Proposition 84
+title:  Proposition 10.84
 subtitle: 
 author:
 routes:

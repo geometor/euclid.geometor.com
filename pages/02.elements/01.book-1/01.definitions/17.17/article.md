@@ -1,5 +1,5 @@
 ---
-title:  17
+title:  Definition 1.17
 subtitle: Diameter
 author:
 routes:

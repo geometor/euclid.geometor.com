@@ -1,5 +1,5 @@
 ---
-title:  Proposition 89
+title:  Proposition 10.89
 subtitle: 
 author:
 routes:

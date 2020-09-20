@@ -1,5 +1,5 @@
 ---
-title:  Proposition 47
+title:  Proposition 1.47
 subtitle:
 author:
 routes:

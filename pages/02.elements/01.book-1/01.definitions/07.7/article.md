@@ -1,5 +1,5 @@
 ---
-title:  7
+title:  Definition 1.7
 subtitle: Plane Surface
 author:
 routes:

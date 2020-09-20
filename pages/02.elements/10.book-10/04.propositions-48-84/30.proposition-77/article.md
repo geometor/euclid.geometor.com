@@ -1,5 +1,5 @@
 ---
-title:  Proposition 77
+title:  Proposition 10.77
 subtitle: 
 author:
 routes:

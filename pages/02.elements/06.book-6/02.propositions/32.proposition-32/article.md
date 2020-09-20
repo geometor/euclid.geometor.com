@@ -1,5 +1,5 @@
 ---
-title:  Proposition 32
+title:  Proposition 6.32
 subtitle: 
 author:
 routes:

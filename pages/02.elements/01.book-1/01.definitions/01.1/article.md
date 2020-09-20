@@ -1,5 +1,5 @@
 ---
-title:  1
+title:  Definition 1.1
 subtitle: Point
 author:
 routes:

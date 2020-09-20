@@ -1,5 +1,5 @@
 ---
-title:  3
+title:  Definition 6.3
 subtitle: Cut in extreme and mean ratio
 author:
 routes:

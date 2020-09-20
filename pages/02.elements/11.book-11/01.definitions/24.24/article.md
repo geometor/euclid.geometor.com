@@ -1,5 +1,5 @@
 ---
-title:  24
+title:  Definition 11.24
 subtitle: 
 author:
 routes:

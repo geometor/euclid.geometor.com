@@ -1,5 +1,5 @@
 ---
-title:  Proposition 43
+title:  Proposition 10.43
 subtitle: 
 author:
 routes:

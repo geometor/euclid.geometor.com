@@ -1,5 +1,5 @@
 ---
-title:  Proposition 42
+title:  Proposition 10.42
 subtitle: 
 author:
 routes:

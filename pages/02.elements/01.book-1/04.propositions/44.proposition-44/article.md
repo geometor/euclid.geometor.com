@@ -1,5 +1,5 @@
 ---
-title:  Proposition 44
+title:  Proposition 1.44
 subtitle:
 author:
 routes:

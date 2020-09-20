@@ -1,5 +1,5 @@
 ---
-title:  Proposition 93
+title:  Proposition 10.93
 subtitle: 
 author:
 routes:

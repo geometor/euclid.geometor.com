@@ -1,5 +1,5 @@
 ---
-title:  Proposition 19
+title:  Proposition 8.19
 subtitle: 
 author:
 routes:

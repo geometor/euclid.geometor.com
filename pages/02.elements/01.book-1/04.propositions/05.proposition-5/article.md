@@ -1,5 +1,5 @@
 ---
-title:  Proposition 5
+title:  Proposition 1.5
 subtitle: The base angles of an isosceles triangle are equal
 author:
 routes:

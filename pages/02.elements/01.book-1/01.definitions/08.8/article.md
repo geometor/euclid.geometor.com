@@ -1,5 +1,5 @@
 ---
-title:  8
+title:  Definition 1.8
 subtitle: Plane Angle
 author:
 routes:

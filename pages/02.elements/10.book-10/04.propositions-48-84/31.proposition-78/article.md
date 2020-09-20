@@ -1,5 +1,5 @@
 ---
-title:  Proposition 78
+title:  Proposition 10.78
 subtitle: 
 author:
 routes:

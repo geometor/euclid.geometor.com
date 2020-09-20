@@ -1,5 +1,5 @@
 ---
-title:  Proposition 30
+title:  Proposition 9.30
 subtitle: 
 author:
 routes:

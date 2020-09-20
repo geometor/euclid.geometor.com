@@ -1,5 +1,5 @@
 ---
-title:  Proposition 1
+title:  Proposition 1.1
 subtitle: Construct an Equilateral Triangle on a Segment
 author:
 routes:

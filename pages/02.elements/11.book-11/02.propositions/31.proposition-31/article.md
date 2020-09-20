@@ -1,5 +1,5 @@
 ---
-title:  Proposition 31
+title:  Proposition 11.31
 subtitle: 
 author:
 routes:

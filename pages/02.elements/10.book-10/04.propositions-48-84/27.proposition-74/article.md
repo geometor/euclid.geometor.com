@@ -1,5 +1,5 @@
 ---
-title:  Proposition 74
+title:  Proposition 10.74
 subtitle: 
 author:
 routes:

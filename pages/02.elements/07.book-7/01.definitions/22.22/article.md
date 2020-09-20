@@ -1,5 +1,5 @@
 ---
-title:  22
+title:  Definition 7.22
 subtitle: 
 author:
 routes:

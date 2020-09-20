@@ -1,5 +1,5 @@
 ---
-title:  18
+title:  Definition 1.18
 subtitle: Semicircle
 author:
 routes:

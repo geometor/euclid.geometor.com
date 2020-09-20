@@ -1,5 +1,5 @@
 ---
-title:  15
+title:  Definition 1.15
 subtitle: Circle
 author:
 routes:

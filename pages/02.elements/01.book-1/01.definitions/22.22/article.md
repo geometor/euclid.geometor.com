@@ -1,5 +1,5 @@
 ---
-title:  22
+title:  Definition 1.22
 subtitle: Quadrilateral Figures
 author:
 routes:

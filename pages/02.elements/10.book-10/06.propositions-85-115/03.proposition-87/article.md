@@ -1,5 +1,5 @@
 ---
-title:  Proposition 87
+title:  Proposition 10.87
 subtitle: 
 author:
 routes:

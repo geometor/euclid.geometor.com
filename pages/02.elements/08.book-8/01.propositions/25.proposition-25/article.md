@@ -1,5 +1,5 @@
 ---
-title:  Proposition 25
+title:  Proposition 8.25
 subtitle: 
 author:
 routes:

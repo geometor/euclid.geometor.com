@@ -1,5 +1,5 @@
 ---
-title:  Proposition 53
+title:  Proposition 10.53
 subtitle: 
 author:
 routes:

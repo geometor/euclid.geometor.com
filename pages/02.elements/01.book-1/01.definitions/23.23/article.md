@@ -1,5 +1,5 @@
 ---
-title:  23
+title:  Definition 1.23
 subtitle: Parallel Straight Lines
 author:
 routes:

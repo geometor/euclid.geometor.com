@@ -1,5 +1,5 @@
 ---
-title:  Proposition 21
+title:  Proposition 3.21
 subtitle: 
 author:
 routes:

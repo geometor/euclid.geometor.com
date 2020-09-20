@@ -1,5 +1,5 @@
 ---
-title:  13
+title:  Definition 1.13
 subtitle: Boundary
 author:
 routes:

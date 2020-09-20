@@ -1,5 +1,5 @@
 ---
-title:  Proposition 46
+title:  Proposition 10.46
 subtitle: 
 author:
 routes:

@@ -1,5 +1,5 @@
 ---
-title:  19
+title:  Definition 1.19
 subtitle: Rectilineal Figures
 author:
 routes:

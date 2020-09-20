@@ -1,5 +1,5 @@
 ---
-title:  14
+title:  Definition 1.14
 subtitle: Figure
 author:
 routes:

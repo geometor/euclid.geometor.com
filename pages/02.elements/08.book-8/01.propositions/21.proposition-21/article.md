@@ -1,5 +1,5 @@
 ---
-title:  Proposition 21
+title:  Proposition 8.21
 subtitle: 
 author:
 routes:

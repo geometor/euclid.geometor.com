@@ -1,5 +1,5 @@
 ---
-title:  Proposition 72
+title:  Proposition 10.72
 subtitle: 
 author:
 routes:

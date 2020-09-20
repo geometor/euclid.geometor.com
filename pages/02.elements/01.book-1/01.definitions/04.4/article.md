@@ -1,5 +1,5 @@
 ---
-title:  4
+title:  Definition 1.4
 subtitle: Straight Line
 author:
 routes:

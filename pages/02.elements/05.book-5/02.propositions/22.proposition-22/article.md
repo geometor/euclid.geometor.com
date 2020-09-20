@@ -1,5 +1,5 @@
 ---
-title:  Proposition 22
+title:  Proposition 5.22
 subtitle: 
 author:
 routes:

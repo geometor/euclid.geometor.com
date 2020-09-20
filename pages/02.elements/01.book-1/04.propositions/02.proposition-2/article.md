@@ -1,5 +1,5 @@
 ---
-title:  Proposition 2
+title:  Proposition 1.2
 subtitle: Construct equal segments by extension
 author:
 routes:

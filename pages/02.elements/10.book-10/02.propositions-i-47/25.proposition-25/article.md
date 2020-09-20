@@ -1,5 +1,5 @@
 ---
-title:  Proposition 25
+title:  Proposition 10.25
 subtitle: 
 author:
 routes:

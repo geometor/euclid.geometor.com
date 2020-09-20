@@ -1,5 +1,5 @@
 ---
-title:  Proposition 40
+title:  Proposition 10.40
 subtitle: 
 author:
 routes:

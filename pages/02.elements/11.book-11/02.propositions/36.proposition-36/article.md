@@ -1,5 +1,5 @@
 ---
-title:  Proposition 36
+title:  Proposition 11.36
 subtitle: 
 author:
 routes:

@@ -1,6 +1,6 @@
 ---
-title:  2
-subtitle: 
+title:  Definition 10.iii.2
+10.subtitle: 
 author:
 routes:
   aliases:

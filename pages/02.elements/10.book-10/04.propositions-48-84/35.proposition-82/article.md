@@ -1,5 +1,5 @@
 ---
-title:  Proposition 82
+title:  Proposition 10.82
 subtitle: 
 author:
 routes:
