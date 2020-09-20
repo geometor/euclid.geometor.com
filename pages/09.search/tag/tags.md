@@ -1,13 +1,15 @@
 ---
-title: Tags & Categories
+title: Tag Search
 content:
-    title: Filtered Pages
+    title: Pages with Matching Tag
     items: '@root.descendants'
     order:
         by: date
         dir: desc
 ---
 
-- filter all pages by taxonomies
+
 
 ===
+
+

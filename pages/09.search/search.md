@@ -1,10 +1,15 @@
 ---
 title: Search
-subtitle: 'Full site search'
+content:
+    # items: '@root.descendants'
+taxonomy:
+    photon: 
+        - header
+show_gallery: false
 ---
 
-- Find what you are looking for
+search across entire site
 
 ===
 
-Enter your search criteria in the box below:
+type your search cirteria in the box below
