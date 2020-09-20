@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>6</h1>
 <p>A circle is said to be <span class="bold">circumscribed about a figure</span> when the circumference of the circle passes through each angle of the figure about which it is circumscribed.</p>

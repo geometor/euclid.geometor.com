@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 24.</h1>
 <p><em>If a first magnitude have to a second the same ratio as a third has to a fourth</em>, <em>and also a fifth have to the second the same ratio as a sixth to the fourth</em>, <em>the first and fifth added together will have to the second the same ratio as the third and sixth have to the fourth</em>. </p>
 
 <p>Let a first magnitude <em>AB</em> have to a second <em>C</em> the same ratio as a third <em>DE</em> has to a fourth <em>F</em>; and let also a fifth <em>BG</em> have to  the second <em>C</em> the same ratio as a sixth <em>EH</em> has to the fourth <em>F</em>; I say that the first and fifth added together, <em>AG</em>, will have to the second <em>C</em> the same ratio as the third and sixth, <em>DH</em>, has to the fourth <em>F</em>. <pb n="184"/></p>

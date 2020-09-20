@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 87.</h1>
 <p><span class="ital">To find the third apotome</span>. </p>
 
 <p>Let a rational straight line <span class="ital">A</span> be set out, let three numbers <span class="ital">E</span>, <span class="ital">BC</span>, <span class="ital">CD</span> be set out which have not to one another the ratio which a square number has to a square number, but let <span class="ital">CB</span> have to <span class="ital">BD</span> the ratio which a square number has to a square number. 

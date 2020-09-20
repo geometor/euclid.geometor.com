@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 73.</h1>
 <p><span class="ital">If from a rational straight line there be subtracted a rational straight line commensurable with the whole in square only, the remainder is irrational; and let it be called</span>
        <span class="bold">an apotome</span>. </p>
 

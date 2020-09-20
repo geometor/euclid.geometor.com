@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p><span class="ital">To construct a cube and comprehend it in a sphere</span>, <span class="ital">like the pyramid; and to prove that the square on the diameter of the sphere is triple of the square on the side of the cube.</span>
       </p>
 

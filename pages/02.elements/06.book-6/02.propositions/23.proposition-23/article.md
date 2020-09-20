@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 23.</h1>
 <p><em>Equiangular parallelograms have to one another the ratio compounded of the ratios of their sides</em>. </p>
 
 <p>Let <em>AC</em>, <em>CF</em> be equiangular parallelograms having the angle <em>BCD</em> equal to the angle <em>ECG</em>; <lb n="5"/>I say that the parallelogram <em>AC</em> has to the parallelogram <em>CF</em> the ratio compounded of the ratios of the sides. 

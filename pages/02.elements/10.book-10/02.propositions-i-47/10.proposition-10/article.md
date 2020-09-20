@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 10.</h1>
 <p><span class="ital">To find two straight lines incommensurable, the one in length only, and the other in square also, with an assigned straight line</span>. </p>
 
 <p>Let <span class="ital">A</span> be the assigned straight line; thus it is required to find two straight lines incommensurable, the one in length only, and the other in square also, with <span class="ital">A</span>. </p>

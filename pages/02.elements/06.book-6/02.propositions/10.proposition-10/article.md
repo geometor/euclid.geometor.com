@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 10.</h1>
 <p><em>To cut a given uncut straight line similarly to a given cut straight line</em>. </p>
 
 <p>Let <em>AB</em> be the given uncut straight line, and <em>AC</em> the straight line cut at the points <em>D</em>, <em>E</em>; and let them be so placed as to contain any angle; let <em>CB</em> be joined, and through <em>D</em>, <em>E</em> let <em>DF</em>, <em>EG</em> be drawn parallel to <em>BC</em>, and through <em>D</em> let <em>DHK</em> be drawn parallel to <em>AB</em>. [<a href="/elem.1.31">I. 31</a>] 

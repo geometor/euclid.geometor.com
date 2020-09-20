@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>5</h1>
 <p>[8] The whole is greater than the part.</p>

@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p>
        <span class="ital">If a number be that part of a number, which a number subtracted is of a number subtracted, the remainder will also be the same part of the remainder that the whole is of the whole.</span>
       </p>

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>18</h1>
 <p>When, one side of those about the right angle in a right-angled triangle remaining fixed, the triangle is carried round and restored again to the same position from which it began to be moved, the figure so comprehended is a <span class="bold">cone.</span>
       </p>
 

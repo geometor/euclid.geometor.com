@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p>
        <span class="ital">Circles are to one another as the squares on the diameters.</span>
       </p>

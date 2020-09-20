@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p><span class="ital">The square on a medial straight line, if applied to a rational straight line, produces as breadth a straight line rational and incommensurable in length with that to which it is applied</span>. </p>
 
 <p>Let <span class="ital">A</span> be medial and <span class="ital">CB</span> rational, and let a rectangular area <span class="ital">BD</span> equal to the square on <span class="ital">A</span> be applied to <span class="ital">BC</span>, producing <span class="ital">CD</span> as breadth; I say that <span class="ital">CD</span> is rational and incommensurable in length with <span class="ital">CB</span>. </p>

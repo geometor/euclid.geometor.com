@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 25.</h1>
 <p><em>Given a segment of a circle</em>, <em>to describe the complete circle of which it is a segment</em>. </p>
 
 <p>Let <em>ABC</em> be the given segment of a circle; thus it is required to describe the complete circle belonging to the segment <em>ABC</em>, that is, of which it is a segment. </p>

@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 98.</h1>
 <p>
        <span class="ital">The square on a first apotome of a medial straight line applied to a rational straight line produces as breadth a second apotome.</span>
       </p>

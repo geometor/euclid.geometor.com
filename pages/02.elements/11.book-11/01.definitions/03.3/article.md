@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>3</h1>
 <p>A <span class="bold">straight line</span> is <span class="bold">at right angles to a plane,</span> when it makes right angles with all the straight lines which meet it and are in the plane.</p>

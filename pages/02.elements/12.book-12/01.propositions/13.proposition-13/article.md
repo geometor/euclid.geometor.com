@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p>
        <span class="ital">If a cylinder be cut by a plane which is parallel to its opposite planes, then, as the cylinder is to the cylinder, so will the axis be to the axis.</span>
       </p>

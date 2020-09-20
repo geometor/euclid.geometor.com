@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p><em>In a given pentagon</em>, <em>which is equilateral and equiangular</em>, <em>to inscribe a circle</em>. </p>
 
 <p>Let <em>ABCDE</em> be the given equilateral and equiangular pentagon; thus it is required to inscribe a circle in the pentagon <em>ABCDE</em>. </p>

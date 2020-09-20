@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 12.</h1>
 <p>
        <span class="ital">To set up a straight line at right angles to a given plane from a given point in it.</span>
       </p>

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>2</h1>
 <p>[<span class="bold">Reciprocally related</span> figures. <em>See blockquote</em>.]</p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 33.</h1>
 <p><em>On a given straight line to describe a segment of a circle admitting an angle equal to a given rectilineal angle</em>. </p>
 
 <p>Let <em>AB</em> be the given straight line, and the angle at <em>C</em> the given rectilineal angle; thus it is required to describe on the given straight line <em>AB</em> a segment of a circle admitting an angle equal to the angle at <em>C</em>. 

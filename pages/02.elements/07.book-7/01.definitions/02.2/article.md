@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>2</h1>
 <p> A <span class="bold">number</span> is a multitude composed of units.</p>

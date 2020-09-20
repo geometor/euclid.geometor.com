@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><span class="ital">If a straight line be cut in extreme and mean ratio</span>, <span class="ital">the square on the lesser segment added to the half of the greater segment is five times the square on the half of the greater segment.</span>
        <pb n="446"/></p>
 

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 19.</h1>
 <p><span class="ital">If two planes which cut one another be at right angles to any plane</span>, <span class="ital">their common section will also be at right angles to the same plane.</span>
       </p>
 

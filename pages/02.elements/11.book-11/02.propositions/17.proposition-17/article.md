@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 17.</h1>
 <p><span class="ital">If two straight lines be cut by parallel planes</span>, <span class="ital">they will be cut in the same ratios.</span>
       </p>
 

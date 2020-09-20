@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 30.</h1>
 <p>
        <span class="ital">If two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers.</span>
       </p>

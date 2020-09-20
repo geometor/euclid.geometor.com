@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 64.</h1>
 <p><span class="ital">The square on the side of a rational plus a medial area applied to a rational straight line produces as breadth the fifth binomial</span>. </p>
 
 <p>Let <span class="ital">AB</span> be the side of a rational plus a medial area, divded into its straight lines at <span class="ital">C</span>, so that <span class="ital">AC</span> is the greater; let a rational straight line <span class="ital">DE</span> be set out, and let there be applied to <span class="ital">DE</span> the parallelogram <span class="ital">DF</span> equal to the square on <span class="ital">AB</span>, producing <span class="ital">DG</span> as its breadth; I say that <span class="ital">DG</span> is a fifth binomial straight line. 

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 61.</h1>
 <p><span class="ital">The square on the first bimedial straight line applied to a rational straight line produces as breadth the second binomial</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a first bimedial straight line divded into its medials at <span class="ital">C</span>, of which medials <span class="ital">AC</span> is the greater; let a rational straight line <span class="ital">DE</span> be set out, and let there be applied to <span class="ital">DE</span> the parallelogram <span class="ital">DF</span> equal to the square on <span class="ital">AB</span>, producing <span class="ital">DG</span> as its breadth; I say that <span class="ital">DG</span> is a second binominal straight line. 

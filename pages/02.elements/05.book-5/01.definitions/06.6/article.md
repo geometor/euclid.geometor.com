@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>6</h1>
 <p>Let magnitudes which have the same ratio be called <span class="bold">proportional</span>.</p>

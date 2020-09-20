@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p><em>If four straight lines be proportional</em>, <em>the rectangle contained by the extremes is equal to the rectangle contained by the means; and</em>, <em>if the rectangle contained by the extremes be equal to the rectangle contained by the means</em>, <em>the four straight lines will be proportional</em>. </p>
 
 <p>Let the four straight lines <em>AB</em>, <em>CD</em>, <em>E</em>, <em>F</em> be proportional, so that, as <em>AB</em> is to <em>CD</em>, so is <em>E</em> to <em>F</em>; I say that the rectangle contained by <em>AB</em>, <em>F</em> is equal to the rectangle contained by <em>CD</em>, <em>E</em>. 

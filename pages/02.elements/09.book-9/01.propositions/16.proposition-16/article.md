@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p>
        <span class="ital">If two numbers be prime to one another, the second will not be to any other number as the first is to the second.</span>
       </p>

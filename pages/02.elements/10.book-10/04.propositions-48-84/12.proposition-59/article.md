@@ -30,7 +30,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 59.</h1>
 <p>
        <span class="ital">If an area be contained by a rational straight line and the sixth binomial, the <quote>side</quote>
  of the area is the irrational straight line called the side of the sum of two medial areas.</span>

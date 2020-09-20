@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>11</h1>
 <p>A <span class="bold">solid angle</span> is the inclination constituted by more than two lines which meet one another and are not in the same surface, towards all the lines. </p>
 
 <p>Otherwise: A <span class="bold">solid angle</span> is that which is contained by more than two plane angles which are not in the same plane and are constructed to one point.</p>

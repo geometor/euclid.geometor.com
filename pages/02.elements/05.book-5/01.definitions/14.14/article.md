@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>14</h1><pb n="115"/>
 <p><span class="bold">Composition of a ratio</span> means taking the antecedent together with the consequent as one in relation to the consequent by itself.</p>

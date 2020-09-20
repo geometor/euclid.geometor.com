@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 114.</h1>
 <p><span class="ital">If an area be contained by an apotome and the binomial straight line the terms of which are commensurable with the terms of the apotome and in the same ratio, the <quote>side</quote>
  of the area is rational</span>. </p>
 

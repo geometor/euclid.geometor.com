@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p>
        <span class="ital">Planes to which the same straight line is at right angles will be parallel.</span>
       </p>

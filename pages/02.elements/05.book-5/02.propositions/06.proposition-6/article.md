@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 6.</h1>
 <p><em>If two magnitudes be equimultiples of two magnitudes</em>, <em>and any magnitudes subtracted from them be equimultiples of the same</em>, <em>the remainders also are either equal to the same or equimultiples of them</em>. </p>
 
 <p>For let two magnitudes <em>AB</em>, <em>CD</em> be equimultiples of two magnitudes <em>E</em>, <em>F</em>, and let <em>AG</em>, <em>CH</em> subtracted from them be equimultiples of the same two <em>E</em>, <em>F</em>;  I say that the remainders also, <em>GB</em>, <em>HD</em>, are either equal to <em>E</em>, <em>F</em> or equimultiples of them. </p>

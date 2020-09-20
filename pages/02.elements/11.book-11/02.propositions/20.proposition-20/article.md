@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 20.</h1>
 <p><span class="ital">If a solid angle be contained by three plane angles</span>, <span class="ital">any two</span>, <span class="ital">taken together in any manner</span>, <span class="ital">are greater than the remaining one.</span>
       </p>
 

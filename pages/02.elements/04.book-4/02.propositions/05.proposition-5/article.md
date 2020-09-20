@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p><em>About a given triangle to circumscribe a circle</em>. </p>
 
 <p>Let <em>ABC</em> be the given triangle; thus it is required to circumscribe a circle about the given triangle <em>ABC</em>. 

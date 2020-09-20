@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p><em>If four straight lines be proportional</em>, <em>the rectilineal figures similar and similarly described upon them will also be proportional</em>; <em>and</em>, <em>if the rectilineal figures similar and similarly described upon them be proportional</em>, <em>the straight lines will themselves also be proportional</em>. </p>
 
 <p>Let the four straight lines <em>AB</em>, <em>CD</em>, <em>EF</em>, <em>GH</em> be proportional, so that, as <em>AB</em> is to <em>CD</em>, so is <em>EF</em> to <em>GH</em>, and let there be described on <em>AB</em>, <em>CD</em> the similar and similarly situated rectilineal figures <em>KAB</em>, <em>LCD</em>, and on <em>EF</em>, <em>GH</em> the similar and similarly situated rectilineal figures <em>MF</em>, <em>NH</em>; I say that, as <em>KAB</em> is to <em>LCD</em>, so is <em>MF</em> to <em>NH</em>. </p>

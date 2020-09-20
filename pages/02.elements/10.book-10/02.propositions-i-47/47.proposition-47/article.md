@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 47.</h1>
 <p><span class="ital">The side of the sum of two medial areas is divded at one point only</span>. </p>
 
 <p>Let <span class="ital">AB</span> be divded at <span class="ital">C</span>, so that <span class="ital">AC</span>, <span class="ital">CB</span> are incommensurable in square and make the sum of the squares on <span class="ital">AC</span>, <pb n="100"/><span class="ital">CB</span> medial, and the rectangle <span class="ital">AC</span>, <span class="ital">CB</span> medial and also incommensurable with the sum of the squares on them; I say that <span class="ital">AB</span> is not divded at another point so as to fulfil the given conditions. 

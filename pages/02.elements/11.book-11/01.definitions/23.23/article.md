@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>23</h1>
 <p>And the <span class="bold">bases</span> are the circles described by the two sides opposite to one another which are carried round.</p>

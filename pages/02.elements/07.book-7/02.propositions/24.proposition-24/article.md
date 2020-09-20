@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 24.</h1>
 <p>
        <span class="ital">If two numbers be prime to any number, their product also will be prime to the same.</span>
       </p>

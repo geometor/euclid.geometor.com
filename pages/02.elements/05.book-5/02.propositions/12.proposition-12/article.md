@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 12.</h1>
 <p><em>If any number of magnitudes be proportional</em>, <em>as one of the antecedents is to one of the consequents</em>, <em>so will all the antecedents be to all the consequents</em>. </p>
 
 <p>Let any number of magnitudes <em>A</em>, <em>B</em>, <em>C</em>, <em>D</em>, <em>E</em>, <em>F</em> be proportional, so that, as <em>A</em> is to <em>B</em>, so is <em>C</em> to <em>D</em> and <em>E</em> to <em>F</em>; I say that, as <em>A</em> is to <em>B</em>, so are <em>A</em>, <em>C</em>, <em>E</em> to <em>B</em>, <em>D</em>, <em>F</em>. 

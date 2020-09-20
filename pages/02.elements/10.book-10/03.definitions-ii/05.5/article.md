@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>5</h1>
 <p>if the lesser, a <span class="bold">fifth binomial</span>;</p>

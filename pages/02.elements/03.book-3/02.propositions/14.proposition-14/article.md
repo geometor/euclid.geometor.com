@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p><em>In a circle equal straight lines are equally distant from the centre</em>, <em>and those which are equally distant from the centre are equal to one another</em>. </p>
 
 <p>Let <em>ABDC</em> be a circle, and let <em>AB</em>, <em>CD</em> be equal straight lines in it; I say that <em>AB</em>, <em>CD</em> are equally distant from the centre. </p>

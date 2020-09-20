@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p><span class="ital">If two straight lines cut one another</span>, <span class="ital">they are in one plane</span>, <span class="ital">and every triangle is in one plane.</span>
       </p>
 

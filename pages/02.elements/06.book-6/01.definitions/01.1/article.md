@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p><span class="bold">Similar rectilineal figures</span> are such as have their angles severally equal and the sides about the equal angles proportional.</p>

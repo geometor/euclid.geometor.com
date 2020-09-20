@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>22</h1>
 <p> A <span class="bold">perfect number</span> is that which is equal to its own parts.</p>

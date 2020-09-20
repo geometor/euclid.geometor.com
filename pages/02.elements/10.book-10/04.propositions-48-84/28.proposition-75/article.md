@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 75</h1>
 <p><span class="ital">If from a medial straight line there be subtracted a medial straight line which is commensurable with the whole in square only, and which contains with the whole a medial rectangle, the remainder is irrational; and let it be called a</span>
        <span class="bold">second apotome of a medial</span>
        <span class="ital">straight line</span>. </p>

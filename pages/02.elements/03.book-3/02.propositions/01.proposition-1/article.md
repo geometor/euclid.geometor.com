@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 1.</h1>
 <p><em>To find the centre of a given circle</em>. </p>
 
 <p>Let <em>ABC</em> be the given circle; thus it is required to find the centre of the circle <em>ABC</em>. </p>
@@ -49,7 +48,6 @@ taxonomy:
 <p>Similarly we can prove that neither is any other point except <em>F</em>. <span class="center">Therefore the point <em>F</em> is the centre of the circle <em>ABC</em>.</span>
       </p>
 <div id="elem.3.1.p.1" class="porism">
-       <h1>PORISM.</h1>
        
 <p>From this it is manifest that, if in a circle a straight line cut a straight line into two equal parts and at <lb n="35"/>right angles, the centre of the circle is on the cutting straight line. Q. E. F.</p>
 

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 65.</h1>
 <p><span class="ital">The square on the side of the sum of two medial areas applied to a rational straight line produces as breadth the sixth binomial</span>. </p>
 
 <p>Let <span class="ital">AB</span> be the side of the sum of two medial areas, divded at <span class="ital">C</span>, let <span class="ital">DE</span> be a rational straight line, and let there be applied to <span class="ital">DE</span> the parallelogram <span class="ital">DF</span> equal to the square on <span class="ital">AB</span>, producing <span class="ital">DG</span> as its breadth; <pb n="144"/>I say that <span class="ital">DG</span> is a sixth binomial straight line. </p>

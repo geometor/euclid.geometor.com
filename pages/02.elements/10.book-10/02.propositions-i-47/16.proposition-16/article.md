@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p><span class="ital">If two incommensurable magnitudes be added together, the whole will also be incommensurable with each of them; and, if the whole be incommensurable with one of them, the original magnitudes will also be incommensurable</span>. </p>
 
 <p>For let the two incommensurable magnitudes <span class="ital">AB</span>, <span class="ital">BC</span> be added together; I say that the whole <span class="ital">AC</span> is also incommensurable with each of the magnitudes <span class="ital">AB</span>, <span class="ital">BC</span>. </p>

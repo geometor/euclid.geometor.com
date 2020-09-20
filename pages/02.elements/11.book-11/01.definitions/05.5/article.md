@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>5</h1>
 <p>The <span class="bold">inclination of a straight line to a plane</span> is, assuming a perpendicular drawn from the extremity of the straight line which is elevated above the plane to the plane, and a straight line joined from the point thus arising to the extremity of the straight line which is in the plane, the angle contained by the straight line so drawn and the straight line standing up.</p>

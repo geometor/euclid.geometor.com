@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p>
        <span class="ital">If a cube number by multiplying any number make a cube number, the multiplied number will also be cube.</span>
       </p>

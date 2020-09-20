@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p>
        <span class="ital">To find numbers in continued proportion, as many as may be prescribed, and the least that are in a given ratio.</span>
       </p>

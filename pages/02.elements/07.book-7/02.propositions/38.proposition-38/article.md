@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 38.</h1>
 <p>
        <span class="ital">If a number have any part whatever, it will be measured by a number called by the same name as the part.</span>
       </p>

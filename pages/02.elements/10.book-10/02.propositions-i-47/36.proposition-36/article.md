@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 36.</h1>
 <p><span class="ital">If two rational straight lines commensurable in square only be added together, the whole is irrational; and let it be called</span>
        <span class="bold">binomial</span>. </p>
 

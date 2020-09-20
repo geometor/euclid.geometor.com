@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 31.</h1>
 <p>
        <span class="ital">If an odd number be prime to any number, it will also be prime to the double of it.</span>
       </p>

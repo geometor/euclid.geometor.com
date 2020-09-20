@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>6</h1>
 <p>A <span class="bold">segment of a circle</span> is the figure contained by a straight line and a circumference of a circle.</p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 12.</h1>
 <p><em>About a given circle to circumscribe an equilateral and equiangular pentagon</em>. </p>
 
 <p>Let <em>ABCDE</em> be the given circle; thus it is required to circumscribe an equilateral and equiangular pentagon about the circle <em>ABCDE</em>. </p>

@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 11.</h1>
 <p>
        <span class="ital">From a given elevated point to draw a straight line perpendicular to a given plane.</span>
       </p>

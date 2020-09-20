@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 25.</h1>
 <p><span class="ital">If a parallelepipedal solid be cut by a plane which is parallel to the opposite planes</span>, <span class="ital">then</span>, <span class="ital">as the base is to the base</span>, <span class="ital">so will the solid be to the solid.</span>
       </p>
 

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p>A rectilineal figure is said to be <span class="bold">inscribed in a rectilineal figure</span> when the respective angles of the inscribed figure lie on the respective sides of that in which it is inscribed.</p>

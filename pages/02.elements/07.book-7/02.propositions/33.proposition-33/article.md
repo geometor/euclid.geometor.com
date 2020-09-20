@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 33.</h1>
 <p>
        <span class="ital">Given as many numbers as we please, to find the least of those which have the same ratio with them.</span>
       </p>

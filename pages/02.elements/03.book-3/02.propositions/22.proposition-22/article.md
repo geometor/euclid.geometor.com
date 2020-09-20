@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p><em>The opposite angles of quadrilaterals in circles are equal to two right angles</em>. </p>
 
 <p>Let <em>ABCD</em> be a circle, and let <em>ABCD</em> be a quadrilateral in it; I say that the opposite angles are equal to two right angles. </p>

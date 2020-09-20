@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p><span class="ital">If there be as many numbers as we please, and others equal to them in multitude, which taken two and two are in the same ratio, they will also be in the same ratio</span> ex aequali. </p>
 
 <p>Let there be as many numbers as we please <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span>, and others equal to them in multitude <span class="ital">D</span>, <span class="ital">E</span>, <span class="ital">F</span>, which taken two and two are in the same ratio, so that, <span class="center">as <span class="ital">A</span> is to <span class="ital">B</span>, so is <span class="ital">D</span> to <span class="ital">E</span>,</span> and, as <span class="ital">B</span> is to <span class="ital">C</span>, so is <span class="ital">E</span> to <span class="ital">F</span>; I say that, <span class="ital">ex aequali</span>, <span class="center">as <span class="ital">A</span> is to <span class="ital">C</span>, so also is <span class="ital">D</span> to <span class="ital">F</span>.</span>

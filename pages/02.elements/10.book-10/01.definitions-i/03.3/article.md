@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>3</h1>
 <p> With these hypotheses, it is proved that there exist straight lines infinite in multitude which are commensurable and incommensurable respectively, some in length only, and others in square also, with an assigned straight line. Let then the assigned straight line be called <span class="bold">rational</span>, and those straight lines which are commensurable with it, whether in length and in square or in square only, <span class="bold">rational</span>, but those which are incommensurable with <span class="bold">it irrational</span>.</p>

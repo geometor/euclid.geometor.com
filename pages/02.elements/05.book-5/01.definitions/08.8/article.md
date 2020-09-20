@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>8</h1>
 <p>A proportion in three terms is the least possible.</p>

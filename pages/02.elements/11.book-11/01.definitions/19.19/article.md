@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>19</h1>
 <p>The <span class="bold">axis of the cone</span> is the straight line which remains fixed and about which the triangle is turned.</p>

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>8</h1>
 <p> An <span class="bold">even-times even number</span> is that which is measured by an even number according to an even number.</p>

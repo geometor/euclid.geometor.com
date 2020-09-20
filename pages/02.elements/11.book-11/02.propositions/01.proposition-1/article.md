@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 1.</h1>
 <p>
        <span class="ital">A part of a straight line cannot be in the plane of reference and a part in a plane more elevated.</span>
       </p>

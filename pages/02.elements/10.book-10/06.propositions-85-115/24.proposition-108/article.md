@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 108.</h1>
 <p><span class="ital">If from a rational area a medial area be subtracted, the <quote>side</quote>
  of the remaining area becomes one of two irrational straight lines, either an apotome or a minor straight line</span>. </p>
 

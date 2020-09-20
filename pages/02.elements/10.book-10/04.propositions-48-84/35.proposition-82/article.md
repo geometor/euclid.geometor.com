@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 82.</h1>
 <p><span class="ital">To a minor straight line only one straight line can be annexed which is incommensurable in square with the whole and which makes, with the whole, the sum of the squares on them rational but twice the rectangle contained by them medial</span>. </p>
 
 <p>Let <span class="ital">AB</span> be the minor straight line, and let <span class="ital">BC</span> be an annex to <span class="ital">AB</span>;  therefore <span class="ital">AC</span>, <span class="ital">CB</span> are straight lines incommensurable in square <pb n="173"/>which make the sum of the squares on them rational, but twice the rectangle contained by them medial. [<a href="/elem.10.76">X. 76</a>] </p>

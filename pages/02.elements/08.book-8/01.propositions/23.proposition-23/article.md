@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 23.</h1>
 <p>
        <span class="ital">If four numbers be in continued proportion, and the first be cube, the fourth will also be cube.</span>
       </p>

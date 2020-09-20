@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 11.</h1>
 <p><em>To two given straight lines to find a third proportional</em>. </p>
 
 <p>Let <em>BA</em>, <em>AC</em> be the two given straight lines, and let them be placed so as to contain any angle; thus it is required to find a third proportional to <em>BA</em>, <em>AC</em>. </p>

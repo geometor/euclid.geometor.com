@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 32.</h1>
 <p>
        <span class="ital">Any number either is prime or is measured by some prime number.</span>
       </p>

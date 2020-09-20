@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>11</h1><pb n="278"/>
 <p> A <span class="bold">prime number</span> is that which is measured by an unit alone.</p>

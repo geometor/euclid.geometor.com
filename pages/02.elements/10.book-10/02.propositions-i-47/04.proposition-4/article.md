@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><span class="ital">Given three commensurable magnitudes</span>, <span class="ital">to find their greatest common measure</span>. </p>
 
 <p>Let <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span> be the three given commensurable magnitudes; thus it is required to find the greatest common measure of <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span>. 

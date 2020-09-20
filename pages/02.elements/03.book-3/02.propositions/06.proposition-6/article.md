@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="13"/><h1>PROPOSITION 6.</h1>
 <p><em>If two circles touch one another</em>, <em>they will not have the same centre</em>. </p>
 
 <p>For let the two circles <em>ABC</em>, <em>CDE</em> touch one another at the point <em>C</em>; I say that they will not have the same centre. 

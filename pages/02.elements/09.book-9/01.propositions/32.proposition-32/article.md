@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 32.</h1>
 <p>
        <span class="ital">Each of the numbers which are continually doubled beginning from a dyad is even-times even only.</span>
       </p>

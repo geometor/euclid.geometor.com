@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 84.</h1>
 <p><span class="ital">To a straight line which produces with a medial area a medial whole only one straight line can be annexed which is incommensurable in square with the whole straight line and which with the whole straight line makes the sum of the squares <pb n="175"/>on them medial and twice the rectangle contained by them both medial and also incommensurable with the sum of the squares on them</span>. </p>
 
 <p>Let <span class="ital">AB</span> be the straight line which produces with a medial area a medial whole, and <span class="ital">BC</span> an annex to it; therefore <span class="ital">AC</span>, <span class="ital">CB</span> are straight lines incommensurable in square which fulfil the aforesaid conditions. [<a href="/elem.10.78">X. 78</a>] 

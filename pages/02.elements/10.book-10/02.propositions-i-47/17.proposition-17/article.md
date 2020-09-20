@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 17.</h1>
 <p>
        <span class="ital">If there be two unequal straight lines, and to the greater there be applied a parallelogram equal to the fourth part of the square on the less and deficient by a square figure, and if it divde it into parts which are commensurable in length, then <lb n="5"/>the square on the greater will be greater than the square on the less by the square on a straight line commensurable with the greater.</span>
       </p>

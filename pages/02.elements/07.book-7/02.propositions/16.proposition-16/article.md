@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p>
        <span class="ital">If two numbers by multiplying one another make certain numbers, the numbers so produced will be equal to one another.</span>
       </p>

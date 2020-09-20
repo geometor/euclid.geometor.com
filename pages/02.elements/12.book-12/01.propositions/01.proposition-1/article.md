@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 1.</h1>
 <p>
        <span class="ital">Similar polygons inscribed in circles are to one another as the squares on the diameters.</span>
       </p>

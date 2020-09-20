@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p>
        <span class="ital">Plane numbers have to one another the ratio compounded of the ratios of their sides.</span>
       </p>

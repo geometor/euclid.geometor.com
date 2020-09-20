@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p><em>Parts have the same ratio as the same multiples of them taken in corresponding order</em>. </p>
 
 <p>For let <em>AB</em> be the same multiple of <em>C</em> that <em>DE</em> is of <em>F</em>; I say that, as <em>C</em> is to <em>F</em>, so is <em>AB</em> to <em>DE</em>. 

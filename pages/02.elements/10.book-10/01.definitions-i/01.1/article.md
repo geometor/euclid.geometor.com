@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p>Those magnitudes are said to be <span class="bold">commensurable</span> which are measured by the same measure, and those <span class="bold">incommensurable</span> which cannot have any common measure.</p>

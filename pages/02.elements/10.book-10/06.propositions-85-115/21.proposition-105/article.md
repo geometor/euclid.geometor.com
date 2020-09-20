@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 105.</h1>
 <p><span class="ital">A straight line commensurable with a minor straight line is minor</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a minor straight line, and <span class="ital">CD</span> commensurable with <span class="ital">AB</span>; I say that <span class="ital">CD</span> is also minor. 

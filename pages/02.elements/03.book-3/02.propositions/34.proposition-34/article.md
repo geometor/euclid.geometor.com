@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 34.</h1>
 <p><em>From a given circle to cut off a segment admitting an angle equal to a given rectilineal angle</em>. </p>
 
 <p>Let <em>ABC</em> be the given circle, and the angle at <em>D</em> the given rectilineal angle; thus it is required to cut off from the circle <em>ABC</em> a segment admitting an angle equal to the given rectilineal angle, the angle at <em>D</em>. </p>

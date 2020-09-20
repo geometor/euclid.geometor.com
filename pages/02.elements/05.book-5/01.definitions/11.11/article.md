@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>11</h1>
 <p>The term <span class="bold">corresponding magnitudes</span> is used of antecedents in relation to antecedents, and of consequents in relation to consequents.</p>

@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p>
        <span class="ital">Given as many ratios as we please in least numbers, to find numbers in continued proportion which are the least in the given ratios.</span>
       </p>

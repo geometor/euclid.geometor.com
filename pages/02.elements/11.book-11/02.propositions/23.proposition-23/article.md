@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 23.</h1>
 <p><span class="ital">To construct a solid angle out of three plane angles two of which</span>, <span class="ital">taken together in any manner</span>, <span class="ital">are greater than the remaining one: thus the three angles must be less than four right angles.</span>
        <pb n="315"/></p>
 

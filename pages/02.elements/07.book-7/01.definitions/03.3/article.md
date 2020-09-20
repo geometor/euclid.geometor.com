@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>3</h1>
 <p> A number is <span class="bold">a part</span> of a number, the less of the greater, when it measures the greater;</p>

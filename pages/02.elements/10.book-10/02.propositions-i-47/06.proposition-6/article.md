@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 6.</h1>
 <p><span class="ital">If two magnitudes have to one another the ratio which a number has to a number</span>, <span class="ital">the magnitudes will be commensurable</span>. </p>
 
 <p>For let the two magnitudes <span class="ital">A</span>, <span class="ital">B</span> have to one another the ratio which the number <span class="ital">D</span> has to the number <span class="ital">E</span>; <lb n="5"/>I say that the magnitudes <span class="ital">A</span>, <span class="ital">B</span> are commensurable. 

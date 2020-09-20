@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 21.</h1>
 <p>
        <span class="ital">If two mean proportional numbers fall between two numbers, the numbers are similar solid numbers.</span>
       </p>

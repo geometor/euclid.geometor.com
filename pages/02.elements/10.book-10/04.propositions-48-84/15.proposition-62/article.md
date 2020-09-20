@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 62.</h1>
 <p><span class="ital">The square on the second bimedial straight line applied to a rational straight line produces as breadth the third binomial</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a second bimedial straight line divded into its medials at <span class="ital">C</span>, so that <span class="ital">AC</span> is the greater segment; let <span class="ital">DE</span> be any rational straight line, and to <span class="ital">DE</span> let there be applied the parallelogram <span class="ital">DF</span> equal to the square on <span class="ital">AB</span> and producing <span class="ital">DG</span> as its breadth;  I say that <span class="ital">DG</span> is a third binomial straight line. </p>

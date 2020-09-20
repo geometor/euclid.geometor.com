@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 33.</h1>
 <p>
        <span class="ital">Similar parallelepipedal solids are to one another in the triplicate ratio of their corresponding sides.</span>
       </p>

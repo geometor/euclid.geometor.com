@@ -27,5 +27,3 @@ taxonomy:
 
 ===
 
-<h1>2</h1>
-<p>If equals be added to equals, the wholes are equal.</p>

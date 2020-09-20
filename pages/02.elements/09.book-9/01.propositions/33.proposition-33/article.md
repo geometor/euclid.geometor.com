@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 33.</h1>
 <p>
        <span class="ital">If a number have its half odd, it is even-times odd only.</span>
       </p>

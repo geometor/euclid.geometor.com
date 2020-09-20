@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 86.</h1>
 <p><span class="ital">To find the second apotome</span>. </p>
 
 <p>Let a rational straight line <span class="ital">A</span> be set out, and <span class="ital">GC</span> commensurable in length with <span class="ital">A</span>; therefore <span class="ital">GC</span> is rational. 

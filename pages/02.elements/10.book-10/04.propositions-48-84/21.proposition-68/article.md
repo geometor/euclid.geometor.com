@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 68.</h1>
 <p><span class="ital">A straight line commensurable with a major straight line is itself also major</span>. </p>
 
 <p>Let <span class="ital">AB</span> be major, and let <span class="ital">CD</span> be commensurable with <span class="ital">AB</span>; I say that <span class="ital">CD</span> is major. </p>

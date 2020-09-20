@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><span class="ital">Any pyramid which has a triangular base is divded into two pyramids equal and similar to one another</span>, <span class="ital">similar to the whole and having triangular bases</span>, <span class="ital">and into two equal prisms; and the two prisms are greater than the half of the whole pyramid.</span>
       </p>
 

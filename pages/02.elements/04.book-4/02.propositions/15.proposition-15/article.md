@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p><em>In a given circle to inscribe an equilateral and equiangular hexagon</em>. </p>
 
 <p>Let <em>ABCDEF</em> be the given circle; thus it is required to inscribe an equilateral and equiangular hexagon in the circle <em>ABCDEF</em>. </p>

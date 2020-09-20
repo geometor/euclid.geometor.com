@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>5</h1>
 <p>if the annex be so commensurable, a <span class="bold">fifth;</span></p>

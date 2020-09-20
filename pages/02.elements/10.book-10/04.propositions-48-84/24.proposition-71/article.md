@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 71.</h1>
 <p><span class="ital">If a rational and a medial area be added together, four irrational straight lines arise, namely a binomial or a first bimedial or a major or a side of a rational plus a medial area</span>. </p>
 
 <p>Let. <span class="ital">AB</span> be rational, and <span class="ital">CD</span> medial; I say that the <quote>side</quote>

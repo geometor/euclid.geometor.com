@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 37.</h1>
 <p><span class="ital">If four straight lines be proportional</span>, <span class="ital">the parallelepipedal solids on them which are similar and similarly described will also be proportional; and</span>, <span class="ital">if the parallelepipedal solids on them which are similar and similarly described be proportional</span>, <span class="ital">the straight lines will themselves also be proportional.</span>
       </p>
 

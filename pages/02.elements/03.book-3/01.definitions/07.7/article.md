@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>7</h1>
 <p>An <span class="bold">angle of a segment</span> is that contained by a straight line and a circumference of a circle.</p>

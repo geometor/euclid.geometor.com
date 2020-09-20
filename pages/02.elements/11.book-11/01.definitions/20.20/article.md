@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>20</h1>
 <p>And the <span class="bold">base</span> is the circle described by the straight line which is carried round.</p>

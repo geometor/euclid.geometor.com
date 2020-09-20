@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p>
        <span class="ital">Any prism which has a triangular base is divded into three pyramids equal to one another which have triangular bases.</span>
       </p>

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 40.</h1>
 <p><span class="ital">If two straight lines incommensurable in square which make the sum of the squares on them medial</span>, <span class="ital">but the rectangle contained by them rational</span>, <span class="ital">be added together, the whole straight line is irrational; and let it be called the</span>
        <span class="bold">side of a rational plus a medial area</span>. <pb n="89"/></p>
 

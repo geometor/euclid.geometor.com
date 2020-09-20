@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>15</h1>
 <p><span class="bold">Separation of a ratio</span> means taking the excess by which the antecedent exceeds the consequent in relation to the consequent by itself.</p>

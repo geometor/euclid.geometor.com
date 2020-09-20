@@ -27,5 +27,3 @@ taxonomy:
 
 ===
 
-<h1>3</h1>
-<p>If equals be subtracted from equals, the remainders are equal.</p>

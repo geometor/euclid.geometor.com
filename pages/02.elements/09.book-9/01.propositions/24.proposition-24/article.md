@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 24.</h1>
 <p>
        <span class="ital">If from an even number an even number be subtracted, the remainder will be even.</span>
       </p>

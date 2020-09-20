@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 25.</h1>
 <p><span class="ital">The rectangle contained by medial straight lines commensurable in square only is either rational or medial</span>. </p>
 
 <p>For let the rectangle <span class="ital">AC</span> be contained by the medial straight lines <span class="ital">AB</span>, <span class="ital">BC</span> which are commensurable in square only; I say that <span class="ital">AC</span> is either rational or medial. 

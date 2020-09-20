@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 23.</h1>
 <p><em>On the same straight line there cannot be constructed two similar and unequal segments of circles on the same side</em>. </p>
 
 <p>For, if possible, on the same straight line <em>AB</em> let two similar and unequal segments of circles <em>ACB</em>, <em>ADB</em> be constructed on the same side;  let <em>ACD</em> be drawn through, and let <em>CB</em>, <em>DB</em> be joined. </p>

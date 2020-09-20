@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="23"/><h1>PROPOSITION 10.</h1>
 <p><em>A circle does not cut a circle at more points than two</em>. </p>
 
 <p>For, if possible, let the circle <em>ABC</em> cut the circle <em>DEF</em> at more points than two, namely <em>B</em>, <em>C</em>, <em>F</em>, <em>H</em>; </p>

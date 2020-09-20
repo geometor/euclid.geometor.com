@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p>A <span class="bold">solid</span> is that which has length, breadth, and depth.</p>

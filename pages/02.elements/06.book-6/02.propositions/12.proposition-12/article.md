@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="215"/><h1>PROPOSITION 12.</h1>
 <p><em>To three given straight lines to find a fourth proportional</em>. </p>
 
 <p>Let <em>A</em>, <em>B</em>, <em>C</em> be the three given straight lines; thus it is required to find a fourth proportional to <em>A</em>, <em>B</em>, <em>C</em>. 

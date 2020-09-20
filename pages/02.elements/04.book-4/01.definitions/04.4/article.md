@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>4</h1>
 <p>A rectilineal figure is said to be <span class="bold">circumscribed about a circle</span>, when each side of the circumscribed figure touches the circumference of the circle.</p>

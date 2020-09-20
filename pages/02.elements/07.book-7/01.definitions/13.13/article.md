@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>13</h1>
 <p> A <span class="bold">composite number</span> is that which is measured by some number.</p>

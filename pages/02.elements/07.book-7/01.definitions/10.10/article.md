@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>10</h1>
 <p> An <span class="bold">odd-times odd number</span> is that which is measured by an odd number according to an odd number.</p>

@@ -30,7 +30,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 10.</h1>
 <p>
        <span class="ital">If numbers fall between each of two numbers and an unit in continued proportion, however many numbers fall between each of them and an unit in continued proportion, so many also will fall between the numbers themselves in continued proportion.</span>
        <pb n="361"/>

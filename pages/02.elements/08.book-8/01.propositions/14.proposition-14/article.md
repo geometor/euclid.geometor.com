@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p>
        <span class="ital">If a square measure a square, the side will also measure the side; and, if the side measure the side, the square will also measure the square.</span>
       </p>

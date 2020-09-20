@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 36.</h1>
 <p><em>If a point be taken outside a circle and from it there fall on the circle two straight lines</em>, <em>and if one of them cut the circle and the other touch it</em>, <em>the rectangle contained by the whole of the straight line which cuts the circle and the straight <pb n="74"/>line intercepted on it outside between the point and the convex circumference will be equal to the square on the tangent</em>. </p>
 
 <p>For let a point <em>D</em> be taken outside the circle <em>ABC</em>, and from <em>D</em> let the two straight lines <em>DCA</em>, <em>DB</em> fall on the circle <em>ABC</em>; let <em>DCA</em> cut the circle <em>ABC</em> and let <em>BD</em> touch it; I say that the rectangle contained by <em>AD</em>, <em>DC</em> is equal to the square on <em>DB</em>. 

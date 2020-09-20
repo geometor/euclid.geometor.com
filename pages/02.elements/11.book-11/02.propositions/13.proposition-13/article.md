@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p>
        <span class="ital">From the same point two straight lines cannot be set up at right angles to the same plane on the same side.</span>
       </p>

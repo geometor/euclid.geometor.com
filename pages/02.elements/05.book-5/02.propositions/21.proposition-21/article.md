@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 21.</h1>
 <p><em>If there be three magnitudes</em>, <em>and others equal to them in multitude</em>, <em>which taken two and two together are in the same ratio</em>, <em>and the proportion of them be perturbed</em>, <em>then</em>, <em>if</em><foreign lang="la"> ex aequali</foreign>
        <em>the first magnitude is greater than the third</em>, <em>the fourth will also be greater than the sixth; if equal</em>, <em>equal; and if less</em>, <em>less</em>. </p>
 

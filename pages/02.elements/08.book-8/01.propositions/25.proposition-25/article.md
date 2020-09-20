@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 25.</h1>
 <p>
        <span class="ital">If two numbers have to one another the ratio which a cube number has to a cube number, and the first be cube, the second will also be cube.</span>
       </p>

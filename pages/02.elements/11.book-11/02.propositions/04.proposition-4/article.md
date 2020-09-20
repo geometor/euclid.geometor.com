@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><span class="ital">If a straight line be set up at right angles to two straight lines which cut one another</span>, <span class="ital">at their common point of section</span>, <span class="ital">it will also be at right angles to the plane through them.</span>
        <pb n="278"/></p>
 

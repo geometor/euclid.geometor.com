@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><em>In a given triangle to inscribe a circle</em>. </p>
 
 <p>Let <em>ABC</em> be the given triangle; thus it is required to inscribe a circle in the triangle <em>ABC</em>. </p>

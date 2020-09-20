@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 26.</h1>
 <p>
        <span class="ital">Similar plane numbers have to one another the ratio which a square number has to a square number.</span>
       </p>

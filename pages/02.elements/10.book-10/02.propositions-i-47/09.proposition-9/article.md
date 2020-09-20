@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 9.</h1>
 <p><span class="ital">The squares on straight lines commensurable in length have to one another the ratio which a square number has to a square number; and squares which have to one another the ratio which a square number has to a square number will also have their sides commensurable in length</span>. <title>But the squares on straight lines incommensurable in length have not to one another the ratio which a square number has to a square number; and squares which have not to one another the ratio which a square number has to a square number will not have their sides commensurable in length either</title>. <pb n="29"/></p>
 
 <p>For let <span class="ital">A</span>, <span class="ital">B</span> be commensurable in length; I say that the square on <span class="ital">A</span> has to the square on <span class="ital">B</span> the ratio which a square number has to a square number. 

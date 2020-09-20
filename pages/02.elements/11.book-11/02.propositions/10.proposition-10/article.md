@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 10.</h1>
 <p><span class="ital">If two straight lines meeting one another be parallel to two straight lines meeting one another not in the same plane</span>, <span class="ital">they will contain equal angles.</span>
       </p>
 

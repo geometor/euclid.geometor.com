@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>13</h1>
 <p>A <span class="bold">prism</span> is a solid figure contained by planes two of which, namely those which are opposite, are equal, similar and parallel, while the rest are parallelograms.</p>

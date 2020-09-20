@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 37.</h1>
 <p><span class="ital">If two medial straight lines commensurable in square only and containing a rational rectangle be added together, the whole is irrational; and let it be called</span>
        <span class="bold">a first bimedial</span>
        <span class="ital">straight line</span>. </p>

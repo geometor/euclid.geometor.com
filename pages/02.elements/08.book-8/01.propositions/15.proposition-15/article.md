@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p>
        <span class="ital">If a cube number measure a cube number, the side will also measure the side; and, if the side measure the side, the cube will also measure the cube.</span>
       </p>

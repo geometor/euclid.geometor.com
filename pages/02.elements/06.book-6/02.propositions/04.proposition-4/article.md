@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><em>In equiangular triangles the sides about the equal angles are proportional</em>, <em>and those are corresponding sides which subtend the equal angles</em>. <pb n="201"/></p>
 
 <p>Let <em>ABC</em>, <em>DCE</em> be equiangular triangles having the angle <em>ABC</em> equal to the angle <em>DCE</em>, the angle <em>BAC</em> to the angle <em>CDE</em>, and further the angle <em>ACB</em> to the angle <em>CED</em>; I say that in the triangles <em>ABC</em>, <em>DCE</em> the sides about the equal angles are proportional, and those are corresponding sides which subtend the equal angles. 

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p><span class="ital">If there be three plane angles of which two</span>, <span class="ital">taken together in any manner</span>, <span class="ital">are greater than the remaining one</span>, <span class="ital">and they are contained by equal straight lines</span>, <span class="ital">it is possible to construct a triangle out of the straight lines joining the extremities of the equal straight lines.</span>
       </p>
 

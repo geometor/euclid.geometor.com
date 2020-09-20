@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p><em>To two given straight lines to find a mean proportional</em>. </p>
 
 <p>Let <em>AB</em>, <em>BC</em> be the two given straight lines; thus it is required to find a mean proportional to <em>AB</em>, <em>BC</em>. </p>

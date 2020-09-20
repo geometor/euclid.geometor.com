@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>14</h1>
 <p> Numbers <span class="bold">composite to one another</span> are those which are measured by some number as a common measure.</p>

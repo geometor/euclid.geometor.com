@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 12.</h1>
 <p>
        <span class="ital">Similar cones and cylinders are to one another in the triplicate ratio of the diameters in their bases.</span>
       </p>

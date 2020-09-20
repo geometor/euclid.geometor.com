@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 24.</h1>
 <p><em>In any parallelogram the parallelograms about the diameter are similar both to the whole and to one another</em>. </p>
 
 <p>Let <em>ABCD</em> be a parallelogram, and <em>AC</em> its diameter, and let <em>EG</em>, <em>HK</em> be parallelograms about <em>AC</em>; I say that each of the parallelograms <em>EG</em>, <em>HK</em> is similar both to the whole <em>ABCD</em> and to the other. 

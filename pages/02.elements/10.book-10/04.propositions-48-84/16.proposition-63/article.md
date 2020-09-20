@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 63.</h1>
 <p><span class="ital">The square on the major straight line applied to a rational straight line produces as breadth the fourth binomial</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a major straight line divded at <span class="ital">C</span>, so that <span class="ital">AC</span> is greater than <span class="ital">CB</span>; let <span class="ital">DE</span> be a rational straight line, <pb n="140"/>and to <span class="ital">DE</span> let there be applied the parallelogram <span class="ital">DF</span> equal to the square on <span class="ital">AB</span> and producing <span class="ital">DG</span> as its breadth; I say that <span class="ital">DG</span> is a fourth binomial straight line. 

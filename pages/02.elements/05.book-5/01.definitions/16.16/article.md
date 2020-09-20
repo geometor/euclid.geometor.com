@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>16</h1>
 <p><span class="bold">Conversion of a ratio</span> means taking the antecedent in relation to the excess by which the antecedent exceeds the consequent.</p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 27.</h1>
 <p><span class="ital">If two numbers be prime to one another, and each by multiplying itself make a certain number, the products will be prime to one another; and, if the original numbers by multiplying the products make certain numbers, the latter will also be prime to one another</span> [<span class="ital">and this is always the case with the extremes</span>]. </p>
 
 <p>Let <span class="ital">A</span>, <span class="ital">B</span> be two numbers prime to one another, let <span class="ital">A</span> by multiplying itself make <span class="ital">C</span>, and by multiplying <span class="ital">C</span> make <span class="ital">D</span>, and let <span class="ital">B</span> by multiplying itself make <span class="ital">E</span>, and by multiplying <span class="ital">E</span> make <span class="ital">F</span>; I say that both <span class="ital">C</span>, <span class="ital">E</span> and <span class="ital">D</span>, <span class="ital">F</span> are prime to one another. 

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 26.</h1>
 <p><em>If from a parallelogram there be taken away a parallelogram similar and similarly situated to the whole and having a common angle with it</em>, <em>it is about the same diameter with the whole</em>
       </p>
 

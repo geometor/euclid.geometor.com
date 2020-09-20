@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>8</h1>
 <p>An <span class="bold">angle in a segment</span> is the angle which, when a point is taken on the circumference of the segment and straight lines are joined from it to the extremities of the straight line which is the <span class="bold">base of the segment</span>, is contained by the straight lines so joined.</p>

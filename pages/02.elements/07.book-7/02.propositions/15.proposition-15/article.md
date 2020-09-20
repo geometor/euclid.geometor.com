@@ -30,7 +30,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p>
        <span class="ital">If an unit measure any number, and another number measure any other number the same number of times, alternately also, the unit will measure the third number the same number of times that the second measures the fourth.</span>
        <pb n="315"/>

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 23.</h1>
 <p><em>If there be three magnitudes</em>, <em>and others equal to them in multitude</em>, <em>which taken two and two together are in the same ratio</em>, <em>and the proportion of them be perturbed</em>, <em>they will also be in the same ratio</em>
        <foreign lang="la">ex aequali</foreign>. </p>
 

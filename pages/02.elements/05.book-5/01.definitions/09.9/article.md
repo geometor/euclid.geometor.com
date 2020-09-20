@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>9</h1>
 <p>When three magnitudes are proportional, the first is said to have to the third the <span class="bold">duplicate ratio</span> of that which it has to the second.</p>

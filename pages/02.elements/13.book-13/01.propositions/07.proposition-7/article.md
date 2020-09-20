@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p><span class="ital">If three angles of an equilateral pentagon, taken either in order or not in order</span>, <span class="ital">be equal</span>, <span class="ital">the pentagon will be equiangular.</span>
       </p>
 

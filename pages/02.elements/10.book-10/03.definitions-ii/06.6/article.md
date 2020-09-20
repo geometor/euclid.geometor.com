@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>6</h1>
 <p>and if neither, a <span class="bold">sixth binomial</span>.</p>

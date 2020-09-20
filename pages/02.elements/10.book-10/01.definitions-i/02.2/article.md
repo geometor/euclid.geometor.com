@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>2</h1>
 <p>Straight lines are <span class="bold">commensurable in square</span> when the squares on them are measured by the same area, and <span class="bold">incommensurable in square</span> when the squares on them cannot possibly have any area as a common measure.</p>

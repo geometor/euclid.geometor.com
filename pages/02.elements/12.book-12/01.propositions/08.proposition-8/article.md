@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 8.</h1>
 <p>
        <span class="ital">Similar pyramids which have triangular bases are in the triplicate ratio of their corresponding sides.</span>
       </p>

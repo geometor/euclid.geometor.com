@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><span class="ital">If two planes cut one another</span>, <span class="ital">their common section is a straight line.</span>
       </p>
 

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>4</h1>
 <p> but <span class="bold">parts</span> when it does not measure it.</p>

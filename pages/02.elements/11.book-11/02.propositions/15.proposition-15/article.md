@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p><span class="ital">If two straight lines meeting one another be parallel to two straight lines meeting one another</span>, <span class="ital">not being in the same plane</span>, <span class="ital">the planes through them are parallel.</span>
       </p>
 

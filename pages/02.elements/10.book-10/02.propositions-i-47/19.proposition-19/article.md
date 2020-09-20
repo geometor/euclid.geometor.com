@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 19.</h1>
 <p><span class="ital">The rectangle contained by rational straight lines commensurable in length is rational</span>. </p>
 
 <p>For let the rectangle <span class="ital">AC</span> be contained by the rational straight lines <span class="ital">AB</span>, <span class="ital">BC</span> commensurable in length; I say that <span class="ital">AC</span> is rational. </p>

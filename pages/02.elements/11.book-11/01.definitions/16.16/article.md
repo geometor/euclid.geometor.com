@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>16</h1>
 <p>The <span class="bold">centre of the sphere</span> is the same as that of the semicircle.</p>

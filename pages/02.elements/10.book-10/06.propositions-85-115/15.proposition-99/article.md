@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 99.</h1>
 <p><span class="ital">The square on a second apotome of a medial straight line applied to a rational straight line produces as breadth a third apotome</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a second apotome of a medial straight line, and <span class="ital">CD</span> rational, and to <span class="ital">CD</span> let there be applied <span class="ital">CE</span> equal to the square on <span class="ital">AB</span>, producing <span class="ital">CF</span> as breadth; I say that <span class="ital">CF</span> is a third apotome. 

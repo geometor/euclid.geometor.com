@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 30.</h1>
 <p><span class="ital">Parallelepipedal solids which are on the same base and of the same height</span>, <span class="ital">and in which the extremities of the sides which stand up are not on the same straight lines</span>, <span class="ital">are equal to one another.</span>
        <pb n="335"/></p>
 

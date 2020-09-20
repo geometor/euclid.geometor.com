@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 9.</h1>
 <p><em>If a point be taken within a circle</em>, <em>and more than two equal straight lines fall from the point on the circle</em>, <em>the point taken is the centre of the circle</em>. </p>
 
 <p>Let <em>ABC</em> be a circle and <em>D</em> a point within it, and from <em>D</em> let more than two equal straight lines, namely <em>DA</em>, <em>DB</em>, <em>DC</em>, fall on the circle <em>ABC</em>; I say that the point <em>D</em> is the centre of the circle <em>ABC</em>. 

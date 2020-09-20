@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 29.</h1>
 <p><em>In equal circles equal circumferences are subtended by equal straight lines</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be equal circles, and in them let equal circumferences <em>BGC</em>, <em>EHF</em> be cut off; and let the straight lines <em>BC</em>, <em>EF</em> be joined; I say that <em>BC</em> is equal to <em>EF</em>. 

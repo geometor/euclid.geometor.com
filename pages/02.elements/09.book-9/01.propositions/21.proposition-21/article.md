@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 21.</h1>
 <p>
        <span class="ital">If as many even numbers as we please be added together, the whole is even.</span>
       </p>

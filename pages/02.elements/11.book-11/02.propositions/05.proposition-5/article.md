@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p><span class="ital">If a straight line be set up at right angles to three straight lines which meet one another</span>, <span class="ital">at their common point of section</span>, <span class="ital">the three straight lines are in one plane.</span>
       </p>
 

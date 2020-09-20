@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>10</h1>
 <p>When four magnitudes are &lt;continuously&gt; proportional, the first is said to have to the fourth the <span class="bold">triplicate ratio</span> of that which it has to the second, and so on continually, whatever be the proportion.</p>

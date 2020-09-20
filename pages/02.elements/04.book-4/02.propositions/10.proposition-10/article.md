@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="96"/><h1>PROPOSITION 10.</h1>
 <p><em>To construct an isosceles triangle having each of the angles at the base double of the remaining one</em>. </p>
 
 <p>Let any straight line <em>AB</em> be set out, and let it be cut at the point <em>C</em> so that the rectangle contained by <em>AB</em>, <em>BC</em> is equal to the square on <em>CA</em>; [<a href="/elem.2.11">II. 11</a>] with centre <em>A</em> and distance <em>AB</em> let the circle <em>BDE</em> be described, and let there be fitted in the circle <em>BDE</em> the straight line <em>BD</em> equal to the straight line <em>AC</em> which is not greater than the diameter of the circle <em>BDE</em>. [<a href="/elem.4.1">IV. 1</a>] 

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 90.</h1>
 <p><span class="ital">To find the sixth apotome</span>. </p>
 
 <p>Let a rational straight line <span class="ital">A</span> be set out, and three numbers <span class="ital">E</span>, <span class="ital">BC</span>, <span class="ital">CD</span> not having to one another the ratio which a square number has to a square number; and further let <span class="ital">CB</span> also not have to <span class="ital">BD</span> the ratio which a square number has to a square number. 

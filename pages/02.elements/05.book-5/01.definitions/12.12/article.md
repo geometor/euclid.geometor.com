@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>12</h1>
 <p><span class="bold">Alternate ratio</span> means taking the antecedent in relation to the antecedent and the consequent in relation to the consequent.</p>

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>3</h1>
 <p>A rectilineal figure is said to be <span class="bold">inscribed in a circle</span> when each angle of the inscribed figure lies on the circumference of the circle.</p>

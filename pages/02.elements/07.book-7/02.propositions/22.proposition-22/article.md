@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p>
        <span class="ital">The least numbers of those which have the same ratio with them are prime to one another.</span>
       </p>

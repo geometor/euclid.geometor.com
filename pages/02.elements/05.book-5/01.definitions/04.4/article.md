@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>4</h1>
 <p>Magnitudes are said to <span class="bold">have a ratio</span> to one another which are capable, when multiplied, of exceeding one another.</p>

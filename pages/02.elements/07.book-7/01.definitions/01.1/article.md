@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p>An <span class="bold">unit</span> is that by virtue of which each of the things that exist is called one.</p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 1.</h1>
 <p><em>Triangles and parallelograms which are under the same height are to one another as their bases</em>. </p>
 
 <p>Let <em>ABC</em>, <em>ACD</em> be triangles and <em>EC</em>, <em>CF</em> parallelograms under the same height; <lb n="5"/>I say that, as the base <em>BC</em> is to the base <em>CD</em>, so is the triangle <em>ABC</em> to the triangle <em>ACD</em>, and the parallelogram <em>EC</em> to the parallelogram <em>CF</em>. 

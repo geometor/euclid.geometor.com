@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 6.</h1>
 <p><em>If two triangles have one angle equal to one angle and the sides about the equal angles proportional</em>, <em>the triangles will be equiangular and will have those angles equal which the corresponding sides subtend</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be two triangles having one angle <em>BAC</em> equal to one angle <em>EDF</em> and the sides about the equal angles proportional, so that, <span class="center">as <em>BA</em> is to <em>AC</em>, so is <em>ED</em> to <em>DF</em>;</span> I say that the triangle <em>ABC</em> is equiangular with the triangle <em>DEF</em>, and will have the angle <em>ABC</em> equal to the angle <em>DEF</em>, and the angle <em>ACB</em> to the angle <em>DFE</em>. </p>

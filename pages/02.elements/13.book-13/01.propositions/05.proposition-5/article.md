@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p><span class="ital">If a straight line be cut in extreme and mean ratio</span>, <span class="ital">and there be added to it a straight line equal to the greater segment</span>, <span class="ital">the whole straight line has been cut in extreme and mean ratio</span>, <span class="ital">and the original straight line is the greater segment.</span>
       </p>
 

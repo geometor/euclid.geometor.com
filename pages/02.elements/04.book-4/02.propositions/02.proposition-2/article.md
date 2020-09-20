@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p><em>In a given circle to inscribe a triangle equiangular with a given triangle</em>. </p>
 
 <p>Let <em>ABC</em> be the given circle, and <em>DEF</em> the given triangle; thus it is required to inscribe in the circle <em>ABC</em> a triangle equiangular with the triangle <em>DEF</em>. </p>

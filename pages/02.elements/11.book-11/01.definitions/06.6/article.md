@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>6</h1>
 <p>The <span class="bold">inclination of a plane to a plane</span> is the acute angle contained by the straight lines drawn at right angles to the common section at the same point, one in each of the planes.</p>

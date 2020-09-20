@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p><span class="ital">To construct an icosahedron and comprehend it in a sphere</span>, <span class="ital">like the aforesaid figures; and to prove that the side of the icosahedron is the irrational straight line called minor.</span>
       </p>
 

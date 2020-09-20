@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 88.</h1>
 <p><span class="ital">To find the fourth apotome</span>. </p>
 
 <p>Let a rational straight line <span class="ital">A</span> be set out, and <span class="ital">BG</span> commensurable in length with it; therefore <span class="ital">BG</span> is also rational. 

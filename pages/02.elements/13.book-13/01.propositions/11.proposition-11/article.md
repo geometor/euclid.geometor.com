@@ -22,7 +22,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 11.</h1>
 <p><span class="ital">If in a circle which has its diameter rational an equilateral pentagon be inscribed</span>, <span class="ital">the side of the pentagon is the irrational straight line called minor.</span>
       </p>
 

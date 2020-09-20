@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p><span class="ital">Given two circles about the same centre</span>, <span class="ital">to inscribe in the greater circle an equilateral polygon with an even number of sides which does not touch the lesser circle.</span>
        <pb n="424"/></p>
 

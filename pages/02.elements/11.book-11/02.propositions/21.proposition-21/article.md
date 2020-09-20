@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 21.</h1>
 <p>
        <span class="ital">Any solid angle is contained by plane angles less than four right angles.</span>
       </p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 45.</h1>
 <p><span class="ital">A major straight line is divded at one and the same point only</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a major straight line divded at <span class="ital">C</span>, so that <span class="ital">AC</span>, <span class="ital">CB</span> are incommensurable in square and make the sum of the squares on <span class="ital">AC</span>, <span class="ital">CB</span> rational, but the rectangle <span class="ital">AC</span>, <span class="ital">CB</span> medial; [<a href="/elem.10.39">X. 39</a>

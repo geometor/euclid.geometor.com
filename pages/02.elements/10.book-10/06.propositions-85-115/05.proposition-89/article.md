@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 89.</h1>
 <p><span class="ital">To find the fifth apotome</span>. </p>
 
 <p>Let a rational straight line <span class="ital">A</span> be set out, and let <span class="ital">CG</span> be commensurable in length with <span class="ital">A</span>; therefore <span class="ital">CG</span> is rational. </p>

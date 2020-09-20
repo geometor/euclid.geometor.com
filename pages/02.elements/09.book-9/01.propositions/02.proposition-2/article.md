@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p>
        <span class="ital">If two numbers by multiplying one another make a square number, they are similar plane numbers.</span>
       </p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 66.</h1>
 <p><span class="ital">A straight line commensurable in length with a binomial straight line is itself also binomial and the same in order</span>. </p>
 
 <p>Let <span class="ital">AB</span> be binomial, and let <span class="ital">CD</span> be commensurable in length with <span class="ital">AB</span>;  I say that <span class="ital">CD</span> is binomial and the same in order with <span class="ital">AB</span>. </p>

@@ -23,9 +23,8 @@ taxonomy:
     - 
 ---
 
-<p>A straight line is said to <hi rend="bold">touch a circle</hi> which, meeting the circle and being produced, does not cut the circle.</p>
+A straight line is said to <hi rend="bold">touch a circle</hi> which, meeting the circle and being produced, does not cut the circle.
 
 ===
 
-<h1>2</h1>
-<p>A straight line is said to <span class="bold">touch a circle</span> which, meeting the circle and being produced, does not cut the circle.</p>
+A straight line is said to <span class="bold">touch a circle</span> which, meeting the circle and being produced, does not cut the circle.

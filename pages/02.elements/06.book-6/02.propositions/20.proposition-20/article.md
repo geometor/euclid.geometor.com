@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 20.</h1>
 <p><em>Similar polygons are divded into similar triangles</em>, <em>and into triangles equal in multitude and in the same ratio as the wholes</em>, <em>and the polygon has to the polygon a ratio duplicate of that which the corresponding side has to the corresponding</em>
        <lb n="5"/><em>side</em>. </p>
 

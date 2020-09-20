@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 20.</h1>
 <p>
        <span class="ital">If one mean proportional number fall between two numbers, the numbers will be similar plane numbers.</span>
       </p>

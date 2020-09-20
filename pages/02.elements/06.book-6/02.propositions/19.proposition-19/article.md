@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 19.</h1>
 <p><em>Similar triangles are to one another in the duplicate ratio of the corresponding sides</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be similar triangles having the angle at <em>B</em> equal to the angle at <em>E</em>, and such that, as <em>AB</em> is to <em>BC</em>, so <lb n="5"/>is <em>DE</em> to <em>EF</em>, so that <em>BC</em> corresponds to <em>EF</em>; [<a href="/elem.5.def.11">V. Def. 11</a>] I say that the triangle <em>ABC</em> has to the triangle <em>DEF</em> a ratio duplicate of that which <em>BC</em> has to <em>EF</em>. 

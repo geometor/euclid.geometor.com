@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p><em>A circle does not touch a circle at more points than one</em>, <em>whether it touch it internally or externally</em>. </p>
 
 <p>For, if possible, let the circle <em>ABDC</em> touch the circle <em>EBFD</em>, first internally, at more <lb n="5"/>points than one, namely <em>D</em>, <em>B</em>. </p>

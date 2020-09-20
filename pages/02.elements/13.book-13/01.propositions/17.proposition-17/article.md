@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 17.</h1>
 <p><span class="ital">To construct a dodecahedron and comprehend it in a sphere</span>, <span class="ital">like the aforesaid figures, and to prove that the side of the dodecahedron is the irrational straight line called apotome.</span>
       </p>
 

@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 26.</h1>
 <p>
        <span class="ital">If two numbers be prime to two numbers, both to each, their products also will be prime to one another.</span>
       </p>

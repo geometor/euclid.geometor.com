@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p>
        <span class="ital">Any number is either a part or parts of any number, the less of the greater.</span>
       </p>

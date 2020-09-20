@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><span class="ital">If a straight line be cut in extreme and mean ratio</span>, <span class="ital">the square on the whole and the square on the lesser segment together are triple of the square on the greater segment.</span>
       </p>
 

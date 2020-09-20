@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 70.</h1>
 <p><span class="ital">A straight line commensurable with the side of the sum of two medial areas is the side of the sum of two medial areas</span>. </p>
 
 <p>Let <span class="ital">AB</span> be the side of the sum of two medial areas, and <span class="ital">CD</span> commensurable with <span class="ital">AB</span>; it is to be proved that <span class="ital">CD</span> is also the side of the sum of two medial areas. </p>

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 38.</h1>
 <p><span class="ital">If the sides of the opposite planes of a cube be bisected</span>, <span class="ital">and planes be carried through the points of section</span>, <span class="ital">the common section of the planes and the diameter of the cube bisect one another.</span>
       </p>
 

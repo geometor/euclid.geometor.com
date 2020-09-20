@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 28.</h1>
 <p>
        <span class="ital">If an odd number by multiplying an even number make some number, the product will be even.</span>
       </p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p><span class="ital">If two commensurable magnitudes be added together, the whole will also be commensurable with each of them; and, if the whole be commensurable with one of them, the original magnitudes will also be commensurable</span>. </p>
 
 <p>For let the two commensurable magnitudes <span class="ital">AB</span>, <span class="ital">BC</span> be added together; I say that the whole <span class="ital">AC</span> is also commensurable with each of the magnitudes <span class="ital">AB</span>, <span class="ital">BC</span>. 

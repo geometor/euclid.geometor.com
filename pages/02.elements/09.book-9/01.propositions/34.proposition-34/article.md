@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 34.</h1>
 <p><span class="ital">If a number neither be one of those which are continually doubled from a dyad, nor have its half odd, it is both eventimes even and even-times odd</span>. </p>
 
 <p>For let the number <span class="ital">A</span> neither be one of those doubled from a dyad, nor have its half odd; I say that <span class="ital">A</span> is both even-times even and even-times odd. 

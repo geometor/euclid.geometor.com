@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION I.</h1>
 <p>
        <span class="ital">Two unequal numbers being set out, and the less being continually subtracted in turn from the greater, if the number which is left never measures the one before it until an unit is left, the original numbers will be prime to one another.</span>
       </p>

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>26</h1>
 <p>An <span class="bold">octahedron</span> is a solid figure contained by eight equal and equilateral triangles.</p>

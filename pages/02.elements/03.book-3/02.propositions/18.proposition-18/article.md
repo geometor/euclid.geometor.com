@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 18.</h1>
 <p><em>If a straight line touch a circle</em>, <em>and a straight line be joined from the centre to the point of contact</em>, <em>the straight line so joined will be perpendicular to the tangent</em>. </p>
 
 <p>For let a straight line <em>DE</em> touch the circle <em>ABC</em> at the point <em>C</em>, let the centre <em>F</em> of the circle <em>ABC</em> be taken, and let <em>FC</em> be joined from <em>F</em> to <em>C</em>; I say that <em>FC</em> is perpendicular to <em>DE</em>. 

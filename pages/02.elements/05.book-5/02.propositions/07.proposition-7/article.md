@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p><em>Equal magnitudes have to the same the same ratio</em>, <em>as also has the same to equal magnitudes</em>. </p>
 
 <p>Let <em>A</em>, <em>B</em> be equal magnitudes and <em>C</em> any other, chance, magnitude; I say that each of the magnitudes <em>A</em>, <em>B</em> has the same ratio to <em>C</em>, and <em>C</em> has the same ratio to each of the magnitudes <em>A</em>, <em>B</em>. 

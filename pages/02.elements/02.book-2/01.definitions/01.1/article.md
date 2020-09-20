@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p>Any rectangular parallelogram is said to be <span class="bold">contained</span> by the two straight lines containing the right angle.</p>

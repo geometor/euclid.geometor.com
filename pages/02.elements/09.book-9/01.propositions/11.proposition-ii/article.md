@@ -30,7 +30,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION II.</h1>
 <p>
        <span class="ital">If as many numbers as we please beginning from an unit be in continued proportion, the less measures the greater according to some one of the numbers which have place among the proportional numbers.</span>
        <pb n="396"/>

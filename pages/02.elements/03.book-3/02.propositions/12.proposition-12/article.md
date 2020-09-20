@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 12.</h1>
 <p><em>If two circles touch one another externally</em>, <em>the straight line joining their centres will pass through the point of contact</em>. </p>
 
 <p>For let the two circles <em>ABC</em>, <em>ADE</em> touch one another <lb n="5"/>externally at the point <em>A</em>, and let the centre <em>F</em> of <em>ABC</em>, and the centre <em>G</em> of <em>ADE</em>, be taken; <pb n="28"/>I say that the straight line joined from <em>F</em> to <em>G</em> will pass through the point of contact at <em>A</em>. </p>

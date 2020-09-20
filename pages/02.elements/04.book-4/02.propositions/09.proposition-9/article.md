@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 9.</h1>
 <p><em>About a given square to circumscribe a circle</em>. </p>
 
 <p>Let <em>ABCD</em> be the given square; thus it is required to circumscribe a circle about the square <em>ABCD</em>. 

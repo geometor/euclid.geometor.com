@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><em>If a first magnitude be the same multiple of a second that a third is of a fourth</em>, <em>and if equimultiples be taken of the first and third</em>, <em>then also</em> ex aequali <em>the magnitudes taken will be equimultiples respectively</em>, <em>the one of the second and the other of the fourth</em>. </p>
 
 <p>Let a first magnitude <em>A</em> be the same multiple of a second <em>B</em> that a third <em>C</em> is of a fourth <em>D</em>, and let equimultiples <em>EF</em>, <em>GH</em> be taken of <em>A</em>, <em>C</em>; I say that <em>EF</em> is the same multiple of <em>B</em> that <em>GH</em> is of <em>D</em>. </p>

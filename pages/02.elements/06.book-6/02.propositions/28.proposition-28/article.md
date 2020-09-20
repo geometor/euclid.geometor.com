@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 28.</h1>
 <p><em>To a given straight line to apply a parallelogram equal to a given rectilineal figure and deficient by a parallelogrammic figure similar to a given one : thus the given rectilineal figure must not be greater than the parallelogram described on the half of the straight line and similar to the defect</em>. </p>
 
 <p>Let <em>AB</em> be the given straight line, <em>C</em> the given rectilineal figure to which the figure to be applied to <em>AB</em> is required to be equal, not being greater than the parallelogram described on the half of <em>AB</em> and similar to the defect, and <em>D</em> the parallelogram to which the defect is required to be similar; <pb n="261"/>thus it is required to apply to the given straight line <em>AB</em> a parallelogram equal to the given rectilineal figure <em>C</em> and deficient by a parallelogrammic figure which is similar to <em>D</em>. </p>

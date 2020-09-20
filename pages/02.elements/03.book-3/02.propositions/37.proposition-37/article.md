@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 37.</h1>
 <p><em>If a point be taken outside a circle and from the point there fall on the circle two straight lines</em>, <em>if one of them cut the circle</em>, <em>and the other fall on it</em>, <em>and if further the rectangle contained by the whole of the straight line which cuts <pb n="76"/>the circle and the straight line intercepted on it outside between the point and the convex circumference be equal to the square on the straight line which falls on the circle</em>, <em>the straight line which falls on it will touch the circle</em>. </p>
 
 <p>For let a point <em>D</em> be taken outside the circle <em>ABC</em>; from <em>D</em> let the two straight lines <em>DCA</em>, <em>DB</em> fall on the circle <em>ACB</em>; let <em>DCA</em> cut the circle and <em>DB</em> fall on it; and let the rectangle <em>AD</em>, <em>DC</em> be equal to the square on <em>DB</em>. 

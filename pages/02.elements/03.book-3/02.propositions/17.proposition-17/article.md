@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 17.</h1>
 <p><em>From a given point to draw a straight line touching a given circle</em>. </p>
 
 <p>Let <em>A</em> be the given point, and <em>BCD</em> the given circle; thus it is required to draw from the point <em>A</em> a straight line touching the circle <em>BCD</em>. </p>

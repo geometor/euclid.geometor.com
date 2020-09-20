@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 27.</h1>
 <p>
        <span class="ital">On a given straight line to describe a parallelepipedal solid similar and similarly situated to a given parallelepipedal solid.</span>
       </p>

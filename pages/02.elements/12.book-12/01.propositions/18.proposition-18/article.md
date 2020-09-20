@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 18.</h1>
 <p>
        <span class="ital">Spheres are to one another in the triplicate ratio of their respective diameters.</span>
       </p>

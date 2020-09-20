@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p><em>If two triangles have their sides proportional</em>, <em>the triangles will be equiangular and will have those angles equal which the corresponding sides subtend</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be two triangles having their sides proportional, so that, <span class="center">as <em>AB</em> is to <em>BC</em>, so is <em>DE</em> to <em>EF</em>, as <em>BC</em> is to <em>CA</em>, so is <em>EF</em> to <em>FD</em>,</span> and further, as <em>BA</em> is to <em>AC</em>, so is <em>ED</em> to <em>DF</em>; I say that the triangle <em>ABC</em> is equiangular with the triangle <em>DEF</em>, and they will have those angles equal which the corresponding sides subtend, namely the angle <em>ABC</em> to the angle <em>DEF</em>, the angle <em>BCA</em> to the angle <em>EFD</em>, and further the angle <em>BAC</em> to the angle <em>EDF</em>. </p>

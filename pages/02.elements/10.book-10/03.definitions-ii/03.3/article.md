@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>3</h1>
 <p>and if neither of the terms be commensurable in length with the rational straight line set out, let the whole be called <span class="bold">a third binomial</span>.</p>

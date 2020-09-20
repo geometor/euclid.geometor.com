@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="185"/><h1>PROPOSITION 25.</h1>
 <p><em>If four magnitudes be proportional</em>, <em>the greatest and the least are greater than the remaining two</em>. </p>
 
 <p>Let the four magnitudes <em>AB</em>, <em>CD</em>, <em>E</em>, <em>F</em> be proportional so that, as <em>AB</em> is to <em>CD</em>, so is <em>E</em> to <em>F</em>, and let <em>AB</em> be the greatest of them and <em>F</em> the least; I say that <em>AB</em>, <em>F</em> are greater than <em>CD</em>, <em>E</em>. 

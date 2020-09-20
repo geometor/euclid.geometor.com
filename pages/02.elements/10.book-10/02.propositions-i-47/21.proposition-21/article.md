@@ -30,7 +30,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 21.</h1>
 <p>
        <span class="ital">The rectangle contained by rational straight lines commensurable in square only is irrational, and the side of the square equal to it is irrational. Let the latter be called</span>
        <span class="bold">medial.</span>

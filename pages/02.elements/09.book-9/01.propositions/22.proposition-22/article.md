@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p>
        <span class="ital">If as many odd numbers as we please be added together, and their multitude be even, the whole will be even.</span>
       </p>

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 28.</h1>
 <p><span class="ital">If a parallelepipedal solid be cut by a plane through the diagonals of the opposite planes</span>, <span class="ital">the solid will be bisected by the plane.</span>
       </p>
 

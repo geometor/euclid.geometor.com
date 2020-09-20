@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>17</h1>
 <p> And, when three numbers having multiplied one another make some number, the number so produced is <span class="bold">solid</span>, and its <span class="bold">sides</span> are the numbers which have multiplied one another.</p>

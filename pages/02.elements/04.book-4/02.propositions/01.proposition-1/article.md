@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 1.</h1>
 <p><em>Into a given circle to fit a straight line equal to a given straight line which is not greater than the diameter of the circle</em>. </p>
 
 <p>Let <em>ABC</em> be the given circle, and <em>D</em> the given straight line not greater than the diameter of the circle; thus it is required to fit into the circle <em>ABC</em> a straight line equal to the straight line <em>D</em>. 

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="91"/><h1>PROPOSITION 6.</h1>
 <p><em>In a given circle to inscribe a square</em>. </p>
 
 <p>Let <em>ABCD</em> be the given circle; thus it is required to inscribe a square in the circle <em>ABCD</em>. </p>

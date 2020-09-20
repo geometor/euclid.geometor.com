@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 93.</h1>
 <p><span class="ital">If an area be contained by a rational straight line and a third apotome, the <quote>side</quote>
  of the area is a second apotome of a medial straight line</span>. </p>
 

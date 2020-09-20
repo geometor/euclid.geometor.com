@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 26.</h1>
 <p><span class="ital">4 medial area does not exceed a medial area by a rational area</span>. </p>
 
 <p>For, if possible, let the medial area <span class="ital">AB</span> exceed the medial area <span class="ital">AC</span> by the rational area <span class="ital">DB</span>,  and let a rational straight line <span class="ital">EF</span> be set out; to <span class="ital">EF</span> let there be applied the rectangular parallelogram <span class="ital">FH</span> equal to <span class="ital">AB</span>, producing <span class="ital">EH</span> as breadth, and let the rectangle <span class="ital">FG</span> equal to <span class="ital">AC</span> be subtracted; therefore the remainder <span class="ital">BD</span> is equal to the remainder <span class="ital">KH</span>. </p>

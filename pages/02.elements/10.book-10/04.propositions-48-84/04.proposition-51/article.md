@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 51.</h1>
 <p><span class="ital">To find the fourth binomial straight line</span>. </p>
 
 <p>Let two numbers <span class="ital">AC</span>, <span class="ital">CB</span> be set out such that <span class="ital">AB</span> neither has to <span class="ital">BC</span>, nor yet to <span class="ital">AC</span>, the ratio which a square number has to a square number. </p>

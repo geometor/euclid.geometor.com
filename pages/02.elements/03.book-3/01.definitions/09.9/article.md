@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>9</h1>
 <p>And, when the straight lines containing the angle cut off a circumference, the angle is said to <span class="bold">stand upon</span> that circumference.</p>

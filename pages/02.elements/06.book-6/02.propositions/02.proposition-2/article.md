@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p><em>If a straight line be drawn parallel to one of the sides of a triangle</em>, <em>it will cut the sides of the triangle proportionally; and</em>, <em>if the sides of the triangle be cut proportionally</em>, <em>the line joining the points of section will be parallel to the remaining side of the triangle</em>. </p>
 
 <p>For let <em>DE</em> be drawn parallel to <em>BC</em>, one of the sides of the triangle <em>ABC</em>; I say that, as <em>BD</em> is to <em>DA</em>, so is <em>CE</em> to <em>EA</em>. </p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 9.</h1>
 <p><em>Magnitudes which have the same ratio to the same are equal to one another</em>; <em>and magnitudes to which the same has the same ratio are equal</em>. <pb n="154"/></p>
 
 <p>For let each of the magnitudes <em>A</em>, <em>B</em> have the same ratio to <em>C</em>; I say that <em>A</em> is equal to <em>B</em>. 

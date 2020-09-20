@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p><span class="ital">If two straight lines be parallel and points be taken at random on each of them</span>, <span class="ital">the straight line joining the points is in the same plane with the parallel straight lines.</span>
       </p>
 

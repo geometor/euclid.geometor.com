@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>4</h1>
 <p>[7] Things which coincide with one another are equal to one another.</p>

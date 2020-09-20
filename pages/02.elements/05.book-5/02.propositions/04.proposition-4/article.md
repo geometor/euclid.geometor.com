@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><em>If a first magnitude have to a second the same ratio as a third to a fourth</em>, <em>any equimultiples whatever of the first and third will also have the same ratio to any equimultiples whatever of the second and fourth respectively</em>, <em>taken in corresponding order</em>. </p>
 
 <p>For let a first magnitude <em>A</em> have to a second <em>B</em> the same ratio as a third <em>C</em> to a fourth <em>D</em>; and let equimultiples <em>E</em>, <em>F</em> be taken of <em>A</em>, <em>C</em>, and <em>G</em>, <em>H</em> other, chance, equimultiples of <em>B</em>, <em>D</em>; I say that, as <em>E</em> is to <em>G</em>, so is <em>F</em> to <em>H</em>. 

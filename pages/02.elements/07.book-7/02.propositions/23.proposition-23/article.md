@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 23.</h1>
 <p>
        <span class="ital">If two number be prime to one another, the number which measures the one of them will be prime to the remaining number.</span>
       </p>

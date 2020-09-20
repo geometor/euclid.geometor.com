@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>27</h1>
 <p>An <span class="bold">icosahedron</span> is a solid figure contained by twenty equal and equilateral triangles.</p>

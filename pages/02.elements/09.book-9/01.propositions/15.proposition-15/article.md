@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p>
        <span class="ital">If three numbers in continued proportion be the least of those which have the same ratio with them, any two whatever added together will be prime to the remaining number.</span>
       </p>

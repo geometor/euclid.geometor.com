@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><em>If in a circle a straight line through the centre bisect a straight line not through the centre</em>, <em>it also cuts it at right angles; and if it cut it at right angles</em>, <em>it also bisects it</em>. </p>
 
 <p>Let <em>ABC</em> be a circle, and in it let a straight line <em>CD</em>

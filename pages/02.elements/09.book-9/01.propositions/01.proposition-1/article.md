@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 1.</h1>
 <p>
        <span class="ital">If two similar plane numbers by multiplying one another make some number, the product will be square.</span>
       </p>

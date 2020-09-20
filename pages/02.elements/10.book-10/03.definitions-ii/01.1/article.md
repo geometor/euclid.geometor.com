@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p>Given a rational straight line and a binomial, divded into its terms, such that the square on the greater term is greater than the square on the lesser by the square on a straight line commensurable in length with the greater, then, if the greater term be commensurable in length with the rational straight line set out, let the whole be called <span class="bold">a first binomial</span> straight line;</p>

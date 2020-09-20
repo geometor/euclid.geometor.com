@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 24.</h1>
 <p><span class="ital">If a solid be contained by parallel planes</span>, <span class="ital">the opposite planes in it are equal and parallelogrammic.</span>
       </p>
 

@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p>
        <span class="ital">Pyramids which are of the same height and have triangular bases are to one another as the bases.</span>
       </p>

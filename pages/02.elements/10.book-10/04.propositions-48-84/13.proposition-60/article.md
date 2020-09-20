@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 60.</h1>
 <p><span class="ital">The square on the binomial straight line applied to a rational straight line produces as breadth the first binomial</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a binomial straight line divded into its terms at <span class="ital">C</span>, so that <span class="ital">AC</span> is the greater term; let a rational straight line <span class="ital">DE</span> be set out, and let <span class="ital">DEFG</span> equal to the square on <span class="ital">AB</span> be applied to <span class="ital">DE</span> producing <span class="ital">DG</span> as its breadth; I say that <span class="ital">DG</span> is a first binomial straight line. 

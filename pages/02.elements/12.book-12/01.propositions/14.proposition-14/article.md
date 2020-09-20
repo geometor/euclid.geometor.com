@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p>
        <span class="ital">Cones and cylinders which are on equal bases are to one another as their heights.</span>
       </p>

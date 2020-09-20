@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>17</h1>
 <p>A <span class="bold">diameter of the sphere</span> is any straight line drawn through the centre and terminated in both directions by the surface of the sphere.</p>

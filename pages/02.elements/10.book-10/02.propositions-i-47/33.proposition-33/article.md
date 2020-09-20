@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 33.</h1>
 <p><span class="ital">To find two straight lines incommensurable in square which make the sum of the squares on them rational but the rectangle contained by them medial</span>. </p>
 
 <p>Let there be set out two rational straight lines <span class="ital">AB</span>, <span class="ital">BC</span> commensurable in square only and such that the square on the greater <span class="ital">AB</span> is greater than the square on the less <span class="ital">BC</span> by the square on a straight line incommensurable with <span class="ital">AB</span>, [<a href="/elem.10.30">X. 30</a>] 

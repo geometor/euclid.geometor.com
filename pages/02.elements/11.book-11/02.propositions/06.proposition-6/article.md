@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 6.</h1>
 <p><span class="ital">If two straight lines be at right angles to the same plane</span>, <span class="ital">the straight lines will be parallel.</span>
       </p>
 

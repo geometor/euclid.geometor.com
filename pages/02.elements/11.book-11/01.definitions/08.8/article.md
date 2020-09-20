@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>8</h1>
 <p><span class="bold">Parallel planes</span> are those which do not meet.</p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 29.</h1>
 <p><em>To a given straight line to apply a parallelogram equal to a given rectilineal figure and exceeding by a parallelogrammic figure similar to a given one</em>. </p>
 
 <p>Let <em>AB</em> be the given straight line, <em>C</em> the given rectilineal figure to which the figure to be applied to <em>AB</em> is required to be equal, and <em>D</em> that to which the excess is required to be similar; thus it is required to apply to the straight line <em>AB</em> a parallelogram equal to the rectilineal figure <em>C</em> and exceeding by a parallelogrammic figure similar to <em>D</em>. 

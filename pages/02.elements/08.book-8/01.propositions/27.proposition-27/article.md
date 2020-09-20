@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 27.</h1>
 <p>
        <span class="ital">Similar solid numbers have to one another the ratio which a cube number has to a cube number.</span>
       </p>

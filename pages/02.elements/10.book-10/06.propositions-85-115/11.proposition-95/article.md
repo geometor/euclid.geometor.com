@@ -30,7 +30,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 95.</h1>
 <p>
        <span class="ital">If an area be contained by a rational straight line and a fifth apotome, the <quote>side</quote>
  of the area is a straight line which produces with a rational area a medial whole.</span>

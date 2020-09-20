@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p><em>If there be any number of magnitudes whatever</em>, <em>and others equal to them in multitude</em>, <em>which taken two and two together are in the same ratio</em>, <em>they will also be in the same ratio</em> ex aequali. </p>
 
 <p>Let there be any number of magnitudes <em>A</em>, <em>B</em>, <em>C</em>, and others <em>D</em>, <em>E</em>, <em>F</em> equal to them in multitude, which taken two and two together are in the same ratio, so that, <span class="center">as <em>A</em> is to <em>B</em>, so is <em>D</em> to <em>E</em>,</span> and, as <em>B</em> is to <em>C</em>, so is <em>E</em> to <em>F</em>; I say that they will also be in the same ratio <em>ex aequali</em>, <span class="center">&lt;that is, as <em>A</em> is to <em>C</em>, so is <em>D</em> to <em>F</em>&gt;.</span>

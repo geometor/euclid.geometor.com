@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 28.</h1>
 <p><span class="ital">To find medial straight lines commensurable in square only which contain a medial rectangle</span>. </p>
 
 <p>Let the rational straight lines <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span> commensurable in square only be set out; let <span class="ital">D</span> be taken a mean proportional between <span class="ital">A</span>, <span class="ital">B</span>, [<a href="/elem.6.13">VI. 13</a>] and let it be contrived that, <span class="center">as <span class="ital">B</span> is to <span class="ital">C</span>, so is <span class="ital">D</span> to <span class="ital">E</span>. [<a href="/elem.6.12">VI. 12</a>]</span>

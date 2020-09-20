@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 34.</h1>
 <p>
        <span class="ital">Given two numbers, to find the least number which they measure.</span>
       </p>

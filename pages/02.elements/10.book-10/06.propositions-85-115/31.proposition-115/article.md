@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 115.</h1>
 <p><span class="ital">From a medial straight line there arise irrational straight lines infinite in number, and none of them is the same as any of the preceding</span>. </p>
 
 <p>Let <span class="ital">A</span> be a medial straight line; I say that from <span class="ital">A</span> there arise irrational straight lines infinite in number, and none of them is the same as any of the preceding. </p>

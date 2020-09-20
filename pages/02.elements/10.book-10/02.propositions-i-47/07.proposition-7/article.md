@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p><span class="ital">Incommensurable magnitudes have not to one another the ratio which a number has to a number</span>. </p>
 
 <p>Let <span class="ital">A</span>, <span class="ital">B</span> be incommensurable magnitudes; I say that <span class="ital">A</span> has not to <span class="ital">B</span> the ratio which a number has to a number. </p>

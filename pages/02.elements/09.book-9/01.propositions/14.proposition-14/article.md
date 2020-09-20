@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p>
        <span class="ital">If a number be the least that is measured by prime numbers, it will not be measured by any other prime number except those originally measuring it.</span>
       </p>

@@ -27,5 +27,3 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
-<p>Things which are equal to the same thing are also equal to one another.</p>

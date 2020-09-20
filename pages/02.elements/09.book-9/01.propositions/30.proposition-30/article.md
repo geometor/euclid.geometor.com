@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 30.</h1>
 <p>
        <span class="ital">If an odd number measure an even number, it will also measure the half of it.</span>
       </p>

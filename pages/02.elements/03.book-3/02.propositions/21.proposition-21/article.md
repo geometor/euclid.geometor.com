@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 21.</h1>
 <p><em>In a circle the angles in the same segment are equal to one another</em>. </p>
 
 <p>Let <em>ABCD</em> be a circle, and let the angles <em>BAD</em>, <em>BED</em> be angles in the same segment <em>BAED</em>; I say that the angles <em>BAD</em>, <em>BED</em> are equal to one another. </p>

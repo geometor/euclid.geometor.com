@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>2</h1>
 <p>but if the lesser term be commensurable in length with the rational straight line set out, let the whole be called <span class="bold">a second binomial</span>;</p>

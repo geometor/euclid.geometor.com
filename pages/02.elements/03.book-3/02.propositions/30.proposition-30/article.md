@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 30.</h1>
 <p><em>To bisect a given circumference</em>. </p>
 
 <p>Let <em>ADB</em> be the given circumference; thus it is required to bisect the circumference <em>ADB</em>. </p>

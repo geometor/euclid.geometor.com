@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>2</h1>
 <p>And in any parallelogrammic area let any one whatever of the parallelograms about its diameter with the two complements be called a <span class="bold">gnomon.</span></p>

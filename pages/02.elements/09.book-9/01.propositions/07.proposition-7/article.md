@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p>
        <span class="ital">If a composite number by multiplying any number make some number, the product will be solid.</span>
       </p>

@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 29.</h1>
 <p>
        <span class="ital">If an odd number by multiplying an odd number make some number, the product will be odd.</span>
       </p>

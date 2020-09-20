@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 19</h1>
 <p><em>If, as a whole is to a whole, so is a part subtracted to a part subtracted</em>, <em>the remainder will also be to the remainder as whole to whole</em>. </p>
 
 <p>For, as the whole <em>AB</em> is to the whole <em>CD</em>, so let the part <em>AE</em> subtracted be to the part <em>CF</em> subtracted; I say that the remainder <em>EB</em> will also be to the remainder <em>FD</em> as the whole <em>AB</em> to the whole <em>CD</em>. 

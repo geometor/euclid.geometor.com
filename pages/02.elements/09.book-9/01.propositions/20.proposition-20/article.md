@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 20.</h1>
 <p>
        <span class="ital">Prime numbers are more than any assigned multitude of prime numbers.</span>
       </p>

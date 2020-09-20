@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p><em>If a first magnitude have to a second the same ratio as a third to a fourth</em>, <em>and the third have to the fourth a greater ratio than a fifth has to a sixth</em>, <em>the first will also have to the second a greater ratio than the fifth to the sixth</em>. </p>
 
 <p>For let a first magnitude <em>A</em> have to a second <em>B</em> the same ratio as a third <em>C</em> has to a fourth <em>D</em>, and let the third <em>C</em> have to the fourth <em>D</em> a greater ratio than a fifth <em>E</em> has to a sixth <em>F</em>; I say that the first <em>A</em> will also have to the second <em>B</em> a greater ratio than the fifth <em>E</em> to the sixth <em>F</em>. 

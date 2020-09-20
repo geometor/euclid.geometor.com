@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><em>If in a circle two straight lines cut one another which are not through the centre</em>, <em>they do not bisect one another</em>. </p>
 
 <p>Let <em>ABCD</em> be a circle, and in it let the two straight lines <em>AC</em>, <em>BD</em>, which are not through the centre, cut one another at <em>E</em>;  I say that they do not bisect one another. </p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p><em>In equal and equiangular parallelograms the sides about the equal angles are reciprocally proportional; and equiangular parallelograms in which the sides about the equal angles are reciprocally proportional are equal</em>. <pb n="217"/></p>
 
 <p>Let <em>AB</em>, <em>BC</em> be equal and equiangular parallelograms having the angles at <em>B</em> equal, and let <em>DB</em>, <em>BE</em> be placed in a straight line; <span class="center">therefore <em>FB</em>, <em>BG</em> are also in a straight line. [<a href="/elem.1.14">I. 14</a>]</span>

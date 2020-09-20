@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>7</h1>
 <p>A plane is said to be <span class="bold">similarly inclined</span> to a plane as another is to another when the said angles of the inclinations are equal to one another.</p>

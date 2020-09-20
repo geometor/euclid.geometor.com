@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="158"/><h1>PROPOSITION 11.</h1>
 <p><em>Ratios which are the same with the same ratio are also the same with one another</em>. </p>
 
 <p>For, as <em>A</em> is to <em>B</em>, so let <em>C</em> be to <em>D</em>, and, as <em>C</em> is to <em>D</em>, so let <em>E</em> be to <em>F</em>; I say that, as <em>A</em> is to <em>B</em>, so is <em>E</em> to <em>F</em>. 

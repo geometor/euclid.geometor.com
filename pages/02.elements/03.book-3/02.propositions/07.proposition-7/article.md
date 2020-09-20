@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<pb n="14"/><h1>PROPOSITION 7.</h1>
 <p><em>If on the diameter of a circle a point be taken which is not the centre of the circle</em>, <em>and from the point straight lines fall upon the circle</em>, <em>that will be greatest on which the centre is</em>, <em>the remainder of the same diameter will be least</em>, <em>and of the rest</em>
        <lb n="5"/><em>the nearer to the straight line through the centre is always greater than the more remote</em>, <em>and only two equal straight lines will fall from the point on the circle</em>, <em>one on each side of the least straight line</em>. </p>
 

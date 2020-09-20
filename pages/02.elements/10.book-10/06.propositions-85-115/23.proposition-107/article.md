@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 107.</h1>
 <p><span class="ital">A straight line commensurable with that which produces with a medial area a medial whole is itself also a straight line which produces with a medial area a medial whole</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a straight line which produces with a medial area a medial whole, and let <span class="ital">CD</span> be commensurable with <span class="ital">AB</span>; I say that <span class="ital">CD</span> is also a straight line which produces with a medial area a medial whole. 

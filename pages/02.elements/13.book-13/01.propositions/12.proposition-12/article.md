@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 12.</h1>
 <p><span class="ital">If an equilateral triangle be inscribed in a circle</span>, <span class="ital">the square on the side of the triangle is triple of the square on the radius of the circle.</span>
        <pb n="467"/></p>
 

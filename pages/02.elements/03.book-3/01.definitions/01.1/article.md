@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p><span class="bold">Equal circles</span> are those the diameters of which are equal, or the radii of which are equal.</p>

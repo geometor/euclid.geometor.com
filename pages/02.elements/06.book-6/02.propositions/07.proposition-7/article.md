@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="206"/><h1>PROPOSITION 7.</h1>
 <p><em>If two triangles have one angle equal to one angle</em>, <em>the sides about other angles proportional</em>, <em>and the remaining angles either both less or both not less than a right angle</em>, <em>the triangles will be equiangular and will have those angles equal</em>, <em>the sides about which are proportional</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be two triangles having one angle equal to one angle, the angle <em>BAC</em> to the angle <em>EDF</em>, the sides about other angles <em>ABC</em>, <em>DEF</em> proportional, so that, as <em>AB</em> is to <em>BC</em>, so is <em>DE</em> to <em>EF</em>, and, first, each of the remaining angles at <em>C</em>, <em>F</em> less than a right angle;  I say that the triangle <em>ABC</em> is equiangular with the triangle <em>DEF</em>, the angle <em>ABC</em> will be equal to the angle <em>DEF</em>, and the remaining angle, namely the angle at <em>C</em>, equal to the remaining angle, the angle at <em>F</em>. </p>

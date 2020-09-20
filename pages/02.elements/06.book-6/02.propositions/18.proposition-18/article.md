@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 18.</h1>
 <p><em>On a given straight line to describe a rectilineal figure similar and similarly situated to a given rectilineal figure</em>. </p>
 
 <p>Let <em>AB</em> be the given straight line and <em>CE</em> the given rectilineal figure; thus it is required to describe on the straight line <em>AB</em> a rectilineal figure similar and similarly situated to the rectilineal figure <em>CE</em>. 

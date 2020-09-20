@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 50.</h1>
 <p><span class="ital">To find the third binomial straight line</span>. </p>
 
 <p>Let two numbers <span class="ital">AC</span>, <span class="ital">CB</span> be set out such that the sum of them <span class="ital">AB</span> has to <span class="ital">BC</span> the ratio which a square number has to a square number, but has not to <span class="ital">AC</span> the ratio which a square number has to a square number. 

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><em>About a given circle to circumscribe a triangle equiangular with a given triangle</em>. </p>
 
 <p>Let <em>ABC</em> be the given circle, and <em>DEF</em> the given triangle; <lb n="5"/>thus it is required to circumscribe about the circle <em>ABC</em> a triangle equiangular with the triangle <em>DEF</em>. 

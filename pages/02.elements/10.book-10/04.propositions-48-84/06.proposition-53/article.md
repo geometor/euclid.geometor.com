@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 53.</h1>
 <p>
        <span class="ital">To find the sixth binomial straight line.</span>
       </p>

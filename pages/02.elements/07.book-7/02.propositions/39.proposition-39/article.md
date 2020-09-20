@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 39.</h1>
 <p>
        <span class="ital">To find the number which is the least that will have given parts.</span>
       </p>

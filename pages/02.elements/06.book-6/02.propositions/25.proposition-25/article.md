@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 25.</h1>
 <p><em>To construct one and the same figure similar to a given rectilineal figure and equal to another given rectilineal figure</em>. </p>
 
 <p>Let <em>ABC</em> be the given rectilineal figure to which the figure to be constructed must be similar, and <em>D</em> that to which it must be equal; thus it is required to construct one and the same figure similar to <em>ABC</em> and equal to <em>D</em>. 

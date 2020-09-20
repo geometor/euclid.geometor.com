@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p><span class="ital">If four straight lines be proportional, and the square on the first be greater than the square on the second by the square on a straight line commensurable with the first, the square on the third will also be greater than the square on the fourth by</span>
        <lb n="5"/><span class="ital">the square on a straight line commensurable with the third</span>. </p>
 

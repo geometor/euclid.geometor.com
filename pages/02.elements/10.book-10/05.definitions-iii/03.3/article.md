@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>3</h1>
 <p>But if neither be commensurable in length with the rational straight line set out, and the square on the whole be greater than the square on the annex by the square on a straight line commensurable with the whole, let the apotome be called a <span class="bold">third apotome</span>.</p>

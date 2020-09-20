@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><span class="ital">Given two commensurable magnitudes, to find their greatest common measure</span>. </p>
 
 <p>Let the two given commensurable magnitudes be <span class="ital">AB</span>, <span class="ital">CD</span> of which <span class="ital">AB</span> is the less; thus it is required to find the greatest common measure of <span class="ital">AB</span>, <span class="ital">CD</span>. </p>

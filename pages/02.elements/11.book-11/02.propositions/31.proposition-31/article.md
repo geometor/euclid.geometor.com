@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 31.</h1>
 <p>
        <span class="ital">Parallelepipedal solids which are on equal bases and of the same height are equal to one another.</span>
       </p>

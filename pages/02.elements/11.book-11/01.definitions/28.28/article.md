@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>28</h1>
 <p>A <span class="bold">dodecahedron</span> is a solid figure contained by twelve equal, equilateral, and equiangular pentagons.</p>

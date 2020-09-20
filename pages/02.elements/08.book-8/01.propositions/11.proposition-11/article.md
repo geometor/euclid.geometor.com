@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 11.</h1>
 <p>
        <span class="ital">Between two square numbers there is one mean proportional number, and the square has to the square the ratio duplicate of that which the side has to the side.</span>
       </p>

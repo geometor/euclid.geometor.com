@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 8.</h1>
 <p><em>If in a right-angled triangle a perpendicular be drawn from the right angle to the base</em>, <em>the triangles adjoining the perpendicular are similar both to the whole and to one another</em>. </p>
 
 <p>Let <em>ABC</em> be a right-angled triangle having the angle <em>BAC</em> right, and let <em>AD</em> be drawn from <em>A</em> perpendicular to <em>BC</em>; I say that each of the triangles <em>ABD</em>, <em>ADC</em> is similar to the whole <em>ABC</em> and, further, they are similar to one another. <pb n="210"/></p>

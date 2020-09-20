@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 72.</h1>
 <p><span class="ital">If two medial areas incommensurable with one another be added together, the remaining two irrational straight lines arise, namely either a second bimedial or a side of the sum of two medial areas</span>. </p>
 
 <p>For let two medial areas <span class="ital">AB</span>, <span class="ital">CD</span> incommensurable with one another be added together; I say that the <quote>side</quote>

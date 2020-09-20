@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p><em>If a first magnitude have to a second the same ratio as a third has to a fourth</em>, <em>and the first be greater than the third</em>, <em>the second will also be greater than the fourth</em>; <em>if equal</em>, <em>equal</em>; <em>and if less</em>, <em>less</em>. </p>
 
 <p>For let a first magnitude <em>A</em> have the same ratio to a second <em>B</em> as a third <em>C</em> has to a fourth <em>D</em>; and let <em>A</em> be greater than <em>C</em>; I say that <em>B</em> is also greater than <em>D</em>. 

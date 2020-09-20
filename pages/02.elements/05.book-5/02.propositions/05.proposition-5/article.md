@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p><em>If a magnitude be the same multiple of a magnitude that a part subtracted is of a part subtracted</em>, <em>the remainder will also be the same multiple of the remainder that the whole is of the whole</em>. <lb n="5"/></p>
 
 <p>For let the magnitude <em>AB</em> be the same multiple of the magnitude <em>CD</em> that the part <em>AE</em> subtracted is of the part <em>CF</em> subtracted; I say that the remainder <em>EB</em> is also the same multiple of the remainder <em>FD</em> that the whole <em>AB</em> is of the whole <em>CD</em>. 

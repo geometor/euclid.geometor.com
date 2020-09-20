@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 37.</h1>
 <p>
        <span class="ital">If a number be measured by any number, the number which is measured will have a part called by the same name as the measuring number.</span>
       </p>

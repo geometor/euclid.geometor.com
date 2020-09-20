@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 11.</h1>
 <p><em>If two circles touch one another internally</em>, <em>and their centres be taken</em>, <em>the straight line joining their centres</em>, <em>if it be also produced</em>, <em>will fall on the point of contact of the circles</em>. </p>
 
 <p>For let the two circles <em>ABC</em>, <em>ADE</em> touch one another internally at the point <em>A</em>, and let the centre <em>F</em> of the circle <em>ABC</em>, and the centre <em>G</em> of <em>ADE</em>, be taken; I say that the straight line joined from <em>G</em> to <em>F</em> and produced will fall on <em>A</em>. 

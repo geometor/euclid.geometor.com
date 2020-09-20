@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 17</h1>
 <p><em>If three straight lines be proportional</em>, <em>the rectangle contained by the extremes is equal to the square on the mean</em>; <em>and</em>, <em>if the rectangle contained by the extremes be equal to the square on the mean</em>, <em>the three straight lines will be proportional</em>. </p>
 
 <p>Let the three straight lines <em>A</em>, <em>B</em>, <em>C</em> be proportional, so that, as <em>A</em> is to <em>B</em>, so is <em>B</em> to <em>C</em>; I say that the rectangle contained by <em>A</em>, <em>C</em> is equal to the square on <em>B</em>. 

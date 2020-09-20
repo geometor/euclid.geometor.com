@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p><span class="ital">If two magnitudes be commensurable, and the one of them be incommensurable with any magnitude, the remaining one will also be incommensurable with the same</span>. </p>
 
 <p>Let <span class="ital">A</span>, <span class="ital">B</span> be two commensurable magnitudes, and let one of them, <span class="ital">A</span>, be incommensurable with any other magnitude <span class="ital">C</span>; I say that the remaining one, <span class="ital">B</span>, will also be incommensurable with <span class="ital">C</span>. 

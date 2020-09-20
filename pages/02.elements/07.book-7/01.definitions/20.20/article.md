@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>20</h1>
 <p> Numbers are <span class="bold">proportional</span> when the first is the same multiple, or the same part, or the same parts, of the second that the third is of the fourth.</p>

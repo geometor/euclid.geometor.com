@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 48.</h1>
 <p><span class="ital">To find the first binomial straight line</span>. </p>
 
 <p>Let two numbers <span class="ital">AC</span>, <span class="ital">CB</span> be set out such that the sum of them <span class="ital">AB</span> has to <span class="ital">BC</span> the ratio which a square number has to a square number, but has not to <span class="ital">CA</span> the ratio which a square number has to a square number; [<a href="/elem.10.28.l.1">Lemma I after X. 28</a>]  let any rational straight line <span class="ital">D</span> be set out, and let <span class="ital">EF</span> be commensurable in length with <span class="ital">D</span>. </p>

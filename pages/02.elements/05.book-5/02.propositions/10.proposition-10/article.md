@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 10.</h1>
 <p><em>Of magnitudes which have a ratio to the same</em>, <em>that which has a greater ratio is greater</em>; <em>and that to which the same has a greater ratio is less</em>. </p>
 
 <p>For let <em>A</em> have to <em>C</em> a greater ratio than <em>B</em> has to <em>C</em>; I say that <em>A</em> is greater than <em>B</em>. 

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>19</h1>
 <p> And a <span class="bold">cube</span> is equal multiplied by equal and again by equal, or a number which is contained by three equal numbers.</p>

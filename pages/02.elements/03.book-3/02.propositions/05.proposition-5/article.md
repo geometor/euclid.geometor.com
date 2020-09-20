@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p><em>If two circles cut one another</em>, <em>they will not have the same centre</em>. </p>
 
 <p>For let the circles <em>ABC</em>, <em>CDG</em> cut one another at the points <em>B</em>, <em>C</em>; I say that they will not have the same centre. 

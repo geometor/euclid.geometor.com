@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 33.</h1>
 <p><em>In equal circles angles have the same ratio as the circumferences on which they stand</em>, <em>whether they stand at the centres or at the circumferences</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be equal circles, and let the angles <em>BGC</em>, <em>EHF</em> be angles at their centres <em>G</em>, <em>H</em>, and the angles <em>BAC</em>, <em>EDF</em> angles at the circumferences; I say that, as the circumference <em>BC</em> is to the circumference <em>EF</em>, so is the angle <em>BGC</em> to the angle <em>EHF</em>, and the angle <em>BAC</em> to the angle <em>EDF</em>. 

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>5</h1>
 <p>Similarly a circle is said to be <span class="bold">inscribed in a figure</span> when the circumference of the circle touches each side of the figure in which it is inscribed.</p>

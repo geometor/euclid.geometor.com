@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 25.</h1>
 <p>
        <span class="ital">If from an even number an odd number be subtracted, the remainder will be odd.</span>
       </p>

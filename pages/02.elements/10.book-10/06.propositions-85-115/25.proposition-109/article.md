@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 109.</h1>
 <p><span class="ital">If from a medial area a rational area be subtracted, there arise two other irrational straight lines, either a first apotome of a medial straight line or a straight line which produces with a rational area a medial whole</span>. </p>
 
 <p>For from the medial area <span class="ital">BC</span> let the rational area <span class="ital">BD</span> be subtracted. <pb n="237"/></p>

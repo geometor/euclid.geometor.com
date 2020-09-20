@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p><em>If four magnitudes be proportional</em>, <em>they will also be proportional alternately</em>. </p>
 
 <p>Let <em>A</em>, <em>B</em>, <em>C</em>, <em>D</em> be four proportional magnitudes, so that, as <em>A</em> is to <em>B</em>, so is <em>C</em> to <em>D</em>; I say that they will also be so alternately, that is, as <em>A</em> is to <em>C</em>, so is <em>B</em> to <em>D</em>. 

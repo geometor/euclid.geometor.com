@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>10</h1>
 <p><span class="bold">Equal and similar solid figures</span> are those contained by similar planes equal in multitude and in magnitude.</p>

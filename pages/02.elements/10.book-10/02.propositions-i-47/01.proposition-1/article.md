@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 1.</h1>
 <p><span class="ital">Two unequal magnitudes being set out, if from the greater there be subtracted a magnitude greater than its half, and from that which is left a magnitude greater than its half, and if this process be repeated continually, there will be left some magnitude which will be less than the lesser magnitude set out</span>. </p>
 
 <p>Let <span class="ital">AB, C</span> be two unequal magnitudes of which <span class="ital">AB</span> is the greater: I say that, if from <span class="ital">AB</span> there be subtracted a magnitude greater than its half, and from that which is left a magnitude greater than its half, and if this process be repeated continually, there will be left some magnitude which will be less than the magnitude <span class="ital">C</span>. 

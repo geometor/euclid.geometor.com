@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 10.</h1>
 <p><span class="ital">If an equilateral pentagon be inscribed in a circle</span>, <span class="ital">the square on the side of the pentagon is equal to the squares on the side of the hexagon and on that of the decagon inscribed in the same circle.</span>
       </p>
 

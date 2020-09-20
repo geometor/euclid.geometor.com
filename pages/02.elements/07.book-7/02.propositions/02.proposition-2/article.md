@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p>
        <span class="ital">Given two numbers not prime to one another, to find their greatest common measure.</span>
       </p>

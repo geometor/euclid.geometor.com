@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>2</h1>
 <p>Similarly a figure is said to be <span class="bold">circumscribed about a figure</span> when the respective sides of the circumscribed figure pass through the respective angles of that about which it is circumscribed.</p>

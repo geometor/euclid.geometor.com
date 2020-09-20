@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 4.</h1>
 <p><span class="ital">If there be two pyramids of the same height which have triangular bases</span>, <span class="ital">and cach of them be divded into two pyramids equal to one another and similar to the whole, and into two equal prisms</span>, <span class="ital">then</span>, <span class="ital">as the base of the one pyramid is to the base of the other pyramid</span>, <span class="ital">so will all the prisms in the one pyramid be to all the prisms</span>, <span class="ital">being equal in multitude</span>, <span class="ital">in the other pyramid.</span>
       </p>
 

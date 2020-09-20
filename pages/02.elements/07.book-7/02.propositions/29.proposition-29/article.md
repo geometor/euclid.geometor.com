@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 29.</h1>
 <p>
        <span class="ital">Any prime number is prime to any number which it does not measure.</span>
       </p>

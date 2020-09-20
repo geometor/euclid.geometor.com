@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 8.</h1>
 <p><em>Of unequal magnitudes</em>, <em>the greater has to the same a greater ratio than the less has</em>; <em>and the same has to the less a greater ratio than it has to the greater</em>. <pb n="150"/></p>
 
 <p>Let <em>AB</em>, <em>C</em> be unequal magnitudes, and let <em>AB</em> be greater; let <em>D</em> be another, chance, magnitude; I say that <em>AB</em> has to <em>D</em> a greater ratio than <em>C</em> has to <em>D</em>, and <em>D</em> has to <em>C</em> a greater ratio than it has to <em>AB</em>. 

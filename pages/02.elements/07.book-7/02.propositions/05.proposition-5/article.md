@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 5.</h1>
 <p>
        <span class="ital">If a number be a part of a number, and another be the same part of another, the sum will also be the same part of the sum that the one is of the one.</span>
       </p>

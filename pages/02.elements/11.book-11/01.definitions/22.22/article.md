@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>22</h1>
 <p>The <span class="bold">axis of the cylinder</span> is the straight line which remains fixed and about which the parallelogram is turned.</p>

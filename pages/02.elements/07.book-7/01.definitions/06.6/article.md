@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>6</h1>
 <p> An <span class="bold">even number</span> is that which is divsible into two equal parts.</p>

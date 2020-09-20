@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>5</h1>
 <p> The greater number is a <span class="bold">multiple</span> of the less when it is measured by the less.</p>

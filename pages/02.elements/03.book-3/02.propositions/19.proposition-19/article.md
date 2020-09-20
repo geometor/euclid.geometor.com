@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 19.</h1>
 <p><em>If a straight line touch a circle</em>, <em>and from the point of contact a straight line be drawn at right angles to the tangent</em>, <em>the centre of the circle will be on the straight line so drawn</em>. </p>
 
 <p>For let a straight line <em>DE</em> touch the circle <em>ABC</em> at the point <em>C</em>, and from <em>C</em> let <em>CA</em> be drawn at right angles to <em>DE</em>; I say that the centre of the circle is on <em>AC</em>. </p>

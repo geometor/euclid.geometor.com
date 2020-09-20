@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>12</h1>
 <p>A <span class="bold">pyramid</span> is a solid figure, contained by planes, which is constructed from one plane to one point.</p>

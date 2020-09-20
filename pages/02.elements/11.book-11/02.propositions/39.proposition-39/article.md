@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 39.</h1>
 <p><span class="ital">If there be two prisms of equal height</span>, <span class="ital">and one have a parallelogram as base and the other a triangle</span>, <span class="ital">and if the parallelogram be double of the triangle</span>, <span class="ital">the prisms will be equal.</span>
       </p>
 

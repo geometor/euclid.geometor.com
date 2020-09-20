@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 32.</h1>
 <p><em>If a straight line touch a circle</em>, <em>and from the point of contact there be drawn across</em>, <em>in the circle</em>, <em>a straight line cutting the circle</em>, <em>the angles which it makes with the tangent will be equal to the angles in the alternate segments of the circle</em>. </p>
 
 <p>For let a straight line <em>EF</em> touch the circle <em>ABCD</em> at the point <em>B</em>, and from the point <em>B</em> let there be drawn across, in the circle <em>ABCD</em>, a straight line <em>BD</em> cutting it; I say that the angles which <em>BD</em> makes with the tangent <em>EF</em> will be equal to the angles in the alternate segments of the <pb n="66"/>circle, that is, that the angle <em>FBD</em> is equal to the angle constructed in the segment <em>BAD</em>, and the angle <em>EBD</em> is equal to the angle constructed in the segment <em>DCB</em>. </p>

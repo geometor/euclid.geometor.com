@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 18.</h1>
 <p><em>If magnitudes be proportional</em>
        <foreign lang="la">separando</foreign>, <em>they will also be proportional</em>
        <foreign lang="la">componendo</foreign>. </p>

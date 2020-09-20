@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION I.</h1>
 <p><em>If there be any number of magnitudes whatever which are</em>, <em>respectively</em>, <em>equimultiples of any magnitudes equal in multitude</em>, <em>then</em>, <em>whatever multiple one of the magnitudes is of one</em>, <em>that multiple also will all be of all</em>. </p>
 
 <p>Let any number of magnitudes whatever <em>AB</em>, <em>CD</em> be respectively equimultiples of any magnitudes <em>E</em>, <em>F</em> equal in multitude; I say that, whatever multiple <em>AB</em> is of <em>E</em>, that multiple will <em>AB</em>, <em>CD</em> also be of <em>E</em>, <em>F</em>. 

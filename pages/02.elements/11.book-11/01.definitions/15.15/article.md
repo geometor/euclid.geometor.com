@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>15</h1>
 <p>The <span class="bold">axis of the sphere</span> is the straight line which remains fixed and about which the semicircle is turned.</p>

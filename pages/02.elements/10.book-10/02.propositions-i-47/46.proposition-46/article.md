@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 46.</h1>
 <p><span class="ital">The side of a rational plus a medial area is divded at one point only</span>. </p>
 
 <p>Let <span class="ital">AB</span> be the side of a rational plus a medial area divded at <span class="ital">C</span>, so that <span class="ital">AC</span>, <span class="ital">CB</span> are incommensurable in square and make the sum of the squares on <span class="ital">AC</span>, <span class="ital">CB</span> medial, but twice the rectangle <span class="ital">AC</span>, <span class="ital">CB</span> rational; [<a href="/elem.10.40">X. 40</a>

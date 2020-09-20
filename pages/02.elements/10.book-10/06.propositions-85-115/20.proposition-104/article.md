@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 104.</h1>
 <p><span class="ital">A straight line commensurable with an apotome of a medial straight line is an apotome of a medial straight line and the same in order</span>. </p>
 
 <p>Let <span class="ital">AB</span> be an apotome of a medial straight line, and let <span class="ital">CD</span> be commensurable in length with <span class="ital">AB</span>; I say that <span class="ital">CD</span> is also an apotome of a medial straight line and the same in order with <span class="ital">AB</span>. 

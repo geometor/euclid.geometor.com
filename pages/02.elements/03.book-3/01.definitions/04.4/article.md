@@ -23,9 +23,8 @@ taxonomy:
     - 
 ---
 
-<p>In a circle straight lines are said <hi rend="bold">to be equally distant from the centre</hi> when the perpendiculars drawn to them from the centre are equal.</p>
+In a circle straight lines are said <hi rend="bold">to be equally distant from the centre</hi> when the perpendiculars drawn to them from the centre are equal.
 
 ===
 
-<h1>4</h1>
-<p>In a circle straight lines are said <span class="bold">to be equally distant from the centre</span> when the perpendiculars drawn to them from the centre are equal.</p>
+In a circle straight lines are said <span class="bold">to be equally distant from the centre</span> when the perpendiculars drawn to them from the centre are equal.

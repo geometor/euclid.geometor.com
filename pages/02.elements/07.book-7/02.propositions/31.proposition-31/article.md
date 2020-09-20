@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 31.</h1>
 <p>
        <span class="ital">Any composite number is measured by some prime number.</span>
       </p>

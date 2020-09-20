@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 80.</h1>
 <p><span class="ital">To a first apotome of a medial straight line only one medial straight line can be annexed which is commensurable with the whole in square only and which contains with the whole a rational rectangle</span>. <pb n="169"/></p>
 
 <p>For let <span class="ital">AB</span> be a first apotome of a medial straight line, and let <span class="ital">BC</span> be an annex to <span class="ital">AB</span>; therefore <span class="ital">AC</span>, <span class="ital">CB</span> are medial straight lines commensurable in square only and such that the rectangle <span class="ital">AC</span>, <span class="ital">CB</span> which they contain is rational; [<a href="/elem.10.74">X. 74</a>] I say that no other medial straight line can be annexed to <span class="ital">AB</span> which is commensurable with the whole in square only and which contains with the whole a rational area. </p>

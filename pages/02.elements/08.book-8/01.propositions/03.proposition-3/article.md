@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><span class="ital">If as many numbers as we please in continued proportion be the least of those which have the same ratio with them, the extremes of them are prime to one another</span>. </p>
 
 <p>Let as many numbers as we please, <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span>, <span class="ital">D</span>, in continued proportion be the least of those which have the same ratio with them; 

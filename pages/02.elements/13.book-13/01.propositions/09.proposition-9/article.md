@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 9.</h1>
 <p><span class="ital">If the side of the hexagon and that of the decagon inscribed in the same circle be added together</span>, <span class="ital">the whole straight line has been cut in extreme and mean ratio</span>, <span class="ital">and its greater segment is the side of the hexagon.</span>
       </p>
 

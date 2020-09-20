@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>4</h1>
 <p>The <span class="bold">height</span> of any figure is the perpendicular drawn from the vertex to the base.</p>

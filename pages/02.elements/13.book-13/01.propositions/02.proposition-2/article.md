@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 2.</h1>
 <p><span class="ital">If the square on a straight line be five times the square on a segment of it</span>, <span class="ital">then</span>, <span class="ital">when the double of the said segment is cut in extreme and mean ratio</span>, <span class="ital">the greater segment is the remaining part of the original straight line.</span>
       </p>
 

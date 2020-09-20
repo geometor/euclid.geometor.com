@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p><em>In equal triangles which have one angle equal to one angle the sides about the equal angles are reciprocally proportional; and those triangles which have one angle equal to one angle</em>, <em>and in which the sides about the equal angles are reciprocally proportional</em>, <em>are equal</em>. </p>
 
 <p>Let <em>ABC</em>, <em>ADE</em> be equal triangles having one angle equal to one angle, namely the angle <em>BAC</em> to the angle <em>DAE</em>; I say that in the triangles <em>ABC</em>, <em>ADE</em> the sides about the equal angles are reciprocally proportional, that is to say, that, <span class="center">as <em>CA</em> is to <em>AD</em>, so is <em>EA</em> to <em>AB</em>.</span>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 26.</h1>
 <p><em>In equal circles equal angles stand on equal circumferences</em>, <em>whether they stand at the centres or at the circumferences</em>. <pb n="57"/></p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be equal circles, and in them let there be equal angles, namely at the centres the angles <em>BGC</em>, <em>EHF</em>, and at the circumferences the angles <em>BAC</em>, <em>EDF</em>; I say that the circumference <em>BKC</em> is equal to the circumference <em>ELF</em>. 

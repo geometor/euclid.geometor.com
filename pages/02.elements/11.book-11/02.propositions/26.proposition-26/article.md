@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 26.</h1>
 <p><span class="ital">On a given straight line, and at a given point on it</span>, <span class="ital">to construct a solid angle equal to a given solid angle.</span>
       </p>
 

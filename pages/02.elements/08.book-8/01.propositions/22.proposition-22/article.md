@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 22.</h1>
 <p>
        <span class="ital">If three numbers be in continued proportion, and the first be square, the third will also be square.</span>
       </p>

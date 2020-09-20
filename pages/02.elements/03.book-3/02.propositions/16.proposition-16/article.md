@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p><em>The straight line drawn at right angles to the diameter of a circle from its extremity will fall outside the circle</em>, <em>and into the space between the straight line and the circumference another straight line cannot be interposed; further the angle of the semicircle is greater</em>, <em>and the remaining angle less</em>, <em>than any acute rectilineal angle</em>. </p>
 
 <p>Let <em>ABC</em> be a circle about <em>D</em> as centre and <em>AB</em> as diameter; <pb n="38"/>I say that the straight line drawn from <em>A</em> at right angles to <em>AB</em> from its extremity will fall outside the circle. </p>

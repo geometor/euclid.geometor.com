@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 11.</h1>
 <p><span class="ital">If four magnitudes be proportional, and the first be commensurable with the second, the third will also be commensurable with the fourth; and, if the first be incommensurable with the second, the third will also be incommensurable with the fourth</span>. </p>
 
 <p>Let <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span>, <span class="ital">D</span> be four magnitudes in proportion, so that, as <span class="ital">A</span> is to <span class="ital">B</span>, so is <span class="ital">C</span> to <span class="ital">D</span>, and let <span class="ital">A</span> be commensurable with <span class="ital">B</span>;  I say that <span class="ital">C</span> will also be commensurable with <span class="ital">D</span>. </p>

@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 14.</h1>
 <p><span class="ital">To construct an octahedron and comprehend it in a sphere</span>, <span class="ital">as in the preceding case</span>; <span class="ital">and to prove that the square on the diameter of the sphere is double of the square on the side of the octahedron.</span>
       </p>
 

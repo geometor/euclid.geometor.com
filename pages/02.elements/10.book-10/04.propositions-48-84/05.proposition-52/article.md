@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 52.</h1>
 <p><span class="ital">To find the fifth binomial straight line</span>. </p>
 
 <p>Let two numbers <span class="ital">AC</span>, <span class="ital">CB</span> be set out such that <span class="ital">AB</span> has not to either of them the ratio which a square number has to a square number; let any rational straight line <span class="ital">D</span> be set out, <pb n="111"/>and let <span class="ital">EF</span> be commensurable with <span class="ital">D</span>; therefore <span class="ital">EF</span> is rational. </p>

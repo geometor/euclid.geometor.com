@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>7</h1>
 <p>A straight line is said to be <span class="bold">fitted into a circle</span> when its extremities are on the circumference of the circle.</p>

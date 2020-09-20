@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 17.</h1>
 <p>
        <span class="ital">If a number by multiplying two numbers make certain numbers, the numbers so produced will have the same ratio as the numbers multiplied.</span>
       </p>

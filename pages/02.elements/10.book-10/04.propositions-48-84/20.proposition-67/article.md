@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 67.</h1>
 <p><span class="ital">A straight line commensurable in length with a bimedial straight line is itself also bimedial and the same in order</span>. </p>
 
 <p>Let <span class="ital">AB</span> be bimedial, and let <span class="ital">CD</span> be commensurable in length with <span class="ital">AB</span>; I say that <span class="ital">CD</span> is bimedial and the same in order with <span class="ital">AB</span>. 

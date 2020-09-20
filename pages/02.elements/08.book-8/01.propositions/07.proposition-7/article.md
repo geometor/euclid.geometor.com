@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 7.</h1>
 <p>
        <span class="ital">If there be as many numbers as we please in continued proportion, and the first measure the last, it will measure the second also.</span>
       </p>

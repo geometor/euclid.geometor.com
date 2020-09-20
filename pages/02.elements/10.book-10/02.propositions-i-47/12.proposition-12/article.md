@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 12.</h1>
 <p><span class="ital">Magnitudes commensurable with the same magnitude are commensurable with one another also</span>. </p>
 
 <p>For let each of the magnitudes <span class="ital">A</span>, <span class="ital">B</span> be commensurable with <span class="ital">C</span>; I say that <span class="ital">A</span> is also commensurable with <span class="ital">B</span>. 

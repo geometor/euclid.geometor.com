@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 79</h1>
 <p><span class="ital">To an apotome only one rational straight line can be annexed which is commensurable with the whole in square only</span>. </p>
 
 <p>Let <span class="ital">AB</span> be an apotome, and <span class="ital">BC</span> an annex to it; therefore <span class="ital">AC</span>, <span class="ital">CB</span> are rational straight lines commensurable in square only. [<a href="/elem.10.73">X. 73</a>] 

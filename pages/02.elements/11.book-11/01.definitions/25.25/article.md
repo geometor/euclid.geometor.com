@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>25</h1>
 <p>A <span class="bold">cube</span> is a solid figure contained by six equal squares.</p>

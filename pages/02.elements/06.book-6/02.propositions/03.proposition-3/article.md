@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p><em>If an angle of a triangle be bisected and the straight line cutting the angle cut the base also</em>, <em>the segments of the base will have the same ratio as the remaining sides of the triangle; and</em>, <em>if the segments of the base have the same ratio as the <pb n="196"/>remaining sides of the triangle</em>, <em>the straight line joined from the vertex to the point of section will bisect the angle of the triangle</em>. </p>
 
 <p>Let <em>ABC</em> be a triangle, and let the angle <em>BAC</em> be bisected by the straight line <em>AD</em>; I say that, as <em>BD</em> is to <em>CD</em>, so is <em>BA</em> to <em>AC</em>. </p>

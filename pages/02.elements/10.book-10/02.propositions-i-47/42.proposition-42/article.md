@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 42.</h1>
 <p>A binomial straight line is divded into its terms at one point only.</p>
 
 <p>Let <span class="ital">AB</span> be a binomial straight line divded into its terms at <span class="ital">C</span>; therefore <span class="ital">AC</span>, <span class="ital">CB</span> are rational straight lines commensurable in square only. [<a href="/elem.10.36">X. 36</a>

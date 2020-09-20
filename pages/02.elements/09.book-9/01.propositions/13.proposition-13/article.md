@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p><span class="ital">If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be prime, the greatest will not be measured by any except those which have a place among the proportional numbers</span>. </p>
 
 <p>Let there be as many numbers as we please, <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span>, <span class="ital">D</span>, beginning from an unit and in continued proportion, and let <span class="ital">A</span>, the number after the unit, be prime; I say that <span class="ital">D</span>, the greatest of them, will not be measured by any other number except <span class="ital">A</span>, <span class="ital">B</span>, <span class="ital">C</span>. 

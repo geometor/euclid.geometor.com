@@ -23,9 +23,8 @@ taxonomy:
     - 
 ---
 
-<p><hi rend="bold">Circles</hi> are said to <hi rend="bold">touch one another</hi> which, meeting one another, do not cut one another.</p>
+<hi rend="bold">Circles</hi> are said to <hi rend="bold">touch one another</hi> which, meeting one another, do not cut one another.
 
 ===
 
-<h1>3</h1>
-<p><span class="bold">Circles</span> are said to <span class="bold">touch one another</span> which, meeting one another, do not cut one another.</p>
+<span class="bold">Circles</span> are said to <span class="bold">touch one another</span> which, meeting one another, do not cut one another.

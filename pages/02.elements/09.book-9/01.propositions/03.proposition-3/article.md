@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 3.</h1>
 <p>
        <span class="ital">If a cube number by multiplying itself make some number, the product will be cube.</span>
       </p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 28.</h1>
 <p><em>In equal circles equal straight lines cut off equal circumferences</em>, <em>the greater equal to the greater and the less to the less</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DEF</em> be equal circles, and in the circles let <em>AB</em>, <em>DE</em> be equal straight lines cutting off <em>ACB</em>, <em>DFE</em> as greater circumferences and <em>AGB</em>, <em>DHE</em> as lesser; I say that the greater circumference <em>ACB</em> is equal to the greater circumference <em>DFE</em>, and the less circumference <em>AGB</em> to <em>DHE</em>. 

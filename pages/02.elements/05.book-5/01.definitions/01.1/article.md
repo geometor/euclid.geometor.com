@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>1</h1>
 <p>A magnitude is a <span class="bold">part</span> of a magnitude, the less of the greater, when it measures the greater.</p>

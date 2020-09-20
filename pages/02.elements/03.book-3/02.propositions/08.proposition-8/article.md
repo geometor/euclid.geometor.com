@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 8.</h1>
 <p><em>If a point be taken outside a circle and from the point straight lines be drawn through to the circle</em>, <em>one of which is through the centre and the others are drawn at random</em>, <em>then</em>, <em>of the straight lines which fall on the concave circumference</em>, <em>that through the centre is greatest</em>, <em>while of the rest</em>
        <pb n="18"/><em>the nearer to that through the centre is always greater than the more remote</em>, <em>but</em>, <em>of the straight lines falling on the convex circumference</em>, <em>that between the point and the diameter is least</em>, <em>while of the rest the nearer to the least is always less than the more remote</em>, <em>and only two equal straight lines will fall on the circle from the point</em>, <em>one on each side of the least</em>. </p>
 

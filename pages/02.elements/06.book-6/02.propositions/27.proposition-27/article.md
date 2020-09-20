@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="257"/><h1>PROPOSITION 27.</h1>
 <p><em>Of all the parallelograms applied to the same straight line and deficient by parallelogrammic figures similar and similarly situated to that described on the half of the straight line</em>, <em>that parallelogram is greatest which is applied to the half of the straight line and is similar to the defect</em>. </p>
 
 <p>Let <em>AB</em> be a straight line and let it be bisected at <em>C</em>; let there be applied to the straight line <em>AB</em> the parallelogram <em>AD</em> deficient by the parallelogrammic figure <em>DB</em> described on the half of <em>AB</em>, that is, <em>CB</em>;  I say that, of all the parallelograms applied to <em>AB</em> and deficient by parallelogrammic figures similar and similarly situated to <em>DB</em>, <em>AD</em> is greatest. </p>

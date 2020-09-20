@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 18.</h1>
 <p>
        <span class="ital">Given two numbers, to investigate whether it is possible to find a third proportional to them.</span>
       </p>

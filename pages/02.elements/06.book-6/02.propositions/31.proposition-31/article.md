@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 31.</h1>
 <p><em>In right</em>-<em>angled triangles the figure on the side subtending the right angle is equal to the similar and similarly described figures on the sides containing the right angle</em>. </p>
 
 <p>Let <em>ABC</em> be a right-angled triangle having the angle <em>BAC</em> right; I say that the figure on <em>BC</em> is equal to the similar and similarly described figures on <em>BA</em>, <em>AC</em>. </p>

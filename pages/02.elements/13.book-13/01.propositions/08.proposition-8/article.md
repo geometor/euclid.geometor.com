@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 8.</h1>
 <p><span class="ital">If in an equilateral and equiangular pentagon straight lines subtend two angles taken in order</span>, <span class="ital">they cut one another in extreme and mean ratio</span>, <span class="ital">and their greater segments are equal to the side of the pentagon.</span>
       </p>
 

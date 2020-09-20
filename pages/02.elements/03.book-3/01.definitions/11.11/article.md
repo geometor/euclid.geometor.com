@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>11</h1>
 <p><span class="bold">Similar segments of circles</span> are those which admit equal angles, or in which the angles are equal to one another.</p>

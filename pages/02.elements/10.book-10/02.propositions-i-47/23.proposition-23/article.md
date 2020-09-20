@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 23.</h1>
 <p><span class="ital">A straight line commensurable with a medial straight line is medial</span>. </p>
 
 <p>Let <span class="ital">A</span> be medial, and let <span class="ital">B</span> be commensurable with <span class="ital">A</span>; I say that <span class="ital">B</span> is also medial. </p>

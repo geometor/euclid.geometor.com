@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 35.</h1>
 <p>
        <span class="ital">If two numbers measure any number, the least number measured by them will also measure the same.</span>
       </p>

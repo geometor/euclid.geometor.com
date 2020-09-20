@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 21.</h1>
 <p><em>Figures which are similar to the same rectilineal figure are also similar to one another</em>. </p>
 
 <p>For let each of the rectilineal figures <em>A</em>, <em>B</em> be similar to <em>C</em>; I say that <em>A</em> is also similar to <em>B</em>. <pb n="240"/></p>

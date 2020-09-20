@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 43.</h1>
 <p><span class="ital">A first bimedial straight line is divded at one point only</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a first bimedial straight line divded at <span class="ital">C</span>, so that <span class="ital">AC</span>, <span class="ital">CB</span> are medial straight lines commensurable in square only and containing a rational rectangle;  I say that <span class="ital">AB</span> is not so divded at another point. </p>

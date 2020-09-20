@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 15.</h1>
 <p><em>Of straight lines in a circle the diameter is greatest</em>, <em>and of the rest the nearer to the centre is always greater than the more remote</em>. </p>
 
 <p>Let <em>ABCD</em> be a circle, let <em>AD</em> be its diameter and <em>E</em> the centre; and let <em>BC</em> be nearer to the diameter <em>AD</em>, and <em>FG</em> more remote; I say that <em>AD</em> is greatest and <em>BC</em> greater than <em>FG</em>. </p>

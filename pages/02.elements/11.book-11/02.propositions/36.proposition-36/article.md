@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 36.</h1>
 <p><span class="ital">If three straight lines be proportional</span>, <span class="ital">the parallelepipedal solid formed out of the three is equal to the parallelepipedal solid on the mean which is equilateral</span>, <span class="ital">but equiangular with the aforesaid solid.</span>
       </p>
 

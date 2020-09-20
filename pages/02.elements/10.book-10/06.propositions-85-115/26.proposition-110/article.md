@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 110.</h1>
 <p><span class="ital">If from a medial area there be subtracted a medial area incommensurable with the whole, the two remaining irrational straight lines arise, either a second apotome of a medial straight line or a straight line which produces with a medial area a medial whole</span>. </p>
 
 <p>For, as in the foregoing figures, let there be subtracted from the medial area <span class="ital">BC</span> the medial area <span class="ital">BD</span> incommensurable with the whole;  I say that the <quote>side</quote>

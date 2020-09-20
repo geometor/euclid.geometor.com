@@ -28,6 +28,5 @@ taxonomy:
 
 ===
 
-<h1>21</h1>
 <p>
        <span class="bold">Similar plane</span> and <span class="bold">solid</span> numbers are those which have their sides proportional.</p>

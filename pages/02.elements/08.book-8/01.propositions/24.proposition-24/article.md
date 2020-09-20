@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 24.</h1>
 <p>
        <span class="ital">If two numbers have to one another the ratio which a square number has to a square number, and the first be square, the second will also be square.</span>
       </p>

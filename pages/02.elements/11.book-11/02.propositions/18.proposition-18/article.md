@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 18.</h1>
 <p><span class="ital">If a straight line be at right angles to any plane</span>, <span class="ital">all the planes through it will also be at right angles to the same plane.</span>
       </p>
 

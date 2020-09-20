@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 113.</h1>
 <p><span class="ital">The square on a rational straight line, if applied to an apotome, produces as, breadth the binomial straight line the terms of which are commensurable with the terms of the apotome and in the same ratio; and further the binomial so arising has the same order as the apotome</span>. </p>
 
 <p>Let <span class="ital">A</span> be a rational straight line and <span class="ital">BD</span> an apotome, and let the rectangle <span class="ital">BD</span>, <span class="ital">KH</span> be equal to the square on <span class="ital">A</span>, so that the square on the rational straight line <span class="ital">A</span> when applied to the apotome <span class="ital">BD</span> produces <span class="ital">KH</span> as breadth; I say that <span class="ital">KH</span> is a binomial straight line the terms of which are commensurable with the terms of <span class="ital">BD</span> and in the same ratio; and further <span class="ital">KH</span> has the same order as <span class="ital">BD</span>. 

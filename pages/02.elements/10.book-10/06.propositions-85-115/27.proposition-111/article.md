@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 111.</h1>
 <p><span class="ital">The apotome is not the same with the binomial straight line</span>. </p>
 
 <p>Let <span class="ital">AB</span> be an apotome; I say that <span class="ital">AB</span> is not the same with the binomial straight line. 

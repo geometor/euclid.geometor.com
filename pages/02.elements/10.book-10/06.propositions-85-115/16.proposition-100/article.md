@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 100.</h1>
 <p>
        <span class="ital">The square on a minor straight line applied to a rational straight line produces as breadth a fourth apotome.</span>
       </p>

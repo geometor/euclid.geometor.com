@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 32.</h1>
 <p><em>If two triangles having two sides proportional to two sides be placed together at one angle so that their corresponding sides are also parallel, the remaining sides of the triangles will be in a straight line</em>. </p>
 
 <p>Let <em>ABC</em>, <em>DCE</em> be two triangles having the two sides <em>BA</em>, <em>AC</em> proportional to the two sides <em>DC</em>, <em>DE</em>, so that, as <em>AB</em> is to <em>AC</em>, so is <em>DC</em> to <em>DE</em>, and <em>AB</em> parallel to <em>DC</em>, and <em>AC</em> to <em>DE</em>; I say that <em>BC</em> is in a straight line with <em>CE</em>. <pb n="271"/></p>

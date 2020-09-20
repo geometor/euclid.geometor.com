@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>18</h1>
 <p> A <span class="bold">square number</span> is equal multiplied by equal, or a number which is contained by two equal numbers.</p>

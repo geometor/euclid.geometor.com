@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 24.</h1>
 <p><em>Similar segments of circles on equal straight lines are equal to one another</em>. </p>
 
 <p>For let <em>AEB</em>, <em>CFD</em> be similar segments of circles on equal straight lines <em>AB</em>, <em>CD</em>; <lb n="5"/>I say that the segment <em>AEB</em> is equal to the segment <em>CFD</em>. </p>

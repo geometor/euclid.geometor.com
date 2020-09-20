@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>7</h1>
 <p> An <span class="bold">odd number</span> is that which is not divsible into two equal parts, or that which differs by an unit from an even number.</p>

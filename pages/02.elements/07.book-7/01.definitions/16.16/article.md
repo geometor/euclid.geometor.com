@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>16</h1>
 <p> And, when two numbers having multiplied one another make some number, the number so produced is called <span class="bold">plane,</span> and its <span class="bold">sides</span> are the numbers which have multiplied one another.</p>

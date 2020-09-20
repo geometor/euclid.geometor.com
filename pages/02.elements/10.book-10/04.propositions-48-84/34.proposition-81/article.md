@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 81.</h1>
 <p><span class="ital">To a second apotome of a medial straight line only one medial straight line can be annexed which is commensurable with the whole in square only and which contains with the whole a medial rectangle</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a second apotome of a medial straight line and <span class="ital">BC</span> an annex to <span class="ital">AB</span>; therefore <span class="ital">AC</span>, <span class="ital">CB</span> are medial straight lines commensurable in square only and such that the rectangle <span class="ital">AC</span>, <span class="ital">CB</span> which they contain is medial. [<a href="/elem.10.75">X. 75</a>] 

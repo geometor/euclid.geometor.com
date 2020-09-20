@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>12</h1>
 <p> Numbers <span class="bold">prime to one another</span> are those which are measured by an unit alone as a common measure.</p>

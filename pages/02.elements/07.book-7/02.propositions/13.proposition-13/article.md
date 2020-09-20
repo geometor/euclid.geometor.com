@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 13.</h1>
 <p>
        <span class="ital">If four numbers be proportional, they will also be proportional alternately.</span>
       </p>

@@ -23,9 +23,8 @@ taxonomy:
     - 
 ---
 
-<p>A sector of a circle is the figure which, when an angle is constructed at the centre of the circle, is contained by the straight lines containing the angle and the circumference cut off by them.</p>
+A sector of a circle is the figure which, when an angle is constructed at the centre of the circle, is contained by the straight lines containing the angle and the circumference cut off by them.
 
 ===
 
-<h1>10</h1><pb n="2"/>
-<p>A sector of a circle is the figure which, when an angle is constructed at the centre of the circle, is contained by the straight lines containing the angle and the circumference cut off by them.</p>
+A sector of a circle is the figure which, when an angle is constructed at the centre of the circle, is contained by the straight lines containing the angle and the circumference cut off by them.

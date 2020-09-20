@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>5</h1>
 <p>And that straight line is said to be <span class="bold">at a greater distance</span> on which the greater perpendicular falls.</p>

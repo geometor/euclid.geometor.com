@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 9.</h1>
 <p><em>From a given straight line to cut off a prescribed part</em>. </p>
 
 <p>Let <em>AB</em> be the given straight line; thus it is required to cut off from <em>AB</em> a prescribed part. <pb n="212"/></p>

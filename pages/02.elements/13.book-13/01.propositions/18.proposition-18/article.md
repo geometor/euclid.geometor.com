@@ -23,7 +23,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 18.</h1>
 <p>
        <span class="ital">To set out the sides of the five figures and to compare them with one another.</span>
       </p>

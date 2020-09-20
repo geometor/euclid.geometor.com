@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 17.</h1>
 <p><span class="ital">Given two spheres about the same centre</span>, <span class="ital">to inscribe in the greater sphere a polyhedral solid which does not touch the lesser sphere at its surface.</span>
       </p>
 

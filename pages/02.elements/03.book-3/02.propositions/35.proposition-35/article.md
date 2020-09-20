@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 35.</h1>
 <p><em>If in a circle two straight lines cut one another</em>, <em>the rectangle contained by the segments of the one is equal to the rectangle contained by the segments of the other</em>. </p>
 
 <p>For in the circle <em>ABCD</em> let the two straight lines <em>AC</em>, <em>BD</em> cut one another at the point <em>E</em>; I say that the rectangle contained by <em>AE</em>, <em>EC</em> is equal to the rectangle contained by <em>DE</em>, <em>EB</em>. 

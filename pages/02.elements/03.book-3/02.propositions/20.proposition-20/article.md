@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 20.</h1>
 <p><em>In a circle the angle at the centre is double of the angle at the circumference</em>, <em>when the angles have the same circumference as base</em>. </p>
 
 <p>Let <em>ABC</em> be a circle, let the angle <em>BEC</em> be an angle <lb n="5"/>at its centre, and the angle <em>BAC</em> an angle at the circumference, and let them have the same circumference <em>BC</em> as base; I say that the angle <em>BEC</em> is double of <lb n="10"/>the angle <em>BAC</em>. 

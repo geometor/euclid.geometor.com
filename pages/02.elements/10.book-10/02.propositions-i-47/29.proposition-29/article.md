@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 29.</h1>
 <p><span class="ital">To find two rational straight lines commensurable in square only and such that the square on the greater is greater than the square on the less by the square on a straight line commensurable in length with the greater</span>. </p>
 
 <p>For let there be set out any rational straight line <span class="ital">AB</span>, and two square numbers <span class="ital">CD</span>, <span class="ital">DE</span> such that their difference <span class="ital">CE</span> is not square; [<a href="/elem.10.28.l.1">Lemma 1</a>] let there be described on <span class="ital">AB</span> the semicircle <span class="ital">AFB</span>, <pb n="67"/>and let it be contrived that, <span class="center">as <span class="ital">DC</span> is to <span class="ital">CE</span>, so is the square on <span class="ital">BA</span> to the square on <span class="ital">AF</span>. [<a href="/elem.10.6.p.1">X. 6, Por.</a>]</span>

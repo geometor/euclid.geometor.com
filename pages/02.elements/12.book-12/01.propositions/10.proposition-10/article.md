@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 10.</h1>
 <p>
        <span class="ital">Any cone is a third part of the cylinder which has the same base with it and equal height.</span>
       </p>

@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 103.</h1>
 <p><span class="ital">A straight line commensurable in length with an apotome is an apotome and the same in order</span>. </p>
 
 <p>Let <span class="ital">AB</span> be an apotome, and let <span class="ital">CD</span> be commensurable in length with <span class="ital">AB</span>;  I say that <span class="ital">CD</span> is also an apotome and the same in order with <span class="ital">AB</span>. <pb n="230"/></p>

@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>9</h1>
 <p> An <span class="bold">even-times odd number</span> is that which is measured by an even number according to an odd number.</p>

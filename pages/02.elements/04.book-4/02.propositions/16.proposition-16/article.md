@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="110"/><h1>PROPOSITION 16.</h1>
 <p><em>In a given circle to inscribe a fifteen-angled figure which shall be both equilateral and equiangular</em>. </p>
 
 <p>Let <em>ABCD</em> be the given circle; thus it is required to inscribe in the circle <em>ABCD</em> a fifteenangled figure which shall be both equilateral and equiangular. 

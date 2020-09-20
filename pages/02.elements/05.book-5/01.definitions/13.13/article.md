@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>13</h1>
 <p><span class="bold">Inverse ratio</span> means taking the consequent as antecedent in relation to the antecedent as consequent.</p>

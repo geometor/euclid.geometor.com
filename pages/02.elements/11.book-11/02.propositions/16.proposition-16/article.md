@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p><span class="ital">If two parallel planes be cut by any plane</span>, <span class="ital">their common sections are parallel.</span>
       </p>
 

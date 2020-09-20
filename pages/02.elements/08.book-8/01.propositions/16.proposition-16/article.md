@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 16.</h1>
 <p>
        <span class="ital">If a square number do not measure a square number, neither will the side measure the side; and, if the side do not measure the side, neither will the square measure the square.</span>
       </p>

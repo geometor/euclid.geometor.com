@@ -28,7 +28,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 39.</h1>
 <p><span class="ital">If two straight lines incommensurable in square which make the sum of the squares on them rational, but the rectangle contained by them medial, be added together, the whole straight line is irrational : and let it be called</span>
        <span class="bold">major</span>. <pb n="88"/></p>
 

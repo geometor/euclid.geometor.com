@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 69.</h1>
 <p><span class="ital">A straight line commensurable with the side of a rational plus a medial area is itself also the side of a rational plus a medial area</span>. </p>
 
 <p>Let <span class="ital">AB</span> be the side of a rational plus a medial area, and let <span class="ital">CD</span> be commensurable with <span class="ital">AB</span>; it is to be proved that <span class="ital">CD</span> is also the side of a rational plus a medial area. </p>

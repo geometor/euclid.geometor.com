@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 19.</h1>
 <p>
        <span class="ital">Given three numbers, to investigate when it is possible to find a fourth proportional to them.</span>
       </p>

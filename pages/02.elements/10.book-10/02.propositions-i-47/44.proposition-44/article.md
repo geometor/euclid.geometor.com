@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 44.</h1>
 <p><span class="ital">A second bimedial straight line is divded at one point only</span>. </p>
 
 <p>Let <span class="ital">AB</span> be a second bimedial straight line divded at <span class="ital">C</span>, so that <span class="ital">AC</span>, <span class="ital">CB</span> are medial straight lines commensurable in square only and containing a medial rectangle; [<a href="/elem.10.38">X. 38</a>

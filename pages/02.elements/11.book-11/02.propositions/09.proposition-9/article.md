@@ -29,7 +29,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 9.</h1>
 <p>
        <span class="ital">Straight lines which are parallel to the same straight line and are not in the same plane with it are also parallel to one another.</span>
       </p>

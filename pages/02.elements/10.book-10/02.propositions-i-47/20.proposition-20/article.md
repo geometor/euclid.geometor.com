@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<pb n="49"/><h1>PROPOSITION 20.</h1>
 <p><span class="ital">If a rational area be applied to a rational straight line, it produces as breadth a straight line rational and commensurable in length with the straight line to which it is applied</span>. </p>
 
 <p>For let the rational area <span class="ital">AC</span> be applied to <span class="ital">AB</span>, a straight line once more rational in any of the aforesaid ways, producing <span class="ital">BC</span> as breadth; I say that <span class="ital">BC</span> is rational and commensurable in length with <span class="ital">BA</span>. For on <span class="ital">AB</span> let the square <span class="ital">AD</span> be described; therefore <span class="ital">AD</span> is rational. [<a href="/elem.10.def.4">X. Def. 4</a>] 

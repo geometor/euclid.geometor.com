@@ -27,5 +27,4 @@ taxonomy:
 
 ===
 
-<h1>3</h1><pb n="114"/>
 <p>A <span class="bold">ratio</span> is a sort of relation in respect of size between two magnitudes of the same kind.</p>

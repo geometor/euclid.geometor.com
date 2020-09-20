@@ -27,7 +27,6 @@ taxonomy:
 
 ===
 
-<h1>PROPOSITION 31.</h1>
 <p><em>In a circle the angle in the semicircle is right</em>, <em>that in a greater segment less than a right angle</em>, <em>and that in a less segment greater than a right angle; and further the angle of the greater segment is greater than a right angle</em>, <em>and the angle of the less segment less than a right angle</em>. <pb n="62"/></p>
 
 <p>Let <em>ABCD</em> be a circle, let <em>BC</em> be its diameter, and <em>E</em> its centre, and let <em>BA</em>, <em>AC</em>, <em>AD</em>, <em>DC</em> be joined; I say that the angle <em>BAC</em> in the semicircle <em>BAC</em> is right, the angle <em>ABC</em> in the segment <em>ABC</em> greater than the semicircle is less  than a right angle, and the angle <em>ADC</em> in the segment <em>ADC</em> less than the semicircle is greater than a right angle. </p>
