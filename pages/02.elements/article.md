@@ -10,6 +10,8 @@ taxonomy:
         - showcase
 ---
 
+This digital reference of Euclid's Elements is assembled from several English translations from over 100 years ago that are now in the public domain. The purpose of this project is to facilitate research and study of the dense information of the 13 books through intelligent navigation, robust taxonomies and comprehensive search. 
+
 
 ===
 
