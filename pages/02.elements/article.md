@@ -4,18 +4,19 @@ subtitle: 13 Books of Euclid
 content:
   title: Books
   items: '@self.children'
-child_type: article
 taxonomy:
     photon:
         - header
+        - showcase
 ---
 
-- Heath edition from Perseus project
 
 ===
 
-- Book Subtitles taken from Heiberg edition
+- Majority of text from 1908 Heath edition from Perseus project
 
-- Book Summary taken from Casey Edition
+- Book subtitles taken from 1885 Heiberg edition
+
+- Book summary and graphics taken from 1885 Casey Edition
 
 - Element subtitles by Phi

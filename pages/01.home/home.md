@@ -4,6 +4,9 @@ subtitle: A GEOMETOR project
 content:
     items: '@root.children'
 menu: Home
+taxonomy:
+    photon:
+        - showcase
 ---
 
 - Building a data structure for Euclid's Elements
