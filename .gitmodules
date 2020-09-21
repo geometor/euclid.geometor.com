@@ -46,3 +46,6 @@
 [submodule "plugins/photon-book"]
 	path = plugins/photon-book
 	url = https://github.com/photon-platform/grav-plugin-photon-book.git
+[submodule "plugins/photon-post"]
+	path = plugins/photon-post
+	url = https://github.com/photon-platform/grav-plugin-photon-post.git
