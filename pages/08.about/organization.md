@@ -6,9 +6,8 @@ content:
     items: '@self.children'
     pagination: true
     limit: 10
-child_type: article
 taxonomy:
-  tag: showcase
+    photon: 
 ---
 
 - Everything about us

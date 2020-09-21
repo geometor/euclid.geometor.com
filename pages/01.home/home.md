@@ -1,17 +1,21 @@
 ---
-title: Welcome
-subtitle: 'photon ✴ Starter Site'
-author: /home
+title: Euclid's Elements
+subtitle: A GEOMETOR project
 content:
     items: '@root.children'
-child_type: article
 menu: Home
 ---
 
-- This is a starter skeleton for the<br>photon ✴ PLATFORM
-
+- Building a data structure for Euclid's Elements
+- Integrating Taxonomies
+- Expressing Reference Graphs
+- Publish to print and ebook
 
 ===
 
-You can find instructions for setup up this site on the github repo:
-https://github.com/photon-platform/photon
+Euclid is the first major reference on what we commonly call the golden ratio today.
+
+Howver, he referred to it as the "extreme and mean ratio"
+
+Key references are in the featured panel on this page. 
+

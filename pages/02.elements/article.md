@@ -1,11 +1,8 @@
 ---
 title: Elements
 subtitle: 13 Books of Euclid
-collection:
-  name: Books
-  showCount: true
-  showMenu: true
 content:
+  title: Books
   items: '@self.children'
 child_type: article
 taxonomy:

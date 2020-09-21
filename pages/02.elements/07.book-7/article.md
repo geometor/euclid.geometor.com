@@ -2,20 +2,12 @@
 title:  Book 7
 subtitle: Elementary Number Theory
 author:
-routes:
-  aliases:
-    - /elem.7
-collection:
-  name: sections
-  showCount: true
-  showMenu: true
 content:
+  title: sections
   items: '@self.children'
-child_type: article
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 

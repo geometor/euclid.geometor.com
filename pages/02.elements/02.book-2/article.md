@@ -5,13 +5,9 @@ author:
 routes:
   aliases:
     - /elem.2
-collection:
-  name: sections
-  showCount: true
-  showMenu: true
 content:
+  title: sections
   items: '@self.children'
-child_type: article
 figure:
   image:
   alt:

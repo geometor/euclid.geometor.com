@@ -1,4 +1,5 @@
 ---
+published: false
 title: Calendar
 subtitle: 'Meetings, activities and events'
 content:
