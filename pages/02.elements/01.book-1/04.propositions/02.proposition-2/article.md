@@ -17,11 +17,11 @@ To place at a given point (as an extremity) a straight line equal to a given str
 
 Let `A` be the given point, and `BC` the given straight line.
 
-Thus it is required to place at the point `A` (as an extremity) a straight line equal to the given straight line `BC`. 
+Thus it is required to place at the point `A` (as an extremity)[^1] a straight line equal to the given straight line `BC`. 
 
 From the point `A` to the point `B` let the straight line `AB` be joined; [1.post.1] and on it let the equilateral triangle `DAB` be constructed. [1.1]
 
-Let the straight lines `AE`, `BF` be produced in a straight line with `DA`, `DB`; [1.post.2] with centre `B` and distance `BC` let the circle `CGH` be described; [1.post.3] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [1.post.3]
+Let the straight lines `AE`, `BF` be produced[^2] in a straight line with `DA`, `DB`; [1.post.2] with centre `B` and distance `BC` let the circle `CGH` be described; [1.post.3] and again, with centre `D` and distance `DG` let the circle `GKL` be described. [1.post.3]
 
 Then, since the point `B` is the centre of the circle `CGH`, 
 
@@ -33,7 +33,7 @@ Again, since the point `D` is the centre of the circle `GKL`,
 
 And in these `DA` is equal to `DB`; 
 
-- therefore the remainder `AL` is equal to the remainder `BG`. [1.c.n.3]
+- therefore the remainder `AL` is equal to the remainder `BG`[^3]. [1.c.n.3]
 
 But `BC` was also proved equal to `BG`; 
 

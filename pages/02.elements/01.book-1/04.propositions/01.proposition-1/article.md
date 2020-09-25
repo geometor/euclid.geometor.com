@@ -81,7 +81,7 @@ e1_1 --> e1_cn1
 
 [/references]
 
-## Footnotes {#footnotes}
+## Footnotes 
 
 [^1]: On a given finite straight line
     The Greek usage differs from ours in that the definite article is employed in such a phrase as this where we have the indefinite. <foreign lang="greek">ἐπὶ τῆς δοθείσης εὐθείας πεπερασμένης</foreign>, <quote>on <em>the</em> given finite straight line,</quote> i.e. the finite straight line which we choose to take.
