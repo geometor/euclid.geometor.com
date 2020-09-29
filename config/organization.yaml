@@ -5,5 +5,9 @@ twitter: phi_architect
 linkedin: phi-architect
 youtube: UCYzRQS16EBmsbKuyKMFHSFQ
 github: geometor
-owa_siteid: d1039be9b72f9820624ec26ad1c2722a
+owa:
+  siteId: d5c4021db353705e494d8f0bb5c6fa9d
+  trackPageView: true
+  trackCLicks: false
+  trackDomStream: false
 google_search: bYQ6W9XS6CPkwqqn-S3jJUoVhwgwF7U6YHQrWQlkwgE
