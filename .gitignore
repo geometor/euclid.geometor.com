@@ -1,8 +1,9 @@
-data/tntsearch
 accounts/*.yaml
+data/tntsearch
+data/notifications
 config/security.yaml
 */config/security.yaml
 
+node_modules
 *.swp
-.sass-cache
 tags
