@@ -1,9 +1,14 @@
 ---
 title: Euclid's Elements
 subtitle: A GEOMETOR project
-content:
-    items: '@root.children'
 menu: Home
+content:
+    title: 'Top Sections'
+    items: 
+        '@taxonomy.photon': header
+    order:
+        by: default
+        dir: asc
 taxonomy:
     photon:
         - showcase
