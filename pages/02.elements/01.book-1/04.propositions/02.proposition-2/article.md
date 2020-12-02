@@ -9,6 +9,7 @@ taxonomy:
   tag:
   category:
     - lines
+mermaid: true
 ---
 
 To place at a given point (as an extremity) a straight line equal to a given straight line.
@@ -47,7 +48,6 @@ Therefore at the given point `A` the straight line `AL` is placed equal to the g
 
 - (Being) what it was required to do.
 
-## References
 
 [1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
 [1.1]: /elem.1.1 "Book 1 - Proposition 1"
@@ -59,7 +59,7 @@ Therefore at the given point `A` the straight line `AL` is placed equal to the g
 
 
 
-[mermaid]
+[references]
 graph BT
 
 e1_2[1.2]
@@ -96,7 +96,7 @@ e1_2 --> e1_post2
 e1_2 --> e1_post3
 e1_2 --> e1_def15
 
-[/mermaid]
+[/references]
 
 ## Footnotes
 

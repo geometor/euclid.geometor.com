@@ -11,6 +11,7 @@ taxonomy:
     - construction
   category:
     - lines
+mermaid: true
 ---
 
 Given two unequal straight lines, to cut off from the greater a straight line equal to the less.
@@ -31,7 +32,6 @@ Therefore, given the two straight lines `AB`, `C`, from `AB` the greater `AE` ha
 
 - (Being) what it was required to do.
 
-## References
 
 [1.def.15]: /elem.1.def.15 "Book 1 - Definition 15"
 [1.2]: /elem.1.2 "Book 1 - Proposition 2"
@@ -39,7 +39,7 @@ Therefore, given the two straight lines `AB`, `C`, from `AB` the greater `AE` ha
 [1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
 
 
-[mermaid]
+[references]
 graph BT
 
 e1_3[1.3]
@@ -71,4 +71,4 @@ e1_3 --> e1_post3
 e1_3 --> e1_def15
 e1_3 --> e1_cn1
 
-[/mermaid]
+[/references]

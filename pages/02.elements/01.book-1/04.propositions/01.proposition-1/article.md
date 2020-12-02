@@ -16,6 +16,7 @@ taxonomy:
   category:
     - triangles
     - segments
+mermaid: true
 ---
 
 On a given finite straight line [^1] to construct an equilateral triangle.
