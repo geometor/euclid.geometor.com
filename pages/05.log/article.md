@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Log
 subtitle: Latest thoughts and announcements
 content:
   items: '@self.children'
