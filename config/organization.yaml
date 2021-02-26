@@ -1,10 +1,13 @@
-name: GEOMETOR
+name: GEOMETOR Euclid
 motto: exploring<br>the foundation of<br>logical relationships
-facebook: phiarchitect
-twitter: phi_architect
-linkedin: phiarchitect
-youtube: UCYzRQS16EBmsbKuyKMFHSFQ
-github: geometor
+logo: elem.1.prop.1.png
+email: phi@phiarchitect.com
+social:
+  facebook: phiarchitect
+  twitter: phi_architect
+  linkedin: phiarchitect
+  youtube: UCYzRQS16EBmsbKuyKMFHSFQ
+  github: geometor
 owa:
   siteId: d5c4021db353705e494d8f0bb5c6fa9d
   trackPageView: true
