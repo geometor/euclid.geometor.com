@@ -6,9 +6,10 @@ routes:
   aliases:
     - /elem.1.7
 taxonomy:
-  tag:
-  category:
-    -
+    tag:
+    category:
+gallery:
+    show: true
 ---
 
 Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each to that which has the same extremity with it.
