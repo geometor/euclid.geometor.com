@@ -1,6 +1,6 @@
 ---
-title: Euclid's Elements
-subtitle: A GEOMETOR project
+title: GEOMETOR Euclid
+subtitle: "restructuring Euclid's Elements into a dynamic, navigable information structure."
 menu: Home
 content:
     title: 'Top Sections'
