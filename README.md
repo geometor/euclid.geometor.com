@@ -1,24 +1,8 @@
-<a href="https://geometor.com/">
-<!-- http://www.geometor.com/images/8/2/6/d/5/826d5a6bb312853c43fa3cc69d15edb53e44be3a-logo2.png -->
-    <img src="https://geometor.com/images/logo2.png" alt="geometor" title="geometor" align="right" height="120" />
-</a>
-
 # Euclid's Elements
 
-**photon ✴** STARTER is a skeleton site for the [Grav CMS](https://getgrav.org), the templating engine for the **photon ✴ PLATFORM**.
-
-You can view a demo of this starter site at <https://starter.photon-platform.net>
-
-> The photon ✴ PLATFORM is an integrated suite of open source software and cloud-based systems for the development, publishing and management of content.
-
-for more about the **photon ✴ PLATFORM**, visit us at <https://photon-platform.net>
-
-Be sure to check out our video series on Youtube:
-[Introduction to photon PLATFORM](https://www.youtube.com/playlist?list=PLruFHGFsvC_yEkLoYGsBavfg8qmymMQOQ)
+## Recasting the classic work into a hierarchical set of instructions
 
 
-
-## About the photon ✴ PLATFORM
 
 <table id="signature"   cellspacing="0" cellpadding="0"   style="width: 100%;
     border: 0;
