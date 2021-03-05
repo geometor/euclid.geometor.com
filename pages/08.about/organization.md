@@ -1,11 +1,8 @@
 ---
 title: About
-subtitle: 'More on the Organization'
-author: /home
+subtitle: 'More on the people and mechanisms behind this project'
 content:
     items: '@self.children'
-    pagination: true
-    limit: 10
 taxonomy:
     photon: 
 ---

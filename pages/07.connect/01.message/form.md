@@ -30,6 +30,9 @@ form:
             type: textarea
             validate:
                 required: true
+        - 
+            name: confirmation
+            type: honeypot
     buttons:
         -
             type: submit
@@ -64,7 +67,6 @@ We are
 - interested in collaboration
 
 We look forward to hearing from you
-
 
 ===
 
