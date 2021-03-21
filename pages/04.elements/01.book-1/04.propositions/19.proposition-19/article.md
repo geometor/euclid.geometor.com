@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 In any triangle the greater angle is subtended by the greater side.

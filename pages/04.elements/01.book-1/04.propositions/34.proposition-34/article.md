@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 In parallelogrammic areasi [^1] the opposite sides and angles are equal to one another, and the diameter bisects the areas.

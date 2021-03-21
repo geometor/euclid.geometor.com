@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 In any triangle two angles taken together in any manner [^1] are less than two right angles.

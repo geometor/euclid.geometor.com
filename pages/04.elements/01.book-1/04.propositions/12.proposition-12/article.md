@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.[^1]

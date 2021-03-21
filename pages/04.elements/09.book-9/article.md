@@ -1,5 +1,5 @@
 ---
-title:  Book 9
+title: Book 9
 subtitle: Applications of Number Theory
 author:
 content:

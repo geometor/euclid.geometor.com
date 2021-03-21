@@ -1,5 +1,5 @@
 ---
-title:  Book 6
+title: Book 6
 subtitle: Similar Figures
 author:
 routes:

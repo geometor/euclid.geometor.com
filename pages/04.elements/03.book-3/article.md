@@ -1,5 +1,5 @@
 ---
-title:  Book 3
+title: Book 3
 subtitle: Fundamentals of Plane Geometry Involving Circles
 author:
 routes:

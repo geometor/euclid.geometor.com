@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 In any triangle, if one of the sides be produced, the exterior angle is equal to the two interior and opposite angles, and the three interior angles of the triangle are equal to two right angles.

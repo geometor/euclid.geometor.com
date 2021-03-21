@@ -6,9 +6,8 @@ routes:
   aliases:
     - /elem.2.8
 taxonomy:
-tag:
-category:
-    - 
+    tag:
+    category:
 ---
 
 If a straight line be cut at random, four times the rectangle contained by the whole and one of the segments together with the square on the remaining segment is equal to the square described on the whole and the aforesaid segment as on one straight line.

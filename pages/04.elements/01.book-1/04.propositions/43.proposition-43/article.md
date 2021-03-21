@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 In any parallelogram the complements [^1]  of the parallelograms about the diameter are equal to one another.

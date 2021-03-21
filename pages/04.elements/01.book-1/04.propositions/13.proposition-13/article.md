@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 If a straight line set up on a straight line make angles, it will make either two right angles or angles equal to two right angles.

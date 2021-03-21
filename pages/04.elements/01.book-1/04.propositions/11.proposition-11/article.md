@@ -6,9 +6,8 @@ routes:
 aliases:
   - /elem.1.11
 taxonomy:
-tag:
-category:
-  -
+    tag:
+    category:
 ---
 
 To draw a straight line at right angles to a given straight line from a given point on it.

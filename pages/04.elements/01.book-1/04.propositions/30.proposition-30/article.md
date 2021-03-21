@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 Straight lines parallel to the same straight line are also parallel to one another.

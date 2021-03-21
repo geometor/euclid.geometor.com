@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary [^2] that two of the straight lines taken together in any manner should be greater than the remaining one. [1.20] [^1] [^3]

@@ -1,5 +1,5 @@
 ---
-title:  Book 10
+title: Book 10
 subtitle: Incommensurable Magnitudes
 author:
 routes:

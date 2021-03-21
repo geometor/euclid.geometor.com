@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 If a straight line falling on two straight lines [^1] make the alternate angles [^2] equal to one another, the straight lines will be parallel to one another.

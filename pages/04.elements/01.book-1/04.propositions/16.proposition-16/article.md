@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 In any triangle, if one of the sides be produced, the exterior angle is greater than either of the interior and opposite angles.

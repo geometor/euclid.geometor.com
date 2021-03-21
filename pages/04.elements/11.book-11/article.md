@@ -1,5 +1,5 @@
 ---
-title:  Book 11
+title: Book 11
 subtitle: Elementary Stereometry
 author:
 routes:

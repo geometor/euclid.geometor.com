@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) [^1]  are themselves also equal and parallel.

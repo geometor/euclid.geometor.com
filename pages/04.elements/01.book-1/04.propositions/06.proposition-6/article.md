@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 If in a triangle two angles be equal to one another, the sides which subtend the equal angles will also be equal to one another.

@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 In any triangle two sides taken together in any manner are greater than the remaining one. [^1]

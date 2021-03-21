@@ -1,5 +1,5 @@
 ---
-title:  Book 2
+title: Book 2
 subtitle: Fundamentals of Geometric Algebra
 author:
 routes:

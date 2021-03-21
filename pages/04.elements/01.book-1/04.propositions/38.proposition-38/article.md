@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 Triangles which are on equal bases and in the same parallels are equal to one another.

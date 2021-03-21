@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 Through a given point to draw a straight line parallel to a given straight line.

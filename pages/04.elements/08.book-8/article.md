@@ -1,5 +1,5 @@
 ---
-title:  Book 8
+title: Book 8
 subtitle: Continued Proportion
 author:
 content:

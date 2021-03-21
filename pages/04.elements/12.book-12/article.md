@@ -1,5 +1,5 @@
 ---
-title:  Book 12
+title: Book 12
 subtitle: Proportional Stereometry
 author:
 routes:

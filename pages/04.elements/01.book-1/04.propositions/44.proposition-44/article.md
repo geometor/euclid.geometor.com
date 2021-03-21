@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 To a given straight line to apply, in a given rectilineal angle, a parallelogram equal to a given triangle.

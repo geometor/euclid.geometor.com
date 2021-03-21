@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    -
 ---
 
 To construct, in a given rectilineal angle, a parallelogram equal to a given triangle.

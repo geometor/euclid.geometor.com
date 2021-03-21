@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle,[^1] the straight lines so constructed [^2] will be less than the remaining two sides of the triangle, but will contain a greater angle.

@@ -6,9 +6,8 @@ routes:
 aliases:
   - /elem.1.15
 taxonomy:
-tag:
-category:
-  -
+    tag:
+    category:
 ---
 
 If two straight lines cut one another, they make the vertical angles [^1] equal to one another.

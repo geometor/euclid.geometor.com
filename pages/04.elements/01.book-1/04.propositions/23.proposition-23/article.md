@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 On a given straight line and at a point on it to construct a rectilineal angle equal to a given rectilineal angle.

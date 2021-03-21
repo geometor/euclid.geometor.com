@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 If a straight line be cut at random, the square on the whole and that on one of the segments both together are equal to twice the rectangle contained by the whole and the said segment and the square on the remaining segment.

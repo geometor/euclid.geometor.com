@@ -1,5 +1,5 @@
 ---
-title:  Book 7
+title: Book 7
 subtitle: Elementary Number Theory
 author:
 content:

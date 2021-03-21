@@ -8,7 +8,6 @@ routes:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 Equal triangles which are on equal bases and on the same side are also in the same parallels

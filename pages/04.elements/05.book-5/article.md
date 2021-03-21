@@ -1,5 +1,5 @@
 ---
-title:  Book 5
+title: Book 5
 subtitle: Proportion
 author:
 routes:

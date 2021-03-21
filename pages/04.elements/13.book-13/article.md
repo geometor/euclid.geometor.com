@@ -1,5 +1,5 @@
 ---
-title:  Book 13
+title: Book 13
 subtitle: The Platonic Solids
 author:
 routes:

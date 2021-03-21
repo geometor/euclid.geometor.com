@@ -6,9 +6,8 @@ routes:
 aliases:
   - /elem.1.39
 taxonomy:
-tag:
-category:
-  -
+    tag:
+    category:
 ---
 
 Equal triangles which are on the same base and on the same side are also in the same parallels.

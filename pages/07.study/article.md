@@ -1,6 +1,6 @@
 ---
 title: Study
-subtitle: Important People and References
+subtitle: important people and references to know more about
 date: 03/06/2021
 author: /phi
 content:
@@ -13,7 +13,7 @@ taxonomy:
     tag: 
 ---
 
-
+assembly of research related to the project
 
 ===
 

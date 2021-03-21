@@ -20,7 +20,6 @@ figure:
 taxonomy:
   tag:
   category:
-    - 
 ---
 
 <p>Any rectangular parallelogram is said to be <hi rend="bold">contained</hi> by the two straight lines containing the right angle.</p>
