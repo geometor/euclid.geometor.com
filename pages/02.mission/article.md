@@ -1,10 +1,9 @@
 ---
 title: Mission
-subtitle: Establish a framework for the study and codification of Euclid's Elements
+subtitle: establish a framework for the study and codification of Euclid's Elements
 date: 02/25/2021
-author: /phi
 content:
-    title: Articles
+    title: Goals
     items: '@self.children'
 taxonomy:
     photon:
