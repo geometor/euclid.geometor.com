@@ -2,7 +2,8 @@
 title: Log
 subtitle: Latest thoughts and announcements
 content:
-  items: '@self.children'
+    title: Posts
+    items: '@self.children'
 taxonomy:
     photon:
         - header

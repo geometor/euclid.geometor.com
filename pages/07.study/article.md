@@ -2,7 +2,6 @@
 title: Study
 subtitle: important people and references to know more about
 date: 03/06/2021
-author: /phi
 content:
     title: Articles
     items: '@self.children'
