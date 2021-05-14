@@ -9,6 +9,7 @@ social:
   youtube: UCYzRQS16EBmsbKuyKMFHSFQ
   github: geometor
 owa:
+  siteUrl: 'https://logs.geometor.com/'
   siteId: d5c4021db353705e494d8f0bb5c6fa9d
   trackPageView: true
   trackCLicks: false
