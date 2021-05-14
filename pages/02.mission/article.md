@@ -16,6 +16,12 @@ Recast Euclid's Elements into a state-of-the-art framework
 
 ===
 
+## Statement
+
+## Motivation
+
+## Motion
+
 - Navigation
 - Abstraction
 - Codification
