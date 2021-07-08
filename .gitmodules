@@ -52,3 +52,6 @@
 [submodule "plugins/photon-font-fira"]
 	path = plugins/photon-font-fira
 	url = https://github.com/photon-platform/grav-plugin-photon-font-fira.git
+[submodule "plugins/photon-font-ebgaramond"]
+	path = plugins/photon-font-ebgaramond
+	url = https://github.com/photon-platform/grav-plugin-photon-font-ebgaramond.git
