@@ -8,6 +8,8 @@ routes:
 taxonomy:
   tag:
   category:
+gallery:
+  show: true
 ---
 
 In right-angled triangles the square on [^1] the side subtending the right angle [^2] is equal to the squares on the sides containing the right angle.
