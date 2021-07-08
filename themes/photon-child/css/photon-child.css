@@ -94,6 +94,12 @@ article.excerpt .more {
   align-self: flex-end;
 }
 
+:root {
+  --font: "EBG12";
+  --font-display: "EBG12";
+  --bullet: "✴";
+}
+
 body {
   font-size: 1.2em;
 }
@@ -102,6 +108,38 @@ body > header {
 }
 body > .asides {
   --color-bg: none;
+}
+
+article > .content > * + * {
+  margin: 0;
+}
+article > .content > p {
+  text-indent: 1em;
+}
+article > .content > p:first-child::first-letter {
+  font-size: 1.5em;
+}
+article > .content > ul {
+  margin: var(--fitz) var(--fitz-2);
+}
+article > .content > .summary {
+  border: none;
+  padding: var(--fitz) var(--fitz-2);
+  margin: 0;
+}
+
+code {
+  font-family: "EBG12";
+  font-style: italic;
+  font-weight: 700;
+}
+
+.footnotes {
+  font-family: "EBG08";
+  font-size: 0.8em;
+}
+.footnotes p::first-line {
+  font-family: "EBG08-SC";
 }
 
 /*# sourceMappingURL=photon-child.css.map */

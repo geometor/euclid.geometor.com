@@ -5,6 +5,12 @@
 @import 'articles/article-showcase';
 
 
+:root {
+  --font: "EBG12";
+  --font-display: "EBG12";
+
+  --bullet: '✴';
+}
 
 body {
   // --bg: #FFF;
@@ -24,5 +30,39 @@ body {
     // flex-direction: row;
     // justify-content: space-around;
     // align-items: flex-start;
+  }
+}
+
+article > .content {
+  > * + * {
+    margin: 0;
+  }
+  > p {
+    text-indent: 1em;
+    &:first-child::first-letter {
+      font-size: 1.5em;
+    }
+  }
+  > ul {
+    margin: var(--fitz) var(--fitz-2);
+  }
+  > .summary {
+    border: none;
+    padding: var(--fitz) var(--fitz-2);
+    margin: 0;
+  }
+}
+
+code {
+  font-family: "EBG12";
+  font-style: italic;
+  font-weight: 700;
+}
+
+.footnotes {
+  font-family: "EBG08";
+  font-size: .8em;
+  p::first-line {
+    font-family: "EBG08-SC";
   }
 }
