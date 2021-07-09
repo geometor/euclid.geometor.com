@@ -33,30 +33,38 @@ body {
   }
 }
 
-article > .content {
-  > * + * {
-    margin: 0;
+article {
+  > figure.modal {
+    background: white;
   }
-  > p {
-    text-indent: 1em;
-    &:first-child::first-letter {
-      font-size: 1.5em;
+  > .gallery.modal {
+    background: white;
+  }
+  > .content {
+    > * + * {
+      margin: 0;
     }
-  }
-  > ul {
-    margin: var(--fitz) var(--fitz-2);
-  }
-  > .summary {
-    border: none;
-    padding: var(--fitz) var(--fitz-2);
-    margin: 0;
+    > p {
+      text-indent: 1em;
+      &:first-child::first-letter {
+        font-size: 1.5em;
+      }
+    }
+    > ul {
+      margin: var(--fitz) var(--fitz-2);
+    }
+    > .summary {
+      border: none;
+      padding: var(--fitz) var(--fitz-2);
+      margin: 0;
+    }
   }
 }
 
 code {
   font-family: "EBG12";
   font-style: italic;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .footnotes {

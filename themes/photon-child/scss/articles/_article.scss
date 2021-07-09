@@ -73,7 +73,7 @@ article {
       text-align: center;
       font-style: italic;
 
-      &::before, &::after {
+      &::after {
         content: '•';
       }
 

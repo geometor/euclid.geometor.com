@@ -24,7 +24,7 @@ article > .content > .summary {
   text-align: center;
   font-style: italic;
 }
-article > .content > .summary::before, article > .content > .summary::after {
+article > .content > .summary::after {
   content: "•";
 }
 article > .content > .summary > * {
@@ -110,6 +110,12 @@ body > .asides {
   --color-bg: none;
 }
 
+article > figure.modal {
+  background: white;
+}
+article > .gallery.modal {
+  background: white;
+}
 article > .content > * + * {
   margin: 0;
 }
@@ -131,7 +137,7 @@ article > .content > .summary {
 code {
   font-family: "EBG12";
   font-style: italic;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .footnotes {
