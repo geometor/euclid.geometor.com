@@ -55,7 +55,7 @@ Therefore the triangle `ABC` is equilateral; and it has been constructed on the 
 [1.c.n.1]: /elem.1.c.n.1 "Book 1 - Common Notion 1"
 
 [references]
-graph BT
+graph LR
 
 e1_1[1.1]:::post;
 
