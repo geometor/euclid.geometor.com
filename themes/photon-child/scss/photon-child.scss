@@ -69,7 +69,12 @@ code {
 
 .footnotes {
   font-family: "EBG08";
-  font-size: .8em;
+  code {
+    font-family: "EBG08";
+  }
+  ol > ol {
+    margin: 1em;
+  }
   p::first-line {
     font-family: "EBG08-SC";
   }

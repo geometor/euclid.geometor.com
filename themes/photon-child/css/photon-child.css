@@ -10,6 +10,12 @@ article > figure > img {
 article > figure:empty {
   display: none;
 }
+article > header {
+  text-align: center;
+}
+article > header > h1, article > header > h2 {
+  font-weight: 400;
+}
 article > header > time {
   display: none;
 }
@@ -60,13 +66,13 @@ article > .content .mermaid .node {
   cursor: pointer;
 }
 article > .content .mermaid .node .prop {
-  fill: #e0e8eb;
+  fill: white;
 }
 article > .content .mermaid .node .def {
   fill: #e8e0eb;
 }
 article > .content .mermaid .node .post {
-  fill: #ebe8e0;
+  fill: white;
 }
 article > .content .mermaid .node .cn {
   fill: #e8ebe0;
@@ -142,7 +148,12 @@ code {
 
 .footnotes {
   font-family: "EBG08";
-  font-size: 0.8em;
+}
+.footnotes code {
+  font-family: "EBG08";
+}
+.footnotes ol > ol {
+  margin: 1em;
 }
 .footnotes p::first-line {
   font-family: "EBG08-SC";
