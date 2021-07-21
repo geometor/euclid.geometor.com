@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.10
+title:  Definition I.10
 subtitle: Right (Perpendicular) Angle
 author:
 routes:
   aliases:
     - /elem.1.def.10
+    - /I.def.10
 figure:
   image:
   alt:

@@ -1,10 +1,11 @@
 ---
-title:  Common Notion 1.2
+title:  Common Notion I.2
 subtitle: 
 author:
 routes:
   aliases:
     - /elem.1.c.n.2
+    - /I.cn.2
 collection:
   name: elements
   showCount: true
@@ -23,7 +24,7 @@ taxonomy:
     - 
 ---
 
-<p>If equals be added to equals, the wholes are equal.</p>
+If equals be added to equals, the wholes are equal.
 
 ===
 

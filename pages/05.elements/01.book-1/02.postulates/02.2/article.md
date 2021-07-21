@@ -1,10 +1,11 @@
 ---
-title:  Postulate 1.2
+title:  Postulate I.2
 subtitle: Finite Straight Line
 author:
 routes:
   aliases:
     - /elem.1.post.2
+    - /I.post.2
 figure:
   image:
   alt:

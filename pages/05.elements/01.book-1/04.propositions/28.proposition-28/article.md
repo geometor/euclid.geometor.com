@@ -1,10 +1,11 @@
 ---
-title:  Proposition 1.28
+title:  Proposition I.28
 subtitle:
 author:
 routes:
   aliases:
     - /elem.1.28
+    - /I.28
 taxonomy:
   tag:
   category:
@@ -18,15 +19,15 @@ For let the straight line `EF` falling on the two straight lines `AB`, `CD` make
 
 I say that `AB` is parallel to `CD`.
 
-For, since the angle `EGB` is equal to the angle `GHD`, while the angle `EGB` is equal to the angle `AGH`, [1.15]  the angle `AGH` is also equal to the angle `GHD`; and they are alternate; 
+For, since the angle `EGB` is equal to the angle `GHD`, while the angle `EGB` is equal to the angle `AGH`, [I.15]  the angle `AGH` is also equal to the angle `GHD`; and they are alternate; 
 
-- therefore `AB` is parallel to `CD`. [1.27]
+- therefore `AB` is parallel to `CD`. [I.27]
 
-Again, since the angles `BGH`, `GHD` are equal to two right angles, and the angles `AGH`, `BGH` are also equal to two right angles, [1.13] the angles `AGH`, `BGH` are equal to the angles `BGH`, `GHD`.
+Again, since the angles `BGH`, `GHD` are equal to two right angles, and the angles `AGH`, `BGH` are also equal to two right angles, [I.13] the angles `AGH`, `BGH` are equal to the angles `BGH`, `GHD`.
 
 Let the angle `BGH` be subtracted from each; therefore the remaining angle `AGH` is equal to the remaining angle `GHD`; and they are alternate; 
 
-- therefore `AB` is parallel to `CD`. [1.27]
+- therefore `AB` is parallel to `CD`. [I.27]
 
 Therefore etc.
 
@@ -34,6 +35,6 @@ Therefore etc.
 
 ## References
 
-[1.13]: /elem.1.13 "Book 1 - Proposition 13"
-[1.15]: /elem.1.15 "Book 1 - Proposition 15"
-[1.27]: /elem.1.27 "Book 1 - Proposition 27"
+[I.13]: /elem.1.13 "Book 1 - Proposition 13"
+[I.15]: /elem.1.15 "Book 1 - Proposition 15"
+[I.27]: /elem.1.27 "Book 1 - Proposition 27"

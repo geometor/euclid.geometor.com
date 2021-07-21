@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.6
+title:  Definition I.6
 subtitle: Extremities of a Surface
 author:
 routes:
   aliases:
     - /elem.1.def.6
+    - /I.def.6
 figure:
   image:
   alt:

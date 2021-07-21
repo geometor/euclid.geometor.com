@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.9
+title:  Definition I.9
 subtitle: Rectilineal Angle
 author:
 routes:
   aliases:
     - /elem.1.def.9
+    - /I.def.9
 figure:
   image:
   alt:

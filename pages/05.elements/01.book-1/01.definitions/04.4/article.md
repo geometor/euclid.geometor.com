@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.4
+title:  Definition I.4
 subtitle: Straight Line
 author:
 routes:
   aliases:
     - /elem.1.def.4
+    - /I.def.4
 figure:
   image:
   alt:

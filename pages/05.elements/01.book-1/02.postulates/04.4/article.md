@@ -1,10 +1,11 @@
 ---
-title:  Postulate 1.4
+title:  Postulate I.4
 subtitle: Right Angles are Equal
 author:
 routes:
   aliases:
     - /elem.1.post.4
+    - /I.post.4
 figure:
   image:
   alt:

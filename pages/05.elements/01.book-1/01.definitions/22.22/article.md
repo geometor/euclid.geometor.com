@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.22
+title:  Definition I.22
 subtitle: Quadrilateral Figures
 author:
 routes:
   aliases:
     - /elem.1.def.22
+    - /I.def.22
 figure:
   image:
   alt:

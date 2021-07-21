@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.17
+title:  Definition I.17
 subtitle: Diameter
 author:
 routes:
   aliases:
     - /elem.1.def.17
+    - /I.def.17
 figure:
   image:
   alt:

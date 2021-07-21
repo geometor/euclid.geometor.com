@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.7
+title:  Definition I.7
 subtitle: Plane Surface
 author:
 routes:
   aliases:
     - /elem.1.def.7
+    - /I.def.7
 figure:
   image:
   alt:

@@ -1,10 +1,11 @@
 ---
-title:  Proposition 1.25
+title:  Proposition I.25
 subtitle:
 author:
 routes:
   aliases:
     - /elem.1.25
+    - /I.25
 taxonomy:
   tag:
   category:
@@ -20,11 +21,11 @@ I say that the angle `BAC` is also greater than the angle `EDF`.
 
 For, if not, it is either equal to it or less.
 
-Now the angle `BAC` is not equal to the angle `EDF`; for then the base `BC` would also have been equal to the base `EF`, [1.4] 
+Now the angle `BAC` is not equal to the angle `EDF`; for then the base `BC` would also have been equal to the base `EF`, [I.4] 
 
 - but it is not; therefore the angle `BAC` is not equal to the angle `EDF`.
 
-Neither again is the angle `BAC` less than the angle `EDF`; for then the base `BC` would also have been less than the base `EF`, [1.24] 
+Neither again is the angle `BAC` less than the angle `EDF`; for then the base `BC` would also have been less than the base `EF`, [I.24] 
 
 - but it is not; therefore the angle `BAC` is not less than the angle `EDF`.
 
@@ -38,5 +39,5 @@ Therefore etc.
 
 ## References
 
-[1.4]: /elem.1.4 "Book 1 - Proposition 4"
-[1.24]: /elem.1.24 "Book 1 - Proposition 24"
+[I.4]: /elem.1.4 "Book 1 - Proposition 4"
+[I.24]: /elem.1.24 "Book 1 - Proposition 24"

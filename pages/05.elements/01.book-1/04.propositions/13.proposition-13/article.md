@@ -1,10 +1,11 @@
 ---
-title:  Proposition 1.13
+title:  Proposition I.13
 subtitle:
 author:
 routes:
   aliases:
     - /elem.1.13
+    - /I.13
 taxonomy:
   tag:
   category:
@@ -29,7 +30,7 @@ But, if not, let `BE` be drawn from the point `B` at right angles to `CD`; [<a h
 
 Then, since the angle `CBE` is equal to the two angles `CBA`, `ABE`, 
 
-- let the angle `EBD` be added to each; [^1] therefore the angles `CBE`, `EBD` are equal to the three angles `CBA`, `ABE`, `EBD`. [<title>C. N</title>. 2]
+- let the angle `EBD` be added to each; [^I.13:1] therefore the angles `CBE`, `EBD` are equal to the three angles `CBA`, `ABE`, `EBD`. [<title>C. N</title>. 2]
 
 Again, since the angle `DBA` is equal to the two angles `DBE`, `EBA`, 
 
@@ -47,6 +48,6 @@ Therefore etc.
 
 - Q. E. D.
 
-[^1]: let the angle EBD be added to each,
+[^I.13:1]: let the angle EBD be added to each,
     literally <quote>let the angle `EBD` be added (so as to be) common,</quote> <foreign lang="greek">κοινὴ προσκείσθω ἡ ὑπὸ ΕΒΔ</foreign>. Similarly <foreign lang="greek">κοινὴ ἀφηρήσθω</foreign> is used of subtracting a straight line or angle from each of two others. <quote>Let the common angle `EBD` be added</quote> is clearly an inaccurate translation, for the angle is not common before it is added, i.e. the <foreign lang="greek">κοινὴ</foreign> is proleptic. <quote>Let the common angle be <em>subtracted</em></quote> as a translation of <foreign lang="greek">κοινὴ ἀφηρήσθω</foreign> would be less unsatisfactory, it is true, but, as it is desirable to use corresponding words when translating the two expressions, it seems hopeless to attempt to keep the word <quote>common,</quote> and I have therefore said <quote>to each</quote> and <quote>from each</quote> simply.
 

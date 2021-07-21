@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.21
+title:  Definition I.21
 subtitle: Right Triangle
 author:
 routes:
   aliases:
     - /elem.1.def.21
+    - /I.def.21
 figure:
   image:
   alt:

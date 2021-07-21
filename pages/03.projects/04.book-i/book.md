@@ -1,6 +1,6 @@
 ---
-title: Publishing
-subtitle: template for productions
+title: Book I
+subtitle: Euclid's Elements
 book:
     source: /elements/book-1
 content:
@@ -13,6 +13,6 @@ gallery:
 mermaid: true
 ---
 
-
+Based on the works of Thomas Little Heath
 
 ===

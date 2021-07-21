@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.18
+title:  Definition I.18
 subtitle: Semicircle
 author:
 routes:
   aliases:
     - /elem.1.def.18
+    - /I.def.18
 figure:
   image:
   alt:

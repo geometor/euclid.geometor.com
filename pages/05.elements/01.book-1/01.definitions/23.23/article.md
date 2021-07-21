@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.23
+title:  Definition I.23
 subtitle: Parallel Straight Lines
 author:
 routes:
   aliases:
     - /elem.1.def.23
+    - /I.def.23
 figure:
   image:
   alt:

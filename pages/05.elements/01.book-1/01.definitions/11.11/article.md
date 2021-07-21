@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.11
+title:  Definition I.11
 subtitle: Obtuse Angle
 author:
 routes:
   aliases:
     - /elem.1.def.11
+    - /I.def.11
 figure:
   image:
   alt:

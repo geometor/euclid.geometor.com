@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.20
+title:  Definition I.20
 subtitle: Trilateral Figures
 author:
 routes:
   aliases:
     - /elem.1.def.20
+    - /I.def.20
 figure:
   image:
   alt:

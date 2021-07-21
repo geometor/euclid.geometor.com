@@ -1,10 +1,11 @@
 ---
-title:  Proposition 1.6
+title:  Proposition I.6
 subtitle:
 author:
 routes:
   aliases:
     - /elem.1.6
+    - /I.6
 taxonomy:
   tag:
   category:

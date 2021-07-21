@@ -1,16 +1,17 @@
 ---
-title:  Proposition 1.26
+title:  Proposition I.26
 subtitle:
 author:
 routes:
   aliases:
     - /elem.1.26
+    - /I.26
 taxonomy:
   tag:
   category:
 ---
 
-If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, [^1] or that subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides and the remaining angle to the remaining angle. 
+If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, [^I.26:1] or that subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides and the remaining angle to the remaining angle. 
 
 ===
 
@@ -24,15 +25,15 @@ Let `AB` be greater, and let `BG` be made equal to `DE`; and let `GC` be joined.
 
 Then, since `BG` is equal to `DE`, and `BC` to `EF`, the two sides `GB`, `BC` are equal to the two sides `DE`, `EF` respectively; and the angle `GBC` is equal to the angle `DEF`;
 
-- therefore the base `GC` is equal to the base `DF`, and the triangle `GBC` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [1.4] therefore the angle `GCB` is equal to the angle `DFE`.
+- therefore the base `GC` is equal to the base `DF`, and the triangle `GBC` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [I.4] therefore the angle `GCB` is equal to the angle `DFE`.
 
-But the angle `DFE` is by hypothesis equal to the angle `BCA`; [^2]
+But the angle `DFE` is by hypothesis equal to the angle `BCA`; [^I.26:2]
 
 - therefore the angle `BCG` is equal to the angle `BCA`, the less to the greater: which is impossible. Therefore `AB` is not unequal to `DE`, and is therefore equal to it.
 
 But `BC` is also equal to `EF`; 
 
-- therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and the angle `ABC` is equal to the angle `DEF`; therefore the base `AC` is equal to the base `DF`, and the remaining angle `BAC` is equal to the remaining angle `EDF`. [1.4]
+- therefore the two sides `AB`, `BC` are equal to the two sides `DE`, `EF` respectively, and the angle `ABC` is equal to the angle `DEF`; therefore the base `AC` is equal to the base `DF`, and the remaining angle `BAC` is equal to the remaining angle `EDF`. [I.4]
 
 Again, let sides subtending equal angles be equal, as `AB` to `DE`;
 
@@ -46,13 +47,13 @@ Then, since `BH` is equal to `EF`, and `AB` to `DE`, the two sides `AB`, `BH` ar
 
 - therefore the base `AH` is equal to the base `DF`,
 
-and the triangle `ABH` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [1.4]
+and the triangle `ABH` is equal to the triangle `DEF`, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [I.4]
 
 - therefore the angle `BHA` is equal to the angle `EFD`.
 
 But the angle `EFD` is equal to the angle `BCA`; therefore, in the triangle `AHC`, the exterior angle `BHA` is equal to the interior and opposite angle `BCA`:
 
-- which is impossible. [1.16]
+- which is impossible. [I.16]
 
 Therefore `BC` is not unequal to `EF`,
 
@@ -62,7 +63,7 @@ But `AB` is also equal to `DE`; therefore the two sides `AB`, `BC` are equal to 
 
 - therefore the base `AC` is equal to the base `DF`, the triangle `ABC` equal to the triangle `DEF`,
 
-and the remaining angle `BAC` equal to the remaining angle `EDF`. [1.4]
+and the remaining angle `BAC` equal to the remaining angle `EDF`. [I.4]
 
 Therefore etc.
 
@@ -70,15 +71,15 @@ Therefore etc.
 
 ## References
 
-[1.4]: /elem.1.4 "Book 1 - Proposition 4"
-[1.16]: /elem.1.16 "Book 1 - Proposition 16"
+[I.4]: /elem.1.4 "Book 1 - Proposition 4"
+[I.16]: /elem.1.16 "Book 1 - Proposition 16"
 
 ## Footnotes
 
-[^1]: the side adjoining the equal angles,
+[^I.26:1]: the side adjoining the equal angles,
     <foreign lang="greek">πλευρὰν τὴν πρὸς ταῖς ἴσαις γωνίαις</foreign>.
 
-[^2]: is by hypothesis equal.
+[^I.26:2]: is by hypothesis equal.
     <foreign lang="greek">ὑπόκειται ἴση</foreign>, according to the elegant Greek idiom. <foreign lang="greek">ὑπόκειμαι</foreign> is used for the passive of <foreign lang="greek">ὑποτίθημι</foreign>, as <foreign lang="greek">κεῖμαι</foreign> is used for the passive of <foreign lang="greek">τίθημι,</foreign> and so with the other compounds. Cf. <foreign lang="greek">προσκεῖσθαι</foreign>, <quote>to be added.</quote>
 
 

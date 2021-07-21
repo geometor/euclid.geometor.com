@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.19
+title:  Definition I.19
 subtitle: Rectilineal Figures
 author:
 routes:
   aliases:
     - /elem.1.def.19
+    - /I.def.19
 figure:
   image:
   alt:

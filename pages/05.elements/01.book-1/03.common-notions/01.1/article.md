@@ -1,10 +1,11 @@
 ---
-title:  Common Notion 1.1
+title:  Common Notion I.1
 subtitle: 
 author:
 routes:
   aliases:
     - /elem.1.c.n.1
+    - /I.cn.1
 collection:
   name: elements
   showCount: true
@@ -23,7 +24,7 @@ taxonomy:
     - 
 ---
 
-<p>Things which are equal to the same thing are also equal to one another.</p>
+Things which are equal to the same thing are also equal to one another.
 
 ===
 

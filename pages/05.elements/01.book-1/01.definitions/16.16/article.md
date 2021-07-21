@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.16
+title:  Definition I.16
 subtitle: Center
 author:
 routes:
   aliases:
     - /elem.1.def.16
+    - /I.def.16
 figure:
   image:
   alt:

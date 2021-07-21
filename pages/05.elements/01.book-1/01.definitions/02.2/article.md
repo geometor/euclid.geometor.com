@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.2
+title:  Definition I.2
 subtitle: Line
 author:
 routes:
   aliases:
     - /elem.1.def.2
+    - /I.def.2
 figure:
   image:
   alt:

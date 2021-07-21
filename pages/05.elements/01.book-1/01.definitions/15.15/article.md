@@ -1,10 +1,11 @@
 ---
-title:  Definition 1.15
+title:  Definition I.15
 subtitle: Circle
 author:
 routes:
   aliases:
     - /elem.1.def.15
+    - /I.def.15
 figure:
   image:
   alt:

@@ -1,10 +1,11 @@
 ---
-title:  Proposition 1.23
+title:  Proposition I.23
 subtitle: 
 author:
 routes:
   aliases:
     - /elem.1.23
+    - /I.23
 taxonomy:
   tag:
   category:
@@ -22,7 +23,7 @@ On the straight lines `CD`, `CE` respectively let the points `D`, `E` be taken a
 
 Then, since the two sides `DC`, `CE` are equal to the two sides `FA`, `AG` respectively, 
 
-- and the base `DE` is equal to the base `FG`, the angle `DCE` is equal to the angle `FAG`. [1.8]
+- and the base `DE` is equal to the base `FG`, the angle `DCE` is equal to the angle `FAG`. [I.8]
 
 Therefore on the given straight line `AB`, and at the point `A` on it, the rectilineal angle `FAG` has been constructed equal to the given rectilineal angle `DCE`.
 
@@ -30,4 +31,4 @@ Therefore on the given straight line `AB`, and at the point `A` on it, the recti
 
 ## References
 
-[1.8]: /elem.1.8 "Book 1 - Proposition 8"
+[I.8]: /elem.1.8 "Book 1 - Proposition 8"

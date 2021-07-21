@@ -1,10 +1,11 @@
 ---
-title:  Proposition 1.48
+title:  Proposition I.48
 subtitle:
 author:
 routes:
   aliases:
     - /elem.1.48
+    - /I.48
 taxonomy:
   tag:
   category:
@@ -26,7 +27,7 @@ Let the square on `AC` be added to each;
 
 - therefore the squares on `DA`, `AC` are equal to the squares on `BA`, `AC`.
 
-But the square on `DC` is equal to the squares on `DA`, `AC`, for the angle `DAC` is right; [1.47] and the square on `BC` is equal to the squares on `BA`, `AC`, for this is the hypothesis;
+But the square on `DC` is equal to the squares on `DA`, `AC`, for the angle `DAC` is right; [I.47] and the square on `BC` is equal to the squares on `BA`, `AC`, for this is the hypothesis;
 
 - therefore the square on `DC` is equal to the square on `BC`, so that the side `DC` is also equal to `BC`.
 
@@ -36,7 +37,7 @@ And, since `DA` is equal to `AB`, and `AC` is common,
 
 and the base `DC` is equal to the base `BC`;
 
-- therefore the angle `DAC` is equal to the angle `BAC`. [1.8]
+- therefore the angle `DAC` is equal to the angle `BAC`. [I.8]
 
 But the angle `DAC` is right;
 
@@ -49,5 +50,5 @@ Therefore etc.
 ## References
 
 
-[1.8]: /elem.1.8 "Book 1 - Proposition 8"
-[1.47]: /elem.1.47 "Book 1 - Proposition 47"
+[I.8]: /elem.1.8 "Book 1 - Proposition 8"
+[I.47]: /elem.1.47 "Book 1 - Proposition 47"

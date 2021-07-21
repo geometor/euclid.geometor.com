@@ -1,10 +1,11 @@
 ---
-title:  Common Notion 1.4
+title:  Common Notion I.4
 subtitle: 
 author:
 routes:
   aliases:
     - /elem.1.c.n.4
+    - /I.cn.4
 collection:
   name: elements
   showCount: true
@@ -23,8 +24,7 @@ taxonomy:
     - 
 ---
 
-<p>[7] Things which coincide with one another are equal to one another.</p>
+Things which coincide with one another are equal to one another.
 
 ===
 
-<p>[7] Things which coincide with one another are equal to one another.</p>

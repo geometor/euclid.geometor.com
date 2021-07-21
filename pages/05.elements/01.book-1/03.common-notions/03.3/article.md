@@ -1,10 +1,11 @@
 ---
-title:  Common Notion 1.3
+title:  Common Notion I.3
 subtitle: 
 author:
 routes:
   aliases:
     - /elem.1.c.n.3
+    - /I.cn.3
 collection:
   name: elements
   showCount: true
@@ -23,7 +24,7 @@ taxonomy:
     - 
 ---
 
-<p>If equals be subtracted from equals, the remainders are equal.</p>
+If equals be subtracted from equals, the remainders are equal.
 
 ===
 
