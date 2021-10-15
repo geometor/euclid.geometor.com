@@ -21,6 +21,7 @@ article {
 
   > header {
     text-align: center;
+    width: 100%;
 
     > h1, > h2 {
       font-weight: 400;
@@ -46,7 +47,7 @@ article {
       font-style: italic;
 
       &::after {
-        content: '•';
+        // content: '•';
       }
 
       > * {
