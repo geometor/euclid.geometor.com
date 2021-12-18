@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.36
-subtitle:
+subtitle: parallelogram equality
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallelograms
 ---
 
 Parallelograms which are on equal bases and in the same parallels are equal to one another.

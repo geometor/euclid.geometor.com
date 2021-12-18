@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.34
-subtitle:
+subtitle: parallelogram angles
 author:
 routes:
   aliases:
@@ -9,9 +9,11 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallelograms
 ---
 
-In parallelogrammic areasi [^I.34:1] the opposite sides and angles are equal to one another, and the diameter bisects the areas.
+In parallelogrammic areas [^I.34:1] the opposite sides and angles are equal to one another, and the diameter bisects the areas.
 
 ===
 

@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.7
-subtitle:
+subtitle: the sides of a triangle are uniquely related to the position of the vertexes
 author:
 routes:
   aliases:
@@ -9,8 +9,8 @@ routes:
 taxonomy:
     tag:
     category:
-gallery:
-    show: true
+      - proof
+      - triangles
 ---
 
 Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each to that which has the same extremity with it.

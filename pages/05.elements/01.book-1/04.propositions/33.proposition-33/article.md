@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.33
-subtitle:
+subtitle: similar angles on parallels
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallels
 ---
 
 The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) [^I.33:1]  are themselves also equal and parallel.

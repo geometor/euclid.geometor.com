@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.24
-subtitle: 
+subtitle: similar triangles
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
 ---
 
 If two triangles have the two sides equal to two sides respectively, but have the one of the angles contained by the equal straight lines greater than the other, they will also have the base greater than the base. 

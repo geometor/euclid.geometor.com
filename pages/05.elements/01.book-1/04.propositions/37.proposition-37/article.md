@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.37
-subtitle:
+subtitle: triangles in parallels equality
 author:
 routes:
   aliases:
@@ -9,6 +9,9 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
+    - parallels
 ---
 
 Triangles which are on the same base and in the same parallels are equal to one another.

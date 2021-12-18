@@ -9,8 +9,8 @@ routes:
 taxonomy:
   tag:
     - proposition
-    - construction
   category:
+    - construction
     - lines
 mermaid: true
 ---

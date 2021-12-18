@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.23
-subtitle: 
+subtitle: construct an angle equal to another on a given segment
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - triangles
 ---
 
 On a given straight line and at a point on it to construct a rectilineal angle equal to a given rectilineal angle.

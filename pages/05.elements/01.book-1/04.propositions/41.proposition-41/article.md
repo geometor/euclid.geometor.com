@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.41
-subtitle:
+subtitle: parallelograms and triangles
 author:
 routes:
   aliases:
@@ -9,6 +9,9 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallelograms
+    - triangles
 ---
 
 If a parallelogram have the same base with a triangle and be in the same parallels, the parallelogram is double of the triangle.

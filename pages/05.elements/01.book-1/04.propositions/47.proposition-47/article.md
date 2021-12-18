@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.47
-subtitle:
+subtitle: the squares on the sides of a right triangle are equal to the square on the hypotenuse
 author:
 routes:
   aliases:
@@ -9,8 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
-gallery:
-  show: true
+    - proof
+    - triangles
 ---
 
 In right-angled triangles the square on [^I.47:1] the side subtending the right angle [^I.47:2] is equal to the squares on the sides containing the right angle.

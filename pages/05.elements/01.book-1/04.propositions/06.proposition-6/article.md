@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.6
-subtitle:
+subtitle: when two angles of a triangle are equal, so are the subtended sides
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
 ---
 
 If in a triangle two angles be equal to one another, the sides which subtend the equal angles will also be equal to one another.

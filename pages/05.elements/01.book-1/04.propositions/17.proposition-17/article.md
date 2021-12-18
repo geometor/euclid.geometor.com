@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.17
-subtitle:
+subtitle: the sum of any two angles of a triangle is less than two right angles
 author:
 routes:
   aliases:
@@ -9,6 +9,9 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
+    - angles
 ---
 
 In any triangle two angles taken together in any manner [^I.17:1] are less than two right angles.

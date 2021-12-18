@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.44
-subtitle:
+subtitle: construct a parallelogram on a segment equal to a given triangle
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - parallelogram
 ---
 
 To a given straight line to apply, in a given rectilineal angle, a parallelogram equal to a given triangle.

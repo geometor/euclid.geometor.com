@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.9
-subtitle: 
+subtitle: bisect an angle
 author:
 routes:
   aliases:
@@ -9,6 +9,9 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - angle
+    - bisect
 ---
 
 To bisect a given rectilineal angle.

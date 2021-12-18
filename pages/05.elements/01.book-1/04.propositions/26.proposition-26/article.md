@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.26
-subtitle:
+subtitle: similar triangles
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
 ---
 
 If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, [^I.26:1] or that subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides and the remaining angle to the remaining angle. 

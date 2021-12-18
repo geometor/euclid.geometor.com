@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.45
-subtitle:
+subtitle: construct a parallelogram equal to a given polygon on a given angle
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - parallelograms
 ---
 
 To construct, in a given rectilineal angle, a parallelogram equal to a given rectilineal figure.

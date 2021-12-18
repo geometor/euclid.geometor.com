@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.18
-subtitle:
+subtitle: the greater side of a triangle subtends the greater angles
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
 ---
 
 In any triangle the greater side subtends the greater angle.

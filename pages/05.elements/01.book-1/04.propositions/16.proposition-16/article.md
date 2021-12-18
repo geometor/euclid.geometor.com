@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.16
-subtitle:
+subtitle: an exterior angle of a triangle is greater than the either the interior or opposite angles
 author:
 routes:
   aliases:
@@ -9,6 +9,9 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - angles
+    - triangles
 ---
 
 In any triangle, if one of the sides be produced, the exterior angle is greater than either of the interior and opposite angles.

@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.8
-subtitle:
+subtitle: triangles with equal sides have equal angles
 author:
 routes:
   aliases:
@@ -9,8 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
-gallery:
-    show: true
+    - proof
+    - triangles
 ---
 
 If two triangles have the two sides equal to two sides respectively, and have also the base equal to the base, they will also have the angles equal which are contained by the equal straight lines. 

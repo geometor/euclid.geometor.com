@@ -9,6 +9,7 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
     - lines
 mermaid: true
 ---

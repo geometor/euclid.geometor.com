@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.13
-subtitle:
+subtitle: the angles created from intersecting lines are equal two right angles (on one side)
 author:
 routes:
   aliases:
@@ -9,6 +9,9 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - angles
+    - lines
 ---
 
 If a straight line set up on a straight line make angles, it will make either two right angles or angles equal to two right angles.

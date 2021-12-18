@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.30
-subtitle: 
+subtitle: parallels are parallel to each other
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallels
 ---
 
 Straight lines parallel to the same straight line are also parallel to one another.

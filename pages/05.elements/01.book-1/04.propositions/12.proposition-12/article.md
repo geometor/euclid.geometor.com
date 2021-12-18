@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.12
-subtitle:
+subtitle: construct a perpendicular from a point not on a line
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - perpendicular
 ---
 
 To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line.[^I.12:1]

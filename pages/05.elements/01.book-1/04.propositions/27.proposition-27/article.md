@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.27
-subtitle:
+subtitle: the angles produced from a line intersecting parallel lines are equal
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallel
 ---
 
 If a straight line falling on two straight lines [^I.27:1] make the alternate angles [^I.27:2] equal to one another, the straight lines will be parallel to one another.

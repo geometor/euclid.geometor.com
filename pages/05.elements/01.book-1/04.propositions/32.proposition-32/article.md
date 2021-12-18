@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.32
-subtitle:
+subtitle: similar triangles
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
 ---
 
 In any triangle, if one of the sides be produced, the exterior angle is equal to the two interior and opposite angles, and the three interior angles of the triangle are equal to two right angles.

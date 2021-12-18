@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.48
-subtitle:
+subtitle: a triangle is right if the sum of squares of two sides equals the square on the remaining
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
 ---
 
 If in a triangle the square on one of the sides be equal to the squares on the remaining two sides of the triangle, the angle contained by the remaining two sides of the triangle is right.

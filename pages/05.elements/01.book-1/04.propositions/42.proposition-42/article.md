@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.42
-subtitle:
+subtitle: construct a parallelogram equal to a given triangle on a given angle
 author:
 routes:
   aliases:
@@ -9,6 +9,9 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - parallelograms
+    - triangles
 ---
 
 To construct, in a given rectilineal angle, a parallelogram equal to a given triangle.

@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.11
-subtitle:
+subtitle: construct a perpendicular from a point on a line
 author:
 routes:
 aliases:
@@ -9,7 +9,9 @@ aliases:
 taxonomy:
     tag:
     category:
-mermaid: true;
+      - construction
+      - perpendicular
+mermaid: true
 ---
 
 To draw a straight line at right angles to a given straight line from a given point on it.

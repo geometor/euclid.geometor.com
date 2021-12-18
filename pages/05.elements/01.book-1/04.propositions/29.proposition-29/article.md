@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.29
-subtitle:
+subtitle: parallel angles
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallels
 ---
 
 A straight line falling on parallel straight lines makes the alternate angles equal to one another, the exterior angle equal to the interior and opposite angle, and the interior angles on the same side equal to two right angles. 

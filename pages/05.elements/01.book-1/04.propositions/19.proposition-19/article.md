@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.19
-subtitle: 
+subtitle: the great angle of a triangle is subtended by the greater side
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangle
 ---
 
 In any triangle the greater angle is subtended by the greater side.

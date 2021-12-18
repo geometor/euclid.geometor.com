@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.15
-subtitle:
+subtitle: the opposing angles of intersecting lines are equal
 author:
 routes:
 aliases:
@@ -9,6 +9,9 @@ aliases:
 taxonomy:
     tag:
     category:
+      - proof
+      - angles
+      - lines
 ---
 
 If two straight lines cut one another, they make the vertical angles [^I.15:1] equal to one another.

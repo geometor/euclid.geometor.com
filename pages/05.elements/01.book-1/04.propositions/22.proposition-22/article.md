@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.22
-subtitle:
+subtitle: construct a triangle from three segments
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - triangles
 ---
 
 Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary [^I.22:2] that two of the straight lines taken together in any manner should be greater than the remaining one. [I.20] [^I.22:1] [^I.22:3]

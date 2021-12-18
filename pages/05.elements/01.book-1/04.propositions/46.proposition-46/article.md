@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.46
-subtitle:
+subtitle: construct a square
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - square
 ---
 
 On a given straight line to describe a square.

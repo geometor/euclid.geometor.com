@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.10
-subtitle:
+subtitle: bisect a segment
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - midpoint
 ---
 
 To bisect a given finite straight line.

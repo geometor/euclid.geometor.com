@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.39
-subtitle:
+subtitle: triangles and parallels
 author:
 routes:
 aliases:
@@ -9,6 +9,9 @@ aliases:
 taxonomy:
     tag:
     category:
+      - proof
+      - triangles
+      - parallels
 ---
 
 Equal triangles which are on the same base and on the same side are also in the same parallels.

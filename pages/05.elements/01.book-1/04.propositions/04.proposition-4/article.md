@@ -9,6 +9,7 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
     - triangles
 mermaid: true
 ---

@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.31
-subtitle:
+subtitle: construct a parallel to a line through a point
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - construction
+    - parallels
 ---
 
 Through a given point to draw a straight line parallel to a given straight line.

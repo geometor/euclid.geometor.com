@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.20
-subtitle:
+subtitle: any two sides of a triangle are greater than the remaining side
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - triangles
 ---
 
 In any triangle two sides taken together in any manner are greater than the remaining one. [^I.20:1]

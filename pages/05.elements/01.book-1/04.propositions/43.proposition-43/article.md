@@ -1,6 +1,6 @@
 ---
 title:  Proposition I.43
-subtitle:
+subtitle: equality of parallelogram complements
 author:
 routes:
   aliases:
@@ -9,6 +9,8 @@ routes:
 taxonomy:
   tag:
   category:
+    - proof
+    - parallelograms
 ---
 
 In any parallelogram the complements [^I.43:1]  of the parallelograms about the diameter are equal to one another.
