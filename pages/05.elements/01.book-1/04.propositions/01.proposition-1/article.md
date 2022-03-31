@@ -29,9 +29,14 @@ On a given finite straight line [^I.1:1] to construct an equilateral triangle.
 
 Let `AB` be the given finite straight line.[^I.1:2]
 
-Thus it is required to construct an equilateral triangle on the straight line `AB`. 
+Thus it is required to construct an equilateral triangle on the straight line
+`AB`. 
 
-With centre `A` and distance `AB` let the circle `BCD` be described[^I.1:3]; [I.post.3] again, with centre `B` and distance `BA` let the circle `ACE` be described; [I.post.3] and from the point `C`[^I.1:4], in which the circles cut one another, to the points `A`, `B` let the straight lines `CA`, `CB` be joined. [I.post.1] 
+With centre `A` and distance `AB` let the circle `BCD` be described[^I.1:3];
+[I.post.3] again, with centre `B` and distance `BA` let the circle `ACE` be
+described; [I.post.3] and from the point `C`[^I.1:4], in which the circles cut
+one another, to the points `A`, `B` let the straight lines `CA`, `CB` be joined.
+[I.post.1] 
 
 Now, since the point `A` is the centre of the circle `CDB`, 
 - `AC` is equal to `AB`. [I.def.15]
@@ -39,14 +44,18 @@ Now, since the point `A` is the centre of the circle `CDB`,
 Again, since the point `B` is the centre of the circle `CAE`, 
 - `BC` is equal to `BA`. [I.def.15]
 
-But `CA` was also proved equal to `AB`; therefore each of the straight lines `CA`, `CB` is equal to `AB`.
+But `CA` was also proved equal to `AB`; therefore each of the straight lines
+`CA`, `CB` is equal to `AB`.
 
-And things which are equal to the same thing are also equal to one another; [I.c.n.1] 
+And things which are equal to the same thing are also equal to one another;
+[I.c.n.1] 
 - therefore `CA` is also equal to `CB`.
 
-Therefore the three straight lines `CA`, `AB`, `BC` are equal to one another.[^I.1:5]
+Therefore the three straight lines `CA`, `AB`, `BC` are equal to one
+another.[^I.1:5]
 
-Therefore the triangle `ABC` is equilateral; and it has been constructed on the given finite straight line `AB`.
+Therefore the triangle `ABC` is equilateral; and it has been constructed on the
+given finite straight line `AB`.
 
 
 - (Being) what it was required to do.
